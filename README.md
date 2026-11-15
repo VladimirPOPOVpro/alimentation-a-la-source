@@ -53928,3 +53928,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Calvados : Ifs, Ouistreham, Mézidon Vallée d'Auge, Hérouville-Saint-Clair et Lisieux éprouvées, cinq communes sur douze, zéro fiche publiée. Passe suivante : Calvados reprise à la commune suivante sans fiche par population (Bayeux, à vérifier avant d'en faire la commune de la passe) ; la règle 247 s'applique jusqu'à douze communes éprouvées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Vienne (86) reprise, Migné-Auxances sondée à la mairie et à la Chambre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; compteurs inchangés (en_cours 1, integree 6, refusee 6). Pas d'email à envoyer.
+
+**Classement, règles 41, 41.c, 41.e, 224 et 247.** Métropole seule, dénominateur national (68 952 941 habitants, outre-mer compris, règle 224), 1 304 fiches comptées sur le code postal. Réserve 41.c : la passe précédente visait le Calvados (Normandie), région exclue. La note de cette passe-là désignait Bayeux comme commune suivante du Calvados : c'est une contradiction avec la réserve 41.c, consignée ici, et la réserve a été appliquée. Nord en veille (règle 41.e). Oise (60) clôturée au titre de la règle 247 : les notes d'octobre et de novembre comptent au moins dix communes éprouvées, sans aucune publication (le total de trois communes donné par la note du 15 novembre est contradictoire avec elles, consigné ici ; la clôture tient dans les deux lectures au vu des pistes déjà écartées). Départements épuisés ou clos, gardés hors du tour : Haute-Garonne, Loire, Isère, Rhône, Seine-Saint-Denis, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine, Savoie, Haute-Corse, Seine-Maritime et autres départements de Normandie. Premier département éligible : **Vienne (86), déficit 3,30**, descente en cours.
+
+**Commune, descente (règle 247).** Poitiers, Châtellerault, Buxerolles, Chauvigny, Jaunay-Marigny, Saint-Benoît, Loudun, Vouneuil-sous-Biard et Naintré sont éprouvées ou fichées. Le point d'arrêt demandait de reprendre **Migné-Auxances (6 285 habitants)** par la mairie et la Chambre d'agriculture : c'est fait ici.
+
+**Ce qui a été lu.**
+- Registre des entreprises, commune de Migné-Auxances : une vingtaine d'entités actives, toutes associatives, administratives ou de services (mairie, clubs, centre socioculturel, une centrale photovoltaïque, un établissement d'aide à domicile). Aucun établissement de vente de produits de producteurs.
+- Registre Agence Bio, Vienne, relu lors de la passe précédente : trois opérateurs à vente aux particuliers, dont un GAEC immatriculé en 2026 et deux entrées sous noms de personnes physiques (écartées, règle 6, doute sur une personne).
+- Recherche web : un annuaire participatif de producteurs situe les fermes proposant du lait, des volailles, de l'agneau, des légumes ou des fruits à environ 15 km et au-delà, hors commune. Un annuaire recense deux marchés pour la commune, sans jour ni lieu confirmés par la ville ; aucune page du site officiel de la commune n'a pu être lue, et aucun guide de producteurs de la Vienne ne couvre la commune. Recherche de la Chambre d'agriculture et de Bienvenue à la Ferme pour la commune : rien de daté ni de localisé.
+- Horaires et téléphone de la mairie : deux sources s'accordent sur la plage horaire mais pas sur le numéro. Hors fiche, sans effet sur la publication.
+
+**Pourquoi rien n'est publié.** Migné-Auxances ne rend aucun point de vente de producteurs vérifiable à une source indépendante, pas même un point d'appui. La règle 52 ne permet pas de compléter sur une limitrophe, et la règle 6 exclut les annuaires participatifs comme seule source.
+
+**Pistes non publiées (anonymes, Vienne).**
+- Migné-Auxances, marché hebdomadaire signalé par un annuaire participatif : **déblocage** = jours et lieu publiés par la commune ou la Chambre d'agriculture.
+- Migné-Auxances, GAEC maraîcher immatriculé en 2026 : **déblocage** = site, horaires ou point de vente confirmés par le GAEC lui-même ou par la commune.
+- Migné-Auxances, deux entrées du registre sous noms de personnes physiques : **écartées pour doute sur une personne**, ne se rouvrent pas.
+- Vouneuil-sous-Biard, marché de producteurs de la Chambre d'agriculture : **déblocage** = date de l'édition 2027 publiée par la Chambre ou la commune, puis liste des exposants producteurs.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Migné-Auxances (entreprises individuelles au nom d'une personne physique). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Horaires et téléphone de la mairie de Migné-Auxances : sources contradictoires, sans effet sur la publication. Réserve 41.c contre la note du Calvados (commune suivante Bayeux) : tranché dans le sens de la règle 41.c.
+
+**Point d'arrêt.** Vienne : dix communes éprouvées sur douze (Migné-Auxances reprise ici). Passe suivante : Vienne reste ouverte ; la commune suivante par population sans fiche est Naintré, déjà sondée à la passe précédente de ce jour, puis les communes de la règle 247 jusqu'à douze. Si la descente n'aboutit pas, le département suivant du classement prend la passe, avec la réserve 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
