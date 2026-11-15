@@ -53528,3 +53528,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Hérault : descente sous la borne de douze communes de la règle 247 ; la commune éprouvée la plus récente est Lattes. Passe suivante, hors Île-de-France (règle 41.c) : Ille-et-Vilaine (35), commune la plus peuplée sans fiche, **Rennes (230 890 habitants)**, en reprenant la règle 41.d ; ou Hérault à la commune suivante (Mauguio déjà éprouvée, puis Juvignac déjà fichée) si la descente reste ouverte à la passe d'après.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (nuit) : Nord reprise, Lambersart sondée ; aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle » ni « en cours » à traiter. Pas d'email à envoyer.
+
+**Calcul de déficit (règle 41).** Population par département (geo.api.gouv.fr, 34 969 communes), comparée aux 1 304 fiches publiées. Les trois premiers déficits sont ultramarins (974, 971, 972) : écartés par la règle 93 et la règle 177, le validateur refuse les coordonnées hors métropole. Parmi les départements métropolitains, le plus grand déficit est le **Nord (59)**, déficit d'environ 4,5 fiches, avec 45 fiches publiées. Le Nord n'est visé ni lors de la passe précédente (Seine-Saint-Denis) ni lors de celle d'avant (Hérault) : la réserve de la règle 41.c ne bloque pas.
+
+**Commune (règle 41.d).** Wattrelos et Marcq-en-Barœul restent sondées sans fiche publiable : la descente suit la note précédente et passe à **Lambersart (27 090 habitants)**, sans fiche.
+
+**Ce qui a été lu.**
+- Registre national de l'Agence Bio, Nord, dix-huit pages de cent (1 795 opérateurs), filtré sur Lambersart et Armentières. La plupart des opérateurs de Lambersart sont des grossistes, des distributeurs ou des entreprises sans vente aux particuliers. Trois ou quatre seulement déclarent une vente aux particuliers, et leur dénomination est soit une enseigne sans activité connue, soit un nom de personne physique : écartés (règle personne, aucun nom repris).
+- Recherche web : la Ville de Lambersart publie trois marchés par semaine (mardi, mercredi, samedi), sans indication de producteurs ; un panier bio est réservé aux bénéficiaires du CCAS (hors public général) ; l'annuaire Cylex cite des points de vente bio avenue de Dunkerque, sans confirmation de nature ni d'horaires ; les magasins de producteurs trouvés sur la carte Que Choisir sont tous hors de Lambersart (La Chapelle-d'Armentières, Villeneuve-d'Ascq, Bailleul, Wambrechies, Loos).
+
+**Pourquoi rien n'est publié.** Lambersart ne rend aucun commerce vérifié à la source indépendante : un marché municipal non spécialisé en producteurs, une enseigne bio non confirmée, et des entrées du registre écartées pour doute sur des personnes. Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Lambersart, marché du samedi au Bourg : **déblocage** = liste des exposants producteurs publiée par la Ville ou le marché.
+- Lambersart, magasin bio avenue de Dunkerque (point du registre au n° 260-264) : **déblocage** = nature du commerce et horaires confirmés par le commerce ou par une source officielle.
+- Lambersart, plusieurs inscriptions au registre sous un nom de personne physique, vente aux particuliers : **écartées pour doute sur une personne**, ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Trois, toutes à Lambersart (noms non repris).
+
+**Contradictions (règle 5).** Aucune contradiction tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante, Nord toujours en déficit mais hors de la règle de deux passes : reprendre Lambersart en ouvrant d'abord la liste des exposants du marché du Bourg sur le site de la Ville, puis Armentières (27 000 habitants environ, sans fiche) si Lambersart reste vide. La piste Lambersart en magasin bio est à confirmer auprès du commerce.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
