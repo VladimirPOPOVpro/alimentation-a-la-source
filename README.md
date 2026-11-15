@@ -53958,3 +53958,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Vienne : dix communes éprouvées sur douze (Migné-Auxances reprise ici). Passe suivante : Vienne reste ouverte ; la commune suivante par population sans fiche est Naintré, déjà sondée à la passe précédente de ce jour, puis les communes de la règle 247 jusqu'à douze. Si la descente n'aboutit pas, le département suivant du classement prend la passe, avec la réserve 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Haute-Marne (52) visée, Saint-Dizier et Chaumont sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (n° 13) reste sans action : doute sur une personne, rien n'est publié. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 224.** Métropole seule, dénominateur national (68 952 941 habitants), 1 304 fiches comptées sur le code postal. La passe précédente visait la Vienne (Nouvelle-Aquitaine) : cette région est exclue (règle 41.c). Écartés, clos ou épuisés, hors du tour : Nord (en veille), Haute-Garonne, Oise, Loire, Isère, Savoie, Calvados et Normandie, Vienne (passe précédente), Hérault, Seine-Saint-Denis, Rhône, Ille-et-Vilaine, Yvelines, Val-de-Marne, Seine-Maritime. Premier éligible : **Haute-Marne (52), déficit 3,18, aucune fiche publiée**.
+
+**Commune, règle 41.d.** Commune la plus peuplée sans fiche : Saint-Dizier (22 858 habitants), puis Chaumont (20 827 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Marne, première page de cent opérateurs relue : la plupart des entrées sont des boulangeries, des grandes surfaces, des grossistes ou des entrepôts, et plusieurs sont inscrites sous des noms de personnes physiques (écartées, règle 6, doute sur une personne, ne se rouvrent pas).
+- Saint-Dizier : deux points de vente de produits locaux sourcés (une boutique de produits locaux place Émile Mauguet, horaires et téléphone vérifiés sur la fiche Que Choisir et sur le site de l'enseigne ; un point de vente de producteurs rue Émile Giros, adresse seule, horaires et téléphone absents). Marché : deux sources contradictoires sur les jours et les horaires (une page touristique ancienne donne le mercredi, le jeudi, le vendredi et le samedi ; un annuaire participatif donne le jeudi et le dimanche, puis le mercredi et le samedi pour le centre-ville). Site de la commune non lisible par la recherche : aucun jour de marché confirmé par la Ville.
+- Chaumont : deux magasins de producteurs ou bio (une boutique de producteurs, une boutique bio) sourcés par la seule fiche Que Choisir, sans horaires ni site vérifiés. Marchés : aucun marché hebdomadaire ou mensuel actuel confirmé ; une annonce de marché de producteurs à Simone date de 2023. Les événements 2026 (Po'Pote, Foire Bio, Automnales) sont passés ou ponctuels.
+
+**Pourquoi rien n'est publié.** Saint-Dizier ne rend que deux points de vente vérifiables à une source indépendante, et aucun marché confirmé par la Ville ; Chaumont en rend deux, sans horaires vérifiés. Aucune des deux communes ne rend cinq commerces : la règle 41.d veut la descente à la commune suivante, et la règle 6 exclut les annuaires participatifs comme seule source. Rien n'est publié, pas de fiche partielle, pas de géocodage ni de photo prélevés.
+
+**Pistes non publiées (anonymes).**
+- Saint-Dizier (52), boutique de produits locaux (magasin) : **déblocage** = horaires et produits confirmés par la boutique elle-même ou par la Ville.
+- Saint-Dizier (52), point de vente de producteur, rue Émile Giros : **déblocage** = téléphone ou site publié par le point de vente, horaires confirmés.
+- Saint-Dizier (52), marché : **déblocage** = jours et lieu publiés par la Ville, ce qui tranche la contradiction entre les sources.
+- Chaumont (52), boutique de producteurs et boutique bio : **déblocage** = horaires et site vérifiés par une seconde source.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Haute-Marne (sous des noms de personnes physiques). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Jours et horaires du marché de Saint-Dizier : sources contradictoires, consignées, rien publié.
+
+**Point d'arrêt.** Haute-Marne ouverte pour une passe ultérieure, sur Saint-Dizier (mairie et site de la Ville pour le marché) puis Chaumont. Passe suivante : ne pas revenir sur la Haute-Marne avant une autre région, par la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
