@@ -54028,3 +54028,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Gironde (33) ouverte pour la passe suivante : Villenave-d'Ornon est épuisée (règle 297 réessayée), la descente reprend à La Teste-de-Buch (27 566).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 15 novembre 2026 (Alpes-de-Haute-Provence (04) reprise, Oraison sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Aucune réponse email à envoyer.
+
+**Secteur, règles 41, 41.c et 224.** Dénominateur national, 1 304 fiches comptées sur le code postal, métropole seule. Réserve 41.c : la passe précédente visait la Gironde (Nouvelle-Aquitaine), région exclue, y compris pour une reprise (règle 41.c, réserve sur la formule). Écartés, clos ou épuisés : ceux de la passe du 6 novembre, plus Gironde et Vienne. Premier département ouvert du classement : **Alpes-de-Haute-Provence (04)**, déficit ≈ 3,18, zéro fiche, descente déjà entamée.
+
+**Commune, règle 41.d et 247.** Manosque et Digne-les-Bains déjà éprouvées (deux communes sur douze). Commune suivante par population sans fiche : **Oraison (6 155 habitants)**.
+
+**Ce qui a été fait (Oraison).**
+- Registre Agence Bio, département 04, 800 opérateurs lus sur huit pages : aucun opérateur de vente aux particuliers identifiable à Oraison. Une entrée à Oraison est un grossiste ou un prestataire ; plusieurs entrées sont sous des noms de personnes physiques (écartées, règle 6, doute sur une personne, ne se rouvrent pas).
+- Recherche web (une passe, deux requêtes) : des fiches de l'office de tourisme Provence-Alpes-Côte d'Azur désignent quatre à cinq lieux à Oraison (une ferme en vente directe, une miellerie, une boutique bio et producteurs régionaux, une exploitation bio d'huile, un marché de centre-ville). Toutes ces pistes ne reposent que sur une seule source, souvent ancienne ; aucune horaire ni téléphone n'est recoupé par une seconde source indépendante ; le marché n'est pas daté par la Ville.
+- Aucun géocodage, aucune photo, aucune vérification de site web n'a été faite : le groupement de cinq fiches n'est pas atteint.
+
+**Pourquoi rien n'est publié.** Oraison ne rend aucun commerce vérifiable à deux sources indépendantes au-delà d'une ou deux pistes. La règle 52 interdit de compléter sur une commune limitrophe, et la règle 6 exclut une fiche d'annuaire participatif comme seule source. Rien n'est publié : pas de fiche partielle.
+
+**Pistes non publiées (anonymes, Alpes-de-Haute-Provence).**
+- Oraison (04), ferme en vente directe, avenue Abel Pin : **déblocage** = horaires et téléphone publiés par la ferme, ou seconde source.
+- Oraison (04), miellerie, impasse centre-village : **déblocage** = point de vente et horaires confirmés par une seconde source.
+- Oraison (04), boutique bio et produits régionaux, chemin de la commune : **déblocage** = horaires vérifiés par une seconde source ; fiche de l'office de tourisme à mettre à jour.
+- Oraison (04), exploitation bio (huile, plantes aromatiques), chemin du Vézier : **déblocage** = point de vente ou jours d'ouverture publiés par l'exploitation.
+- Oraison (04), marché de centre-ville : **déblocage** = jours et lieu publiés par la commune.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio, Oraison et communes voisines (sous des noms de personnes physiques). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Aucune contradiction publiée : rien n'a été retenu.
+
+**Points d'arrêt.** Alpes-de-Haute-Provence ouvert : descente à Oraison, éprouvée ; Oraison reste à reprendre sur les cinq pistes ci-dessus. Passe suivante : ne pas revenir en Provence-Alpes-Côte d'Azur tant qu'une autre région n'a pas été visée, par la règle 41.c, sauf si la passe ne vise plus le 04.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
