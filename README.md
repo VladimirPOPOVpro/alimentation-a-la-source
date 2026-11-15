@@ -53869,3 +53869,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Oise : Nogent-sur-Oise éprouvée, une commune sur douze. Passe suivante : Oise reprise à Nogent-sur-Oise (règle 247, descente à poursuivre) ; si le classement l'impose, la réserve 41.c s'applique à la région Hauts-de-France.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Oise (60) reprise, Senlis et Crépy-en-Valois sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; compteurs inchangés (en_cours 1, integree 6, refusee 6). Pas d'email à envoyer.
+
+**Classement, règles 41, 41.c, 41.e et 247.** Métropole seule, population par département (geo.api.gouv.fr, 34 969 communes), 1 304 fiches comptées sur le code postal. Le Nord (59), en tête du déficit, reste en veille (règle 41.e) ; la Haute-Garonne, le Rhône, l'Isère, la Loire et les autres départements épuisés ou clos sont écartés. Premier département éligible : **Oise (60), déficit ≈ 4,36**, 12 fiches, reprise de la descente commencée à Nogent-sur-Oise (règle 247). La réserve 41.c ne joue pas : la passe précédente visait le Calvados, en Normandie.
+
+**Communes éprouvées (règle 247, deuxième et troisième).**
+- **Senlis (60300, 15 157 habitants)**, deuxième commune de l'Oise sans fiche. Registre Agence Bio : trois opérateurs à vente aux particuliers dans la commune ou son rattachement postal (une brasserie artisanale, une boulangerie-pâtisserie bio, une biocoop établie à Chamant, commune voisine). Trois sources trouvées : une brasserie artisanale au siège de la rue des Jardiniers, bien documentée par des annuaires professionnels mais sans horaires de dégustation confirmés ; une biocoop à Chamant, dont l'horaire du lundi au vendredi est lu sur un annuaire seul ; une boulangerie bio dont les horaires ne viennent que d'un agrégateur. Marché hebdomadaire : **deux sources se contredisent sur les jours** (mercredi et samedi d'un côté, mardi et vendredi de l'autre, mêmes horaires 8h-12h et même lieu, place Omer Vallon). Règle 5 : le jour du marché n'est publié par aucune des deux versions, la fiche du marché est donc écartée. Pas de productrice ni de ferme vendant en direct identifiée à l'intérieur de la commune. Total vérifiable : **deux points** au plus, en dessous de quatre (règle 52) : la commune ne tient pas.
+- **Crépy-en-Valois (60800, 14 351 habitants)**, troisième commune. Un marché du mercredi et du samedi et un dimanche sur un parking de supermarché, selon un annuaire non daté ; un bulletin municipal de 2019 signale un marché réduit l'hiver. Aucune AMAP ni magasin bio spécialisé trouvé ; les répertoires bio renvoient vers des supermarchés. Producteurs en vente directe : un annuaire participatif les situe à 19-20 km, hors commune. **Zéro point vérifié** dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes n'atteint quatre points vérifiables, et la règle 52 n'autorise pas de compléter sur une limitrophe quand la commune calculée est en dessous de ce seuil ; la descente continue donc à la commune suivante. Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Senlis, brasserie artisanale (producteur, Oise) : **déblocage** = horaires de la boutique ou de la dégustation confirmés par le brasseur ou par un office de tourisme ; l'adresse de la rue des Jardiniers est déjà au registre.
+- Chamant, magasin bio à vocation de biocoop (Oise) : **déblocage** = horaires du week-end confirmés, et vérification de la commune d'implantation pour la fiche, qui ne doit pas porter le nom de Senlis.
+- Senlis, boulangerie-pâtisserie artisanale bio : **hors catégorie** du site (boulangerie artisanale, non listée parmi les catégories) et source unique ; à reprendre seulement si la règle de catégorie l'admet.
+- Senlis, marché hebdomadaire de la place Omer Vallon : **déblocage** = source officielle de la ville ou de l'office de tourisme donnant les jours du marché.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Jours du marché de Senlis : deux sources incompatibles, rien publié sur ce point (noté ci-dessus).
+
+**Point d'arrêt.** Oise : trois communes éprouvées sur douze (Nogent-sur-Oise, Senlis, Crépy-en-Valois), zéro fiche publiée. Passe suivante : Oise poursuivie à la commune suivante par population (Méru ou Montataire, toutes deux sans fiche) ; la règle 247 s'applique jusqu'à douze communes éprouvées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
