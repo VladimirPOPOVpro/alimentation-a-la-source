@@ -53627,3 +53627,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (matin, Calvados (14) repris, Ifs sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` : doute sur une personne, rien n'est publié ni répondu, aucun email envoyé. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Les départements ultramarins (97x, 98x) sortent du classement : le validateur de `lib/validateMerchants.ts` refuse toute coordonnée hors de la métropole, une fiche y serait donc inpubliable sans toucher au code. La passe précédente visait le Bas-Rhin (Grand Est), région exclue. Sont épuisés ou clos : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Oise, Loire, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine. Premier département éligible : **Calvados (14), déficit ≈ 3,98**, avec 10 fiches publiées.
+
+**Commune, règle 41.d.** Caen (109 400 habitants) porte déjà cinq fiches de marchés. Hérouville-Saint-Clair (23 470) a été sondée le 12 novembre, Lisieux, Bayeux et Mondeville aussi. Descente à **Ifs (11 937 habitants)**, sans fiche et jamais éprouvée.
+
+**Ce qui a été lu.**
+- Recherche web sur les producteurs et circuits courts d'Ifs : seuls des articles de presse non datés (Tendance Ouest) signalent un marché le mercredi matin dans le bourg et un marché « Ifs Plaine » le vendredi matin. Aucune page de la Ville ni de l'office ne les confirme.
+- Une boutique en ligne de produits fermiers, signalée à Ifs dans ce même article non daté, n'a pas de date ni de source actuelle : écartée.
+- Annuaire jours-de-marche.fr : deux marchés enregistrés, sans jours ni horaires lisibles dans les extraits ; site participatif qui signale des informations possiblement périmées.
+- Les annuaires de commerces d'Ifs ne listent que de la grande distribution, des drives et des boutiques non alimentaires.
+- Registre Agence Bio : non relu cette passe, le Calvados ayant déjà été lu au registre aux passes des 26 octobre et 2 novembre.
+
+**Pourquoi rien n'est publié.** Ifs ne rend aucun producteur ni aucun commerce fixe vérifiable à une source indépendante et datée. Cinq fiches groupées ne sont pas réunies (règle 52) ; les deux marchés reposent sur des sources non datées et des annuaires participatifs (règles 5 et 248). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Ifs, marché du bourg (mercredi matin) et marché « Ifs Plaine » (vendredi 8 h-13 h, source de presse non datée) : **déblocage** = page marchés de la Ville, ou liste des exposants producteurs.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune nouvelle tranchée.
+
+**Point d'arrêt.** Calvados : Ifs épuisée sans cinq fiches. Descente suivante : Ouistreham (9 212 habitants) puis Mézidon Vallée d'Auge, en relisant le registre Agence Bio du 14 pour les vendeurs aux particuliers. Note de structure à consigner : la formule de la règle 41 classe encore Calvados en tête alors que le département produit depuis octobre au plus une fiche par passe sans l'atteindre ; le responsable du site pourrait trancher la maille (commune ou agglomération) dans une passe de relecture.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
