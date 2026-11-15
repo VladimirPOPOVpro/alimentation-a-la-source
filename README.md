@@ -53735,3 +53735,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Vienne : Vouneuil-sous-Biard et Migné-Auxances éprouvées, soit huit communes sur douze. Passe suivante : Vienne reste ouverte ; reprendre Migné-Auxances par la mairie (marchés, commerces) et Vouneuil-sous-Biard par la Chambre d'agriculture avant de descendre à Migné-Auxances puis à la commune suivante par population (Naintré).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Vienne (86), Migné-Auxances et Naintré sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : en_cours 1, integree 6, refusee 6. Passe de couverture (mode 2).
+
+**Classement.** Reprise de Vienne (86) après la passe précédente, conformément à la règle 247 (huit communes éprouvées sur douze, borne non atteinte).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Vienne (86), 1 124 opérateurs lus en entier. À Migné-Auxances : deux opérateurs déclarent une vente aux particuliers mais aucun n'a de site ni d'horaires publiés ; les autres sont des entreprises de production, de stockage ou de négoce. À Naintré : un GAEC déclare une vente aux particuliers, sans site repéré ; le reste relève du négoce ou d'entreprises sans vente directe.
+- Recherche web, Migné-Auxances : un annuaire non officiel recense un GAEC maraîcher avec adresse mais sans horaires, sans produits, sans contact ; un GAEC de plantes aromatiques n'apparaît qu'au répertoire des entreprises (INSEE), sans site ni vente identifiée ; une structure au nom de « Filàie » ne se retrouve dans aucune source.
+- Recherche web, Naintré : aucune page de vente directe trouvée pour le GAEC maraîcher relevé au registre.
+
+**Pourquoi rien n'est publié.** Ni Migné-Auxances ni Naintré ne rendent cinq commerces vérifiables à une source indépendante. Les sources qui existent sont des annuaires non officiels ou des registres d'entreprises, qui ne suffisent ni pour l'adresse de vente, ni pour les horaires, ni pour les produits (règle 6). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Migné-Auxances, GAEC maraîcher : **déblocage** = site, horaires ou point de vente confirmés par la commune, la Chambre d'agriculture ou le GAEC lui-même.
+- Migné-Auxances, GAEC de plantes aromatiques : **déblocage** = trace de vente directe au public (site, marché, Bienvenue à la Ferme).
+- Naintré, GAEC maraîcher déclarant une vente aux particuliers : **déblocage** = source de vente directe lisible (site, annuaire de producteurs, marché).
+
+**Fiches écartées pour doute sur une personne.** Deux opérateurs du registre du 86 à Migné-Auxances et un à Naintré, inscrits sous des noms de personnes physiques (entreprises individuelles). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Aucune retenue.
+
+**Point d'arrêt.** Vienne : Vouneuil-sous-Biard, Migné-Auxances et Naintré éprouvées ; la descente atteint neuf communes sur douze. Passe suivante : reprendre Migné-Auxances par la mairie (marchés, commerces) et la Chambre d'agriculture ; puis la commune suivante par population.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
