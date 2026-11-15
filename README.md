@@ -54085,3 +54085,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Oise : Montataire et Méru sondées, zéro fiche. Passe suivante, Oise poursuivie à la commune suivante par population sans fiche : **Noyon (12 971 habitants)**, puis Pont-Sainte-Maxence (12 361). La règle 247 s'applique jusqu'à douze communes éprouvées dans le département.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Ille-et-Vilaine (35) visée, Dinard sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue par la règle 41.c, donc le Nord (59, déficit ≈ 6,55, en veille) et le Pas-de-Calais (62) aussi. Écartés, clos ou épuisés : Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Loire, Hérault, Yvelines, Val-de-Marne, Calvados, Vienne, Haute-Marne, Gironde, Alpes-de-Haute-Provence, Haute-Corse, Corse-du-Sud. Premier département éligible restant : **Ille-et-Vilaine (35)**, déficit ≈ 4,09, 18 fiches publiées, Bretagne.
+
+**Commune, règles 41.d et 247.** Les communes du 35 les plus peuplées sans fiche, dans l'ordre, ont déjà été éprouvées : Rennes (230 890), Fougères (20 307), Vitré (19 365), Cesson-Sévigné (18 761), Betton (12 964), Pacé (11 703), Châteaugiron (10 845). Commune suivante par population sans fiche et non encore éprouvée : **Dinard (10 772 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine : les pages lues contiennent deux entrées à Dinard. Une seule entreprise, avec adresse rue Levavasseur, déclare « aucune vente aux particuliers ». Aucun producteur en vente directe à Dinard.
+- Office de tourisme Dinard Émeraude Tourisme (page des marchés) : la page liste les marchés de la commune sans horaires détaillés.
+- Site de la Ville de Dinard (pages « commerces, halles et marchés » et « marchés publics ») : la page sur les marchés ne donne aucun marché détaillé ; la rubrique « commerces » ne donne aucune liste de commerces.
+- Annuaire participatif Jours-de-Marché (une seule source, participatif, règle 6) : trois marchés (place Crolard, mardi, jeudi, samedi de 8h à 13h ; halles de la Concorde, tous les jours de 8h à 13h ; Saint-Enogat, mercredi de juin à août, 8h à 13h). Aucun producteur à Dinard : les fermes listées sont à Pleurtuit, Saint-Malo, Évran et Le Tronchet, hors commune (règle 52).
+- Recherche web (une requête) : une enseigne de magasin bio rue Levavasseur, dont l'horaire n'est pas confirmé par une seconde source et dont l'adresse concorde avec l'entrée du registre Agence Bio ; un Biocoop mentionné par un annuaire ancien, non confirmé ouvert.
+
+**Pourquoi rien n'est publié.** Dinard rend trois marchés, dont deux ne sont sourcés que par un annuaire participatif, et une enseigne bio dont l'état n'est pas confirmé. Aucun producteur n'est établi dans la commune. Cela fait moins de cinq commerces vérifiés à une source indépendante (règle 41.d). Rien n'est publié : pas de fiche partielle, pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Ille-et-Vilaine).**
+- Dinard (35), marché de la place Crolard (trois matinées par semaine) : **déblocage** = confirmation par la Ville ou par l'office de tourisme (une seconde source officielle).
+- Dinard (35), halles de la Concorde (marché tous les jours) : **déblocage** = confirmation de la liste des commerçants ou de la date par une source officielle.
+- Dinard (35), marché de Saint-Enogat (mercredi, de juin à août, saisonnier) : **déblocage** = confirmation de la saison par une source officielle ; fiche saisonnière à publier à l'ouverture de la saison.
+- Dinard (35), magasin bio de la rue Levavasseur : **déblocage** = horaires publiés par le magasin et une seconde source indépendante ; contradiction à consigner (le registre Agence Bio ne déclare aucune vente aux particuliers à cette adresse).
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio à Dinard et dans les communes voisines sont des exploitations sous un nom de personne physique : écartées (règle 6), non rouvertes, aucun nom consigné.
+
+**Contradictions (règle 5).** Le registre Agence Bio indique aucune vente aux particuliers à l'adresse du magasin bio de la rue Levavasseur, alors qu'un annuaire de commerces la donne ouverte au public. Non tranchée : rien n'est publié.
+
+**Points d'arrêt.** Ille-et-Vilaine : Dinard sondée, dixième commune éprouvée du département ; la descente de la règle 247 (douze communes au maximum) approche de sa borne. Région 53 (Bretagne) close pour la passe suivante (règle 41.c). Passe suivante : Nord, Hauts-de-France et Bretagne exclus ; le classement se relit au premier rang (règle 410).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
