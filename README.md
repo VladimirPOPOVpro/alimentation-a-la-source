@@ -53895,3 +53895,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Oise : trois communes éprouvées sur douze (Nogent-sur-Oise, Senlis, Crépy-en-Valois), zéro fiche publiée. Passe suivante : Oise poursuivie à la commune suivante par population (Méru ou Montataire, toutes deux sans fiche) ; la règle 247 s'applique jusqu'à douze communes éprouvées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Calvados (14) reprise, Lisieux sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Compteurs inchangés : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règles 41, 41.c, 41.e et 247.** Métropole seule, population par département (geo.api.gouv.fr), 1 304 fiches comptées sur le code postal. Outre-mer écarté (règle 93). La passe précédente visait l'Oise (Hauts-de-France) : la région est exclue par la règle 41.c. Nord en veille (règle 41.e). Premier département éligible hors ces exclusions et hors départements épuisés ou clos : **Calvados (14)**, déficit ≈ 3,4. La descente de la règle 247 reprend là où elle s'était arrêtée : quatre communes éprouvées sur douze (Ifs, Ouistreham, Mézidon Vallée d'Auge, Hérouville-Saint-Clair).
+
+**Commune, règle 41.d.** **Lisieux (14100, 20 000 habitants environ)**, commune la plus peuplée du Calvados sans fiche après Caen et Vire Normandie. C'est la commune indiquée comme suivante par la passe précédente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados (1 371 opérateurs lus). Huit opérateurs à Lisieux. Retenus : un magasin bio indépendant, place de la République, établissement actif au registre des entreprises (47.29Z, vente au détail de produits alimentaires). Écartés : une grande surface et un discounter (hors cadre), une coopérative et des grossistes sans vente au public, deux structures sans vente aux particuliers, une fiche « vente aux consommateurs » datée de 2022 dont l'adresse secondaire est à Beuvillers, hors commune (rattachement non démontré) et dont aucun site ni établissement actif n'est confirmé, un magasin spécialisé dont le registre des entreprises indique l'établissement fermé depuis 2012, et une fiche au nom d'une personne physique, écartée pour doute sur une personne (règle 6).
+- Office de tourisme Lisieux Normandie, page « marchés locaux » : un marché le samedi matin, entre la place Mitterrand et la place de la République, avec produits laitiers, maraîchage et volaille vivante. **Contradiction de fait (règle 5)** : la page dit « matinée, étals jusqu'en milieu d'après-midi » ; un résumé automatique et un annuaire de marchés donnent 8 h à 13 h. Ni l'un ni l'autre n'est une source publiée par la ville. Rien n'est publié sur l'horaire.
+- Magasin bio : horaires et téléphone lus uniquement sur un annuaire participatif (non mis à jour par le commerce, lundi fermé, mardi 9 h–12 h 30 et 14 h 30–19 h). Aucun site propre trouvé. Le téléphone est celui de l'annuaire, pas une source du commerce.
+- Chaîne bio présente à Lisieux (adresse, téléphone de la chaîne) : hors cadre, comme à Hérouville-Saint-Clair.
+- Épicerie fine centre-ville (office de tourisme) : hors catégories du site (plats cuisinés, pas de producteur identifié). Écartée.
+- Calvados Groult : adresse contradictoire entre sources (Saint-Cyr-du-Ronceray ou Valorbiquet), horaires contradictoires ; hors commune Lisieux. Consigné, non publié.
+- Recherches AMAP : aucune AMAP ni point de distribution identifié à Lisieux dans les sources lues.
+- Site lisieux.fr : annuaire commercial privé sans lien avec la ville, non utilisé comme source officielle. Site de l'agglomération Lisieux Normandie : pas de page marchés ni producteurs lue dans cette passe.
+
+**Pourquoi rien n'est publié.** Lisieux rend deux points, le marché et le magasin bio, et les deux présentent un doute de fait (horaires) ; la règle 52 exige quatre points vérifiés avant de compléter. Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Lisieux, marché du samedi (catégorie marché, office de tourisme) : **déblocage** = horaires publiés par la ville ou l'office de tourisme, avec une liste de producteurs.
+- Lisieux, magasin bio indépendant centre-ville (registre actif) : **déblocage** = horaires confirmés par le commerce lui-même (site, page Facebook ou téléphone publié pour la clientèle).
+- Lisieux, deux points de vente de producteurs cités par l'office de tourisme sans adresse : hors pistes tant qu'aucune adresse vérifiable n'est publiée.
+
+**Fiches écartées pour doute sur une personne.** Une, à Lisieux (entreprise individuelle au nom d'une personne physique). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Horaires du marché de Lisieux : office de tourisme contre annuaire (consignées, rien publié sur l'horaire). Adresse du Calvados Groult : deux communes (consignée, hors commune).
+
+**Point d'arrêt.** Calvados : Ifs, Ouistreham, Mézidon Vallée d'Auge, Hérouville-Saint-Clair et Lisieux éprouvées, cinq communes sur douze, zéro fiche publiée. Passe suivante : Calvados reprise à la commune suivante sans fiche par population (Bayeux, à vérifier avant d'en faire la commune de la passe) ; la règle 247 s'applique jusqu'à douze communes éprouvées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
