@@ -53555,3 +53555,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante, Nord toujours en déficit mais hors de la règle de deux passes : reprendre Lambersart en ouvrant d'abord la liste des exposants du marché du Bourg sur le site de la Ville, puis Armentières (27 000 habitants environ, sans fiche) si Lambersart reste vide. La piste Lambersart en magasin bio est à confirmer auprès du commerce.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Yvelines (78), Poissy relue et Conflans-Sainte-Honorine lue : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle » ni « en cours ». Pas d'email à envoyer. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : le Nord est exclu, la règle 41.c interdisant deux passes de suite dans une même région. **Contradiction consignée (règle 5)** : la note du Nord désignait Lambersart comme cible de la passe suivante, ce qui violerait la règle 41.c ; tranché ainsi, la passe suivante ne vise pas le Nord. Les départements déjà épuisés ou clos (Haute-Garonne, Rhône, Isère, Oise, Loire, Val-de-Marne, Hérault) sortent du tour. **Seine-Saint-Denis (93)** : deux notes donnent des décomptes de descente contradictoires (treize communes éprouvées au-delà de la borne de douze, selon une note ; cinq, selon une autre). Tranché ainsi, en suivant la borne la plus conservatrice de la règle 247 : le 93 est clos. Le premier département éligible est donc les **Yvelines (78, Île-de-France, déficit ≈ 4,27)**, région non visée à la passe précédente.
+
+**Commune, règle 41.d.** La commune la plus peuplée des Yvelines sans fiche est **Mantes-la-Jolie (43 526 habitants)**, mais la descente reprend là où la note du 14 novembre l'a laissée : **Poissy (40 983 habitants)**, puis **Conflans-Sainte-Honorine (36 958 habitants)**.
+
+**Ce qui a été lu.**
+- Poissy : le site officiel de la Ville répond toujours en 503 (indisponible) ; sa page marchés n'existe pas à l'adresse testée. Aucune source municipale lisible : Poissy n'est pas retenue cette passe.
+- Conflans-Sainte-Honorine : la page « Marchés » du site de la Ville est une page de menu générale, sans liste de producteurs. Son annuaire des marchés (trois marchés : quais / place Fouillère, Fonderie, Chennevières) donne des jours et des lieux sans horaires détaillés ni exposants. La recherche web reprend ces trois marchés avec des horaires concordants pour la Fonderie (mercredi et samedi, 8 h à 13 h) et Chennevières (jeudi et dimanche, 8 h à 13 h), mais décrit des marchés généralistes (primeurs, boucherie, volaille, charcuterie) : aucun exposant n'est nommé comme producteur. Un annuaire tiers (Justacoté) recense des producteurs bio à Conflans sans adresse ni source officielle : écarté. Les entrées de marché sur Google Maps ne donnent pas de producteurs.
+
+**Pourquoi rien n'est publié.** Conflans rend trois marchés généralistes, sans liste d'exposants producteurs, et aucun commerce fixe vérifié à la source. Il manque au moins deux points vérifiés pour cinq fiches groupées (règle 52) ; Poissy ne rend rien, son site étant indisponible. Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Conflans-Sainte-Honorine, marché de la Fonderie (mercredi et samedi, couvert) : **déblocage** = liste des exposants producteurs publiée par la Ville ou par le marché.
+- Conflans-Sainte-Honorine, marché de Chennevières (jeudi et dimanche) et marché des quais (mardi, vendredi, dimanche) : **déblocage** = même liste d'exposants, ou confirmation de la présence de producteurs locaux.
+- Poissy, marchés de la place de la République et de Beauregard : **déblocage** = site de la Ville relisible (le 503 persiste à cette passe).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Deux : le décompte de la descente dans le 93 (voir plus haut), et la cible « Lambersart » de la note du Nord, contraire à la règle 41.c. Tranchées comme indiqué.
+
+**Point d'arrêt.** Yvelines : relire le site de la Ville de Poissy ; si toujours indisponible, Conflans-Sainte-Honorine en chercher un quatrième point vérifié dans la même intercommunalité (règle 52), ou consulter les exposants de la Fonderie. Mantes-la-Jolie seulement si Conflans et Poissy ne rendent rien. La passe suivante ne vise pas les Yvelines (région 11 à reprendre à la passe d'après) : elle doit viser une autre région, par exemple l'Ille-et-Vilaine (35, déficit ≈ 4,09), en appliquant la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
