@@ -53655,3 +53655,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Calvados : Ifs épuisée sans cinq fiches. Descente suivante : Ouistreham (9 212 habitants) puis Mézidon Vallée d'Auge, en relisant le registre Agence Bio du 14 pour les vendeurs aux particuliers. Note de structure à consigner : la formule de la règle 41 classe encore Calvados en tête alors que le département produit depuis octobre au plus une fiche par passe sans l'atteindre ; le responsable du site pourrait trancher la maille (commune ou agglomération) dans une passe de relecture.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Vienne (86) reprise, Loudun sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, integree 6, refusee 6). Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Calvados (Normandie) : cette région est exclue (règle 41.c). Nord, Oise, Loire, Isère, Savoie, Rhône, Seine-Saint-Denis, Hérault, Haute-Corse et Val-de-Marne sont épuisés ou clos. **Vienne (86, ≈ 3,30)** est le premier département ouvert ; sa descente reprend à Loudun, sans fiche, cinq communes déjà éprouvées sur douze (Châtellerault, Buxerolles, Jaunay-Marigny, Saint-Benoît, Chauvigny).
+
+**Commune, règle 41.d.** Loudun (6 839 habitants) est la commune la plus peuplée sans fiche après Chauvigny.
+
+**Ce qui a été lu.** Recherche web : le « Guide des producteurs 2026 » du Pays Loudunais, publié par la communauté de communes en juin 2026, indique deux marchés à Loudun (mardi et samedi, jusqu'à midi). Le PDF (5,5 Mo) n'a pas pu être extrait ici : ni `pdftotext` ni `pypdf` sur cet hôte, donc aucun nom de producteur ni aucune adresse n'a été relevé. La carte de Que Choisir ne signale à Loudun aucun magasin de producteurs ; un magasin à Montmorillon et « Le Bon Coin Paysan » à Chauvigny sont hors de la commune.
+
+**Pourquoi rien n'est publié.** Aucun producteur ni commerce fixe de Loudun n'est vérifié à une source indépendante lisible ; il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Loudun, marchés du mardi et du samedi (guide 2026 de la communauté de communes) : **déblocage** = liste des producteurs présents publiée par la Ville ou la communauté de communes, ou lecture du guide 2026 (PDF) dans un environnement qui en permet l'extraction.
+- Vienne, descente : Chauvigny, Jaunay-Marigny et Saint-Benoît restent dans l'état de la passe du 14 novembre.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune retenue.
+
+**Point d'arrêt.** Vienne : Loudun éprouvée, descente à six communes sur douze. Passe suivante : reprendre Loudun par le guide 2026 si le PDF est lisible ; sinon Vouneuil-sous-Biard, puis Migné-Auxances.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
