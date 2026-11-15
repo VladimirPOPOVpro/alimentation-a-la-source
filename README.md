@@ -53785,3 +53785,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Passe suivante.** Le Nord est en veille. Le calcul de la règle 41 se refait sans lui ; la Haute-Garonne (31) et l'Oise (60) restent à leur déficit mais la règle 41.c s'applique à la région.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Calvados (14) reprise, Mézidon Vallée d'Auge sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Compteurs inchangés : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règles 41, 41.c, 41.e et 247.** Métropole seule, population par département (geo.api.gouv.fr), 1 304 fiches comptées sur le code postal. Réserve 41.c : la passe précédente visait le Nord (Hauts-de-France), région exclue, ainsi que l'Oise. Nord mis en veille (règle 41.e, trente jours). Départements épuisés ou clos, gardés hors du tour : Haute-Garonne, Loire, Isère, Rhône, Seine-Saint-Denis, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine, Savoie, Haute-Corse. Premier département éligible : **Calvados (14), déficit ≈ 3,42**. La Vienne (86, déficit 3,30) reste ouverte, neuf communes éprouvées sur douze ; la règle 247 ne l'impose pas avant le classement.
+
+**Commune, descente (règle 247).** Calvados reprend là où la passe précédente s'est arrêtée : Ifs et Ouistreham déjà éprouvées, donc **Mézidon Vallée d'Auge** (14270).
+
+**Ce qui a été lu.**
+- Recherche web sur les fermes et la vente directe à Mézidon : aucun point de vente fixe de producteur trouvé à une source indépendante. La ferme pédagogique rattachée au domaine de Canon (visites, activités autour de la pomme, fabrication de jus sur place) est documentée par son office de tourisme et par le réseau Bienvenue à la ferme, mais aucune source ne confirme une vente de produits fermiers au public ni des horaires de boutique. Les horaires du château et des jardins disponibles sont contradictoires entre sources (aucune date sur l'une, guide ancien sur l'autre) : consignés, rien n'en est tiré.
+- Recherche web sur le marché : une entrée de l'office de tourisme Lisieux Normandie nomme un marché à Mézidon-Canon sans jour, sans horaires et sans liste de producteurs. Un annuaire tiers donne les horaires de la mairie, non confirmés par le site de la commune : ils ne sont pas publiés.
+- Un gîte de la commune, présenté par l'office de tourisme comme une ferme, porte dans sa dénomination le nom d'une personne physique : écarté (voir ci-dessous).
+- Passe du matin sur le registre Agence Bio : la lecture complète du Calvados est déjà consignée (passe du 15 novembre, Mézidon : huit opérateurs déclarant une vente aux particuliers, dont quatre exploitations sans site ni source indépendante).
+
+**Pourquoi rien n'est publié.** Mézidon Vallée d'Auge ne rend aucun commerce de producteur vérifiable à une source indépendante : une seule piste, la ferme pédagogique, dont la vente de produits n'est pas attestée. Il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Mézidon Vallée d'Auge, ferme pédagogique du domaine de Canon (visites, jus de pomme) : **déblocage** = page de vente de produits fermiers confirmée par le domaine ou par le réseau Bienvenue à la ferme, avec horaires de boutique.
+- Mézidon Vallée d'Auge, marché mentionné par l'office de tourisme Lisieux Normandie : **déblocage** = jour, horaires et liste des producteurs publiés par la commune (site mva14.fr).
+- Mézidon Vallée d'Auge, gîte-ferme présenté par l'office de tourisme : écarté pour doute sur une personne (dénomination au nom d'une personne physique). Ne se rouvre pas.
+- Mézidon Vallée d'Auge, quatre exploitations du registre Agence Bio (passe précédente) : toujours sans site ni source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Une, à Mézidon Vallée d'Auge (dénomination au nom d'une personne physique). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Horaires du château de Canon divergents entre sources ; horaires de la mairie non confirmés. Consignées, rien n'est publié sur ces faits.
+
+**Point d'arrêt.** Calvados : Ifs, Ouistreham et Mézidon Vallée d'Auge éprouvées, trois communes sur douze. Passe suivante : reprendre Calvados à la commune suivante par population (Mézidon ne se rouvre que sur un déblocage nommé ci-dessus), ou, si le classement l'impose, Vienne (86) avec sa descente reprise à Naintré.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
