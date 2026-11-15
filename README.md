@@ -53582,3 +53582,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Yvelines : relire le site de la Ville de Poissy ; si toujours indisponible, Conflans-Sainte-Honorine en chercher un quatrième point vérifié dans la même intercommunalité (règle 52), ou consulter les exposants de la Fonderie. Mantes-la-Jolie seulement si Conflans et Poissy ne rendent rien. La passe suivante ne vise pas les Yvelines (région 11 à reprendre à la passe d'après) : elle doit viser une autre région, par exemple l'Ille-et-Vilaine (35, déficit ≈ 4,09), en appliquant la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (soir, Nord reprise, Lambersart relue sur le site de la Ville) : aucune publication
+
+**Backlog.** Vide : aucune demande « nouvelle » ni « en cours ». Pas d'email à envoyer. Passe de couverture (mode 2).
+
+**Classement, règle 41.** Population par département (geo.api.gouv.fr, 34 969 communes) comparée aux 1 304 fiches publiées (code postal du champ adresse). Le plus grand déficit métropolitain est le **Nord (59)**, à environ 4,47 fiches, avec 45 fiches publiées. La passe précédente visait les Yvelines (Île-de-France) : la réserve de la règle 41.c ne bloque donc pas le Nord. Deuxième, la Haute-Garonne (31), à environ 3,83 fiches, avec 24 fiches publiées.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) et Marcq-en-Barœul (40 184) restent sans fiche, déjà sondées dans plusieurs passes (voir les notes précédentes). Descente à Lambersart (27 090 habitants), sans fiche.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Lambersart, rubrique « marché » (`lambersart.fr/marche`) : la page ne contient que le titre et un fil d'Ariane ; la liste des marchés et des exposants n'apparaît pas dans le HTML rendu. Les autres rubriques testées (`/marches`, `/les-marches`, `/vie-pratique/marches`) répondent 404.
+- Site de la Ville d'Armentières (`ville-armentieres.fr`) : répond, mais la page d'accueil ne mentionne aucun marché.
+- Marcq-en-Barœul et Cambrai : sites de la Ville ne répondent pas (pas de réponse réseau) à cette passe.
+
+**Pourquoi rien n'est publié.** Lambersart ne rend aucun marché ni commerce à source officielle lisible, et aucun producteur vérifié à une source indépendante. Cinq commerces vérifiables ne sont pas réunis dans cette commune (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Constat.** Le Nord est sondé à chaque passe depuis le 5 octobre sans rendre cinq fiches, et la même commune revient : la règle 41.d renvoie toujours vers les mêmes communes du Nord, toutes sans source municipale exploitable. Ce point était déjà consigné le 8 novembre ; il reste à trancher par le responsable du site (relecture de la règle 41.d ou changement de maille géographique).
+
+**Pour la passe suivante.** Le Nord ne peut pas être visé de nouveau (règle 41.c : passe précédente en Île-de-France, passe actuelle dans le Nord, la suivante doit sortir de la région). Candidate suivante selon le calcul : Haute-Garonne (31) si le déficit reste en tête après exclusion des Hauts-de-France, sinon le classement suivant.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune nouvelle tranchée. La contradiction sur la règle 41 est déjà consignée plus haut.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
