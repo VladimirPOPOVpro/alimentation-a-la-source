@@ -54058,3 +54058,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Alpes-de-Haute-Provence ouvert : descente à Oraison, éprouvée ; Oraison reste à reprendre sur les cinq pistes ci-dessus. Passe suivante : ne pas revenir en Provence-Alpes-Côte d'Azur tant qu'une autre région n'a pas été visée, par la règle 41.c, sauf si la passe ne vise plus le 04.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Oise (60) reprise, Montataire et Méru sondées : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Aucune réponse email à envoyer.
+
+**Secteur, règles 41, 41.c et 41.e.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. Le Nord (59) reste en veille (règle 41.e). La dernière passe visait les Alpes-de-Haute-Provence (PACA) : la région est exclue. Premier département éligible : **Oise (60)**, déficit ≈ 3,5 à 4,2 selon la base de calcul, zéro fiche en tête de descente. Les communes de l'Oise déjà éprouvées (Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois) ne sont pas reprises.
+
+**Commune, règle 41.d et 247.** Commune la plus peuplée de l'Oise sans fiche à cette passe : **Montataire (14 257 habitants)**, puis **Méru (13 897)**.
+
+**Ce qui a été lu.**
+- Montataire : registre national de l'Agence Bio, Oise, 613 opérateurs lus sur sept pages, filtrés sur la commune et son code postal (60160). Aucun opérateur déclarant la vente aux particuliers ; les deux entrées de la commune sont une entreprise de préparation et un distributeur en gros.
+- Montataire, web (une requête sur le marché, une requête sur la vente directe) : un seul événement daté, le marché de Noël du gymnase, les 21 et 22 novembre, ponctuel et non permanent. Aucun marché de producteurs hebdomadaire ni de ferme en vente directe trouvé dans la commune. Une ferme de Rousseloy (commune voisine) apparaît dans un annuaire : **hors commune**, la règle 52 interdit de compléter sur une limitrophe.
+- Méru : registre Agence Bio relu (passe précédente) : aucun opérateur déclarant la vente aux particuliers. Web (une requête) : l'annuaire de producteurs de la commune place les lieux à 17 à 80 km ; aucune adresse sur la commune même.
+
+**Pourquoi rien n'est publié.** Ni Montataire ni Méru ne rendent un commerce vérifiable à une source indépendante. Le marché de Noël est un événement ponctuel : il ne fait pas une fiche de commerce permanent. Rien n'est publié : pas de fiche partielle, pas de géocodage, pas de photo.
+
+**Pistes non publiées (anonymes, Oise).**
+- Montataire (60), marché de Noël du gymnase : événement ponctuel ; **déblocage** = un marché permanent ou hebdomadaire confirmé par la Ville.
+- Méru (60), producteurs en vente directe : **déblocage** = une adresse sur la commune même, vérifiée par une source officielle ou un producteur.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Point d'arrêt.** Oise : Montataire et Méru sondées, zéro fiche. Passe suivante, Oise poursuivie à la commune suivante par population sans fiche : **Noyon (12 971 habitants)**, puis Pont-Sainte-Maxence (12 361). La règle 247 s'applique jusqu'à douze communes éprouvées dans le département.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
