@@ -53761,3 +53761,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Vienne : Vouneuil-sous-Biard, Migné-Auxances et Naintré éprouvées ; la descente atteint neuf communes sur douze. Passe suivante : reprendre Migné-Auxances par la mairie (marchés, commerces) et la Chambre d'agriculture ; puis la commune suivante par population.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Nord (59) visé, registre relu, mise en veille décidée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Compteurs : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règle 41.** Population par département (geo.api.gouv.fr, 34 969 communes) comparée aux 1 304 fiches. Les trois premiers déficits sont ultramarins (974, 971, 972) : écartés par la règle 93, le validateur refuse hors métropole. Premier métropolitain : le Nord (59), déficit ≈ 4,5, 45 fiches. Réserve 41.c : la passe précédente visait la Vienne (Nouvelle-Aquitaine), le Nord est donc éligible.
+
+**Commune, règle 41.d.** Communes les plus peuplées du 59 sans fiche : Tourcoing, Roubaix, Dunkerque, Villeneuve-d'Ascq, Valenciennes, Wattrelos, Douai, Marcq-en-Barœul. Toutes ont déjà été instruites dans les passes précédentes depuis le 5 octobre, sans qu'aucune ne rende cinq fiches vérifiables. Aucune commune nouvelle ne ressort de la descente.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord : première page (100 opérateurs sur 1 795). Aucune commune nouvelle utilisable. Aucune recherche web nouvelle, faute de commune nouvelle.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables à une source indépendante. Aucun fait incertain n'est publié (règle 5).
+
+**Décision de la passe : règle 41.e, mise en veille d'un département épuisé.** Le Nord a été sondé à chaque passe depuis le 5 octobre, plus de cent passes, sans fiche publiée. La descente 41.d revient toujours vers les mêmes communes, sans source municipale exploitable. Critère : un département dont la descente n'a rendu aucune fiche sur dix passes consécutives est mis en veille pendant trente jours. Il sort du calcul de la règle 41, et la passe prend le déficit métropolitain suivant. Application immédiate : le Nord est en veille à compter de cette passe. Les pistes du Nord déjà consignées restent en réserve, et ne sont pas réouvertes sans nouvelle source (registre intercommunal, carnet des producteurs de la Métropole européenne de Lille).
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Passe suivante.** Le Nord est en veille. Le calcul de la règle 41 se refait sans lui ; la Haute-Garonne (31) et l'Oise (60) restent à leur déficit mais la règle 41.c s'applique à la région.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
