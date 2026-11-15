@@ -53498,3 +53498,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Seine-Saint-Denis : descente à quatre communes éprouvées sur douze (Noisy-le-Grand, Bobigny, Drancy, Aulnay-sous-Bois) et Le Blanc-Mesnil, soit cinq. La passe suivante ne peut pas viser le 93 (règle 41.c : deux passes de suite interdites dans une même région). Elle doit viser une autre région, par exemple l'Ille-et-Vilaine (35) ou les Yvelines (78) — les Yvelines sont en Île-de-France et donc aussi exclues —, en appliquant la règle 41 à la lettre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (après-midi, Hérault (34) visé, Lattes sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » (0). La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : cette région est exclue (règle 41.c). Nord, Haute-Garonne, Rhône, Isère, Oise, Loire et Val-de-Marne sont épuisés ou clos. Le déficit le plus grand hors Île-de-France et hors départements clos est l'**Hérault (34)**, 4,25 fiches au sens de la règle 41, pour 20 fiches publiées. L'Ille-et-Vilaine (35), 4,09, vient ensuite et reste la cible de la passe suivante si l'Hérault ne rend pas sa zone.
+
+**Commune, règles 41.d et 247.** Montpellier, Béziers, Sète, Frontignan, Juvignac, Saint-Jean-de-Védas, Balaruc-le-Vieux et Saint-Georges-d'Orques ont déjà des fiches ; Agde, Lunel, Mauguio et Mèze ont été sondées aux passes précédentes sans fiche ; Castelnau-le-Lez a été sondée le 14 novembre. La commune la plus peuplée restante sans fiche est **Lattes (17 351 habitants)**. La descente de l'Hérault reste sous la borne de douze communes de la règle 247.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Hérault : 3 305 opérateurs lus en totalité (34 pages), dont 33 déclarent Lattes. Cinq exploitants déclarent vendre aux particuliers ou aux détaillants et sont inscrits sous leur nom patronymique de personne physique : aucun n'est nommé ici, ni publié (règle personne ; le nom d'une entreprise individuelle n'est pas une enseigne). Les autres entrées sont des distributeurs, grossistes, préparateurs ou entités sans vente directe.
+- Une entrée du registre désigne une enseigne de magasin bio à Lattes (« Marcel et Fils », vente aux détaillants) ; le magasin est référencé comme point de vente en circuit court par Que Choisir (ouvert du lundi au samedi, 9h-19h30, fermé le dimanche, d'après le relevé de cette recherche). **Une seule fiche solide : elle ne forme pas une zone** (règle 52). Non publiée cette passe, son horaire et son site n'ayant pas été recoupés par une source officielle.
+- Marché de producteurs : une fiche de l'Hérault Tourisme décrit un marché le samedi de 9h à 12h30 mais porte un titre renvoyant à Saint-Félix-de-Lodez ; un guide touristique indique un marché le dimanche de 8h à 13h, Grande Place Jacques d'Aragon, sans date. Aucune des deux sources n'est datée ni confirmée par la Ville : non retenu.
+- Événements ponctuels (marché de Noël des 28 et 29 novembre 2026, marché nocturne de Port Ariane à l'état de candidature, grand marché des créateurs) : marchés d'artisans et de créateurs, pas de producteurs : hors sujet.
+- Recherche AMAP : aucune AMAP ni ferme en vente directe identifiée à Lattes par les sources générales.
+
+**Pourquoi rien n'est publié.** Lattes rend une fiche solide (un magasin bio), un marché sans date ni confirmation, et cinq exploitants écartés pour doute sur des personnes : en dessous du seuil de cinq commerces vérifiés (règle 52). Aucune fiche n'est publiée, aucun géocodage ni photo n'est prélevé.
+
+**Pistes non publiées (anonymes).**
+- Lattes, magasin bio à l'enseigne « Marcel et Fils » : **déblocage** = horaires confirmés par le magasin ou par la Ville, et au moins quatre autres points vérifiés dans la commune.
+- Lattes, marché du samedi ou du dimanche (place de la Grande Place Jacques d'Aragon) : **déblocage** = jour et horaires publiés par la Ville de Lattes.
+- Lattes, cinq exploitants inscrits au registre sous leur nom de personne physique, vente aux particuliers ou aux détaillants : **écartés pour doute sur une personne**. Ils ne se rouvrent pas (règle personne) ; une fiche à leur nom commercial, s'il existe, pourrait être reprise si le commerce est publié sous une enseigne distincte par lui-même.
+
+**Fiches écartées pour doute sur une personne.** Cinq, toutes à Lattes (noms non repris).
+
+**Contradictions (règle 5).** Une fiche de l'Hérault Tourisme attribue un marché de Lattes à une adresse de Saint-Félix-de-Lodez : consignée, non tranchée, aucune publication.
+
+**Points d'arrêt.** Hérault : descente sous la borne de douze communes de la règle 247 ; la commune éprouvée la plus récente est Lattes. Passe suivante, hors Île-de-France (règle 41.c) : Ille-et-Vilaine (35), commune la plus peuplée sans fiche, **Rennes (230 890 habitants)**, en reprenant la règle 41.d ; ou Hérault à la commune suivante (Mauguio déjà éprouvée, puis Juvignac déjà fichée) si la descente reste ouverte à la passe d'après.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
