@@ -53707,3 +53707,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Calvados : Ouistreham éprouvée (une commune sur douze), Mézidon Vallée d'Auge à reprendre à la passe suivante, en interrogeant d'abord le registre Agence Bio pour les quatre exploitations citées, puis l'annuaire « Bienvenue à la ferme ». La passe suivante ne vise pas la Normandie (règle 41.c) : elle recalcule le classement et reprend là où celle-ci s'est arrêtée (règle 247), donc Calvados ne revient qu'à la passe d'après, sauf si le classement ne l'impose pas.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Vienne (86) reprise, Migné-Auxances et Vouneuil-sous-Biard sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : en_cours 1, integree 6, refusee 6. Passe de couverture (mode 2).
+
+**Classement, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national (68 952 941 habitants), 1 304 fiches comptées sur le code postal. Réserve 41.c : la passe précédente visait le Calvados (Normandie), région exclue. Départements épuisés ou clos, gardés hors du tour : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Seine-Saint-Denis, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine, Savoie, Haute-Corse. Premier département éligible : **Vienne (86)**, déficit 3,30, descente en cours (règle 247).
+
+**Commune, descente (règle 247).** Poitiers, Châtellerault, Buxerolles, Chauvigny, Jaunay-Marigny, Saint-Benoît et Loudun sont éprouvées ou fichées. Descente reprise à **Vouneuil-sous-Biard (6 290 habitants)**, puis **Migné-Auxances (6 285 habitants)**, comme le point d'arrêt le demandait.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Vienne (86), 1 124 opérateurs lus en entier. À Vouneuil-sous-Biard : aucun opérateur qui vende aux particuliers et soit vérifiable à une source indépendante ; les autres sont des entreprises de production, de stockage ou de négoce. À Migné-Auxances : trois opérateurs déclarent une vente aux particuliers, dont un GAEC immatriculé en 2026 et un opérateur dont la raison sociale comporte des noms de personnes physiques (écarté, voir ci-dessous).
+- Recherche web, Vouneuil-sous-Biard : aucun marché de producteurs récurrent trouvé. Un marché de producteurs de la Chambre d'agriculture a eu lieu le 20 août 2026 (parking de la salle R2B), donc passé ; l'édition 2021 était au stade des Arches. Aucune date future publiée.
+- Recherche web, Migné-Auxances : aucun marché de producteurs ni commerce de producteur identifié à une source indépendante lisible. Un annuaire agrégé d'entreprises cite un GAEC maraîcher créé en février 2026, sans site, sans horaires, « fermé pour l'instant » : insuffisant. Une boulangerie-pâtisserie de la commune figure au répertoire des entreprises, mais aucune activité de vente de producteur n'y est attestée.
+
+**Pourquoi rien n'est publié.** Ni Vouneuil-sous-Biard ni Migné-Auxances ne rend cinq commerces vérifiables à une source indépendante ; il manque au moins quatre fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Vouneuil-sous-Biard, marché de producteurs de la Chambre d'agriculture : **déblocage** = date de l'édition 2027 publiée par la Chambre ou la commune, puis liste des exposants producteurs.
+- Migné-Auxances, GAEC maraîcher immatriculé en 2026 : **déblocage** = site, horaires ou point de vente confirmés par la commune, la Chambre d'agriculture ou le GAEC lui-même.
+- Migné-Auxances, boulangerie-pâtisserie de la commune : hors sujet tant qu'aucune vente de produits de producteur n'est attestée (règle 3).
+
+**Fiches écartées pour doute sur une personne.** Trois opérateurs du registre du 86, dont deux à Migné-Auxances environ, inscrits sous des noms de personnes physiques en raison sociale (entreprises individuelles). Aucun nom n'est consigné.
+
+**Contradictions (règle 5).** Aucune retenue.
+
+**Point d'arrêt.** Vienne : Vouneuil-sous-Biard et Migné-Auxances éprouvées, soit huit communes sur douze. Passe suivante : Vienne reste ouverte ; reprendre Migné-Auxances par la mairie (marchés, commerces) et Vouneuil-sous-Biard par la Chambre d'agriculture avant de descendre à Migné-Auxances puis à la commune suivante par population (Naintré).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
