@@ -53815,3 +53815,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Calvados : Ifs, Ouistreham et Mézidon Vallée d'Auge éprouvées, trois communes sur douze. Passe suivante : reprendre Calvados à la commune suivante par population (Mézidon ne se rouvre que sur un déblocage nommé ci-dessus), ou, si le classement l'impose, Vienne (86) avec sa descente reprise à Naintré.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 15 novembre 2026 (Calvados (14) reprise, Hérouville-Saint-Clair sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Compteurs inchangés : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règles 41 et 41.c.** Métropole seule, population par département (geo.api.gouv.fr), 1 304 fiches. Calvados reste le premier département éligible (déficit ≈ 3,4), la passe précédente ayant visé le Nord, région exclue.
+
+**Commune, descente (règle 247).** Ifs, Ouistreham et Mézidon Vallée d'Auge déjà éprouvées : **Hérouville-Saint-Clair** (14327, 23 470 habitants), commune la plus peuplée sans fiche après Caen et Vire Normandie, déjà couvertes.
+
+**Ce qui a été lu.** Recherches web sur les producteurs, la vente directe et les marchés de la commune. Un seul jour de marché est mentionné par un annuaire communautaire, sans jour précis ni liste de producteurs. Les producteurs cités se trouvent hors de la commune. L'AMAP locale est signalée complète, dans un article non daté. Un Biocoop est répertorié à deux adresses différentes : chaîne coopérative, hors du cadre « magasins bio indépendants » du site, et adresse à confirmer. Aucune source officielle de la commune n'a été lue dans cette passe.
+
+**Pourquoi rien n'est publié.** Hérouville-Saint-Clair ne rend aucun commerce de producteur vérifiable à une source indépendante. Il manque au moins cinq fiches entières (règle 52). Aucune fiche, aucun géocodage, aucune photo.
+
+**Pistes non publiées (anonymes).**
+- Hérouville-Saint-Clair, marché signalé par un annuaire communautaire : **déblocage** = jour, horaires et liste des producteurs publiés par la ville.
+- Hérouville-Saint-Clair, magasin bio (chaîne, deux adresses contradictoires) : hors cadre tant que la chaîne n'est pas écartée par une règle explicite ; adresse à confirmer si elle est retenue.
+
+**Fiches écartées pour doute sur une personne.** Aucune.
+
+**Contradictions (règle 5).** Deux adresses pour le Biocoop de la commune : consignées, rien n'est publié.
+
+**Point d'arrêt.** Calvados : Ifs, Ouistreham, Mézidon Vallée d'Auge et Hérouville-Saint-Clair éprouvées, quatre communes sur douze. Passe suivante : reprendre à Lisieux (14366, 19 645 habitants), commune sans fiche suivante par population, en s'appuyant sur le site de la ville et l'office de tourisme Lisieux Normandie.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
