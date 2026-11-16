@@ -54233,3 +54233,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Nord (59) visé, Lille sondée, zéro fiche. Passe suivante : ne pas revenir en Hauts-de-France (règle 41.c) ; le classement se relit au premier rang (règle 41), avec la Haute-Garonne (31) en tête après le Nord.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Haute-Garonne (31) visée, Muret sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne : enseigne qui porte un prénom, contact privé) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la réserve de la règle 41.c écarte donc les Hauts-de-France, le Nord (59) et l'Oise (60). Premier département éligible du classement : **Haute-Garonne (31), déficit ≈ 3,83, 24 fiches publiées**. Les deux premiers rangs du calcul brut (987 et 988) sont des collectivités d'outre-mer, hors périmètre de cette règle.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 31 sans aucune fiche : **Muret (26 079 habitants)**. Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux en ont déjà, Muret n'en a aucune.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 31 : quatre pages de cent sur 2 844 opérateurs ont été lues, filtrées sur la ville. Trois opérateurs de Muret sont des producteurs sans vente au public, un est un importateur, un est un préparateur ; aucun ne vend aux particuliers. Ils portent par ailleurs des noms patronymiques de personnes privées : ils ne sont pas nommés et ne figurent pas dans les fiches. Les pages restantes du registre n'ont pas été lues.
+- Registre des entreprises : la recherche « muret » rend une entité de la commune, sans information sur un commerce alimentaire.
+- Recherche web sur les marchés : une seule source (jours-de-marche.fr, participative) recense un marché de producteurs à Muret, le mardi de 17 h à 19 h, sous la forme d'une cagette à retrait de commandes. La mairie n'a pas été trouvée sur ce point : sa page des marchés n'apparaît pas dans les résultats, et l'appel d'offres de 2012 sur la place du marché est ancien.
+- Recherche web sur les magasins : le Biocoop de Muret (boulevard Joffrery) a une adresse constante dans plusieurs annuaires, mais des horaires contradictoires (au-magasin.fr et HappyCow ne concordent pas) et aucune page officielle Biocoop trouvée. Un So Bio et un Naturalia sont cités par un annuaire, sans vérification.
+
+**Pourquoi rien n'est publié.** Muret ne rend pas cinq commerces vérifiables : le marché de producteurs ne repose que sur une source participative et la cagette est un système de commande ; le Biocoop n'a pas d'horaires confirmés par une source officielle ; le So Bio et le Naturalia n'ont pas été ouverts. La règle des cinq fiches groupées n'est donc pas tenue, et une fiche isolée ne serait pas publiée. Pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret (31), marché de producteurs du mardi (source participative unique) : **déblocage** = jour et lieu confirmés par la mairie ou l'office de tourisme.
+- Muret (31), point de retrait en cagette : **écartée pour doute sur une personne** (enseigne au nom d'une personne privée). Elle ne se rouvre pas.
+- Muret (31), magasin bio à l'enseigne nationale (boulevard Joffrery) : **déblocage** = horaires publiés sur la page officielle du magasin, confirmés par une seconde source ; à traiter selon la règle 3 (magasin-bio, une fiche par point de vente).
+- Muret (31), So Bio et Naturalia : **déblocage** = ouverture d'une fiche par point de vente à la vérification complète (registre, adresse, horaires).
+- Muret (31), trois producteurs du registre Agence Bio sans vente au public : **écartés** (hors vente directe, et noms patronymiques de personnes privées).
+
+**Fiches écartées pour doute sur une personne.** Une (Muret, point de retrait en cagette, nommée dans la note ci-dessus par sa seule forme anonyme).
+
+**Contradictions (règle 5).** Horaires du Biocoop de Muret : au-magasin.fr et HappyCow ne concordent pas. Rien n'est retenu.
+
+**Points d'arrêt.** Haute-Garonne (31) visée, Muret sondée, zéro fiche. Passe suivante : ne pas revenir en Occitanie (région 76) ; les Hauts-de-France (Nord, Oise) restent exclus par la règle 41.c ; relire le classement au premier rang. Le registre Agence Bio du 31 reste à lire page par page si Muret est repris.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
