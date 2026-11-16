@@ -54145,3 +54145,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Eure-et-Loir ouvert : Dreux et Lucé reprises sans source nouvelle, zéro fiche. La descente reprend à la commune suivante par population sans fiche, Châteaudun, puis Vernouillet. Passe suivante : ne pas revenir en Centre-Val de Loire (règle 41.c) ; le classement se relit au premier rang (règle 41).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Nord (59) visé, Grande-Synthe, Denain et Halluin sondées : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). Région de la passe précédente (Eure-et-Loir, Centre-Val de Loire) exclue par la règle 41.c. Premier département éligible : **Nord (59)**, Hauts-de-France, déficit ≈ 4,5, 45 fiches publiées. La Réunion et les autres départements d'outre-mer restent écartés par la règle 93.
+
+**Commune, règles 41.d et 247.** Les communes du 59 les plus peuplées sans fiche ont déjà été éprouvées à de nombreuses passes : Wattrelos (40 847 habitants) et Marcq-en-Barœul (40 184), puis Cambrai, Lambersart, Armentières, Mons-en-Barœul et Coudekerque-Branche (voir les notes précédentes et le point d'arrêt de la passe du 12 novembre). Cette passe ne les reprend pas sans source nouvelle. Descente à **Grande-Synthe (20 239 habitants)**, puis **Denain (20 665)** et **Halluin (20 715)**, sans fiche, en ordre de population décroissante parmi les communes encore non éprouvées au premier tour de recherche.
+
+**Ce qui a été lu.**
+- Recherche web sur Grande-Synthe : l'annuaire participatif Jours-de-Marché ne donne aucun marché pour la commune ; l'office de tourisme de Dunkerque liste un marché de Grande-Synthe sans jour ni horaire dans l'extrait lu ; une fiche de 118712.fr est classée sous des rubriques de location de salles et de crèches, donc non retenue. Aucun producteur identifié à Grande-Synthe.
+- Recherche web sur Denain : l'annuaire participatif ne donne qu'un jour de marché, sans précision ; la page de producteurs de Denain ne renvoie qu'à des points de vente situés à plusieurs dizaines de kilomètres, hors commune (règle 52). Le site de la Ville (`ville-denain.fr`) n'a pas pu être lu dans cette passe.
+- Recherche web sur Halluin : aucun marché de producteurs trouvé. Une mention de « magasin local et bio » par un annuaire participatif, sans nom ni horaire, et un Biocoop cité par un annuaire de marques sans adresse ni horaire vérifiés. Aucune source de la Ville de Halluin lue.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces vérifiables à une source indépendante (règle 41.d) : les seules informations trouvées sont participatives, incomplètes ou hors commune. Rien n'est publié : pas de fiche partielle, pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Nord).**
+- Grande-Synthe (59), marché de la commune : **déblocage** = jour et horaires publiés par la Ville de Grande-Synthe ou par l'office de tourisme de Dunkerque, et liste des producteurs présents.
+- Denain (59), marché hebdomadaire : **déblocage** = lecture de la page des marchés du site `ville-denain.fr` (non lue cette passe), avec jour et horaires.
+- Halluin (59), magasin bio ou de producteurs signalé par un annuaire : **déblocage** = nom, adresse et horaires publiés par le magasin lui-même, confirmés par une seconde source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Aucune retenue : rien n'a été publié.
+
+**Points d'arrêt.** Nord (59) visé : Grande-Synthe, Denain et Halluin sondées, zéro fiche. Passe suivante : ne pas revenir en Hauts-de-France (règle 41.c) ; le classement se relit au premier rang (règle 41). La commune la plus peuplée restante du 59 sans fiche est à reprendre seulement si une source nouvelle est trouvée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
