@@ -54116,3 +54116,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Ille-et-Vilaine : Dinard sondée, dixième commune éprouvée du département ; la descente de la règle 247 (douze communes au maximum) approche de sa borne. Région 53 (Bretagne) close pour la passe suivante (règle 41.c). Passe suivante : Nord, Hauts-de-France et Bretagne exclus ; le classement se relit au premier rang (règle 410).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Eure-et-Loir (28) visé, Dreux et Lucé sondées à nouveau : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule (outre-mer écarté par la règle 93), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Bretagne (Ille-et-Vilaine, 53) : la région est exclue (règle 41.c), ainsi que les Hauts-de-France, en veille. Écartés, clos ou épuisés : Nord, Haute-Garonne, Oise, Loire, Isère, Rhône, Seine-Saint-Denis, Hérault, Val-de-Marne, Yvelines, Ille-et-Vilaine, Savoie, Calvados, Vienne, Haute-Marne, Gironde, Alpes-de-Haute-Provence, Pas-de-Calais, Bas-Rhin, Corse. Premier département éligible : **Eure-et-Loir (28), déficit ≈ 3,19**, cinq fiches publiées, toutes à Chartres et dans son agglomération (Mainvilliers, Amilly, Morancez, Sours).
+
+**Commune, règle 41.d.** Commune la plus peuplée sans aucune fiche : **Dreux (31 543 habitants)**, puis Lucé (15 921), Châteaudun (12 830), Vernouillet (12 310). Dreux et Lucé ont déjà été sondées (passes des 25 octobre et 7 novembre) ; cette passe les reprend faute de source nouvelle, sans l'élargir.
+
+**Ce qui a été lu.**
+- Dreux : une seule source de vente de producteurs, un magasin de producteurs, place de la Bondé, avec horaires donnés par un seul annuaire (répertoire de circuit court) ; l'annuaire participatif des jours de marché liste quatre marchés sans jour ni lieu détaillé ; aucune page de la Ville de Dreux sur les marchés n'a pu être lue ; aucun producteur en marché de plein air confirmé.
+- Lucé : un marché du mercredi rue des Écoles, mentionné par l'office de tourisme de Chartres, sans producteur identifié ; un second créneau dominical de la même rue, non producteur. Aucune source de la mairie.
+- Eure-et-Loir, élargi (Châteaudun, Nogent-le-Rotrou, Bonneval) : des fermes et des magasins de producteurs, mais hors commune (règle 52) ou dans des communes déjà éprouvées ; le répertoire régional Terres d'Eure-et-Loir, qui publie la carte des producteurs, n'a pas pu être ouvert.
+
+**Pourquoi rien n'est publié.** Dreux ne rend qu'un point de vente à une seule source, sans horaires confirmés ; Lucé ne rend qu'un marché à une seule source, sans producteur. Aucune commune ne fournit cinq commerces vérifiables à une source indépendante (règle 41.d). Rien n'est publié : pas de fiche partielle, pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Eure-et-Loir).**
+- Dreux (28), magasin de producteurs, place de la Bondé : **déblocage** = horaires et téléphone lus sur le site du point de vente ou au comptoir, et adresse confirmée par une seconde source (la règle 6 écarte l'annuaire participatif seul).
+- Dreux (28), marchés : **déblocage** = jours et emplacements publiés par la Ville de Dreux (rubrique marchés), à lire lors de la prochaine reprise.
+- Lucé (28), marché du mercredi rue des Écoles : **déblocage** = confirmation par la mairie de Lucé et liste des producteurs présents.
+- Lucé (28), structure inscrite au registre Agence Bio pour la vente aux particuliers : **déblocage** = site de la structure et téléphone publié par elle-même.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre Agence Bio dans le 28 sont des exploitations sous un nom de personne physique : écartées (règle 6), non rouvertes, aucun nom consigné.
+
+**Contradictions (règle 5).** Aucune publiée : rien n'a été retenu.
+
+**Point d'arrêt.** Eure-et-Loir ouvert : Dreux et Lucé reprises sans source nouvelle, zéro fiche. La descente reprend à la commune suivante par population sans fiche, Châteaudun, puis Vernouillet. Passe suivante : ne pas revenir en Centre-Val de Loire (règle 41.c) ; le classement se relit au premier rang (règle 41).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
