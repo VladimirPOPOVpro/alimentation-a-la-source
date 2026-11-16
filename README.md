@@ -54637,3 +54637,25 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+### Passe autonome du 17 novembre 2026 (Oise (60) reprise, Noyon sondée puis Pont-Sainte-Maxence : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (0 demande, 1 en cours). Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 41.e.** Métropole seule, population `geo.api.gouv.fr`, 1 302 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue par la règle 41.c. Le Nord (59) est en veille (règle 41.e). Premier département éligible : l'**Oise (60)**, déficit ≈ 3,67, 12 fiches, en cours de descente (règle 41.d).
+
+**Commune, règle 41.d.** Noyon (12 971 habitants) est la commune suivante de la descente, après Méru et Montataire déjà éprouvées.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 613 opérateurs parcourus : à Noyon, des entreprises de distribution, de préparation et de grande surface, aucune ferme ni producteur en vente directe identifiée ; une entreprise individuelle au nom d'une personne physique, à Noyon, déclarée en vente aux particuliers : écartée pour doute sur une personne, rien n'en est publié ; une exploitation à Larbroye, commune voisine, déclarée en vente aux particuliers, non retenue (commune différente, pas de source indépendante vérifiée à ce stade).
+- Recherche web : un marché hebdomadaire mercredi et samedi matin (Petit Futé) et une fête médiévale annuelle, sans liste de producteurs. Aucun producteur de Noyon trouvé sur deux recherches.
+
+**Pourquoi rien n'est publié.** Zéro commerce vérifié à Noyon : la règle 52 n'est pas remplie. Descente à Pont-Sainte-Maxence (12 361 habitants) : le registre Agence Bio n'y compte aucun opérateur ; la liste des producteurs du Parc naturel régional Oise – Pays de France signale un marché le mardi matin et une AMAP locale, sans fiche vérifiable à ce stade. Aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes).** Noyon : marché hebdomadaire du mercredi et du samedi, producteurs à identifier auprès de la mairie. Pont-Sainte-Maxence : marché du mardi matin et AMAP locale, à confirmer auprès de la mairie et de l'AMAP.
+
+**Fiches écartées pour doute sur une personne.** Une, à Noyon (entreprise individuelle, nom d'une personne physique). Nombre seulement, aucun nom.
+
+**Points d'arrêt.** Passe suivante : Oise, Pont-Sainte-Maxence à relire sur le site de la Ville et la liste du PNR (marché du mardi, AMAP) avant de descendre à Chantilly (règle 41.d). Ne pas revenir en Hauts-de-France avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
