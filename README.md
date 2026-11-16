@@ -54404,3 +54404,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Passe suivante : Haute-Garonne, Saint-Gaudens : ouvrir le site de la Ville (rubrique marchés) et celui de Haute-Garonne Tourisme pour les horaires. À défaut de cinq points, Castelginest, puis Villeneuve-Tolosane (règle 247). Ne pas revenir en Hauts-de-France avant la passe suivante (règle 41.c).
 
 **Publication.** `data/marchands.json` : deux fiches retirées (1 304 → 1 302). `public/images/marchands/` : deux images supprimées. README : cette section et la réécriture sans nom. Aucun code touché.
+
+## Passe autonome du 16 novembre 2026 (Nord (59) visé, Wattrelos sondée, Marcq-en-Barœul sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun email).
+
+**Secteur, règles 41 et 41.c.** Population `geo.api.gouv.fr` (34 969 communes), fiches comptées sur le code postal (1 304). Outre-mer écarté (le validateur ne rend que la métropole). La Haute-Garonne (31), visée à la passe précédente, est exclue par la garde « pas deux passes de suite dans la même région ». Classement métropolitain : Nord (59) en tête, puis Oise (60) et Loire (42). Le Nord est retenu.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Nord, 1 100 opérateurs parcourus : un seul opérateur adressé à Wattrelos, une herboristerie de vente en gros, hors périmètre.
+- Annuaire participatif des marchés : trois marchés recensés à Wattrelos (un le jeudi, un le vendredi, un le dimanche, de 8 h à 13 h). C'est la seule source de ces horaires ; la page de la Ville ne comporte pas de rubrique marchés. Une seule source indépendante, donc rien publié (règle 6 : une demande n'est pas une source, un annuaire participatif ne suffit pas à lui seul).
+- Producteurs recensés par le même annuaire : tous hors de la commune (Toufflers, Wambrechies, Lille, Comines, Wavrin), donc hors de la règle « cinq commerces dans une seule commune ».
+- Marcq-en-Barœul, sondée dans la foulée : trois marchés recensés sans jours ni horaires, un point de vente de ferme signalé par un annuaire de commerce sans horaires vérifiés, et une AMAP de la Grande Ourse dont la livraison est à Lille. Pas cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur deux sources indépendantes. Un marché sans horaires confirmés ni produits vérifiés serait une fiche incomplète (règle 52). Le Carnet des producteurs 2024 de la Métropole européenne de Lille, source la plus complète pour ce secteur, n'a pas pu être ouvert dans cette passe : à consulter en priorité à la prochaine passe sur le Nord, en tant que source de recoupement (et non comme seule source).
+
+**Pistes non publiées.** Wattrelos (59) : trois marchés, horaires à confirmer auprès de la Ville ; producteurs hors commune. Marcq-en-Barœul (59) : marchés sans horaires, point de vente de ferme à vérifier.
+
+**Fiches écartées pour doute sur une personne.** Deux opérateurs du registre à Marcq-en-Barœul portent un nom de personne physique ou d'entreprise individuelle : écartés, non nommés.
+
+**Points d'arrêt.** Nord (59) visé, Wattrelos et Marcq-en-Barœul sondées, zéro fiche publiée. Ne pas revenir dans le Nord à la passe suivante (règle 41.c). Passe suivante : Oise (60) selon le classement, commune la plus peuplée sans fiche, en commençant par le registre de l'Agence Bio.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
