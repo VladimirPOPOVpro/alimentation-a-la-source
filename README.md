@@ -54577,3 +54577,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Vienne sondée à nouveau, zéro fiche. Passe suivante : ne pas revenir en Isère (règle 41.c). Le classement se recalcule ; si la commune suivante de l'Isère par population (Saint-Martin-d'Hères, puis Échirolles) reste en tête, la sonder sur le registre de l'Agence Bio avant toute recherche web.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 16 novembre 2026 (nuit, Haute-Garonne (31) visée, Muret relue au registre : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Compteurs : en_cours 1, integree 6, refusee 6. Pas d'email à envoyer.
+
+**Classement, règle 41.** Population par département (geo.api.gouv.fr, 34 969 communes) comparée aux 1 302 fiches. Les quatre premiers déficits sont ultramarins (974, 971, 972, 973) : écartés, le validateur refuse hors métropole. Le Nord (59) reste en veille (règle 41.e). La passe précédente visait l'Isère (38) : la garde 41.c laisse l'Occitanie éligible. Premier métropolitain éligible : la Haute-Garonne (31), déficit ≈ 3,9, 24 fiches.
+
+**Commune, règle 41.d.** La commune la plus peuplée du 31 sans fiche est Muret, sondée à chaque passe depuis le 16 novembre.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, première page (100 opérateurs) : Toulouse compte déjà cinq fiches de marché, Blagnac une fiche, Colomiers, Tournefeuille, Cugnaux et Cazères déjà couverts. Muret n'apparaît qu'avec un seul opérateur, déjà instruit. Aucune commune nouvelle ne rend cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante nouvelle sur la commune visée. Aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe ; les pistes de Muret restent en attente de leur déblocage antérieur.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
