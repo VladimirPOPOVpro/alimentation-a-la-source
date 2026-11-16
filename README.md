@@ -54524,3 +54524,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Oise : cinq communes éprouvées sur douze (Nogent-sur-Oise, Senlis, Crépy-en-Valois, Méru, Montataire), zéro fiche publiée. Passe suivante : Oise poursuivie à la commune suivante par population (Montataire déjà faite, donc Noyon, puis Pont-Sainte-Maxence), sans revenir sur Méru ni sur Montataire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (soir, bis : Haute-Garonne (31), Muret resondée, Saint-Jean sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Dénominateur métropolitain (outre-mer écarté, le validateur n'accepte que la métropole), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait les Hauts-de-France (Oise) : la réserve de la règle 41.c écarte cette région. Premier département éligible : **Haute-Garonne (31)**, déficit ≈ 3,8. Nord (59) et Oise (60) exclus par la garde.
+
+**Commune, règles 41.d et 247.** Muret (26 079 habitants) reste la commune la plus peuplée du 31 sans fiche, et elle est sondée à nouveau. Saint-Jean (11 261 habitants) est la suivante par population ; elle n'avait pas encore été sondée sur le web, elle l'est cette passe.
+
+**Ce qui a été lu, deux sources indépendantes quand c'était possible.**
+- Muret, magasin bio à enseigne nationale, boulevard de Joffrery : deux annuaires donnent des horaires qui se contredisent (contradiction consignée, règle 5). Aucune page officielle du magasin n'a été trouvée à l'adresse testée.
+- Muret, marché de producteurs du mardi : un annuaire de marchés le donne en fin de journée (17 h - 19 h), sous forme de point de retrait lié à une plateforme de commande en ligne ; l'office de tourisme donnait précédemment un marché de plein vent du mardi matin, non reconfirmé. Contradiction consignée.
+- Muret, AMAP ou ferme en vente directe : aucune vérifiée dans la commune ; les annuaires de vente directe renvoient à des fermes situées hors commune.
+- Saint-Jean (31240) : une épicerie-boucherie, sans marché ni point de vente de producteurs confirmé. Un point de vente de producteurs est cité dans un annuaire à L'Union (commune voisine, déjà sondée), sans horaires confirmés.
+
+**Pourquoi rien n'est publié.** Muret donne au mieux trois points, dont deux contradictoires sur les horaires ; Saint-Jean n'en donne aucun. La règle 52 (cinq commerces vérifiables groupés) n'est pas remplie, et une fiche isolée ou un trio n'est pas publié.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret (31), marché de producteurs du mardi : **déblocage** = horaires confirmés par la Ville ou l'office de tourisme.
+- Muret (31), magasin bio à enseigne nationale : **déblocage** = page officielle du magasin ou appel public confirmant les horaires.
+- Muret (31), marché paysan annoncé par la Ville : **déblocage** = jour, lieu et exposants confirmés par une source officielle.
+- Saint-Jean (31), point de vente de producteurs cité par un annuaire, sans adresse ni horaires vérifiés : **déblocage** = source de la commune ou du producteur.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Points d'arrêt.** Haute-Garonne : Muret et Saint-Jean sondées, zéro fiche. La descente reprend à Castelginest, puis Villeneuve-Tolosane (règle 247). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
