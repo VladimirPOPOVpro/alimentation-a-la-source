@@ -54617,3 +54617,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Passe suivante : Marcq-en-Barœul (40 184 habitants, sans fiche), en lisant le site de la Ville et l'annuaire des commerces avant le registre. Ne pas revenir dans les Hauts-de-France avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 16 novembre 2026 (23 h, Haute-Garonne (31) visée, Muret relue au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucun message n'est envoyé.
+
+**Classement, règle 41.** Populations `geo.api.gouv.fr` comparées aux 1 302 fiches. Les trois premiers déficits sont ultramarins (987, 988) ou écartés par le validateur : hors métropole. Le Nord (59) est en veille (règle 41.e) et le Nord est la région de la passe précédente : règle 41.c, exclu. L'Oise (60), le Loiret et les autres départements des Hauts-de-France sont exclus pour la même raison. Premier métropolitain éligible : la Haute-Garonne (31), déficit ≈ 3,8, 24 fiches.
+
+**Commune, règle 41.d.** Muret reste la commune la plus peuplée du 31 sans fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, Haute-Garonne, première page (100 opérateurs) : Muret n'apparaît qu'avec deux opérateurs déjà instruits ; Toulouse et les communes voisines sont déjà couvertes ou hors de la commune visée. Aucune commune nouvelle ne rend cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante nouvelle sur la commune visée. Aucun fait incertain n'est publié (règle 5). La seconde page du registre n'a pas été parcourue dans cette passe : à relire à la prochaine passe sur ce département.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
