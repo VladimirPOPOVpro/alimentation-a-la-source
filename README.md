@@ -54552,3 +54552,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Haute-Garonne : Muret et Saint-Jean sondées, zéro fiche. La descente reprend à Castelginest, puis Villeneuve-Tolosane (règle 247). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (soir, ter : Isère (38) reprise, Vienne (38544) relue : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Aucune demande en cours.
+
+**Secteur, règles 41, 41.c et 41.d.** Métropole seule, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la garde 41.c écarte l'Occitanie. Le Nord (59) reste épuisé (règle 41.d). Le Rhône (69) est en pause après douze communes éprouvées, sans fiche (règle 247). L'Isère (38) reprend donc, à Vienne (38544, 31 778 habitants), commune la plus peuplée du département sans fiche.
+
+**Ce qui a été relu.**
+- Marché de Vienne, place Miremont : un marché du samedi (6 h - 13 h) et des marchés alimentaires du vendredi et du dimanche matin ; l'office de tourisme et deux agendas en ligne ne donnent pas la même composition (producteurs ou produits manufacturés). Source unique sur le contenu : non suffisant pour une fiche de producteur, la fiche de marché reste à écrire après confirmation par l'office de tourisme (+33 4 74 78 30 00).
+- Magasin de producteurs « Le Panier Enchanté », à Vienne : toujours sans horaires ni adresse vérifiés sur une source officielle (règle 6, déjà écarté à la passe précédente).
+- Stratégie agricole de l'agglomération Vienne-Condrieu : contexte seulement, aucune fiche nommée.
+- Autres lieux cités par les guides (fermes du Pilat, « Le quart d'heure paysan » de Condrieu) : hors Isère, dans le Rhône, région déjà éprouvée.
+
+**Pourquoi rien n'est publié.** Vienne donne au plus une fiche vérifiable (le marché, dont la composition reste contradictoire) et un point d'exploitation (Villette-de-Vienne, téléphone non confirmé). Le groupe de cinq commerces vérifiables groupés sur une commune n'est pas atteint : une fiche isolée n'est pas publiée.
+
+**Pistes non publiées (anonymes, Isère).**
+- Vienne (38) : marché du samedi, place Miremont. **Déblocage** = confirmation de la composition (producteurs) par l'office de tourisme, puis fiche de marché.
+- Vienne (38) : magasin de producteurs cité par un comparateur. **Déblocage** = adresse et horaires confirmés sur une source officielle ou du commerce lui-même.
+- Villette-de-Vienne (38) : exploitation avec visite à la ferme. **Déblocage** = téléphone publié par le commerce.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Points d'arrêt.** Vienne sondée à nouveau, zéro fiche. Passe suivante : ne pas revenir en Isère (règle 41.c). Le classement se recalcule ; si la commune suivante de l'Isère par population (Saint-Martin-d'Hères, puis Échirolles) reste en tête, la sonder sur le registre de l'Agence Bio avant toute recherche web.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
