@@ -4022,30 +4022,6 @@
     "a_confirmer": true
   },
   {
-    "slug": "all-orto-di-alfredo",
-    "nom": "All'Orto di Alfredo",
-    "categorie": "producteur",
-    "piliers": [
-      "alimentation",
-      "economie"
-    ],
-    "lat": 43.462998,
-    "lon": 6.330759,
-    "adresse": "2203 chemin des Fadons, 83340 Le Thoronet",
-    "horaires": "Aucun horaire d'ouverture publié : l'apiculteur demande qu'on le contacte pour convenir d'un rendez-vous et de la commande.",
-    "produits": [
-      "Miel de garrigue (romarin, thym, sumac)",
-      "Miel de lavande du plateau de Valensole",
-      "Baume à lèvres au miel",
-      "Stick à lèvres au miel"
-    ],
-    "description": "Apiculteur installé au quartier des Fadons depuis 2011, dont les ruches butinent le romarin, le thym et le sumac de la garrigue du Thoronet. Elles partent en transhumance sur le plateau de Valensole au mois de juin pour le miel de lavande. Les pots sont vendus en direct, avec quelques baumes et sticks à lèvres fabriqués à partir du miel.",
-    "telephone": "06 22 09 38 73",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=All+Orto+di+Alfredo+Le+Thoronet",
-    "image_url": "/images/marchands/all-orto-di-alfredo.jpg",
-    "a_confirmer": true
-  },
-  {
     "slug": "marche-du-thoronet",
     "nom": "Marché du Thoronet",
     "categorie": "marche",
@@ -4606,35 +4582,6 @@
     "site_web": "https://www.fromageriestjaume.fr",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fromagerie+Saint+Jaume+Barjols",
     "image_url": "/images/marchands/fromagerie-saint-jaume.jpg",
-    "a_confirmer": true
-  },
-  {
-    "slug": "gaec-sam-et-ju",
-    "nom": "GAEC Sam et Ju",
-    "categorie": "producteur",
-    "piliers": [
-      "alimentation",
-      "environnement",
-      "economie"
-    ],
-    "lat": 43.559379,
-    "lon": 6.003996,
-    "adresse": "16 place Martin Ferdinand, 83670 Barjols",
-    "horaires": "Toute l'année, tous les jours sur rendez-vous. Les apiculteurs demandent d'appeler avant de passer, pour passer commande et convenir d'une heure.",
-    "produits": [
-      "Miel de lavande et de lavande fine",
-      "Miel de romarin",
-      "Miel de garrigue",
-      "Miel de châtaignier",
-      "Miel de bruyère blanche",
-      "Miel d'acacia",
-      "Pain d'épices pur miel",
-      "Propolis, baumes et savons de la ruche"
-    ],
-    "description": "Apiculteurs récoltants certifiés en agriculture biologique, installés au centre du village, dont les ruchers sont conduits dans le Var et dans la région. La gamme suit les récoltes et change d'une saison à l'autre ; la vente directe se fait sur rendez-vous, après commande par téléphone.",
-    "telephone": "06 20 73 93 86",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=GAEC+Sam+et+Ju+Barjols",
-    "image_url": "/images/marchands/gaec-sam-et-ju.jpg",
     "a_confirmer": true
   },
   {
