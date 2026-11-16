@@ -54597,3 +54597,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 16 novembre 2026 (Nord (59), Wattrelos sondée au registre et sur le site de la Ville : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne), rien n'est publié, aucun message n'est envoyé.
+
+**Secteur.** Population `geo.api.gouv.fr`, fiches comptées sur le code postal, outre-mer écarté (le validateur ne rend que la métropole). Nord (59) retenu : déficit le plus élevé hors de la région visée à la passe précédente (Haute-Garonne).
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, les 1 796 opérateurs du Nord parcourus sur les dix-huit pages : à Wattrelos, seules des grandes surfaces (un Leclerc, un Lidl, hors périmètre), un ESAT, et une herboristerie enregistrée au nom d'une personne physique : écartée pour doute sur une personne, rien n'en est publié.
+- Site officiel de la Ville de Wattrelos : accessible, mais aucune rubrique marchés ou producteurs trouvée à l'accueil.
+
+**Pourquoi rien n'est publié.** Aucun producteur, ferme, AMAP ou magasin de producteurs indépendant identifié à Wattrelos sur deux sources : la règle 52 n'est pas remplie.
+
+**Fiches écartées pour doute sur une personne.** Une, à Wattrelos (herboristerie au nom d'une personne physique). Nombre seulement, aucun nom.
+
+**Points d'arrêt.** Passe suivante : Marcq-en-Barœul (40 184 habitants, sans fiche), en lisant le site de la Ville et l'annuaire des commerces avant le registre. Ne pas revenir dans les Hauts-de-France avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
