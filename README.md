@@ -54501,3 +54501,26 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Muret sondée à nouveau, zéro fiche. Passe suivante : ouvrir la page officielle du magasin du boulevard de Joffrery et trouver la page marchés de la Ville (ou l'annonce du marché paysan) ; à défaut, appliquer la règle 247 à la commune suivante du 31. Ne pas revenir dans les Hauts-de-France (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+### Passe autonome du 16 novembre 2026 (Oise (60) reprise, Méru et Montataire sondées : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La dernière passe visait la Haute-Garonne (Occitanie) : l'Oise (Hauts-de-France) est éligible. Le Nord reste épuisé (règle 41.d : Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul et Coudekerque-Branche sondées). Dans l'Oise, trois communes étaient déjà éprouvées (Nogent-sur-Oise, Senlis, Crépy-en-Valois) ; la passe poursuit à la suivante par population, **Méru** (13 897 habitants), puis **Montataire** (14 257 habitants).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, six cent treize opérateurs relus. À Méru, une seule entrée, au nom d'une personne physique : elle relève du doute sur une personne et n'est ni nommée ni retenue. À Montataire, une seule entrée, qui ne vend pas aux particuliers.
+- Recherche web sur les marchés de producteurs de Méru et de Montataire : aucun jour, aucun lieu ni aucun horaire de marché de producteurs confirmé. Un annuaire de marchés signale un jour de marché à Méru sans le nommer ; le site de la ville n'a pas été ouvert. À Montataire, seul un marché de Noël ponctuel (21 et 22 novembre, gymnase Marcel Coene) apparaît : ce n'est pas un commerce de circuit court permanent.
+- Un magasin Auchan à Méru existe : hypermarché généraliste, écarté (commerce généraliste hors périmètre).
+
+**Pourquoi rien n'est publié.** Ni Méru ni Montataire ne rendent aucun commerce vérifiable sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Pistes non publiées (anonymes, Oise).**
+- Méru (60) : marché hebdomadaire signalé par un annuaire, jour et lieu non confirmés. **Déblocage** = jour et lieu publiés par la Ville ou l'office de tourisme, puis exposants vérifiés.
+- Méru (60) : une entrée du registre, au nom d'une personne physique, vente aux particuliers. **Écartée** pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une (Méru, Oise), voir ci-dessus.
+
+**Point d'arrêt.** Oise : cinq communes éprouvées sur douze (Nogent-sur-Oise, Senlis, Crépy-en-Valois, Méru, Montataire), zéro fiche publiée. Passe suivante : Oise poursuivie à la commune suivante par population (Montataire déjà faite, donc Noyon, puis Pont-Sainte-Maxence), sans revenir sur Méru ni sur Montataire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
