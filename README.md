@@ -54288,3 +54288,30 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Nord (59) repris, zéro fiche publiée. Passe suivante : sonder Armentières ; si elle reste sans source, descendre à Villeneuve-d'Ascq ou Lambersart selon les sondages déjà consignés, ou relire le classement en excluant le Nord par la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Rhône (69) reprise, Givors sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (enseigne portant un prénom, contact privé) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 247.** Dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la règle 41.c écarte les Hauts-de-France. Classement brut de cette passe : Haute-Garonne (31) en tête des départements éligibles. La descente du Rhône engagée par la règle 247 se poursuit toutefois (huit communes éprouvées sur douze au 14 novembre), et la passe la reprend ; le conflit entre le classement et la descente est consigné ici, il ne remonte pas.
+
+**Commune, règle 41.d.** Dans le Rhône, les communes les plus peuplées sans fiche sont déjà éprouvées (Vaulx-en-Velin, Saint-Priest, Caluire-et-Cuire, Meyzieu, Villefranche-sur-Saône, Rillieux-la-Pape, Décines-Charpieu, Tassin-la-Demi-Lune). Commune suivante : **Givors (21 379 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Rhône : une seule entité à Givors, un hypermarché (exclu, commerce généraliste).
+- Site officiel de la Ville : refusé depuis cet environnement (erreur 403), donc non consultable.
+- Recherche web : un magasin bio à enseigne nationale, sans horaires confirmés par une source officielle ; un appel à candidatures municipal (2025) pour un local bio et local qui ne confirme aucune ouverture ; aucun marché de producteurs ni AMAP identifié.
+
+**Pourquoi rien n'est publié.** Givors ne rend ni cinq commerces vérifiables ni même une fiche à deux sources indépendantes. Une fiche isolée de magasin bio ne serait pas publiée sans horaires vérifiés.
+
+**Pistes non publiées (anonymes, Rhône).**
+- Givors (69), magasin bio à enseigne nationale (rue du Commerce) : **déblocage** = horaires confirmés par la page officielle du magasin ou une seconde source, et entrée active au registre.
+- Givors (69), local bio et local de l'appel à candidatures (rue Charles-Simon) : **déblocage** = ouverture effective confirmée par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Aucune retenue : aucun fait contesté n'a été publié.
+
+**Points d'arrêt.** Rhône (69) repris, Givors sondée, zéro fiche. Passe suivante : la descente du Rhône arrive à douze communes éprouvées ; appliquer la règle 247 (changement de département, en ouvrant le classement par la Haute-Garonne (31)) si Givors reste sans source.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
