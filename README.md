@@ -54428,3 +54428,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Nord (59) visé, Wattrelos et Marcq-en-Barœul sondées, zéro fiche publiée. Ne pas revenir dans le Nord à la passe suivante (règle 41.c). Passe suivante : Oise (60) selon le classement, commune la plus peuplée sans fiche, en commençant par le registre de l'Agence Bio.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Isère (38) visée, Vienne (38544) sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Demandes en cours inchangées.
+
+**Secteur, règles 41 et 41.c.** Population `geo.api.gouv.fr`, métropole seule, fiches comptées sur le code postal (1 302). Classement : Nord (59) en tête, mais exclu par la garde de la région (passe précédente en Hauts-de-France). Les départements 31 et 69, déjà sondés à répétition, ont été écartés au profit de l'Isère (38), déficit de 4,35 ; même région que Lyon, mais la garde ne porte que sur la passe précédente.
+
+**Commune, règle 41.d.** Vienne (38544, 31 778 habitants) est la commune la plus peuplée de l'Isère sans aucune fiche publiée.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Isère : 2 255 opérateurs parcourus. À Vienne, une trentaine d'opérateurs, dont beaucoup sont des grossistes, des sièges ou des transformateurs qui ne vendent pas au public.
+- Office de tourisme et site Alpes-Isère : le marché du samedi (place Miremont, de 6 h à 13 h, producteurs et produits frais) est confirmé par deux fiches d'années différentes.
+- La Maison Colombier, à Villette-de-Vienne (route de Marennes) : entité active au registre des entreprises, visite et dégustation de l'exploitation (poires, distillerie) le 1er et le 3e samedi du mois à 14 h, avec réservation. Les deux numéros de téléphone donnés par les sources ne coïncident pas : téléphone non publié.
+- NODABIO, 50 cours Romestang, magasin bio (enseigne Biocoop) : entité active au registre, aux mêmes coordonnées que l'annuaire. Horaires donnés par un seul annuaire.
+
+**Pourquoi rien n'est publié.** Trois fiches solides au plus. Règle 52 : il faut quatre points vérifiables pour compléter sur une commune limitrophe ; il n'y en a pas quatre. Écartés :
+- le magasin de producteurs « Le Panier Enchanté », à Vienne : son horaire et son adresse viennent d'un comparateur, mais le registre ne le connaît qu'à Bourgoin-Jallieu, sous un établissement cessé (règle 6) ;
+- un grossiste en produits de la ruche, à Vienne : vente aux professionnels, hors périmètre ;
+- deux adresses de transformateurs ou de fumeries signalées par le registre de l'Agence Bio, sans trace de point de vente sur le web : non publiées.
+
+**Pistes non publiées (Isère).** Vienne (38) : marché du samedi (horaires confirmés, fiche à écrire avec l'adresse de la place Miremont) ; Villette-de-Vienne : Maison Colombier (téléphone à confirmer) ; Vienne : NODABIO / Biocoop (horaires à recouper avec une source autre que l'annuaire). Vienne : deux adresses du registre à reprendre (boulangerie-pâtisserie, petit producteur de Malissol) hors périmètre pour l'instant.
+
+**Points d'arrêt.** Passe suivante : ne pas revenir en Isère (règle 41.c). Si la descente 41.d reprend à Vienne, compléter par les communes limitrophes de Vienne-Condrieu Agglomération et chercher un quatrième point vérifiable.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
