@@ -54315,3 +54315,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Rhône (69) repris, Givors sondée, zéro fiche. Passe suivante : la descente du Rhône arrive à douze communes éprouvées ; appliquer la règle 247 (changement de département, en ouvrant le classement par la Haute-Garonne (31)) si Givors reste sans source.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Haute-Garonne (31) reprise, Muret éprouvée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 247.** Dénominateur national, 1 304 fiches. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : la réserve de la règle 41.c écarte donc cette région. Le Rhône reste en pause après douze communes éprouvées (Givors sans source) ; la règle 247 ouvre le département suivant du classement, la Haute-Garonne (31), dont la descente reprend à la commune suivante de Muret.
+
+**Commune, règle 41.d.** Muret (26 079 habitants) est reprise, comme le prévoit la note de la passe précédente. Elle ne rend pas encore cinq commerces vérifiables.
+
+**Ce qui a été lu, avec deux sources indépendantes quand c'était possible.**
+- Marché de producteurs du mardi : l'office de tourisme Haute-Garonne Tourisme donne le mardi de 8 h 00 à 12 h 45, square Maïmat, avenue de l'Europe, téléphone publié par l'office ; un annuaire de marchés confirme la même plage. Un autre annuaire donne 7 h 30 à 13 h, un autre 7 h à 13 h : contradiction consignée, la plage de l'office est retenue si la fiche est publiée.
+- Magasin bio à enseigne nationale, boulevard de Joffrery : la page officielle du magasin donne lundi au samedi de 9 h 00 à 19 h 30, fermé le dimanche, téléphone publié par le réseau. Les annuaires concordent ; un ancien annuaire donne des horaires coupés, écarté.
+- Magasin bio à enseigne nationale, rue Pierre-de-Fermat : le site de l'enseigne donne le samedi de 9 h 30 à 19 h 30, fermé le dimanche, avec « horaires particuliers certains jours » : doute de fait, à confirmer.
+- Mairie de Muret : site officiel introuvable (refus depuis cet environnement et aucun résultat de recherche) ; aucune page officielle des marchés consultable.
+- Recherche AMAP, drive fermier, vente directe à la ferme : aucun résultat fiable.
+- Registre Agence Bio du 31 : lu page par page dans la passe précédente, aucun opérateur de Muret ne vend aux particuliers (détail consigné dans la note précédente).
+
+**Pourquoi rien n'est publié.** Trois fiches entières se dessinent sur Muret (un marché, deux magasins bio), dont une avec un doute de fait sur ses horaires : c'est moins que les cinq fiches groupées de la règle 41.d, et une fiche isolée ou un trio n'est pas une zone (règle 52). Les trois restent donc en pistes, avec leur travail complet, et la descente reprend à la commune suivante du 31 à la passe qui y reviendra (règle 247).
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret (31), marché de producteurs du mardi matin (office de tourisme, 8 h 00 - 12 h 45) : **prête**, il manque deux fiches pour former la zone.
+- Muret (31), magasin bio à enseigne nationale, boulevard de Joffrery (lundi - samedi 9 h - 19 h 30, téléphone du réseau) : **prête**.
+- Muret (31), magasin bio à enseigne nationale, rue Pierre-de-Fermat (samedi 9 h 30 - 19 h 30) : **déblocage** = confirmation des horaires hors samedi par la page du magasin ou un appel public du magasin ; à publier en `a_confirmer`.
+- Muret (31), points de vente généralistes ou épiceries citées par les annuaires : hors périmètre de la règle 3 (commerces généralistes ou non vérifiés).
+- Muret (31), épicerie de livraison et épicerie locale citées par un article de 2020 : **déblocage** = existence actuelle confirmée par une source récente.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Horaires du marché (7 h / 7 h 30 / 8 h selon les annuaires) : l'office de tourisme retenu, rien n'est publié. Horaires du magasin bio du boulevard : un ancien annuaire écarté au profit de la page officielle.
+
+**Points d'arrêt.** Haute-Garonne (31) reprise, Muret éprouvée, zéro fiche. Passe suivante : rechercher les commerces restants de Muret (AMAP, fermes, autres magasins vérifiés) pour atteindre cinq fiches, ou, à défaut, appliquer la règle 247 à la commune suivante du 31 ; ne pas revenir en Auvergne-Rhône-Alpes (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
