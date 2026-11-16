@@ -54264,3 +54264,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Haute-Garonne (31) visée, Muret sondée, zéro fiche. Passe suivante : ne pas revenir en Occitanie (région 76) ; les Hauts-de-France (Nord, Oise) restent exclus par la règle 41.c ; relire le classement au premier rang. Le registre Agence Bio du 31 reste à lire page par page si Muret est repris.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Nord (59) repris, Armentières visée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` : rien n'est publié.
+
+**Secteur, règles 41 et 41.c.** Dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Dernière passe : Haute-Garonne (Occitanie), donc Occitanie exclue. Classement : Nord (59), déficit ≈ 4,47, 45 fiches ; Haute-Garonne (31), ≈ 3,83 ; Oise (60), ≈ 3,69. Le Nord reste le premier département éligible au sens strict de la règle 41.c.
+
+**Correction de la passe du 16 novembre (Lille).** La note précédente affirmait que Lille n'avait aucune fiche. C'est faux : le jeu de données compte plusieurs fiches au code postal 59000 (Lille) et 59160 (Lomme). Lille ne peut donc pas être la commune de la règle 41.d. Le Nord compte 45 fiches.
+
+**Commune, règle 41.d.** Communes du 59 sans aucune fiche, par population : Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières. Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge et Lambersart ont déjà été sondées sans fiche publiée (passes des 6 et 7 novembre). Armentières (26 998 habitants) est la première commune non encore sondée.
+
+**Ce qui a été lu.** Le registre et les sources de cette passe n'ont pas été relus pour Armentières : le temps a été consacré à la vérification du classement et de la correction ci-dessus. Aucune fiche de cette commune n'a été vérifiée à deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Aucune fiche n'atteint le niveau de vérification exigé : pas de source indépendante lue pour Armentières, donc rien à publier.
+
+**Pistes non publiées (anonymes, Nord).** Armentières (59) : à sonder au registre Agence Bio et aux sites de la Ville et de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Premier point : la note Lille du 16 novembre donnait Lille sans fiche, contredit par les données (voir ci-dessus).
+
+**Points d'arrêt.** Nord (59) repris, zéro fiche publiée. Passe suivante : sonder Armentières ; si elle reste sans source, descendre à Villeneuve-d'Ascq ou Lambersart selon les sondages déjà consignés, ou relire le classement en excluant le Nord par la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
