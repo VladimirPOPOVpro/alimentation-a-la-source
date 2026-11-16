@@ -54473,3 +54473,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Armentières sondée sans succès. Au titre de la règle 247, la descente du Nord reprend à la commune suivante par population, non encore sondée, lors de la prochaine passe ; ne pas revenir en Isère (règle 41.c). Passe suivante : recalculer le classement.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (soir, Haute-Garonne (31) reprise, Muret relue : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Dénominateur métropolitain (outre-mer écarté, le validateur n'accepte que la métropole), 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord : la réserve de la règle 41.c écarte les Hauts-de-France. Premier département éligible : **Haute-Garonne (31), déficit ≈ 3,8**, 24 fiches publiées.
+
+**Commune, règle 41.d.** Muret (26 079 habitants) reste la commune la plus peuplée du 31 sans fiche. Saint-Gaudens, la suivante, a fait l'objet de la passe précédente.
+
+**Ce qui a été lu, deux sources indépendantes quand c'était possible.**
+- Magasin bio à enseigne nationale, boulevard de Joffrery : les annuaires concordent sur l'adresse et l'horaire de fermeture (19 h 30), mais la page officielle du magasin n'a pas été ouverte (introuvable à l'adresse testée). Horaires des autres jours non confirmés par une source officielle.
+- Marché de plein vent du mardi matin : une réponse de recherche et l'office de tourisme donnent 8 h - 12 h 45, avenue de l'Europe, square Maïmat ; un autre annuaire donne une plage plus large, consigné comme contradiction (règle 5). La page « marchés » du site de la Ville renvoie une erreur 404.
+- Une annonce de la Ville relayée sur les réseaux parle d'un nouveau marché paysan à Muret. Non ouverte en détail, donc non retenue.
+- Registre des entreprises : rien d'exploitable pour les commerces de bouche de la commune.
+- Aucune AMAP ni ferme en vente directe vérifiée à Muret. Les annuaires de vente directe listent des producteurs sans adresse ou sans horaires confirmés.
+
+**Pourquoi rien n'est publié.** Deux fiches solides au mieux, dont une avec un horaire non confirmé : la règle 52 (cinq commerces vérifiables groupés) n'est pas remplie, et une fiche isolée n'est pas publiée.
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Muret (31), marché de plein vent du mardi matin : **prête** à condition de confirmer les horaires par la Ville ou l'office de tourisme (contradiction consignée).
+- Muret (31), magasin bio à enseigne nationale, boulevard de Joffrery : **déblocage** = page officielle du magasin ouverte et horaires confirmés.
+- Muret (31), marché paysan annoncé par la Ville : **déblocage** = jour, lieu et exposants confirmés par une source officielle.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Points d'arrêt.** Muret sondée à nouveau, zéro fiche. Passe suivante : ouvrir la page officielle du magasin du boulevard de Joffrery et trouver la page marchés de la Ville (ou l'annonce du marché paysan) ; à défaut, appliquer la règle 247 à la commune suivante du 31. Ne pas revenir dans les Hauts-de-France (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
