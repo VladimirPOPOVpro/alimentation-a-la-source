@@ -54204,3 +54204,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Charente-Maritime (17) visée, Saintes sondée, zéro fiche. Passe suivante : ne pas revenir en Nouvelle-Aquitaine (règle 41.c). La descente reprend à Rochefort si Saintes reste sans source, avec le 06 comme premier candidat de remplacement si le 17 est épuisé.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+### Passe autonome du 16 novembre 2026 (Nord (59) visé, Lille sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, piste anonyme déjà consignée) : rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Charente-Maritime (Nouvelle-Aquitaine) : la réserve de la règle 41.c ne joue donc pas pour les Hauts-de-France. Premier département du classement : **Nord (59), déficit ≈ 4,47, 45 fiches publiées**, devant la Haute-Garonne (31, ≈ 3,83) et l'Oise (60, ≈ 3,69).
+
+**Commune, règle 41.d.** Commune la plus peuplée du 59 sans aucune fiche : **Lille (238 246 habitants)**. Lille figure dans les pistes déjà consignées, mais n'a jamais été sourcée jusqu'au bout.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés de Lille : aucune liste officielle des marchés producteurs de la Ville n'a pu être lue ; l'annuaire participatif Bottin et les guides touristiques ne donnent ni jours ni producteurs détaillés ; le Carnet des producteurs 2024 de la Métropole européenne de Lille (document de la MEL, non lu en entier) recense les points de vente directe du territoire.
+- Recherche web sur les magasins de producteurs et bio : Que Choisir (carte circuit court, source participative) donne O'Tera Wazemmes et Robin des Bio sans adresse ni horaires vérifiés à Lille ; O'Tera Saint-André-lez-Lille (horaires publiés) et Ferm'Entières (La Chapelle-d'Armentières, horaires publiés) sont **hors commune** (règle 52) ; La Sablière (Ennetières-en-Weppes) est hors commune et sans horaires.
+- Biocoop du marché couvert de Wazemmes : horaires donnés par un seul annuaire (au-magasin.fr). Enseigne bio nationale, à trancher au regard du périmètre de MODERATION.md ; non retenue dans cette passe.
+
+**Pourquoi rien n'est publié.** Lille ne rend, à une source indépendante, ni cinq commerces vérifiables (règle 41.d), ni un seul producteur avec adresse et horaires confirmés par un site officiel. Les candidats Lille-intra sont soit sans horaires, soit sans adresse vérifiée, soit sourcés par un seul annuaire participatif. Rien n'est publié : pas de fiche partielle, pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Lille, Nord).**
+- Lille (59), magasin O'Tera Wazemmes : **déblocage** = adresse et horaires publiés par le magasin lui-même, confirmés par une seconde source indépendante.
+- Lille (59), Robin des Bio (épicerie participative) : **déblocage** = horaires publiés par l'épicerie et adresse confirmée au registre des entreprises.
+- Lille (59), marchés de Wazemmes et Saint-Sauveur : **déblocage** = jours et liste des producteurs publiés par la Ville de Lille ou la MEL (Carnet des producteurs 2024 à lire en entier).
+- Lille (59), Biocoop Wazemmes : **à trancher** au regard de MODERATION.md (enseigne bio nationale) avant toute décision.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Aucune retenue : rien n'a été publié.
+
+**Points d'arrêt.** Nord (59) visé, Lille sondée, zéro fiche. Passe suivante : ne pas revenir en Hauts-de-France (règle 41.c) ; le classement se relit au premier rang (règle 41), avec la Haute-Garonne (31) en tête après le Nord.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
