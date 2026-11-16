@@ -54453,3 +54453,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Passe suivante : ne pas revenir en Isère (règle 41.c). Si la descente 41.d reprend à Vienne, compléter par les communes limitrophes de Vienne-Condrieu Agglomération et chercher un quatrième point vérifiable.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 16 novembre 2026 (Nord (59) repris, Armentières sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucune demande en cours.
+
+**Secteur, règles 41 et 41.c.** Population `geo.api.gouv.fr` (métropole seule, 1 304 fiches comptées sur le code postal, Var et outre-mer écartés par la formule). Classement métropolitain : Nord (59) en tête, déficit 4,47. La passe précédente visait l'Isère ; la garde ne porte que sur elle, donc le Nord est éligible.
+
+**Commune, règle 41.d.** Armentières (26 998 habitants) est la commune la plus peuplée du Nord encore sans fiche après Wattrelos, Marcq-en-Barœul, Cambrai, Maubeuge et Lambersart, déjà sondées.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, premières 200 entrées seulement : aucun opérateur de vente au public à Armentières.
+- Recherche web : un seul marché recensé (place du Général de Gaulle), sans horaires confirmés par une source officielle. Aucune ferme, aucune AMAP ni magasin de producteurs identifié dans la commune.
+
+**Pourquoi rien n'est publié.** Une commune doit rendre cinq commerces vérifiables sur deux sources indépendantes (règle 52 pour quatre). Armentières n'en rend qu'un, sans horaires vérifiés (règle 9). Rien n'est publié.
+
+**Pistes non publiées.** Armentières (59) : marché de plein air, place du Général de Gaulle, jour et horaires à confirmer auprès de la Ville.
+
+**Points d'arrêt.** Armentières sondée sans succès. Au titre de la règle 247, la descente du Nord reprend à la commune suivante par population, non encore sondée, lors de la prochaine passe ; ne pas revenir en Isère (règle 41.c). Passe suivante : recalculer le classement.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
