@@ -54173,3 +54173,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Nord (59) visé : Grande-Synthe, Denain et Halluin sondées, zéro fiche. Passe suivante : ne pas revenir en Hauts-de-France (règle 41.c) ; le classement se relit au premier rang (règle 41). La commune la plus peuplée restante du 59 sans fiche est à reprendre seulement si une source nouvelle est trouvée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Charente-Maritime (17) visée, Saintes sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». La demande en_cours (#13, Var) reste sans action : doute sur une personne, rien n'est publié, aucune réponse n'est envoyée.
+
+**Secteur, règles 41, 41.c et 410.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c, donc le Nord (59) et l'Oise (60) aussi. Écartés, clos ou épuisés : Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Loire, Hérault, Yvelines, Val-de-Marne, Calvados, Vienne, Haute-Marne, Gironde, Alpes-de-Haute-Provence, Haute-Corse, Corse-du-Sud, Seine-et-Marne, Seine-Maritime, Savoie, Ain, Finistère, Ille-et-Vilaine. Premier département ouvert du classement : **Charente-Maritime (17), Nouvelle-Aquitaine, déficit ≈ 3,25**, dix fiches publiées, toutes à La Rochelle et dans son agglomération, plus Salles-sur-Mer et Châtelaillon-Plage. Le 06 (Alpes-Maritimes, déficit ≈ 3,24) vient immédiatement derrière, à un centième près.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 17 sans aucune fiche : **Saintes (25 363 habitants, code postal 17100)**, puis Rochefort (23 460), Royan (19 425). Saintes est sondée ; Rochefort n'a pas été descendue faute de source à Saintes (règle 41.d : on ne descend qu'après l'échec d'une commune).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 17 : à Saintes, un opérateur de préparation sans vente au public (ALCRITE, 17100), et une structure à Nieul-lès-Saintes sans vente. Rien de vendeur à Saintes.
+- Office de tourisme de Saintes, rubrique marchés : marché nocturne de la place Bassompierre (vendredis en été, sans producteur identifié), marché Saint-Pierre (jours et horaires non lus), marché de la Gare (fiche périmée, 2021-2025).
+- Brochure de l'agglomération de Saintes (PATweb) : « Le 17 à la ferme », marché de producteurs un 17 de chaque mois, lieu changeant ; une soixantaine de producteurs fermiers listés, sans fiche individuelle.
+- Que Choisir, carte circuit court : un magasin de la ferme à Saintes, horaires donnés par une seule source (lundi-vendredi 10h30-13h, 15h-18h, samedi fermé).
+- Brochure de l'agglomération et PagesJaunes : la Halte Marché aux Gonds (magasin de produits d'exploitations bio et HVE), **située à Les Gonds, commune distincte de Saintes**, avec des horaires contradictoires entre les deux sources.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Saintes n'a deux sources indépendantes pour l'adresse et les horaires : le magasin de la ferme ne repose que sur une seule fiche, les marchés n'ont ni jours ni producteurs confirmés, et la Halte Marché est hors commune. Pas de fiche partielle, pas de géocodage, pas de photo, pas de vérification de site web.
+
+**Pistes non publiées (anonymes, Charente-Maritime).**
+- Saintes (17), magasin de la ferme (chemin de la Prairie) : **déblocage** = horaires confirmés par le magasin ou son site, et seconde source indépendante pour l'adresse.
+- Saintes (17), marché Saint-Pierre : **déblocage** = jours, horaires et liste des producteurs publiés par la Ville de Saintes ou l'office de tourisme.
+- Saintes (17), « Le 17 à la ferme » : **déblocage** = lieu de l'édition en cours, donné par les organisateurs ; un marché itinérant n'est pas une fiche fixe, la règle de l'événement ponctuel s'applique.
+- Les Gonds (17), Halte Marché aux Gonds : **déblocage** = horaires tranchés par le magasin lui-même (contradiction entre la brochure et PagesJaunes) ; commune distincte, à rattacher au secteur de Saintes au titre de la règle 28 si elle est publiée.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions (règle 5).** Horaires de la Halte Marché aux Gonds : brochure et PagesJaunes ne concordent pas. Rien n'est retenu.
+
+**Points d'arrêt.** Charente-Maritime (17) visée, Saintes sondée, zéro fiche. Passe suivante : ne pas revenir en Nouvelle-Aquitaine (règle 41.c). La descente reprend à Rochefort si Saintes reste sans source, avec le 06 comme premier candidat de remplacement si le 17 est épuisé.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
