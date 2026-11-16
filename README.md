@@ -54348,3 +54348,17 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Haute-Garonne (31) reprise, Muret éprouvée, zéro fiche. Passe suivante : rechercher les commerces restants de Muret (AMAP, fermes, autres magasins vérifiés) pour atteindre cinq fiches, ou, à défaut, appliquer la règle 247 à la commune suivante du 31 ; ne pas revenir en Auvergne-Rhône-Alpes (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Haute-Corse 2B, Prunelli-di-Fiumorbo sondée) : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` : doute sur une personne, rien n'est publié et aucun email n'est envoyé.
+
+**Secteur.** Population `geo.api.gouv.fr`, fiches comptées sur le code postal, outre-mer écarté (hors du cadre de validation des coordonnées). Les départements 59, 31 et 69 sont closes par les passes récentes ; la Haute-Corse (2B) reste la descente ouverte.
+
+**Commune.** Prunelli-di-Fiumorbo (3 880 habitants), sondée. Une recherche n'a donné qu'un marché des Halles (aucun jour ni horaire publié), un marché de Migliacciaru sans date, une ferme brasseuse (TY CORSA) et un domaine certifié Ecocert sans fiche vérifiée. Aucun magasin bio spécialisé trouvé. Moins de cinq commerces vérifiables sur deux sources indépendantes : rien n'est publié.
+
+**Pistes non publiées (anonymes, Haute-Corse).** Prunelli-di-Fiumorbo (2B) : marché des Halles, jour et horaires à confirmer auprès de la mairie ; marché de Migliacciaru, date non publiée ; ferme brasseuse de Querciolo, vente à la propriété à vérifier sur le site du producteur ; domaine Ecocert de Val Caggia, vente directe à confirmer.
+
+**Points d'arrêt.** Passe suivante : compléter Prunelli-di-Fiumorbo sur le site de la mairie et l'office de tourisme, puis à défaut Penta-di-Casinca.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
