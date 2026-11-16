@@ -54362,3 +54362,23 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Passe suivante : compléter Prunelli-di-Fiumorbo sur le site de la mairie et l'office de tourisme, puis à défaut Penta-di-Casinca.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 16 novembre 2026 (Nord (59) visé, Wattrelos resondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 reste `en_cours` (doute sur une personne, rien n'est publié, aucun email).
+
+**Secteur, règles 41 et 41.c.** Population `geo.api.gouv.fr` (34 969 communes), fiches comptées sur le code postal (1 304). Outre-mer écarté (le validateur ne rend que la métropole). La Haute-Corse (2B), visée à la passe précédente, est exclue par la garde « pas deux passes de suite dans la même région ». Classement métropolitain : Nord (59) à 4,47 de déficit, puis Haute-Garonne (31) à 3,83, Oise (60) à 3,69, Loire (42) à 3,64, Isère (38) à 3,57. Le Nord est retenu.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur Wattrelos (marchés, producteurs, AMAP) : trois marchés recensés par un annuaire de marchés, sans jours ni horaires ; aucune ferme ni AMAP identifiée dans la commune. Les seuls magasins bio cités sont des enseignes nationales, hors du périmètre (commerces généralistes ou chaînes).
+- Pistes à lire à la passe suivante, aucune encore ouverte : le Carnet des producteurs 2024 de la Métropole Européenne de Lille (PDF, points de vente directe du territoire) ; la carte de Que Choisir (magasins de producteurs) ; le site de la Ville (rubrique marchés) ; le site officiel de la Ville de Wattrelos et son Wattrelos-Découvertes, à ouvrir avant toute recherche de tiers.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend ici cinq commerces vérifiables sur deux sources indépendantes : les marchés sont recensés sans horaires, et aucune fiche de producteur n'a été relevée. Publier une fiche de marché sans produits ni horaires vérifiés serait une fiche incomplète (règle 52).
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Points d'arrêt.** Nord (59) visé, Wattrelos resondée, zéro fiche publiée. Passe suivante : ouvrir le Carnet des producteurs de la MEL et le site de la Ville de Wattrelos ; si ces deux sources ne donnent pas cinq commerces, appliquer la règle 247 et passer à Marcq-en-Barœul. Ne pas revenir dans les Hauts-de-France avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
