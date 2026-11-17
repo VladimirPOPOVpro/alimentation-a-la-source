@@ -54711,3 +54711,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Oise : Chantilly sondée, zéro fiche publiée. Passe suivante : Oise reste éligible au classement (règle 41.c : la passe précédente n'est pas dans les Hauts-de-France, la règle ne bloque que la passe immédiatement précédente) ; à reprendre sur Chantilly en lisant la fiche de l'AMAP sur sa plateforme et la liste des producteurs de la Ville. Si la descente est jugée épuisée (règle 247, douze communes éprouvées), le classement passe au département suivant.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (nuit, Haute-Garonne (31) reprise, Plaisance-du-Touch sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle », une demande en cours inchangée. Mode 2 (couverture).
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, populations `geo.api.gouv.fr`, 1 302 fiches comptées sur le code postal. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue par la règle 41.c. Le Nord (59) reste en veille (règle 41.e). Premier département éligible : la **Haute-Garonne (31)**, déficit ≈ 3,8, 24 fiches.
+
+**Commune, règle 41.d.** Muret (26 079 habitants) reste la plus peuplée du 31 sans fiche, sondée à chaque passe depuis le 16 novembre sans résultat. **Incohérence consignée** : la descente du 17 novembre passait directement à Seysses, alors que Plaisance-du-Touch (21 079 habitants), Balma (17 772) et Castanet-Tolosan (15 317) sont plus peuplées, sans fiche, et n'avaient jamais été sondées. Le classement par population est donc repris dans l'ordre : Plaisance-du-Touch d'abord.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Plaisance-du-Touch : un marché de plein vent, tous les jeudis et samedis de 8 h à 12 h 45, place Bombail. Le marché est généraliste (commerçants titulaires, saisonniers et occasionnels) et la page ne liste aucun producteur : une fiche « marché » n'est pas publiée en l'état (règle 52, marché généraliste).
+- Registre Agence Bio, Haute-Garonne, 800 opérateurs relus : à Plaisance-du-Touch, une boulangerie en vente aux particuliers (hors catégories du site), des opérateurs en vente professionnelle seule, et une entreprise individuelle au nom d'une personne physique (écartée pour doute sur une personne, rien n'en est publié).
+- Magasin bio « L'Eau Vive », centre commercial Bernadet : présent dans un annuaire et dans un guide, sans horaires confirmés pour cette adresse ; son réseau compte plusieurs succursales aux horaires différents. Le site de l'enseigne n'a pas été ouvert à ce stade.
+- Recherche web : aucun AMAP ni point de vente de producteurs identifié dans la commune.
+
+**Pourquoi rien n'est publié.** Plaisance-du-Touch rend un marché généraliste, un magasin bio dont les horaires ne sont pas confirmés pour l'adresse, et rien d'autre : moins de cinq points vérifiés et groupés (règle 52). Aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Plaisance-du-Touch (31), marché de plein vent jeudi et samedi : **déblocage** = liste des producteurs présents, publiée par la Ville ou le marché.
+- Plaisance-du-Touch (31), magasin bio du centre commercial Bernadet : **déblocage** = horaires de cette adresse lus sur le site de l'enseigne ou confirmés par téléphone public.
+
+**Fiches écartées pour doute sur une personne.** Une, à Plaisance-du-Touch (entreprise individuelle, nom d'une personne physique). Nombre seulement, aucun nom.
+
+**Points d'arrêt.** Haute-Garonne : Plaisance-du-Touch sondée, zéro fiche. Passe suivante : ne pas revenir en Occitanie si la passe du 17 novembre au soir y est allée (règle 41.c) ; sinon Balma (17 772 habitants) puis Castanet-Tolosan (15 317), en lisant d'abord le site de chaque Ville et le registre Agence Bio (déjà relu pour le 31 : Balma n'y compte qu'une boulangerie et un vignoble en vente pro, Castanet-Tolosan une biocoop à enseigne nationale et un boulanger).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
