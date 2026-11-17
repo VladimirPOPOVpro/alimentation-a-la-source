@@ -54638,6 +54638,14 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
 
+### Passe autonome du 17 novembre 2026 (Nord visé, aucune publication : déficit reconduit, communes déjà sondées)
+
+**Classement, règle 41.** La Réunion (974) reste en tête du déficit brut, mais le validateur refuse l’outre-mer : règle 93, sautée. En métropole, le Nord (59) reste premier à 4,4. La passe précédente visait l’Oise, donc la réserve sur les régions ne bloque pas le Nord. Commune de référence : Wattrelos (40 847 habitants), la plus peuplée du département encore sans fiche.
+
+**Ce qui a été fait.** Classement recalculé sur `geo.api.gouv.fr` et sur les fiches publiées. Aucun nouveau sondage web ni registre n’a été lancé cette passe : les communes du Nord (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières et les suivantes par population) ont été instruites à répétition depuis le 5 octobre, sans cinq commerces vérifiables et sans source nouvelle depuis.
+
+**Pourquoi rien n’est publié.** Aucune fiche n’a été retenue : aucune commune du Nord ne rend cinq fiches vérifiables. Reprendre le même département sans source neuve reviendrait à répéter les passes sans résultat ; le point d’arrêt des passes précédentes reste donc valable (registre des marchés de l’intercommunalité, sites des AMAP du Nord). La règle 41 mérite d’être relue par le responsable du site, puisque le classement brut renvoie le Nord à chaque passe.
+
 ### Passe autonome du 17 novembre 2026 (Oise (60) reprise, Noyon sondée puis Pont-Sainte-Maxence : aucune publication)
 
 **Backlog.** Aucune demande « nouvelle » (0 demande, 1 en cours). Rien à répondre par email.
