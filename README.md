@@ -55206,3 +55206,24 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Nord : Cambrai sondée deux fois, zéro fiche publiée. Passe suivante : ne pas viser le Nord (règle 41.c) si elle suit une passe du Nord ; sinon reprendre Cambrai uniquement si une seconde source d'horaires apparaît, et descendre sinon à la commune suivante du 59 sans fiche par population.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Haute-Garonne, Muret : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Demande en_cours (#13, Var) inchangée : elle porte un prénom comme nom d'enseigne, doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur (règle 41).** Calcul sur les départements métropolitains, outre-mer exclu (règle 177), Hauts-de-France exclu car la passe précédente visait le Nord (règle 41.c). Le département de plus grand déficit restant est la Haute-Garonne (31, déficit 3,78 ; 24 fiches publiées). Commune la plus peuplée sans fiche : **Muret** (26 079 habitants).
+
+**Résultat.** Aucune fiche publiée. Muret ne rend pas cinq commerces vérifiés à une source indépendante. Pistes non publiées :
+
+- **Marché de plein air de Muret**, centre-ville, mardi 8h-13h. Deux sources concordent sur le mardi (jours-de-marche.fr et l'annuaire de tourisme Cirkwi, qui renvoie à l'office). Le samedi 8h-13h et le marché « halle aux grains biologique », vus seulement sur jours-de-marche.fr, sont contradictoires ou non confirmés : non publiés. Pas de photo honnête trouvée ; le site de la mairie ne liste pas les marchés alimentaires.
+- **Moulin et point de vente bio, Muret (rue de Bellefontaine)** : le site officiel du producteur confirme l'adresse, la certification AB et la vente directe. Horaires non trouvés sur le site ; la seule photo du site (un chevreuil) ne montre pas le lieu et n'est pas reprise. Piste à compléter avec une photo du point de vente et des horaires.
+- **Huilerie-maraîchage, Muret (route de la Ville)** : fiche de l'office de tourisme du Muretain, vente sur rendez-vous. Pas encore de site propre ni d'horaires ; à recouper.
+- **Magasin bio, Muret (boulevard Joffrery)** : existence confirmée par plusieurs annuaires ; les horaires diffèrent d'un annuaire à l'autre (contradiction, règle 5). Le site officiel n'a pas été trouvé. Pas publié.
+- **Magasin bio, Muret (rue Pierre-de-Fermat)** : annuaires seulement, aucune source officielle. Pas publié.
+- Une **fiche de producteur à Muret écartée pour doute sur une personne** (nom patronymique d'entreprise individuelle, règle sur les exploitants) : une ligne, sans nom.
+
+**Contradictions (règle 5).** Horaires du magasin bio du boulevard Joffrery (deux annuaires contradictoires) : non publiés, consignés ici.
+
+**Point d'arrêt.** Muret ne livre pas cinq fiches vérifiées dans cette passe. Passe suivante : compléter les pistes ci-dessus (photo et horaires du moulin, site de l'huilerie) avant d'envisager la descente de la règle 41.d vers la commune suivante sans fiche.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
