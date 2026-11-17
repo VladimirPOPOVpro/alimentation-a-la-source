@@ -54935,3 +54935,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Bas-Rhin : Sélestat sondée, une fiche vérifiée et non publiée. La passe suivante ne vise pas le Grand Est (règle 41.c) ; le classement se recalcule, Calvados à recompter au regard de la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Loire (42) reprise, Roche-la-Molière sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c, 41.e, 177 et 247.** Métropole seule (règle 177), dénominateur national incluant l'outre-mer (règle 224), 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Bas-Rhin (Grand Est) : cette région est exclue par la garde 41.c. Le Nord reste en veille (41.e) ; l'Oise, la Haute-Garonne et la Corse sont closes ou exclues par les passes précédentes. L'Ille-et-Vilaine (Bretagne) est exclue. Premier département éligible : la **Loire (42)**, déficit ≈ 3,62, 11 fiches, descente ouverte (quatre communes éprouvées sur la borne de douze de la règle 247).
+
+**Commune, règles 41.d et 247.** Commune suivante par population sans fiche : **Roche-la-Molière (9 843 habitants)**, cinquième commune éprouvée du département.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Loire, quatre pages de cent (1 411 opérateurs). À Roche-la-Molière : cinq entrées ; une seule déclare une vente aux particuliers, une entreprise individuelle au nom d'une personne physique : écartée (règle 6 et règle 259), non reprise, aucun nom consigné.
+- Site de la Ville, rubrique « Le marché » : marché bi-hebdomadaire les mercredis et samedis matins de 8 h à 12 h 30 environ, place Jean-Jaurès, une vingtaine d'étals (fruits et légumes, produits laitiers, boucherie, poissonnerie) ; le vendredi matin, un boucher et un traiteur place du Bourgeat. Géocodage BAN de la place Jean-Jaurès : 4,323403 / 45,434971, score 0,96.
+- Registre des entreprises : la fromagerie de la rue de la République est active, mais son enseigne est un patronyme ; écartée (règle 259), non reprise. Les grandes surfaces de la commune (généralistes) sont hors périmètre.
+- Recherche web : aucune seconde source officielle pour le marché (ni office de tourisme ni comité du tourisme trouvés).
+
+**Pourquoi rien n'est publié.** Une seule piste publiable à la commune : le marché de la place Jean-Jaurès, confirmé par la seule Ville. La règle 9 demande la commune et l'office ; à défaut, le marché reste en attente. Roche-la-Molière ne rend pas cinq commerces vérifiables : le groupement de cinq n'est pas atteint, et une fiche isolée ne suit pas le critère du groupement.
+
+**Pistes non publiées (anonymes, Roche-la-Molière, 42).**
+- Marché bi-hebdomadaire, place Jean-Jaurès (mercredi et samedi matin) : **déblocage** = seconde source officielle (office de tourisme ou comité du tourisme) ou groupe de cinq atteint.
+- Marché du vendredi matin, place du Bourgeat (boucher et traiteur) : **déblocage** = source de la Ville ou de l'office décrivant les étals ; pas de fiche de commerce fixe à ce stade.
+- Producteur en vente aux particuliers, entreprise individuelle au nom d'une personne physique : **écarté pour doute sur une personne** (règle 259) ; ne se rouvre pas sans enseigne distincte.
+- Fromagerie de la rue de la République, enseigne patronymique : **écartée pour doute sur une personne** (règle 259) ; ne se rouvre pas sans enseigne distincte.
+
+**Fiches écartées pour doute sur une personne.** Deux à Roche-la-Molière (nombre seulement, aucun nom).
+
+**Contradictions (règle 5).** Aucune.
+
+**Point d'arrêt.** Loire : Roche-la-Molière sondée, cinquième commune éprouvée, zéro fiche publiée. La passe suivante ne vise pas Auvergne-Rhône-Alpes (règle 41.c) ; la Loire reste ouverte pour la reprise, à Veauche (8 975 habitants), dont la Ville publie deux marchés officiels (la Cité, mercredi et samedi matin, place Aristide-Briand ; le Bourg, vendredi matin, place de l'Europe), sixième commune éprouvée. La borne de douze de la règle 247 n'est pas atteinte.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
