@@ -54837,3 +54837,22 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Loire : quatre communes éprouvées sur la borne de douze de la règle 247 (Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon), zéro fiche. Passe suivante : la Loire reste ouverte ; commune suivante par population sans fiche, **Roche-la-Molière (9 843 habitants)**, puis Veauche, pour laquelle une piste existe. Ne pas revenir sur Rive-de-Gier ni Le Chambon-Feugerolles sans déblocage nommé.
 
 **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (Nord (59) visé, Cambrai sondée au registre et sur le web : aucune publication)
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule (l'outre-mer est hors calcul). Populations `geo.api.gouv.fr` (34 969 communes), 1 302 fiches comptées sur le code postal. La passe précédente visait la Loire (42), en Auvergne-Rhône-Alpes : cette région est exclue par la garde 41.c. Premier département éligible : le **Nord (59)**, déficit ≈ 6,5, 45 fiches.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sans fiche après plusieurs passes. **Cambrai (31 134 habitants)** est la commune suivante par population sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Nord, pagination complète (1 796 opérateurs). À Cambrai : 29 entrées, dont cinq déclarent une vente aux particuliers. Plusieurs portent un nom de personne en enseigne : non retenues (règle 6 et règle des personnes).
+- Recherche web : Biocambrésis, magasin bio indépendant, rue de Bohain. Une seule source indépendante (certificat Ecocert) confirme l'adresse et l'activité ; aucun horaire trouvé. Une fiche à une source : non publiée.
+- Gosselet Maraîcher, magasin de la ferme, allée François-Fénélon. Référencé par un annuaire de circuit court, sans horaires ni liste de produits lisibles. Non publié.
+- Un annuaire de marchés participatif indique un seul jour de marché à Cambrai, sans source officielle lue. Non publié.
+- Biocoop et Bio C'Bon : contradictions d'horaires déjà consignées aux passes d'octobre ; non reprises cette passe.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend aucune fiche vérifiable à deux sources, et le groupe de cinq n'est pas atteint. Publier une fiche sans horaires ni produits enverrait un visiteur devant une porte fermée.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Cambrai (noms de personnes en enseigne), non reprises, ne se rouvrent pas.
+
+**Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c) ; le classement se recalcule. La reprise de Cambrai attend une seconde source indépendante pour les horaires de Biocambrésis (site du commerce, Chambre d'agriculture ou office de tourisme du Cambrésis) et les horaires de Gosselet Maraîcher auprès du producteur.
