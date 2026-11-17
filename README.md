@@ -54737,3 +54737,21 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Haute-Garonne : Plaisance-du-Touch sondée, zéro fiche. Passe suivante : ne pas revenir en Occitanie si la passe du 17 novembre au soir y est allée (règle 41.c) ; sinon Balma (17 772 habitants) puis Castanet-Tolosan (15 317), en lisant d'abord le site de chaque Ville et le registre Agence Bio (déjà relu pour le 31 : Balma n'y compte qu'une boulangerie et un vignoble en vente pro, Castanet-Tolosan une biocoop à enseigne nationale et un boulanger).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (nuit bis, Nord (59) visé, Wattrelos et Marcq-en-Barœul resondées : aucune publication)
+
+**Calcul de la règle 41.** Population par département (geo.api.gouv.fr, 68,95 M d'habitants) et 1 302 fiches publiées. En tête du déficit, La Réunion (974) reste écartée par la règle 93. Le premier département éligible est le **Nord (59)**, déficit 4,39 ; la passe précédente visait la Haute-Garonne (Occitanie), la réserve « pas deux passes de suite dans la même région » est donc respectée.
+
+**Commune.** Wattrelos (40 847 habitants, zéro fiche) : registre Agence Bio relu. Une grande surface, un établissement dont le nom est celui d'une personne physique (écarté pour doute sur une personne, sans nom), un ESAT producteur de fruits et légumes dont aucun point de vente n'est publié à Wattrelos. Rien de vérifiable. Marcq-en-Barœul (40 184 habitants, zéro fiche) : registre relu, une grande surface, une boutique de thé, un fournil dont le nom est un patronyme (écarté), une AMAP dont le point de distribution est à Lille, un magasin de chaîne bio ; la recherche web ne rend ni marché de producteurs ni magasin bio indépendant. Aucune des deux communes ne rend cinq commerces vérifiables.
+
+**Descente.** Les communes suivantes sans fiche (Cambrai, Maubeuge, Lambersart, Armentières, Mons-en-Barœul, Croix, Hautmont) ont au plus deux à trois entrées de vente directe au registre, presque toutes des grandes surfaces, des entreprises à patronyme ou des coopératives sans point de vente identifié. Le registre ne fournit donc pas cinq points vérifiables dans une même commune du Nord sans fiche. Aucune fiche n'est produite.
+
+**Pistes non publiées (anonymes, Nord).**
+- Wattrelos (59), ESAT producteur : **déblocage** = point de vente publié par l'établissement ou par la Ville.
+- Marcq-en-Barœul (59), AMAP : **déblocage** = point de distribution situé dans la commune, lu sur le site de l'AMAP.
+
+**Fiches écartées pour doute sur une personne.** Deux, à Wattrelos et à Marcq-en-Barœul (entreprises individuelles, nom d'une personne physique). Nombre seulement, aucun nom.
+
+**Point d'arrêt.** Nord : la formule renvoie ce département, mais ses communes sans fiche ne rendent pas cinq points vérifiables. Passe suivante : Wattrelos et Marcq-en-Barœul ne se rouvrent pas sans nouvelle source ; la formule (règle 41.c) reste la même, la passe devra soit sonder une commune nordiste plus petite avec un registre plus riche, soit constater le même blocage.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
