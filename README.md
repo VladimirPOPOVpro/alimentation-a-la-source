@@ -54659,3 +54659,31 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Passe suivante : Oise, Pont-Sainte-Maxence à relire sur le site de la Ville et la liste du PNR (marché du mardi, AMAP) avant de descendre à Chantilly (règle 41.d). Ne pas revenir en Hauts-de-France avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (Haute-Garonne (31) reprise, Castelginest et Villeneuve-Tolosane sondées : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Rien à traiter, donc mode 2 (couverture).
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule (règle 177 : outre-mer hors calcul, le validateur ne rend que la métropole). Populations `geo.api.gouv.fr` (34 969 communes), 1 302 fiches comptées sur le code postal. La passe précédente visait l'Oise (Hauts-de-France) : la garde 41.c écarte cette région, donc aussi le Nord (59) et l'Oise (60). Premier département métropolitain éligible : **Haute-Garonne (31)**, déficit ≈ 3,8, 24 fiches. Suivants au classement : Loire (42), déficit ≈ 3,6 ; Corse-du-Sud (2B), ≈ 3,5.
+
+**Commune, règles 41.d et 247.** La descente reprend là où la passe du 16 novembre l'avait laissée. Sondées à ce jour dans le 31 : Saint-Gaudens, Muret, Saint-Jean, puis cette passe **Castelginest** (11 271 habitants) et **Villeneuve-Tolosane** (11 044 habitants). Borne de douze communes : cinq sont éprouvées.
+
+**Ce qui a été lu, deux sources indépendantes quand c'était possible.**
+- Castelginest : un marché biologique du samedi matin, Centre ville, cité par un site de jours de marché participatif (qui renvoie à la mairie pour confirmer). Le site officiel de la commune n'a pas répondu (erreur 500) et la recherche n'en a pas trouvé d'autre. Un maraîcher bio en vente directe et en paniers est signalé dans la commune par un annuaire, sans nom ni horaires confirmés. Aucune source communale ni enseigne vérifiée.
+- Castelginest, registre Agence Bio (500 opérateurs de la Haute-Garonne relus) : aucun opérateur déclaré dans la commune.
+- Villeneuve-Tolosane : aucun marché, ferme ou point de vente identifié dans la commune. Un annuaire d'AMAP cite la commune dans sa zone de couverture, sans point de distribution. Le marché signalé sur un site participatif n'est ni nommé ni confirmé. Une AMAP voisine (Auzeville-Tolosane) est hors commune.
+- Registre Agence Bio, Villeneuve-Tolosane : aucun opérateur dans les 500 relus.
+- Une page de vente directe listée sur un site participatif (commune de Saint-Jean et Toulouse) renvoie vers des enseignes hors des deux communes sondées ; plusieurs de ses lignes de produits sont visiblement recopiées à tort. Non retenue.
+
+**Pourquoi rien n'est publié.** Castelginest rend un marché à une seule source, non confirmée par la commune, et un maraîcher sans horaires ni adresse vérifiés. Villeneuve-Tolosane ne rend rien. La règle 52 (cinq commerces vérifiables groupés) n'est pas remplie, et aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes, Haute-Garonne).**
+- Castelginest (31), marché biologique du samedi matin : **déblocage** = jour, lieu et horaires confirmés par la commune ou l'office de tourisme.
+- Castelginest (31), maraîchage bio en vente directe et paniers : **déblocage** = adresse, horaires et site vérifiés auprès du producteur ou de son réseau.
+- Villeneuve-Tolosane (31), marché signalé par un site participatif : **déblocage** = nom, jour et lieu confirmés par la commune.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Points d'arrêt.** Haute-Garonne : cinq communes éprouvées sur douze, zéro fiche. La descente reprend à la commune suivante par population sans fiche : Seysses (10 539 habitants), puis Auterive (10 456). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule. **Incohérence consignée** : la note du 17 novembre demandait de relire Pont-Sainte-Maxence (Oise) à la passe suivante, or l'Oise est en Hauts-de-France et la règle 41.c l'exclut tant que la passe précédente ne vise pas une autre région. La reprise de l'Oise attend donc une passe qui ne suit pas une passe en Hauts-de-France.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
