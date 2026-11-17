@@ -54755,3 +54755,29 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Nord : la formule renvoie ce département, mais ses communes sans fiche ne rendent pas cinq points vérifiables. Passe suivante : Wattrelos et Marcq-en-Barœul ne se rouvrent pas sans nouvelle source ; la formule (règle 41.c) reste la même, la passe devra soit sonder une commune nordiste plus petite avec un registre plus riche, soit constater le même blocage.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (planifiée, Loire (42) visée, Rive-de-Gier et Le Chambon-Feugerolles sondées : aucune publication)
+
+**Classement, règles 41, 41.c et 177.** Métropole seule (règle 177 : l'outre-mer est hors calcul, le validateur ne rend que la métropole). Populations `geo.api.gouv.fr` (34 969 communes), 1 302 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : cette région est écartée par la garde 41.c, donc aussi l'Oise et le Pas-de-Calais. La Haute-Garonne (31) a été retenue par le classement de la passe du 16 novembre, mais sa descente est close : toutes ses communes de plus de 10 000 habitants sans fiche ont été éprouvées (Seysses, Auterive, Balma, Castanet-Tolosan, Blagnac, Muret, etc.). Le classement a donc été recalculé hors du 31. Premier département éligible : la **Loire (42)**, déficit ≈ 3,6, 11 fiches. Suivants : Corse-du-Sud (2B), ≈ 3,5 (aucune fiche), Isère (38), ≈ 3,5.
+
+**Commune, règle 41.d.** Saint-Étienne, Saint-Chamond et Saint-Just-Saint-Rambert portent déjà des fiches. Les communes de la Loire sans fiche les plus peuplées sont donc **Rive-de-Gier (15 242 habitants)**, puis Le Chambon-Feugerolles (12 314), Riorges (11 139) et Andrézieux-Bouthéon (10 425). Roanne, Firminy et Montbrison ont été éprouvées aux passes précédentes et ne sont pas reprises.
+
+**Rive-de-Gier.**
+- Registre Agence Bio, Loire, 800 opérateurs relus : à Rive-de-Gier, deux entreprises individuelles en vente aux particuliers au nom de personnes physiques (écartées pour doute sur une personne, rien n'en est publié, elles ne se rouvrent pas), une association à l'adresse de l'hôtel de ville sans site ni horaires vérifiés, une ferme en vente directe dont le site n'est pas établi, et deux grandes surfaces ou grossistes hors périmètre.
+- Recherche web : un marché de producteurs et d'artisans de bouche se tient place de la Libération, avec des samedis réservés aux producteurs, mais les sources sont des agendas anciens ou sans horaire daté. Une franchise Biocoop est implantée rue Jean-Baptiste-Berlier, sans source officielle de sa fiche consultée.
+- Bilan : zéro fiche publiable, la zone de cinq n'est pas atteinte.
+
+**Le Chambon-Feugerolles.**
+- Registre Agence Bio : une entrée en vente aux particuliers (un magasin bio, sans site ni horaires vérifiés), des grandes surfaces, des grossistes et des exploitations en vente professionnelle seule. Des entrées au nom de personnes physiques (non reprises).
+- Recherche web : le marché de la place Jean-Jaurès est un marché de produits manufacturés, hors périmètre (le site ne référence pas les commerces généralistes). Aucun magasin de producteurs listé pour la commune dans les annuaires consultés.
+- Bilan : zéro fiche publiable.
+
+**Pistes non publiées (anonymes, Loire).**
+- Rive-de-Gier, deux entreprises individuelles au nom de personnes physiques, vente aux particuliers : écartées pour doute sur une personne, ne se rouvrent pas.
+- Rive-de-Gier, association « Les Jardins de Valériane », vente aux consommateurs au registre, adresse à l'hôtel de ville : **Déblocage** = adresse, horaires et site publiés par l'association elle-même.
+- Rive-de-Gier, franchise Biocoop rue Jean-Baptiste-Berlier : **Déblocage** = fiche officielle du magasin ou de l'enseigne, horaires vérifiés.
+- Rive-de-Gier, marché de producteurs place de la Libération (samedis) : **Déblocage** = page officielle de la Ville ou calendrier daté.
+- Rive-de-Gier, Ferme de la Micale, vente particuliers au registre : aucune source propre consultée. **Déblocage** = site ou page de la ferme avec adresse et horaires.
+- Le Chambon-Feugerolles, un magasin bio au registre (vente aux particuliers) : **Déblocage** = adresse, horaires et site publiés par le commerce.
+
+**Points d'arrêt.** Loire : deux communes éprouvées sur dix-sept sans fiche (Rive-de-Gier, Le Chambon-Feugerolles), zéro fiche. Passe suivante : la Loire reste ouverte ; la commune suivante par population sans fiche est **Riorges (11 139 habitants)**, à sonder au registre puis sur le site de la commune. La règle 41.c n'empêche pas de revenir dans la Loire tant que la passe précédente n'y est pas allée, ce qui est le cas.
