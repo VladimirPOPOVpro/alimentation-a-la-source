@@ -54887,3 +54887,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Charente-Maritime : une fiche vérifiée à Rochefort, zéro publiée. Passe suivante : Rochefort reste ouverte ; chercher les commerces restants (AMAP, fermes en vente directe, magasins de producteurs vérifiés au registre) pour atteindre quatre points, ou, à défaut, descendre à la commune suivante de Charente-Maritime sans fiche, Royan (19 425 habitants), en gardant la règle 41.c et la borne de la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de `lint`/`build` nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Ille-et-Vilaine (35) reprise, Chantepie sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une seule en cours, sans changement. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Charente-Maritime (Nouvelle-Aquitaine) : cette région est exclue par la règle 41.c. Nord (veille, règle 41.e), Oise, Haute-Garonne, Rhône, Isère, Loire, Seine-Saint-Denis, Val-de-Marne, Yvelines, Hérault et Corse restent hors du tour. Premier département éligible : **Ille-et-Vilaine (35)**, déficit ≈ 4,05, Bretagne, la règle 41.c ne visant que la passe immédiatement précédente.
+
+**Commune, règles 41.d et 247.** Rennes, Fougères, Vitré, Cesson-Sévigné, Betton, Pacé, Châteaugiron et Dinard ont déjà été éprouvées. Commune suivante par population sans fiche : **Chantepie (10 670 habitants)**, onzième commune éprouvée du département (borne de la règle 247 : douze).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine, pagination complète (2 512 opérateurs). À Chantepie : quinze entrées, dont une seule déclare une vente aux particuliers hors catégories du site (une boulangerie). Plusieurs entrées portent un nom de personne physique : écartées (règle 6), non reprises, aucun nom consigné.
+- Recherche web, deux requêtes : deux points de vente en circuit court sont signalés, Au Gré des Champs (ferme-magasin, rue de la Martinière) et Brin d'Herbe (magasin collectif de producteurs). Aucun marché alimentaire hebdomadaire n'est trouvé pour la commune, ni sur une page officielle lue.
+
+**Pourquoi rien n'est publié.** Au Gré des Champs : horaires incohérents entre deux annuaires (jeudi 17 h 30 et vendredi 19 h 30 seulement), pas de source du producteur lue. Brin d'Herbe : une ancienne fiche indique un horaire de magasin de producteurs à une adresse ancienne, un article de presse parle d'un projet de magasin en construction ; son ouverture actuelle n'est pas confirmée. Aucune des deux fiches n'est vérifiée à deux sources, et Chantepie ne rend pas cinq commerces (ni quatre, règle 52).
+
+**Contradictions (règle 5).** Brin d'Herbe : ancienne fiche (horaires mardi-samedi, 10 h-12 h 30 et 15 h-19 h) contre un annuaire récent (vendredi 15 h-19 h) et un article sur un projet de nouveau magasin. Consignée, non tranchée : rien n'est publié.
+
+**Pistes non publiées (anonymes, Chantepie, 35).**
+- Au Gré des Champs, ferme-magasin : **déblocage** = horaires publiés par la ferme et une seconde source indépendante.
+- Brin d'Herbe, magasin de producteurs : **déblocage** = confirmation de l'ouverture actuelle et de l'adresse par la mairie, le magasin ou le guide de Rennes Métropole.
+
+**Point d'arrêt.** Ille-et-Vilaine : Chantepie sondée, onzième commune, zéro fiche publiée. La passe suivante ne peut pas revenir en Bretagne (règle 41.c si la passe est immédiatement après celle-ci). La reprise du 35 pourra passer à Saint-Grégoire (9 957 habitants) ou Le Rheu (9 839), à condition que la borne de la règle 247 le permette : elle n'est atteinte qu'à la douzième commune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
