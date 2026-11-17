@@ -54911,3 +54911,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Ille-et-Vilaine : Chantepie sondée, onzième commune, zéro fiche publiée. La passe suivante ne peut pas revenir en Bretagne (règle 41.c si la passe est immédiatement après celle-ci). La reprise du 35 pourra passer à Saint-Grégoire (9 957 habitants) ou Le Rheu (9 839), à condition que la borne de la règle 247 le permette : elle n'est atteinte qu'à la douzième commune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Bas-Rhin (67) visé, Sélestat sondée : une fiche vérifiée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une seule en cours, sans changement. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c, 41.e, 177 et 247.** Métropole seule (règle 177), 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Ille-et-Vilaine (Bretagne) : la Bretagne est exclue par la garde 41.c. Le Nord reste en veille (41.e). Le classement métropolitain place ensuite le **Calvados (14)** en tête, déficit ≈ 3,96 ; sa descente a déjà éprouvé Lisieux, Mondeville, Hérouville-Saint-Clair, Ifs, Ouistreham, Mézidon, Bayeux, Vire et Caen, et s'approche de la borne de la règle 247. Le **Bas-Rhin (67)**, déficit ≈ 3,90, est donc visé. Note : la borne de 247 pour le Calvados n'a pas été recomptée fiche par fiche cette passe ; à reprendre si le responsable du site veut la trancher.
+
+**Commune, règle 41.d.** Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald et Bischheim ont déjà été éprouvées, sans fiche publiée. Commune suivante par population sans fiche : **Sélestat (19 589 habitants)**, ici sondée à nouveau.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bas-Rhin, première page (cent opérateurs). À Sélestat : une boulangerie et un grossiste, rien de plus en vente aux particuliers.
+- Recherche web : un magasin de producteurs, **Le P'tit Marché Paysan**, route de Colmar. Trois sources le décrivent de la même manière : la carte des circuits courts de Que Choisir (adresse, téléphone, horaires, rayons : fruits, légumes, viandes, produits laitiers, œufs, épicerie), la fiche de l'office de tourisme Eguisheim–Rouffach (horaires identiques : mardi à jeudi 9h-12h30 et 14h-19h, vendredi 9h-19h, samedi 9h-14h, fermé lundi et dimanche), et le site officiel de l'enseigne (lu : pages d'accueil, produits, horaires).
+- Registre des entreprises : l'établissement de Sélestat est actif (une unité ouverte). Une autre société à la même enseigne, au siège de Lambesc (13), est fermée depuis fin 2024 : elle ne concerne pas le magasin de Sélestat, et ce n'est pas une contradiction sur le fait publié.
+- Marché hebdomadaire de Sélestat : rien de trouvé sur les sources lues. Le « marché du terroir » de la place Vanolles s'est tenu en 2025 (dates passées) ; le marché de Noël de la Ville est saisonnier. Pour 2026, les jours et la place du marché ne sont pas confirmés par une source officielle : la fiche n'est pas écrite.
+
+**Pourquoi rien n'est publié.** Une seule fiche est vérifiée à trois sources indépendantes et une quatrième (registre). Règle 52 : à un point vérifié, on descend d'un cran ; cinq fiches groupées ne sont pas atteintes à Sélestat. Publier une fiche isolée ne suit pas le critère du groupement de cinq ; la fiche reste donc en veille, à publier avec le groupe si la commune en rend d'autres.
+
+**Pistes non publiées (Sélestat, 67).**
+- Le P'tit Marché Paysan, magasin de producteurs (route de Colmar) : **vérifiée** sur trois sources et le registre ; **déblocage** = au moins quatre autres points vérifiés dans la commune ou la fiche rejoint un groupe de cinq.
+- Marché hebdomadaire de Sélestat : **déblocage** = jour, horaires et place publiés par la Ville ou l'office de tourisme Sélestat Haut-Koenigsbourg.
+
+**Point d'arrêt.** Bas-Rhin : Sélestat sondée, une fiche vérifiée et non publiée. La passe suivante ne vise pas le Grand Est (règle 41.c) ; le classement se recalcule, Calvados à recompter au regard de la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
