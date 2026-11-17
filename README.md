@@ -54806,3 +54806,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Ajaccio : une fiche solide manque pour atteindre cinq. Passe suivante : lire le site de la Ville d'Ajaccio (rubrique marchés) et la fiche de la Biocoop du centre avant tout autre annuaire ; ne pas revenir sur la Loire, Nord, Oise ni Haute-Garonne.
 
 **Aucune fiche publiée, aucune retirée.** Total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (Loire (42) reprise, Riorges et Andrézieux-Bouthéon sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à traiter, ni email.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177). La passe précédente visait la Corse : cette région est exclue par la garde 41.c, donc aussi la Haute-Corse et la Corse-du-Sud. Nord (59), Haute-Garonne (31) et Oise (60) sont closes par la règle 247. Le premier département éligible du classement est la **Loire (42)**, dont la descente est ouverte : deux passes se sont tenues depuis la passe Loire précédente, la garde 41.c ne bloque donc pas.
+
+**Commune, règle 41.d.** Rive-de-Gier et Le Chambon-Feugerolles ont été éprouvées le 17 novembre. Cette passe éprouve **Riorges (11 139 habitants)**, puis **Andrézieux-Bouthéon (10 425)**.
+
+**Riorges.**
+- Registre Agence Bio, Loire, 900 opérateurs relus : sept entrées à Riorges. Une grande surface et un laboratoire (hors périmètre), un grossiste, une association médico-sociale en gros, une boulangerie et une boutique dont la certification est arrêtée, une entrée au nom d'une personne physique (non reprise, écartée pour doute sur une personne).
+- Recherche web : l'hypermarché de la commune (hors périmètre) ; un guide PDF de producteurs mentionne un producteur présent sur un marché du mercredi matin, sans horaire ni jour vérifiés ; aucun marché permanent de producteurs trouvé ; la Ville ne publie pas de liste de commerces alimentaires en circuit court.
+- Bilan : zéro fiche publiable.
+
+**Andrézieux-Bouthéon.**
+- Registre : un abattoir de proximité (grossiste), des grandes surfaces, des boulangeries et une fromagerie dont les certifications sont arrêtées, une entrée au nom d'une personne physique (écartée, ne se rouvre pas).
+- Recherche web : aucun magasin de producteurs permanent trouvé. Le marché de Noël des producteurs de la Chambre d'agriculture est un événement annuel de décembre, pas un point de vente permanent : hors fiche.
+- Bilan : zéro fiche publiable.
+
+**Pistes non publiées (anonymes, Loire).**
+- Veauche (42340, 8 975 habitants) : un magasin de producteurs listé par un annuaire participatif (carte circuit court de Que Choisir). **Déblocage** = fiche publiée par le magasin, avec adresse, horaires et site vérifiés. Commune à sonder à la passe suivante.
+- Riorges, producteur présent sur un marché du mercredi matin : **déblocage** = calendrier daté de la Ville ou du marché.
+- Une ferme de Saint-Romain-la-Motte (hors commune, ferme vendant au registre sous les prénoms de ses exploitants) : écartée pour doute sur une personne. Ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : deux, une à Riorges et une à Andrézieux-Bouthéon (entreprises individuelles au nom de personnes physiques), plus une ferme hors commune mentionnée ci-dessus. Nombre seulement, aucun nom.
+
+**Contradictions** (règle 5) : aucune.
+
+**Point d'arrêt.** Loire : quatre communes éprouvées sur la borne de douze de la règle 247 (Rive-de-Gier, Le Chambon-Feugerolles, Riorges, Andrézieux-Bouthéon), zéro fiche. Passe suivante : la Loire reste ouverte ; commune suivante par population sans fiche, **Roche-la-Molière (9 843 habitants)**, puis Veauche, pour laquelle une piste existe. Ne pas revenir sur Rive-de-Gier ni Le Chambon-Feugerolles sans déblocage nommé.
+
+**Aucune fiche publiée, aucune retirée.** Total inchangé : 1 302 fiches.
