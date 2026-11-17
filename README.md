@@ -54781,3 +54781,28 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 - Le Chambon-Feugerolles, un magasin bio au registre (vente aux particuliers) : **Déblocage** = adresse, horaires et site publiés par le commerce.
 
 **Points d'arrêt.** Loire : deux communes éprouvées (Rive-de-Gier, Le Chambon-Feugerolles), zéro fiche. Passe suivante : la Loire reste ouverte ; la commune suivante par population sans fiche est **Riorges (11 139 habitants)**, à sonder au registre puis sur le site de la commune. La règle 41.c n'empêche pas de revenir dans la Loire tant que la passe précédente n'y est pas allée, ce qui est le cas.
+
+## Passe autonome du 17 novembre 2026 (Corse (2A+2B) reprise, Ajaccio relue sur deux sources : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à traiter, ni email.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177). La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c, donc aussi l'Isère et la Savoie. Nord (59), Haute-Garonne (31) et Oise (60, douze communes éprouvées) sont closes par la règle 247. Le premier département éligible est la **Corse (2A+2B)**, lue en un seul bloc comme à la passe du 2 novembre.
+
+**Commune, règle 41.d.** Ajaccio reste la commune la plus peuplée de Corse sans fiche, déjà sondée le 2 novembre. Cette passe relit deux sources indépendantes : la fiche de l'office de tourisme pour l'enseigne de magasin de producteurs du quartier Saint-Joseph, et une recherche sur les marchés de la Ville.
+
+**Ce qui a été lu.**
+- Recherche web sur l'enseigne de producteurs : une seule fiche d'annuaire participatif (Que Choisir, carte des circuits courts), sans horaires, sans site officiel ni téléphone trouvés. Le magasin reste à une source près de la fiche officielle.
+- Recherche web sur les marchés d'Ajaccio : aucune liste officielle de la Ville. Les sources sont anciennes ou non datées (halle Campinchi, place Foch, place Jean-Casili annoncée pour un dimanche 19 juin sans année, marché des producteurs de pays sans horaire daté). Un annuaire participatif recense quatre marchés, sans horaires exploitables.
+- Registre Agence Bio, 2A et 2B, relu sans nouvelle source : les entrées à Ajaccio sont au nom de personnes physiques (non nommées, non reprises) ou des enseignes de grande distribution, hors périmètre.
+
+**Pourquoi rien n'est publié.** Une commune doit rendre cinq commerces vérifiés sur une source indépendante, à jour. Ajaccio n'en rend qu'un, et sans horaires confirmés par l'enseigne ni par la Ville ; les marchés n'ont pas de jours ni d'horaires datés. Pas de fiche partielle.
+
+**Contradictions** (règle 5) : aucune nouvelle. Le registre donne au magasin de producteurs un siège dans une autre commune de la Corse-du-Sud : déjà consigné le 2 novembre, toujours à confirmer avant toute publication.
+
+**Incohérence consignée.** La passe du 3 novembre désignait Prunelli-di-Fiumorbo comme prochaine commune du 2B. Cette passe a repris Ajaccio, commune de 2A déjà sondée, parce que la descente se fait par population sans fiche sur la Corse entière. Passe suivante : si la Corse est retenue, sonder Prunelli-di-Fiumorbo puis Penta-di-Casinca, jusqu'à la borne de douze communes de la règle 247.
+
+**Fiches écartées pour doute sur une personne** : environ six entrées du registre au nom de personnes physiques, à Ajaccio et autour. Nombre seulement, aucun nom.
+
+**Point d'arrêt.** Ajaccio : une fiche solide manque pour atteindre cinq. Passe suivante : lire le site de la Ville d'Ajaccio (rubrique marchés) et la fiche de la Biocoop du centre avant tout autre annuaire ; ne pas revenir sur la Loire, Nord, Oise ni Haute-Garonne.
+
+**Aucune fiche publiée, aucune retirée.** Total inchangé : 1 302 fiches.
