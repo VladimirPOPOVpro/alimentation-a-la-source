@@ -54994,3 +54994,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Nord toujours en veille (règle 41.e) : la prochaine passe ne reprend Cambrai que si l'un des déblocages ci-dessus est nommé. Le site de la Ville de Cambrai est à retenter avant toute autre démarche ; si la commune ne rend toujours rien, appliquer la règle 247 selon le compte des communes éprouvées dans le département.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Aucune fiche publiée, aucune retirée.
+
+## Passe autonome du 17 novembre 2026 (Loire (42) reprise, Veauche sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c, 41.e et 247.** Métropole seule (règle 177), 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la garde 41.c. Le Nord reste en veille (41.e). La Loire (42), ouverte et non close, reste le département retenu : elle a déjà une descente en cours (six communes éprouvées sur la borne de douze de la règle 247). Déficit ≈ 3,6, onze fiches.
+
+**Commune, règle 41.d.** Veauche (8975 habitants), commune suivante de la descente ; Roche-la-Molière a été la cinquième.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville, rubrique « Marchés » : deux marchés non sédentaires, la Cité (mercredi et samedi matin, place Aristide-Briand) et le Bourg (vendredi matin, place de l'Europe). Aucun horaire de début ni de fin publié ; règlement des marchés non sédentaires en ligne.
+- Registre Agence Bio, Loire, pages de cent : onze opérateurs dont l'adresse est à Veauche ou Veauchette. Huit déclarent une vente aux particuliers ou en détail ; la plupart n'ont pas d'enseigne exploitable au registre, et celles qui en ont une sont des patronymes. Aucune n'est reprise (règle 259 pour les entreprises individuelles, aucun nom consigné).
+- Site de l'UCAV (Union des commerçants et artisans veauchois) : page de présentation sans liste de commerçants lisible.
+- Recherche web sur un office de tourisme dédié à Veauche : aucune seconde source officielle trouvée (la page consultée de la communauté de communes Forez-Est concerne les déchets).
+
+**Pourquoi rien n'est publié.** Les marchés de la Ville ont une source officielle, mais leurs horaires ne sont pas publiés et aucun office de tourisme ne les confirme (règle 9 : la commune et l'office). Aucun commerce fixe n'a pu être vérifié à deux sources, et le groupement de cinq n'est pas atteint : une fiche isolée ne suit pas le critère du groupement.
+
+**Pistes non publiées (anonymes, Veauche, 42).**
+- Marché de la Cité (mercredi et samedi matin, place Aristide-Briand) : **déblocage** = seconde source officielle (office de tourisme ou comité du tourisme) ou groupe de cinq atteint ; l'horaire reste à publier par la Ville, à défaut la demi-journée seule.
+- Marché du Bourg (vendredi matin, place de l'Europe) : mêmes conditions que ci-dessus.
+- Opérateurs du registre Agence Bio à Veauche sans enseigne exploitable (vente aux particuliers) : **déblocage** = enseigne distincte au registre des entreprises ou site du commerce qui publie ses horaires.
+
+**Fiches écartées pour doute sur une personne.** Deux opérateurs du registre à Veauche dont l'enseigne est un nom de personne physique (règle 259). Nombre seulement, aucun nom consigné ; ne se rouvrent pas sans enseigne distincte.
+
+**Contradictions (règle 5).** Aucune.
+
+**Point d'arrêt.** Loire : Veauche sondée, sixième commune éprouvée, zéro fiche publiée. La borne de douze de la règle 247 n'est pas atteinte. La passe suivante ne vise pas Auvergne-Rhône-Alpes si elle suit une passe en Loire (règle 41.c) ; la Loire reste ouverte. Commune suivante par population sans fiche : à déterminer au classement de la passe suivante, sur la liste des communes de la Loire de plus de 8 000 habitants.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
