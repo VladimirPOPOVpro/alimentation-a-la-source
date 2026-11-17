@@ -55177,3 +55177,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches (aucune fiche ajoutée).
+
+## Passe autonome du 17 novembre 2026 (Nord (59) reprise, Cambrai resondée sur le web : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande reste en cours, sans changement. Passe de couverture (mode 2).
+
+**Secteur, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Seine-Saint-Denis (Île-de-France) : cette région est exclue par la règle 41.c. Premier département éligible du classement : le **Nord (59, déficit 6,47, 45 fiches)**. Il est repris parce que la descente de Cambrai attend encore une seconde source (note du 17 novembre, Cambrai).
+
+**Commune, règle 41.d.** Cambrai (31 134 habitants) reste la commune la plus peuplée du Nord sans fiche vérifiée à deux sources.
+
+**Sondage web de cette passe.**
+- Magasin bio indépendant, rue de Bohain : l'adresse et la certification bio sont confirmées par une seule source (certificat), toujours sans horaires trouvés. Non publié.
+- Magasin de la ferme, allée François-Fénélon : référencé par un annuaire de circuit court, sans horaires ni liste de produits lisibles. Non publié.
+- Marchés de Cambrai : seuls des arrêtés municipaux de 2024 ont été trouvés (marché déplacé certains samedis et mercredis d'août 2024). Aucun calendrier courant lu sur le site de la Ville. Non publié.
+- Résultats dominés par les supermarchés et enseignes généralistes : écartés (règle MODERATION, commerces généralistes).
+
+**Pourquoi rien n'est publié.** Aucune fiche de Cambrai ne réunit horaires vérifiés et deux sources indépendantes. Publier sans horaires enverrait un visiteur devant une porte fermée. Le groupe de cinq n'est pas atteint (règle 41.d).
+
+**Pistes non publiées (Cambrai, 59).**
+- Magasin bio indépendant : déblocage = horaires confirmés par le magasin ou par une seconde source (Chambre d'agriculture, office de tourisme du Cambrésis).
+- Magasin de la ferme : déblocage = horaires et produits lus sur le site du producteur ou auprès de lui.
+- Marché(s) de Cambrai : déblocage = calendrier courant lu sur villedecambrai.com.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre Agence Bio à Cambrai portant un nom de personne en enseigne, non reprises (déjà consignées le 17 novembre), ne se rouvrent pas.
+
+**Contradictions (règle 5).** Aucune nouvelle cette passe.
+
+**Point d'arrêt.** Nord : Cambrai sondée deux fois, zéro fiche publiée. Passe suivante : ne pas viser le Nord (règle 41.c) si elle suit une passe du Nord ; sinon reprendre Cambrai uniquement si une seconde source d'horaires apparaît, et descendre sinon à la commune suivante du 59 sans fiche par population.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
