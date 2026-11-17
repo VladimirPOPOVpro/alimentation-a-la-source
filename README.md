@@ -54856,3 +54856,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Cambrai (noms de personnes en enseigne), non reprises, ne se rouvrent pas.
 
 **Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c) ; le classement se recalcule. La reprise de Cambrai attend une seconde source indépendante pour les horaires de Biocambrésis (site du commerce, Chambre d'agriculture ou office de tourisme du Cambrésis) et les horaires de Gosselet Maraîcher auprès du producteur.
+
+## Passe autonome du 17 novembre 2026 (Charente-Maritime (17) visée, Rochefort (17300) sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (une seule en cours, sans changement). Rien à traiter, ni email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c, donc l'Oise et le Pas-de-Calais aussi. Les départements déjà closs, épuisés ou en veille par les notes précédentes restent hors du tour. Premier département ouvert : **Charente-Maritime (17), déficit ≈ 3,12, dix fiches publiées** (toutes à La Rochelle, Châtelaillon-Plage et alentour).
+
+**Commune, règle 41.d.** La Rochelle, Saintes et Aytré ne sont pas reprises : Saintes a été sondée le 16 novembre. La commune la plus peuplée sans fiche est **Rochefort (23 460 habitants)**.
+
+**Ce qui a été lu cette passe, à Rochefort.**
+- **Colibri - bio et local**, 95 rue des Pêcheurs d'Islande (17300) : magasin bio indépendant, ouvert en 2025. Adresse, téléphone (05 86 22 07 95) et horaires (lundi au samedi, 9 h – 19 h ; fermé le dimanche) lus sur le site de l'enseigne (`larochelle.bio`), recoupés avec un annuaire en ligne. Le registre des entreprises donne l'entité **BIOFORT** (SIREN 943713602), active, siège à la même adresse, un établissement ouvert (règle 6 satisfaite). Une photo de façade figure sur le site de l'enseigne.
+- **Marché des quatre saisons et marché aux poissons, crustacés et coquillages**, avenue Charles-de-Gaulle et sous les halles : jour et lieu sur la page officielle de la Ville (mardi, jeudi et samedi matin, 7 h – 12 h 30). Les produits sont mêlés à du non-alimentaire (vêtements) : la fiche ne serait publiable qu'en décrivant le volet alimentaire. Pas de confirmation par l'office de tourisme lue cette passe : règle 9 non remplie.
+- **Biocoop Rochefort**, rue des Pêcheurs d'Islande : un annuaire en ligne l'affiche « fermé définitivement ». Non publié.
+- **So.bio Rochefort**, avenue William-Ponty : l'adresse n'est plus occupée par cette enseigne au registre (le siège est désormais occupé par d'autres sociétés). Non publié.
+- Conchylium, Esprit Vrac, Bioriginelle : aucune entité active trouvée au registre sous ces noms ; aucune fiche vérifiée à deux sources. Non publiés.
+
+**Bilan de la zone.** Rochefort rend **une** fiche vérifiable (Colibri) et une piste de marché à confirmer. Le seuil de la règle 52 (quatre points, dont deux fiches entières) n'est pas atteint. Aucune fiche partielle n'est publiée.
+
+**Pistes non publiées (Rochefort, 17).**
+- Colibri - bio et local, magasin bio : **déblocage** = fiche publiée par l'enseigne, déjà vérifiée ; à publier dès que la zone atteint le seuil de la règle 52.
+- Marché des quatre saisons et poissons (mardi, jeudi, samedi matin) : **déblocage** = confirmation par l'office de tourisme de Rochefort, et volet alimentaire décrit dans la fiche.
+- Biocoop Rochefort : **déblocage** = fermeture contredite par une source récente de l'enseigne.
+- So.bio Rochefort : **déblocage** = adresse et établissement actif au registre.
+
+**Fiches écartées pour doute sur une personne.** Aucune à Rochefort cette passe. Des entrées au registre en nom de personne physique existent dans la commune ; non reprises, nombre seulement, aucun nom.
+
+**Contradictions** (règle 5) : Biocoop Rochefort, horaires et ouverture contredits par l'annuaire ; consigné ici, non publié.
+
+**Point d'arrêt.** Charente-Maritime : une fiche vérifiée à Rochefort, zéro publiée. Passe suivante : Rochefort reste ouverte ; chercher les commerces restants (AMAP, fermes en vente directe, magasins de producteurs vérifiés au registre) pour atteindre quatre points, ou, à défaut, descendre à la commune suivante de Charente-Maritime sans fiche, Royan (19 425 habitants), en gardant la règle 41.c et la borne de la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de `lint`/`build` nécessaire : aucune donnée ni aucun code modifiés.
