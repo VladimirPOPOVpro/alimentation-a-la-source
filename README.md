@@ -55052,3 +55052,26 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Ille-et-Vilaine : Saint-Grégoire sondée, zéro fiche publiée. La passe suivante ne vise pas la Bretagne si elle suit immédiatement celle-ci (règle 41.c) ; la commune suivante de la descente reste Le Rheu (9 839 habitants), à sonder une fois la borne de la règle 247 vérifiée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Calvados (14) visé, Mondeville sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en cours » (inchangée). Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Ille-et-Vilaine (Bretagne) : la Bretagne est exclue par la garde 41.c. Les départements déjà clos ou écartés par les passes récentes ont été retirés du classement (Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Hérault, Corse, Loire, Nord en veille). Premier département éligible : le **Calvados (14)**, déficit ≈ 4,0, 10 fiches.
+
+**Commune, règle 41.d.** Commune la plus peuplée sans fiche, hors communes déjà sondées : **Mondeville (10 331 habitants)**. Hérouville-Saint-Clair, Lisieux, Ifs, Ouistreham et Mézidon avaient déjà été éprouvées sans succès aux passes du 15 novembre.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, 300 opérateurs relus : à Mondeville, une enseigne de grande distribution en vente aux particuliers (hors périmètre, règle MODERATION), une entité en vente aux particuliers sans nom de commerce identifiable, une entité sans vente au public, et plusieurs entrées de logistique ou de services sans vente.
+- Aucune recherche d'horaires ni de produits n'a abouti : aucun producteur, marché ou magasin indépendant identifié à Mondeville dans les sources consultées.
+
+**Fiches écartées pour doute sur une personne.** Une entrée au registre, au nom d'une personne physique, à Mondeville : écartée, rien n'en est publié, elle ne se rouvre pas.
+
+**Pistes non publiées (anonymes, Mondeville, 14).**
+- Entité en vente aux particuliers au registre, sans site ni horaires vérifiés : **déblocage** = identité du commerce, adresse, horaires et site publiés par le commerce lui-même.
+
+**Point d'arrêt.** Mondeville : zéro fiche publiée. Calvados reste ouvert : la commune suivante par population sans fiche est **Falaise (7 680 habitants)** — à sonder au registre puis sur le site de la commune. La passe suivante ne vise pas la Normandie si elle suit immédiatement celle-ci (règle 41.c).
+
+**Contradictions (règle 5).** Aucune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches (aucune fiche ajoutée). Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
