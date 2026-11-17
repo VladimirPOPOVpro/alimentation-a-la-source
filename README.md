@@ -54965,3 +54965,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Loire : Roche-la-Molière sondée, cinquième commune éprouvée, zéro fiche publiée. La passe suivante ne vise pas Auvergne-Rhône-Alpes (règle 41.c) ; la Loire reste ouverte pour la reprise, à Veauche (8 975 habitants), dont la Ville publie deux marchés officiels (la Cité, mercredi et samedi matin, place Aristide-Briand ; le Bourg, vendredi matin, place de l'Europe), sixième commune éprouvée. La borne de douze de la règle 247 n'est pas atteinte.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Nord (59) sondé de nouveau, Cambrai relue : aucune publication)
+
+**Secteur, règles 41, 41.c, 41.e et 247.** Métropole seule, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Loire (42), en Auvergne-Rhône-Alpes : la garde 41.c ne bloque donc pas le Nord. Le Nord reste en tête du calcul et reste en veille (règle 41.e) : ses communes sans fiche ont été sondées à plusieurs passes sans cinq points vérifiables.
+
+**Commune, règle 41.d.** Cambrai (31 134 habitants), commune suivante par population sans fiche, sondée à nouveau.
+
+**Ce qui a été lu cette passe.**
+- Recherche web sur les marchés de Cambrai : aucun marché ni aucune liste de producteurs recoupée par une source officielle. Le site de la Ville n'a pas répondu lors de la sonde (`ville-cambrai.fr`, pas de réponse HTTP). Un annuaire participatif de marchés indique un seul jour de marché, sans horaire ni source officielle lue : non retenu.
+- Magasin de la ferme signalé par un annuaire de circuit court (allée François-Fénélon) : aucun horaire lisible ni liste de produits, ni auprès du producteur ni d'une seconde source. Non publié.
+- Magasin bio indépendant de la rue de Bohain : adresse confirmée par le certificat Ecocert de l'exploitant, mais aucun horaire ni numéro de téléphone trouvés dans les annuaires consultés. Une source pour l'adresse, aucune pour les horaires : non publié.
+- Registre des entreprises, sondé pour l'enseigne de la rue de Bohain : aucun établissement ouvert retrouvé sous cette recherche : non repris.
+- Biocoop de Cambrai : contradictions d'horaires déjà consignées aux passes précédentes ; non reprises.
+- Gamm Vert (coopérative généraliste, jardinerie) : hors périmètre, non retenu.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend aucun commerce vérifié à deux sources, et le groupement de cinq n'est pas atteint. Une fiche sans horaires ni produits enverrait un visiteur devant une porte fermée. Le doute porte sur des faits (horaires, jours de marché), pas sur des personnes.
+
+**Pistes non publiées (anonymes, Cambrai, 59).**
+- Magasin bio indépendant de la rue de Bohain : **déblocage** = horaires publiés par le commerce (site, fiche Google Maps vérifiée, ou téléphone donné par l'exploitant) ; à défaut, une source de la Chambre d'agriculture du Nord ou de l'office de tourisme du Cambrésis.
+- Magasin de la ferme (vente directe, Cambrai) : **déblocage** = horaires et liste de produits publiés par l'exploitant lui-même.
+- Marché de Cambrai (un jour par semaine, horaire inconnu) : **déblocage** = page marchés de la Ville, à retrouver quand son site répond.
+
+**Fiches écartées pour doute sur une personne.** Deux entrées du registre à Cambrai dont l'enseigne est le nom d'une personne physique (règle 259). Nombre seulement, aucun nom consigné ; ne se rouvrent pas sans enseigne distincte.
+
+**Contradictions (règle 5).** Aucune nouvelle. Les contradictions d'horaires Biocoop restent consignées aux passes précédentes.
+
+**Point d'arrêt.** Nord toujours en veille (règle 41.e) : la prochaine passe ne reprend Cambrai que si l'un des déblocages ci-dessus est nommé. Le site de la Ville de Cambrai est à retenter avant toute autre démarche ; si la commune ne rend toujours rien, appliquer la règle 247 selon le compte des communes éprouvées dans le département.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Aucune fiche publiée, aucune retirée.
