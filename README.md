@@ -55136,3 +55136,22 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Horaires du Biocoop de Caluire-et-Cuire (site du magasin contre annuaire) : tranchés en faveur du magasin. Horaires du marché de Montessuy (Ville contre annuaires) : consignés, non tranchés.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (Nord (59) visé, Wattrelos sondée : aucune publication)
+
+**Secteur, règle 41.** L'outre-mer sort du calcul (le validateur ne rend que la métropole). En métropole, le Nord (59) est en tête, déficit ≈ 6,5, avec 45 fiches publiées. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : la garde 41.c ne bloque pas le Nord.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Elle a été sondée à plusieurs passes sans source officielle à jour (voir les passes précédentes).
+
+**Sondage de cette passe.**
+- Registre de l'Agence Bio, Nord : seules les 300 premières entrées ont été lues cette passe (sur 1 796). Aucun opérateur de Wattrelos n'y figure dans ces 300.
+- Une entrée de Marcq-en-Barœul est une entreprise individuelle désignée par le nom d'une personne : écartée pour doute sur une personne, non reprise, ligne anonyme.
+- Aucune source web nouvelle n'a été ajoutée à ce sondage.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend pas cinq commerces vérifiables, et aucune fiche isolée n'est publiée (règle 41.d, groupement de cinq).
+
+**Point d'arrêt.** Prochaine passe : lire les 1 796 entrées du registre Nord (dix-huit pages de cent) et filtrer sur Wattrelos et Marcq-en-Barœul ; si Wattrelos reste sans cinq commerces, descendre à Lambersart (27 090 habitants) au titre de 41.d.
+
+**Fiches écartées pour doute sur une personne** : une (Marcq-en-Barœul, entreprise individuelle), non reprise.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
