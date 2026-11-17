@@ -54687,3 +54687,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Points d'arrêt.** Haute-Garonne : cinq communes éprouvées sur douze, zéro fiche. La descente reprend à la commune suivante par population sans fiche : Seysses (10 539 habitants), puis Auterive (10 456). La passe suivante ne vise pas l'Occitanie (règle 41.c) ; le classement se recalcule. **Incohérence consignée** : la note du 17 novembre demandait de relire Pont-Sainte-Maxence (Oise) à la passe suivante, or l'Oise est en Hauts-de-France et la règle 41.c l'exclut tant que la passe précédente ne vise pas une autre région. La reprise de l'Oise attend donc une passe qui ne suit pas une passe en Hauts-de-France.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+### Passe autonome du 17 novembre 2026 (soir, Oise (60) reprise, Chantilly sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande « nouvelle ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177). La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue par la règle 41.c. Le Nord (59) reste en veille. Premier département éligible au classement : l'**Oise (60)**, déficit ≈ 3,67, 12 fiches (la Haute-Garonne n'est pas la passe précédente d'Oise, la garde 41.c ne bloque donc pas le département). Descente en cours : Noyon et Pont-Sainte-Maxence sondées à la passe du 17 novembre, Chantilly (10 591 habitants) est la commune suivante par population sans fiche, hors Beauvais, Compiègne, Creil, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Montataire, Méru, Noyon, Pont-Sainte-Maxence et Clermont, déjà traitées.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Oise, 600 opérateurs parcourus sur six pages : à Chantilly, aucun producteur déclaré en vente aux particuliers. Les opérateurs déclarés en vente aux particuliers dans le secteur sont une personne physique (écartée pour doute sur une personne, rien n'en est publié), une exploitation à Orry-la-Ville et des opérateurs de Gouvieux déjà signalés, sans commerce vérifié à Chantilly.
+- Recherche web et site touristique de Chantilly-Senlis : un marché de Chantilly le mercredi et le samedi matin, place Omer Vallon (source touristique et document 2021 des producteurs du PNR Oise – Pays de France, qui précise que des revendeurs côtoient les producteurs). Pas de liste de producteurs à jour, ni sur le site de la Ville.
+- Une AMAP de Chantilly, distribution le jeudi soir, salle Saint-Jean : signalée par des pages de résumé, sans source primaire (site de l'AMAP ou plateforme de contrats) lue à ce stade.
+- Gouvieux (commune voisine, même secteur) : un marché jeudi et dimanche cité par un résumé, non confirmé.
+
+**Pourquoi rien n'est publié.** Chantilly rend au plus deux points, dont aucun n'a de liste de producteurs ni de source primaire vérifiée ; la règle 52 exige au moins quatre points vérifiés avant d'élargir au voisin, et la règle 247 s'applique à la descente. Aucun fait incertain n'est publié (règle 5).
+
+**Pistes non publiées (anonymes, Oise).**
+- Chantilly (60), marché de plein air mercredi et samedi matin : **déblocage** = liste des producteurs publiée par la Ville ou l'office de tourisme.
+- Chantilly (60), AMAP à distribution hebdomadaire le jeudi soir : **déblocage** = fiche de l'AMAP sur sa plateforme de contrats, lue sur une source primaire.
+
+**Fiches écartées pour doute sur une personne.** Une, dans le secteur de Gouvieux (entreprise individuelle au nom d'une personne physique). Nombre seulement, aucun nom.
+
+**Points d'arrêt.** Oise : Chantilly sondée, zéro fiche publiée. Passe suivante : Oise reste éligible au classement (règle 41.c : la passe précédente n'est pas dans les Hauts-de-France, la règle ne bloque que la passe immédiatement précédente) ; à reprendre sur Chantilly en lisant la fiche de l'AMAP sur sa plateforme et la liste des producteurs de la Ville. Si la descente est jugée épuisée (règle 247, douze communes éprouvées), le classement passe au département suivant.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
