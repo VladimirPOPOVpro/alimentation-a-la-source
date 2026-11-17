@@ -55075,3 +55075,27 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches (aucune fiche ajoutée). Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Bas-Rhin (67) reprise, Sélestat sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande reste en cours, sans changement. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule. Le Calvados (14) est exclu : c'est la région de la passe précédente (41.c). L'Ille-et-Vilaine (35) a déjà éprouvé douze communes, la borne de la règle 247 est atteinte. Le Bas-Rhin (67), déficit ≈ 3,90, passe ensuite au classement ; sa commune la plus peuplée sans fiche est **Sélestat (19 589 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Bas-Rhin, pagination de 1 200 opérateurs. À Sélestat, deux entrées déclarent une vente aux particuliers. L'une est une entreprise individuelle sous un nom de personne : écartée pour doute sur une personne, rien n'en est publié, elle ne se rouvre pas. L'autre est une minoterie en société anonyme, à instruire.
+- Recherche web et sources officielles : le magasin de producteurs de la route de Colmar, déjà vérifié sur plusieurs sources ; un marché hebdomadaire le mardi matin, place d'Armes, 7 h à 13 h, relevé sur deux sources, sans page officielle de la Ville confirmée.
+
+**Pourquoi rien n'est publié.** Une fiche vérifiée et un marché plausible ne suffisent pas au groupement de cinq (règle 52 : à un point vérifié, on descend d'un cran). Aucune fiche isolée n'est donc publiée à Sélestat.
+
+**Pistes non publiées (Sélestat, 67).**
+- Magasin de producteurs, route de Colmar : vérifié. Déblocage = quatre autres points vérifiés dans la commune, ou rattachement à un groupe de cinq.
+- Marché hebdomadaire du mardi, place d'Armes : déblocage = jour, horaires et place confirmés par la Ville ou l'office de tourisme.
+- Minoterie en société anonyme (vente aux particuliers au registre) : déblocage = site et horaires publiés par l'entreprise elle-même.
+- Entreprise individuelle (registre) : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Point d'arrêt.** Bas-Rhin : six communes éprouvées (Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Sélestat), borne de douze non atteinte. La passe suivante ne vise pas le Grand Est (41.c). À une passe ultérieure, la descente du Bas-Rhin reprend à Bischwiller (12 242 habitants), commune sans fiche.
+
+**Contradictions (règle 5).** Aucune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire, aucune donnée modifiée.
