@@ -55023,3 +55023,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Loire : Veauche sondée, sixième commune éprouvée, zéro fiche publiée. La borne de douze de la règle 247 n'est pas atteinte. La passe suivante ne vise pas Auvergne-Rhône-Alpes si elle suit une passe en Loire (règle 41.c) ; la Loire reste ouverte. Commune suivante par population sans fiche : à déterminer au classement de la passe suivante, sur la liste des communes de la Loire de plus de 8 000 habitants.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
+
+## Passe autonome du 17 novembre 2026 (Ille-et-Vilaine (35) reprise, Saint-Grégoire sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Loire (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c, la Bretagne ne l'est pas. Le Nord (59) reste en veille (règle 41.e). Écartés, clos ou épuisés, comme les passes précédentes le notent : Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Hérault, Corse, Loire. Premier département éligible : **Ille-et-Vilaine (35)**, déficit ≈ 4,05, 18 fiches ; la descente reprend là où la passe précédente l'avait laissée.
+
+**Commune, règles 41.d et 247.** Commune suivante de la descente : **Saint-Grégoire (9 957 habitants)**, sondée au registre Agence Bio (cent opérateurs du département relus à Saint-Grégoire : deux entrées, une seule en vente à des professionnels du détail, aucune en vente aux particuliers) et sur le web.
+
+**Ce qui a été lu.**
+- Recherche web sur les producteurs et marchés de Saint-Grégoire : un site participatif de marchés indique un seul jour de marché sans horaire ni source officielle ; aucune page de la Ville lue sur ce point.
+- Une exploitation maraîchère en vente directe à la ferme, adresse de La Mare : vente signalée par un annuaire, horaires et liste de produits non lus auprès de l'exploitation ni d'une seconde source.
+- Le magasin bio de la rue de la Cerisaie : enseigne de réseau national, hors périmètre des magasins indépendants retenus ; non repris.
+- Le guide de Rennes Métropole cite la commune parmi les communes de producteurs, sans fiche ni adresse.
+- Aucune page officielle de la Ville lue sur les commerces ou marchés.
+
+**Pourquoi rien n'est publié.** Saint-Grégoire ne rend aucun commerce vérifié à deux sources indépendantes et actuelles : le marché n'a ni jour ni horaire confirmés, la vente à la ferme n'a pas d'horaires publiés, et le magasin bio relève d'un réseau. Le groupement de cinq fiches n'est pas atteint ; une fiche isolée ne suit pas le critère du groupement. Le doute porte sur des faits (horaires, jours), pas sur des personnes.
+
+**Pistes non publiées (anonymes, Saint-Grégoire, 35).**
+- Marché de la commune, un jour par semaine (horaire inconnu) : **déblocage** = jour, horaires et place publiés par la Ville ou l'office de tourisme de Rennes Métropole.
+- Vente directe maraîchère à la ferme : **déblocage** = horaires et liste de produits publiés par l'exploitation, plus une seconde source indépendante.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Point d'arrêt.** Ille-et-Vilaine : Saint-Grégoire sondée, zéro fiche publiée. La passe suivante ne vise pas la Bretagne si elle suit immédiatement celle-ci (règle 41.c) ; la commune suivante de la descente reste Le Rheu (9 839 habitants), à sonder une fois la borne de la règle 247 vérifiée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire : aucune donnée ni aucun code modifiés.
