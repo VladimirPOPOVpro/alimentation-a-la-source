@@ -55107,3 +55107,32 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Contradictions (règle 5).** Aucune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches. Pas de lint ni de build nécessaire, aucune donnée modifiée.
+
+## Passe autonome du 17 novembre 2026 (Rhône (69) visé, Caluire-et-Cuire sondée : aucune publication)
+
+**Classement, règles 41, 41.c et 177.** Métropole seule (outre-mer hors calcul). Populations `geo.api.gouv.fr`, 1 302 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : cette région est écartée par la garde 41.c. La Haute-Garonne (31) est close au titre de la règle 247 (ses communes de plus de 10 000 habitants sans fiche ont été éprouvées). Premier département éligible hors Hauts-de-France et Occitanie : le **Rhône (69)**, déficit ≈ 4,7, 33 fiches.
+
+**Commune, règle 41.d.** Vaulx-en-Velin (53 069 habitants) est la plus peuplée du 69 sans fiche. Le registre Agence Bio du département (1 100 opérateurs lus) n'y compte qu'une association de vente aux particuliers (non retenue : pas de source propre lue cette passe) et des entreprises individuelles désignées par leur exploitant (écartées pour doute sur une personne). Un marché « nature de producteurs » du vendredi est signalé par des annuaires tiers, sans page de la Ville. Descente à **Caluire-et-Cuire (43 597 habitants)**, sans fiche.
+
+**Caluire-et-Cuire, sondage.**
+- Magasin bio Biocoop (montée des Soldats, 69300) : entité active au registre (un établissement ouvert, activité de distribution), site du magasin lu : lundi au samedi 9 h – 19 h 30, dimanche fermé. Un annuaire donne 8 h 30 – 19 h 30 : contradiction de fait, horaires du site retenus (règle 5). Téléphone et photo de devanture publiés par le magasin lui-même : candidat **vérifié**.
+- AMAP BissAMAP (quartier Bissardon) : site propre de l'association lu, distribution un mercredi sur deux, 18 h 30 – 19 h 30, cour d'une école du quartier : candidat **vérifié**.
+- Marché de Montessuy (jeudi et samedi, allée de la Jeunesse), listé par la Ville : horaires contradictoires (la Ville : 8 h – 13 h ; annuaires : 7 h 30 – 12 h 30). Candidat **vérifié sur son existence**, horaires à confirmer.
+- Marché du Bourg (mardi, 16 h – 20 h) et marché de Saint-Clair (mardi matin) : listés par la Ville, marchés généralistes.
+- Maraîchage et vente directe : un site de vente directe référence un producteur à Vaulx-en-Velin et des exploitations hors commune ; un site de paniers de Champ des Saveurs est injoignable (HTTP, pas de réponse) : **non retenu**, à ne jamais inscrire tant que son domaine ne répond pas.
+
+**Pourquoi rien n'est publié.** Trois points vérifiés au plus à Caluire-et-Cuire, dont un marché généraliste et une AMAP. Le groupement de cinq fiches n'est pas atteint (règle 41.d). Aucune fiche isolée n'est donc publiée.
+
+**Pistes non publiées (Caluire-et-Cuire, 69).**
+- Biocoop montée des Soldats : vérifié. Déblocage = publication des horaires par une deuxième source du magasin, ou quatre autres points vérifiés dans la commune.
+- BissAMAP : vérifié. Déblocage = même groupement de cinq.
+- Marché de Montessuy : existence vérifiée, horaires contradictoires. Déblocage = horaires confirmés par la Ville.
+- Vaulx-en-Velin, marché du vendredi : signalé par annuaires seulement. Déblocage = page de la Ville ou du marché.
+
+**Fiches écartées pour doute sur une personne** : entrées du registre Agence Bio du 69 au nom d'une personne physique (entreprises individuelles), non publiées, ne se rouvrent pas. Nombre : trois, toutes à Vaulx-en-Velin ou à Caluire-et-Cuire.
+
+**Point d'arrêt.** Rhône : Vaulx-en-Velin et Caluire-et-Cuire sondées, zéro fiche publiée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes si elle y est déjà allée (41.c) ; sinon reprendre Caluire-et-Cuire au titre de la règle 248 en cherchant les deux autres points (magasin de producteurs, marché de la Ville confirmé), puis Saint-Priest (49 229 habitants).
+
+**Contradictions (règle 5).** Horaires du Biocoop de Caluire-et-Cuire (site du magasin contre annuaire) : tranchés en faveur du magasin. Horaires du marché de Montessuy (Ville contre annuaires) : consignés, non tranchés.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
