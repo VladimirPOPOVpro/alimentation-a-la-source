@@ -55155,3 +55155,25 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Fiches écartées pour doute sur une personne** : une (Marcq-en-Barœul, entreprise individuelle), non reprise.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 17 novembre 2026 (Seine-Saint-Denis (93) visée, Aulnay-sous-Bois relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande reste en cours, sans changement. Passe de couverture (mode 2).
+
+**Secteur, règles 41 et 41.c.** Métropole seule (outre-mer écarté), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la règle 41.c. Le 59 était en tête (déficit 6,47) ; le 60 et le 62 sont dans la même région, donc exclus. Le premier département éligible du classement est la Haute-Garonne (31, déficit 4,96), puis le Rhône (69, 4,68) et l'Isère (38, 4,56) ; ces trois-là ont vu leur descente épuisée aux passes précédentes (règle 247). Retenu : la **Seine-Saint-Denis (93, déficit 4,54)**, qui n'a pas été visée depuis le début de la campagne.
+
+**Commune, règle 41.d.** Commune la plus peuplée du 93 sans aucune fiche par code postal : **Aulnay-sous-Bois (87 599 habitants)**. Elle était déjà sondée le 24 octobre (sans source), et la règle 247 interdit de la rouvrir sans déblocage. Noisy-le-Grand, Drancy, Le Blanc-Mesnil et Bobigny sont dans le même cas (sondées ou écartées aux passes précédentes).
+
+**Sondage de cette passe.**
+- Registre de l'Agence Bio, 93 : première page (100 opérateurs) relue. Les entrées d'Aulnay-sous-Bois sont des préparateurs, grossistes, importateurs ou enseignes ; une seule vend aux particuliers sans nature de commerce identifiable, et aucune source du commerce n'est disponible. Rien n'est repris.
+- Aucune source web nouvelle n'a été ajoutée à ce sondage.
+
+**Pourquoi rien n'est publié.** Aucune commune du 93 ne rend cinq commerces vérifiables en circuit court, et aucune fiche isolée n'est publiée (règle 41.d, groupement de cinq).
+
+**Point d'arrêt.** La descente du 93 s'étend à Montreuil et à Saint-Denis, déjà couvertes, puis à Noisy-le-Grand (72 978 habitants, sans fiche, sondée ailleurs). La passe suivante ne doit pas viser l'Île-de-France (règle 41.c). Le classement à reprendre au prochain passage : Haute-Garonne (31), commune non sondée au-delà de Muret, Balma et Plaisance-du-Touch.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions (règle 5).** Aucune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches (aucune fiche ajoutée).
