@@ -55525,3 +55525,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé.
+
+## Passe autonome du 18 novembre 2026 (Yvelines (78) reprise, Poissy toujours en 503, Conflans relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste `en_cours` (doute sur une personne) : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 41.e et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : la région est exclue par la règle 41.c. Le Nord est en veille (41.e). La Haute-Garonne et la Seine-Saint-Denis sont closes (règle 247 : descentes épuisées). Premier département éligible : les **Yvelines (78, Île-de-France, déficit ≈ 4,27)**, dont la descente est déjà entamée.
+
+**Ce qui a été lu.**
+- Poissy : le site officiel de la Ville répond toujours en 503 à cette passe ; la page marchés testée répond 404. Aucune source municipale lisible.
+- Conflans-Sainte-Honorine : l'annuaire des marchés de la Ville donne les jours et les lieux des marchés de la Fonderie (couvert, place Romagné), de Chennevières (couvert) et des Quais, sans liste d'exposants producteurs. Rien de neuf par rapport aux notes précédentes.
+- Registre de l'Agence Bio, Yvelines, première page relue (100 opérateurs sur 823). Les entrées de Conflans, Poissy, Mantes-la-Jolie et Magnanville sont des boulangeries, des grossistes, des enseignes ou des entreprises individuelles désignées par le nom de leur exploitant (écartées, non lues plus loin). Un magasin bio de réseau à Mantes-la-Jolie apparaît : ses horaires et sa source propre n'ont pas été lus à cette passe.
+
+**Pourquoi rien n'est publié.** Conflans rend trois marchés généralistes sans exposants producteurs nommés, Poissy ne rend rien (site indisponible), et le magasin de Mantes n'a pas de source propre. Une fiche isolée ne forme pas le groupe de cinq de la règle 52.
+
+**Pistes non publiées (anonymes, Yvelines).**
+- Mantes-la-Jolie, magasin bio de réseau : **déblocage** = horaires et adresse lus sur le site du magasin ou une source indépendante, et entité active au registre au même point.
+- Conflans-Sainte-Honorine, marchés de la Fonderie, de Chennevières et des Quais : **déblocage** = liste des exposants producteurs publiée par la Ville ou par le marché.
+- Poissy, marchés de la place de la République et de Beauregard : **déblocage** = site de la Ville relisible.
+
+**Fiches écartées pour doute sur une personne.** Une (Mantes-la-Jolie, exploitation enregistrée au nom d'une personne physique), non nommée.
+
+**Point d'arrêt.** Yvelines : relire le site de Poissy à la passe suivante ; s'il répond, reprendre la descente sur Poissy. La passe suivante ne vise pas l'Île-de-France (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
