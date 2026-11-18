@@ -55458,3 +55458,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une cette passe (Falaise, enseigne comportant un prénom).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (soir, Haute-Garonne (31) en tête du classement : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 (producteur du Var) reste en `en_cours` : son enseigne est un prénom, doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Calvados (Normandie) : la région est exclue par la garde 41.c. Classement après exclusion : Haute-Garonne (31) 4,96, Rhône (69) 4,68, Isère (38) 4,56, Seine-Saint-Denis (93) 4,54, Oise (60) 4,33, Loire (42) 4,23, Yvelines (78) 4,22, Hérault (34) 4,21.
+
+**Pourquoi rien de neuf n'est lu.** Pour la Haute-Garonne, les titres des passes précédentes couvrent toutes les communes de plus de 10 000 habitants du classement (Toulouse, Colomiers, Tournefeuille, Blagnac, Muret, Plaisance-du-Touch, Cugnaux, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes) et les petites communes de la liste (Castelginest, Villeneuve-Tolosane, L'Union, Saint-Jean, Saint-Gaudens). Les mêmes constats valent pour le Rhône, l'Isère, la Seine-Saint-Denis, l'Oise, la Loire, les Yvelines et l'Hérault. Relancer une sonde de plus sur ces communes reproduirait une piste déjà consignée.
+
+**Point structurel, consigné (pas de décision de FAIT).** La formule de la règle 41 désigne, passe après passe, des départements dont les communes d'appel ont déjà été éprouvées. La règle 247 fait changer de département après douze communes sans succès, mais la formule renvoie ensuite vers le même haut de classement, les gardes 41.c et 41.e ne retenant qu'une région. Le résultat est une suite de passes sans publication. Aucune exception n'est écrite à la formule : le point est signalé au responsable du site pour un arbitrage de méthode, sans fiche en attente.
+
+**Pistes non publiées (anonymes).** Demande #13 (producteur, Var, enseigne au prénom) : doute sur une personne, en attente.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
