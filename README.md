@@ -55622,7 +55622,7 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 
 **Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c. Le Nord (59, déficit ≈ 6,55) reste en veille : ses communes de plus de 13 000 habitants sont toutes éprouvées (règle 41.e). Le Calvados (14, déficit ≈ 3,98) est le premier département éligible hors région exclue ; sa descente, reprise ici, reprend à Lisieux comme la passe du 17 novembre le prévoyait.
 
-**Commune, règle 41.d.** Lisieux (≈ 23 000 habitants), sans fiche, sondée à nouveau.
+**Commune, règle 41.d.** Lisieux (19 645 habitants), sans fiche, sondée à nouveau.
 
 **Ce qui a été lu.**
 - Office de tourisme Lisieux Normandie, page « Marchés » : marché traditionnel le samedi, 8 h à 13 h, place de la République ; marché de producteurs le mercredi, 8 h à 13 h, de juin à août, place du Pays d'Auge.
