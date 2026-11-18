@@ -55333,3 +55333,34 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Hérault : reprendre Agde à la page de la Ville (rubrique marchés) dès qu'elle est accessible. Si elle ne répond toujours pas, la passe suivante peut descendre à Lunel ou Castelnau-le-Lez, sondées ni l'une ni l'autre cette fois, ou basculer sur la Seine-Saint-Denis (93), réexaminée d'abord.
 
 Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** `data/` et images non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Ille-et-Vilaine (35) reprise, Le Rheu sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours » à reprendre (compteurs : 0 nouvelle, 1 en cours sans action, 6 intégrées, 6 refusées). Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Hérault (Occitanie) : cette région est exclue de cette passe, la Bretagne ne l'est pas. Écartés, clos ou épuisés comme les passes précédentes le notent : Nord (en veille), Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Hérault, Loire, Corse. Premier département éligible : **Ille-et-Vilaine (35)**, déficit ≈ 4,05. La descente reprend là où la passe du 17 novembre l'avait laissée (Saint-Grégoire).
+
+**Commune, règles 41.d et 247.** Commune suivante de la descente : **Le Rheu (9 839 habitants)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Ille-et-Vilaine : première page de cent opérateurs lue. Le Rheu n'y apparaît que pour des opérateurs déclarés en vente aux professionnels, aucun en vente aux particuliers.
+- Registre des entreprises : une exploitation maraîchère en vente directe à la ferme, route de Chavagne (Coutance), établissement ouvert, coordonnées du registre dans la commune (48,085 ; -1,758).
+- Site officiel de la Ville (`lerheu.fr`) lu : la fiche « place de la Mairie » localise le marché sans jour, ni horaire, ni liste d'exposants.
+- Recherche web : un marché hebdomadaire du samedi matin et un marché bio du mercredi après-midi, sources agrégées seulement (un aperçu d'assistant, un agenda, un site de marchés) ; les jours ne se recoupent pas avec une source officielle.
+- Un second site de vente à la ferme, présenté par un annuaire tiers : non lu auprès de l'exploitation ni d'une seconde source.
+
+**Pourquoi rien n'est publié.** Le Rheu rend une seule fiche vérifiable (l'exploitation de vente directe, registre ouvert, horaires publiés par l'exploitation elle-même) et des marchés dont les jours se contredisent entre sources agrégées et ne sont pas confirmés par la Ville. Le groupement de cinq fiches n'est pas atteint : une fiche isolée n'est pas une zone (règle 52, règle 248). Le doute porte sur des faits (jours de marché), pas sur des personnes.
+
+**Pistes non publiées (anonymes, Le Rheu, 35).**
+- Exploitation maraîchère en vente directe à la ferme (Coutance), la seule fiche solide de la commune : **déblocage** = seconde source indépendante pour les horaires et la liste de produits, à rattacher au groupement dès qu'une autre fiche de la commune est vérifiée.
+- Marché du samedi matin, place de la Mairie : **déblocage** = jours et horaires publiés par la Ville ou par les exposants.
+- Marché bio du mercredi après-midi, place Jean-Auvergne : **déblocage** = confirmation par la Ville ou par l'organisateur.
+- Second site de vente à la ferme cité par un annuaire tiers : non retenu, pas de source de l'exploitation.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions (règle 5).** Jours de marché de Le Rheu : les sources agrégées se contredisent (un marché du samedi, un marché bio le mercredi, présentés à l'identique par plusieurs agrégateurs). Consignées ici, rien publié sur ce point.
+
+**Point d'arrêt.** Ille-et-Vilaine : Le Rheu sondée, zéro fiche publiée. La passe suivante reprend la descente à Châteaugiron (10 845 habitants) si elle vise encore le 35 ; elle ne vise pas la Bretagne deux passes de suite (règle 41.c), et la borne de douze communes (règle 247) approche dans ce département.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
