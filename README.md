@@ -55567,3 +55567,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (planifiée, Calvados (14) visé, registre lu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` reste en suspens (doute sur une personne, rien publié).
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c. Le Nord reste en veille (41.e). Haute-Garonne, Isère, Loire, Oise, Yvelines, Seine-Saint-Denis et Hérault sont closes ou épuisées par les notes précédentes. Premier département ouvert hors de ces exclusions : le **Calvados (14, Normandie, déficit ≈ 3,98)**, dont la descente a déjà éprouvé cinq communes sur douze.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Calvados, première page (100 opérateurs sur le total du département). Les entrées de Caen, Lisieux, Honfleur, Bayeux et Vire sont surtout des grossistes, des restaurants, des associations, des enseignes de supermarchés ou des entreprises individuelles désignées par le nom de leur exploitant (écartées, non nommées). Un seul opérateur de Honfleur et un de Caen se déclarent en vente aux particuliers, dont l'un est une entreprise individuelle.
+- Caen (commune la plus peuplée) porte déjà cinq fiches de marchés de la Ville. Elle n'est donc pas une commune « sans fiche » au sens de la règle 41.d et n'est pas retenue.
+- Lisieux, commune suivante par population, n'a aucun opérateur déclaré en vente aux particuliers sur cette page du registre. Ses marchés et son office de tourisme n'ont pas été relus à cette passe.
+
+**Pourquoi rien n'est publié.** Aucune commune sans fiche n'a réuni cinq commerces vérifiables sur une source indépendante. Les rares entrées « vente aux particuliers » du secteur sont des personnes physiques ou des structures associatives, non retenues. Une fiche isolée ne forme pas le groupe de cinq de la règle 52.
+
+**Pistes non publiées (anonymes, Calvados).**
+- Lisieux : **déblocage** = au moins quatre commerces de vente directe vérifiés sur une source indépendante (office de tourisme ou site de la Ville), dont un marché ou une AMAP documentés.
+- Honfleur, opérateur déclaré en vente aux particuliers : **déblocage** = fiche du commerce lue sur sa propre source, et entité active au registre au même point.
+
+**Fiches écartées pour doute sur une personne** : deux, Calvados, non nommées (exploitations enregistrées au nom d'une personne physique).
+
+**Point d'arrêt.** Calvados : relire Lisieux à la passe suivante (office de tourisme, marchés), sans revenir sur Caen. La passe suivante ne vise pas la Normandie (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
