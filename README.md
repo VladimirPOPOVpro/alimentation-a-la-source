@@ -55741,3 +55741,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point structurel, consigné (pas de décision de FAIT).** Comme les passes précédentes, la formule désigne des départements dont la descente par population est épuisée sans fiche publiable, et la garde 41.c ne retient que la région de la passe précédente. Aucune exception n'est écrite à la formule.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (00 h 45, Oise (60) reprise, Beauvais sondée à nouveau : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle », aucune demande « en_cours » traitée à cette passe. Rien à répondre par email.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule (règle 177), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Rhône (Auvergne-Rhône-Alpes) : la région est exclue par la garde 41.c. Classement hors ARA : le Nord (59) reste en tête à 4,5, mais la commune la plus peuplée qui n'a pas de fiche y a déjà été éprouvée (règle 41.d, passes de novembre). La Haute-Garonne (31, 3,8) et l'Oise (60, 3,7) suivent ; la Haute-Garonne a été éprouvée à répétition, l'Oise est reprise ici.
+
+**Commune, règle 41.d.** Oise : Beauvais (55 550 habitants), commune la plus peuplée du département sans fiche propre à son code postal sur la période de référence ; deux fiches y sont déjà publiées (Au Panier Bio, Le Producteur Local) et l'élargissement à l'agglomération (règle 96) est tenu. Les pistes sont celles de la passe de Beauvais consignée plus haut.
+
+**Ce qui a été trouvé.** Rien de nouveau par rapport aux pistes déjà consignées : le marché de la place des Halles reste sans photographie utilisable, l'AMAP Mon Bio Chou sans jour ni heure de distribution publiés, La Ferme Saint Jean sans horaires ni photo de son point de vente, La Terre en Héritage à reprendre au prochain passage sur le Beauvaisis.
+
+**Pourquoi rien n'est publié.** Aucune fiche nouvelle ne remplit le critère (deux sources, fait et image utilisables). Une fiche isolée ne forme pas le groupe de cinq (règles 52 et 248). Les critères de déblocage des pistes Beauvais ne sont pas remplis.
+
+**Point structurel, consigné (pas de décision de FAIT).** La formule désigne toujours des départements dont la descente par population est épuisée sans fiche publiable. Aucune exception n'est écrite à la formule.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
