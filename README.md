@@ -55364,3 +55364,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Ille-et-Vilaine : Le Rheu sondée, zéro fiche publiée. La passe suivante reprend la descente à Châteaugiron (10 845 habitants) si elle vise encore le 35 ; elle ne vise pas la Bretagne deux passes de suite (règle 41.c), et la borne de douze communes (règle 247) approche dans ce département.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Calvados (14) repris, Bayeux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en cours reste inchangée, rien n'est publié ni répondu. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 177), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Ille-et-Vilaine (Bretagne) : la Bretagne est exclue par la garde 41.c. Écartés, clos ou épuisés comme les passes précédentes le notent : Nord, Haute-Garonne, Rhône, Isère, Seine-Saint-Denis, Val-de-Marne, Yvelines, Oise, Hérault, Loire, Corse, Pyrénées-Atlantiques. Premier département éligible : **Calvados (14)**, déficit ≈ 3,96, avec 5 communes éprouvées sur 12 (règle 247 non atteinte).
+
+**Commune, règle 41.d.** Les communes du Calvados plus peuplées que Bayeux (Caen, Hérouville-Saint-Clair, Lisieux, Ifs, Mondeville, Ouistreham, Mézidon Vallée d'Auge) sont déjà éprouvées ou ont une fiche. Commune retenue : **Bayeux (12 659 habitants)**, sans fiche, sondée pour la première fois.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Calvados, 300 premiers opérateurs : quatre entrées à Bayeux, aucune en vente aux particuliers.
+- Recherches web (marché, magasins bio, AMAP) : le marché du terroir est un événement estival du jeudi, pas un marché hebdomadaire, et ses horaires viennent d'un courrier aux exposants ; le marché de Noël est saisonnier. Aucune AMAP de Bayeux identifiée. Un magasin bio participatif de la rue Saint-Exupère est signalé, sans horaires vérifiés par une source officielle. Une cidrerie-verger bio de Bayeux vend en cave, place Charles-de-Gaulle, d'après une source touristique régionale.
+- Les annuaires tiers (Que Choisir, au-magasin, Just à Côté) donnent des horaires non datés.
+
+**Pourquoi rien n'est publié.** Aucune fiche de Bayeux ne réunit horaires vérifiés et deux sources indépendantes à l'échelle du commerce. Le marché hebdomadaire n'a pas d'horaires officiels lus ; le marché du terroir ne répond pas à la définition de marché hebdomadaire. Le groupe de cinq n'est pas atteint (règle 41.d) ; une fiche isolée ne se publie pas.
+
+**Pistes non publiées (anonymes, Bayeux, 14).**
+- Marché hebdomadaire de Bayeux (ville, marchés et abonnements) : **déblocage** = jours et horaires publiés par la Ville, ou le service des marchés.
+- Cidrerie-verger bio, cave en centre-ville : **déblocage** = horaires de la cave et site du producteur, recoupés à une seconde source.
+- Magasin bio participatif, rue Saint-Exupère : **déblocage** = horaires et adresse confirmés par le collectif lui-même.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions (règle 5).** Aucune contradiction tranchée cette passe ; l'absence de source officielle joue seule.
+
+**Point d'arrêt.** Calvados : Bayeux sondée, zéro fiche publiée. Passe suivante : ne pas viser la Normandie si elle suit cette passe (règle 41.c). Si le 14 reste en tête après une autre région, reprendre Bayeux à partir des pistes ci-dessus ; sinon descendre à Falaise (7 680 habitants), qui n'a pas été sondée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
