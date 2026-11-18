@@ -55392,3 +55392,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Calvados : Bayeux sondée, zéro fiche publiée. Passe suivante : ne pas viser la Normandie si elle suit cette passe (règle 41.c). Si le 14 reste en tête après une autre région, reprendre Bayeux à partir des pistes ci-dessus ; sinon descendre à Falaise (7 680 habitants), qui n'a pas été sondée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Nord (59) visé de nouveau, registre relu par commune : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule (outre-mer exclu, règles 93 et 177), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Calvados : la Normandie est exclue par la garde 41.c. Premier département éligible au déficit : **Nord (59)**, déficit ≈ 6,5, devant la Haute-Garonne (31) à ≈ 5,0.
+
+**Commune, règle 41.d.** Registre Agence Bio, Nord, 1 600 opérateurs relus sur les 1 796 entrées du département, filtrés sur la vente aux consommateurs et regroupés par commune. Les communes qui concentrent le plus d'entrées (Lille, Villeneuve-d'Ascq, Roubaix, Dunkerque, Valenciennes, Wattignies, Douai, Hazebrouck) sont déjà pourvues d'une fiche ou ont été éprouvées aux passes précédentes. Les entrées des autres communes sont, dans leur grande majorité, au nom de personnes physiques (non reprises) ou de grandes surfaces et grossistes (exclus par la charte). Aucune commune non éprouvée ne rend cinq commerces de vente aux consommateurs non nominatifs.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord hors fiche ne réunit cinq commerces vérifiables. Une fiche isolée ne forme pas le groupe de cinq de la règle 41.d, et aucune recherche web neuve n'a été lancée sur une commune restante, faute de commune restante.
+
+**Point structurel, consigné (pas de décision de FAIT).** Le Nord reste en tête de la formule depuis la mi-novembre, alors que sa descente par population est épuisée. La garde 41.c n'écarte que la région de la passe précédente. Résultat : une passe sur deux environ ne peut rien publier. Le point touche le choix du secteur, pas une fiche ; il n'est pas tranché ici, pour ne pas écrire d'exception à la formule.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
