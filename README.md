@@ -55711,3 +55711,33 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe (les opérateurs du registre qui sont des personnes physiques ne sont ni nommés ni publiés).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (23 h 45, Rhône (69) repris, Bron sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` : doute sur une personne (enseigne comportant un prénom, coordonnées privées), rien n'est publié ni répondu. Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Hérault (Occitanie) : l'Occitanie est exclue par la garde 41.c. Classement hors Occitanie : Nord (59, déficit ≈ 6,12) en veille (41.e) ; Rhône (69, ≈ 4,42), premier département éligible et ouvert ; Isère, Haute-Garonne, Oise, Loire, Yvelines et Seine-Saint-Denis restent closes ou épuisées par les notes précédentes. Le Rhône reprend donc sa descente par population : Vaulx-en-Velin, Caluire-et-Cuire, Saint-Priest et Rillieux-la-Pape étant déjà sondées, la commune suivante sans fiche est **Bron (≈ 40 000 habitants)**.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Rhône : 1 200 entrées lues sur le total du département, filtrées sur Bron. Cinq entrées à Bron : une enseigne de grande distribution, un grossiste, un opérateur de distribution déclaré aux professionnels, et deux entrées dont l'une seulement déclare la vente aux particuliers, sans commerce identifiable à l'adresse. Aucune n'est retenue ; les entrées au nom d'une personne physique ne sont ni nommées ni publiées.
+- Recherche web, marché de la place de l'Église : le guide bio local du Grand Lyon (février 2024) le donne le mercredi de 8 h à 12 h, marché mixte de producteurs. Visiterlyon donne en revanche un marché biologique place Baptiste Curial, mercredi et dimanche de 8 h à 12 h, et la Ville de Bron évoque un marché du mercredi après-midi rue Louis Allioud. Les sources se contredisent sur le lieu et les jours.
+- Terres Lyonnaises Bron (magasin de coopérative agricole, 116 avenue Franklin-Roosevelt selon Que Choisir) : le site de la coopérative n'a pas été trouvé ; adresse, téléphone et horaires ne sont confirmés par aucune source officielle.
+- Biocoop Bron (avenue Jean-Monnet) : seul un annuaire tiers donne l'adresse, le téléphone et les horaires ; la page officielle du magasin n'a pas été trouvée.
+- Saveurs du Coin (boutique de Bron) : la seule source est une étude de 2020 fondée sur des chiffres de 2017. Périmée, non retenue.
+- Biolocal Rhône, salon à l'hippodrome de Parilly : un événement, pas un point de vente, hors fiche.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Bron n'est vérifié sur une source officielle avec adresse, horaires et téléphone. Le marché de la place de l'Église est contredit par une autre source. Le groupe de cinq fiches de la règle 52 n'est pas atteint, et une fiche isolée ne se publie pas (règle 248). La commune de Bron est sondée et reste ouverte.
+
+**Pistes non publiées (Bron, Rhône).**
+- Terres Lyonnaises Bron : **déblocage** = adresse, téléphone et horaires confirmés sur le site de la coopérative ou par le magasin, et liste de produits locaux.
+- Marché de la place de l'Église (mercredi, 8 h à 12 h) : **déblocage** = confirmation de l'emplacement et des jours par la Ville de Bron, qui tranche la contradiction avec le marché de la place Baptiste Curial.
+- Marché biologique de la place Baptiste Curial (mercredi et dimanche, 8 h à 12 h, selon Visiterlyon) : **déblocage** = source de la Ville ou du marché.
+- Biocoop Bron : **déblocage** = fiche officielle du magasin (horaires, téléphone) ; à juger au titre des magasins bio indépendants, règle de MODERATION.md.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre à Bron, déclarée au nom d'une personne physique, non publiée, ne se rouvre pas. Nombre : une.
+
+**Point d'arrêt.** Rhône : Bron sondée, zéro fiche publiée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (41.c). Le Rhône peut revenir plus tard à partir de Villefranche-sur-Saône, Bron étant consignée avec ses pistes ci-dessus.
+
+**Point structurel, consigné (pas de décision de FAIT).** Comme les passes précédentes, la formule désigne des départements dont la descente par population est épuisée sans fiche publiable, et la garde 41.c ne retient que la région de la passe précédente. Aucune exception n'est écrite à la formule.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
