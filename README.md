@@ -55227,3 +55227,33 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Muret ne livre pas cinq fiches vérifiées dans cette passe. Passe suivante : compléter les pistes ci-dessus (photo et horaires du moulin, site de l'huilerie) avant d'envisager la descente de la règle 41.d vers la commune suivante sans fiche.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Alpes-Maritimes (06), Le Cannet sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en cours (#13) reste inchangée, rien n'est publié ni répondu. Passe de couverture (mode 2).
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : cette région est exclue par la garde 41.c. Les départements en tête du calcul (Nord, Oise, Loire, Isère, Savoie, Calvados, Corse) sont écartés, clos ou épuisés, comme les passes précédentes le notent. Premier département ouvert : **Alpes-Maritimes (06), déficit ≈ 3,24**, 19 fiches publiées (Nice, Antibes, Cannes, Grasse, Vallauris, Cagnes-sur-Mer et Le Cannet exceptés).
+
+**Commune, règle 41.d.** Cagnes-sur-Mer (53 354 habitants) est la commune la plus peuplée du 06 sans fiche, mais elle reste éprouvée et ne se rouvre que par son déblocage (photographie permise, voir la passe du 5 octobre). Descente vers **Le Cannet (41 938 habitants)**, selon le point d'arrêt de cette passe.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, 06, pagination complète (11 168 opérateurs), filtre sur la commune. La plupart des entrées sont des distributeurs, grossistes ou enseignes de grande distribution, sans point de vente en circuit court. Une entreprise individuelle inscrite sous un nom de personne est écartée pour doute sur une personne. Une entrée « Calao 226 » déclare la vente aux particuliers, mais sa recherche web n'aboutit à aucune source indépendante du commerce : non retenue.
+- Recherche web sur les marchés du Cannet : trois marchés recensés par l'office de tourisme et par des agrégateurs (Centre, mardi matin ; Aubarède, mercredi matin, produits biologiques annoncés ; Rocheville, samedi matin, « produits du terroir »), avec des horaires qui varient selon les sources. Aucune liste de producteurs vérifiée auprès de la Ville, de l'office ou des exposants.
+- Une épicerie fine, un poissonnier et une boutique de l'office de tourisme apparaissent, sans relevé de produits en circuit court : non retenus.
+- Une épicerie « Le Passage » citée au registre bio n'a pu être retrouvée qu'à Breil-sur-Roya, pas au Cannet : non retenue.
+
+**Pourquoi rien n'est publié.** Le Cannet ne rend pas cinq commerces vérifiables : les marchés ont des horaires contradictoires entre sources (règle 5) et aucun produit relevé auprès de la Ville ou des exposants. Une fiche de marché sans produits serait incomplète, et le validateur exige au moins un produit.
+
+**Pistes non publiées (Le Cannet, 06)** — lignes anonymes :
+- Marché du Centre (place Jean-Jaurès, mardi) : déblocage = horaires confirmés par la Ville et liste d'exposants.
+- Marché de l'Aubarède (mercredi, bio annoncé) : déblocage = liste des producteurs bio présents, relevée auprès de la Ville ou du marché.
+- Marché de Rocheville (samedi) : déblocage = horaires et producteurs confirmés ; la contradiction de dates entre sources est à lever.
+- Une entreprise individuelle inscrite au registre sous un nom de personne : écartée pour doute sur une personne, sans réouverture.
+
+**Fiches écartées pour doute sur une personne** : une (Le Cannet, entreprise individuelle), non reprise.
+
+**Contradictions (règle 5).** Horaires et dates des marchés du Cannet : consignés ici, rien publié.
+
+**Point d'arrêt.** Passe suivante : ne pas viser le 06 si elle suit une passe en Provence-Alpes-Côte d'Azur (règle 41.c) ; sinon reprendre Cagnes-sur-Mer seulement si son déblocage apparaît, puis Le Cannet (marchés à confirmer auprès de la Ville), puis Saint-Laurent-du-Var (32 172 habitants) selon la règle de descente. La règle 247 n'est pas atteinte (deux communes éprouvées dans ce département, sur douze).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
