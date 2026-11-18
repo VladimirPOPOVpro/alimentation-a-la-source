@@ -55661,3 +55661,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (soir, Hauts-de-France close, Haute-Garonne et Val-de-Marne déjà éprouvés : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` (n° 13) reste en attente de précision.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches. La passe précédente visait le Nord (59, Hauts-de-France) : la région est close pour cette passe. Classement restant : Haute-Garonne (31, ≈ 5,0), Rhône (69, ≈ 4,7), Isère (38, ≈ 4,6), Seine-Saint-Denis (93, ≈ 4,6), Val-de-Marne (94, ≈ 4,1).
+
+**Pourquoi rien n'est publié.** Chaque tête de classement a déjà été sondée lors des passes précédentes : la Haute-Garonne a atteint la borne de la règle 247 (Muret sondée à zéro), le Rhône, l'Isère, la Seine-Saint-Denis et le Val-de-Marne ont leurs communes les plus peuplées déjà éprouvées sans succès (Champigny-sur-Marne, Villejuif, Ivry-sur-Seine, Choisy-le-Roi, Fontenay-sous-Bois ne se rouvrent pas). Le registre de l'Agence Bio, 94, relu : aucun opérateur en vente au public dans les communes non éprouvées. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point structurel, consigné (pas de décision de FAIT).** Même constat que les passes précédentes : la formule continue de désigner des départements dont la descente par population est épuisée. Aucune exception n'est écrite à la formule.
+
+**Pistes non publiées (anonymes).** Demande n° 13 : doute sur une personne, toujours en attente.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
