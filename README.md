@@ -55615,3 +55615,30 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Saint-Priest sondée, zéro fiche publiée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (41.c). Le Rhône peut revenir à une passe ultérieure avec Saint-Priest reprise (déblocage ci-dessus) ou Bron, Villefranche-sur-Saône, Rillieux-la-Pape (sondages non faits).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (Calvados (14) reprise, Lisieux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c. Le Nord (59, déficit ≈ 6,55) reste en veille : ses communes de plus de 13 000 habitants sont toutes éprouvées (règle 41.e). Le Calvados (14, déficit ≈ 3,98) est le premier département éligible hors région exclue ; sa descente, reprise ici, reprend à Lisieux comme la passe du 17 novembre le prévoyait.
+
+**Commune, règle 41.d.** Lisieux (≈ 23 000 habitants), sans fiche, sondée à nouveau.
+
+**Ce qui a été lu.**
+- Office de tourisme Lisieux Normandie, page « Marchés » : marché traditionnel le samedi, 8 h à 13 h, place de la République ; marché de producteurs le mercredi, 8 h à 13 h, de juin à août, place du Pays d'Auge.
+- Annuaire des marchés Jours de marché (sites communautaires, à jour variable) : mêmes jours et horaires pour les deux marchés.
+- Registre Agence Bio, Calvados, première page de cent opérateurs : quatre entrées à Lisieux, dont une seule vend aux particuliers, et celle-ci est au nom d'une personne physique : écartée, non nommée (règle sur les personnes). Les trois autres ne vendent pas au public.
+- Recherche web sur AMAP et magasins de producteurs à Lisieux : aucun résultat vérifiable dans la commune ; la fiche de magasin de producteurs la plus proche est à Livarot, hors commune.
+
+**Pourquoi rien n'est publié.** Les deux marchés sont confirmés par deux sources de même jour et d'horaires, mais ils ne forment que deux fiches de type `marche`, sans producteur nommé à vérifier ; aucune boutique, aucune AMAP. Le groupe de cinq fiches sur une seule commune (règle 52 : quatre points au moins) n'est pas atteint, et une fiche isolée n'est pas publiée. Le marché de producteurs n'est ouvert qu'en été : pas de fiche avant qu'une source actuelle ne confirme sa tenue.
+
+**Pistes non publiées (Lisieux, 14).**
+- Marché de producteurs, place du Pays d'Auge (mercredi) : **déblocage** = un recensement des exposants lu sur le site de la Ville ou de l'office, et la confirmation des dates de l'année en cours.
+- Marché traditionnel, place de la République (samedi) : **déblocage** = un second recensement de la Ville pour compléter le groupe jusqu'à cinq points.
+- Boutiques et AMAP de la commune : aucune piste vérifiable à cette passe.
+
+**Fiches écartées pour doute sur une personne** : une entrée du registre Agence Bio à Lisieux, au nom d'une personne physique, non reprise ; elle ne se rouvre pas. Nombre : un.
+
+**Point d'arrêt.** Calvados : Lisieux sondée, zéro fiche publiée. La passe suivante ne vise pas la Normandie si elle suit immédiatement celle-ci (règle 41.c) ; le Calvados peut revenir après la borne de la règle 247 (Lisieux déjà éprouvée deux fois).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
