@@ -55549,3 +55549,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Yvelines : relire le site de Poissy à la passe suivante ; s'il répond, reprendre la descente sur Poissy. La passe suivante ne vise pas l'Île-de-France (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (planifiée, Rhône (69) visé, registre relu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` reste en suspens (doute sur une personne, rien publié).
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule (outre-mer exclu par la validation des données et la règle 177), dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait les Yvelines (Île-de-France) : la région est exclue par la garde 41.c. Haute-Garonne et Seine-Saint-Denis sont closes, le Nord est en veille. Premier département éligible : le **Rhône (69, Auvergne-Rhône-Alpes, déficit ≈ 4,73)**.
+
+**Ce qui a été lu.** Première page du registre de l'Agence Bio pour le 69 (100 opérateurs sur un total plus large). Elle rend surtout des particuliers, des sociétés de conseil ou de transport, des enseignes de supermarchés et des caves. Les communes à commerces vendant en direct sans fiche existante n'y apparaissent pas en nombre suffisant. Le Rhône compte déjà des fiches à Lyon, Villeurbanne, Vénissieux, Oullins, Sainte-Foy, Francheville, Irigny, Brignais, Vourles, Chaponost, Belleville-en-Beaujolais et Fleurie. Aucune commune sans fiche n'a été identifiée avec cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Pas de groupe de cinq fiches vérifiables dans une commune non éprouvée. Les entrées du registre dont le nom est celui d'un exploitant (entreprise individuelle) ne sont ni retenues ni nommées.
+
+**Point structurel, consigné (pas de décision de FAIT).** La formule désigne encore des départements où la descente par population a déjà été sondée ; le registre par page de cent ne suffit plus à trouver un groupe de cinq commerces dans une commune neuve. Non tranché ici, pour ne pas écrire d'exception.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste identifiée cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
