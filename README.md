@@ -55492,3 +55492,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Yonne (89), Puisaye : 2 fiches vérifiées, 3 pistes non publiées)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email.
+
+**Secteur.** Le classement de la passe précédente (Nord en veille, puis Oise, Loire, Haute-Corse, Isère) ne sort que des communes déjà sondées. Cette passe a pris l'Yonne, département sans fiche à Auxerre, puis le sud du département (Puisaye), où les fiches se regroupent autour de Merry-Sec et Saint-Privé. Le groupe visé reste de cinq fiches ; il n'est pas atteint.
+
+**Publié (deux fiches, vérifiées au registre et sur une source indépendante) :**
+- SCEA Volailles des Chocats, Merry-Sec : entreprise active au registre ; fiche de l'office de tourisme Puisaye-Forterre (vente sur les marchés d'Auxerre et de Joigny). Horaires et adresse exacte à confirmer, `a_confirmer: true`. Image : logo de la ferme, publié par l'office de tourisme.
+- Chevrette et Grenouillette, Saint-Privé : entreprise active au registre ; site de la ferme et annuaire touristique. Vente directe et horaires non confirmés, `a_confirmer: true`. Image : vue de l'étang de la ferme, tirée du site de la ferme (aucune personne sur l'image).
+
+**Pistes non publiées (anonymes).**
+- Yonne, boulangerie à la ferme (Charny-Orée-de-Puisaye) : site et fiche touristique existent, mais la seule photo disponible montre une personne reconnaissable. Règle MODERATION : la fiche entière reste non publiée.
+- Yonne, fromagerie de chèvre (Le Val d'Ocre) : fiche vérifiée sur l'annuaire de la plateforme, vente directe à la ferme, mais aucune photo utilisable à ce jour ; la fiche exige une image.
+- Auxerre, marché de producteurs du samedi (place de l'Hôtel-de-Ville, source officielle de la Ville) : source solide, mais aucune photo sans personne n'a été trouvée ; à reprendre avec une image.
+
+**Écartés (non vérifiables ou hors règle).** Une enseigne de chaîne franchisée à Auxerre (magasin bio en franchise) : hors périmètre des commerces indépendants. Un domaine viticole et deux producteurs dont le nom est un patronyme : écartés sans être nommés.
+
+**Compteurs.** 1 304 fiches (+2) ; données et images ajoutées, code non touché.

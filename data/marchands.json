@@ -34346,5 +34346,56 @@
     "site_web": "https://blagnac.biocoop.net/",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=2%20rue%20Henri%20Matisse%2C%2031700%20Blagnac",
     "image_url": "/images/marchands/biocoop-blagnac.jpg"
+  },
+  {
+    "slug": "volailles-des-chocats-merry-sec",
+    "nom": "SCEA Volailles des Chocats",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 47.654562,
+    "lon": 3.487027,
+    "adresse": "Rue de la Petite Haie, Puteau, 89560 Merry-Sec",
+    "horaires": "Vente sur les marchés : Auxerre le vendredi matin, Joigny le samedi matin, d'après la fiche de l'office de tourisme Puisaye-Forterre. Horaires de la ferme non publiés : à confirmer.",
+    "produits": [
+      "Poulets",
+      "Pintades",
+      "Poules",
+      "Canettes",
+      "Oies",
+      "Dindes",
+      "Chapons",
+      "Œufs"
+    ],
+    "description": "Élevage de volailles en plein air à Merry-Sec, en Puisaye. La ferme vend des volailles prêtes à cuire, sur les marchés d'Auxerre et de Joigny, selon la fiche de l'office de tourisme.",
+    "telephone": "03 86 33 27 54",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Rue%20de%20la%20Petite%20Haie%2C%20Puteau%2C%2089560%20Merry-Sec",
+    "image_url": "/images/marchands/volailles-des-chocats-merry-sec.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "chevrette-et-grenouillette-saint-prive",
+    "nom": "Chevrette et Grenouillette",
+    "categorie": "ferme",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 47.705068,
+    "lon": 3.053768,
+    "adresse": "La Plauderie, 89220 Saint-Privé",
+    "horaires": "Non publiés sur le site de la ferme, qui propose visites et séjours sur réservation : à confirmer auprès de la ferme.",
+    "produits": [
+      "Fromage de chèvre fermier (transformation à la ferme)",
+      "Viande de vache allaitante"
+    ],
+    "description": "Petite exploitation familiale en Puisaye, en Bourgogne : chèvres transformées en fromage à la ferme et vaches allaitantes. Le site de la ferme présente surtout les visites scolaires et un gîte de groupe ; les modalités de vente directe ne sont pas confirmées.",
+    "telephone": "03 86 74 94 95",
+    "site_web": "https://www.grenouillettes.com/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Plauderie%2C%2089220%20Saint-Priv%C3%A9",
+    "image_url": "/images/marchands/chevrette-et-grenouillette-saint-prive.jpg",
+    "a_confirmer": true
   }
 ]
