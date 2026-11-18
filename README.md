@@ -55677,3 +55677,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (nuit, Isère (38) reprise, Voiron relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en `en_cours` (doute sur une personne, rien publié). Rien à répondre par email.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal. Classement des déficits : Haute-Garonne (31) en tête, puis Rhône (69), Isère (38), Seine-Saint-Denis (93). La passe précédente visait le Nord (59), région exclue par la garde 41.c ; Haute-Garonne, Rhône et Seine-Saint-Denis ont déjà été éprouvés ces derniers jours. L'Isère reste donc le choix de cette passe.
+
+**Commune, règle 41.d.** Commune la plus peuplée sans fiche en Isère : Voiron (21 847 habitants). Vienne (38), sondée le 16 novembre, n'est pas reprise. Voiron a déjà été étudiée (voir la passe du 16 novembre et « Pistes non publiées ») : le marché porte une contradiction de jours et de lieu entre la Ville et l'office, et le magasin de producteurs n'a ni horaires ni téléphone confirmés par le commerce. Aucune nouvelle source ouverte ne lève ces deux points dans cette passe.
+
+**Pourquoi rien n'est publié.** Une fiche isolée ne forme pas le groupe de cinq, et les pistes de Voiron ne sont pas débloquées par une source nouvelle.
+
+**Point structurel, consigné.** La formule désigne encore des départements dont la descente par population est épuisée. Aucune exception n'est écrite à la formule.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
