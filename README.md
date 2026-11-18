@@ -55693,3 +55693,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (22 h 45, Hérault (34) visé, Villeneuve-lès-Maguelone sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` reste en l'état (doute sur une personne, rien publié). Rien à répondre par email.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, 1 304 fiches comptées sur le code postal. La passe précédente (nuit) visait l'Isère (Auvergne-Rhône-Alpes) : cette région est exclue par la garde 41.c. Classement hors ARA, Hauts-de-France closes : Haute-Garonne (31) en tête, déjà éprouvée en plusieurs communes ; puis Calvados (14), Haute-Corse (2B) et l'Hérault (34), qui a été visé pour la dernière fois en début de journée (Agde sondée).
+
+**Commune, règle 41.d.** Dans l'Hérault, Montpellier, Béziers, Sète, Frontignan, Juvignac, Saint-Jean-de-Védas, Balaruc-le-Vieux et Saint-Georges-d'Orques ont déjà une fiche ; Agde, Lunel, Mauguio, Mèze, Lattes et Castelnau-le-Lez ont été sondées sans fiche. La commune suivante est **Villeneuve-lès-Maguelone (10 872 habitants)**.
+
+**Ce qui a été trouvé.** Recherche ouverte et registre Agence Bio (première centaine d'opérateurs du 34) : aucun marché hebdomadaire de producteurs identifié à Villeneuve-lès-Maguelone. Seules pistes : la boutique du restaurant du Domaine de Maguelone (produits bio, solidaires ou locaux, à l'accueil) et le caveau du domaine viticole bio du même site. Pas de vente aux particuliers vérifiée pour les autres opérateurs de la commune au registre. Aucune source ne fournit cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Une ou deux fiches isolées ne forment pas le groupe de cinq, et la règle 248 interdit de publier une fiche isolée. Les pistes restent en « Pistes non publiées » pour une passe qui visera à nouveau la commune. La descente reprendra à Saint-Gély-du-Fesc (10 472 habitants) à la prochaine passe autorisée à viser l'Hérault.
+
+**Point structurel, consigné.** Comme les passes précédentes, la formule désigne des départements dont la descente par population est largement épuisée sans fiche publiable. Aucune exception n'est écrite à la formule.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe (les opérateurs du registre qui sont des personnes physiques ne sont ni nommés ni publiés).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
