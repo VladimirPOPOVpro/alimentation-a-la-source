@@ -55300,3 +55300,36 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Fiches écartées pour doute sur une personne** : cinq opérateurs du registre à Chambéry et environs, personnes physiques, non nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Hérault (34) visé, Agde sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle », aucune demande « en_cours » à reprendre. Rien à répondre.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Savoie (Auvergne-Rhône-Alpes) : la région 84 est exclue par la garde 41.c, donc Rhône, Isère et Loire ne sont pas visés. Le Nord (59), en tête du classement, a déjà été descendu cette semaine sans publication ; la Haute-Garonne (31) est épuisée au sens de la règle 247. Le Hérault (34) est le département suivant du classement hors région exclue (déficit ≈ 4,21). La Seine-Saint-Denis (93, ≈ 4,54) reste un candidat au-dessus de lui ; elle a été visée le 17 novembre et n'a pas été réexaminée dans cette passe, faute de temps pour relire sa descente.
+
+**Commune, règle 41.d.** Agde (29 939 habitants), la plus peuplée du Hérault sans fiche selon le recoupement par nom de commune dans `data/marchands.json` (Montpellier, Béziers et Sète ont déjà des fiches ; Agde est la première commune du classement démographique sans fiche, devant Lunel et Castelnau-le-Lez). Le recoupement se fait par nom dans l'adresse, à reverifier si une passe reprend ce secteur.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Hérault : 500 opérateurs lus sur 3 306 (quatre pages de cent). Cinq opérateurs mentionnent Agde ; aucun n'est déclaré en vente aux particuliers. Le registre n'apporte donc aucune fiche. La lecture n'est pas exhaustive ; elle le dit.
+- Recherche web sur les marchés et les fermes d'Agde : les résultats donnent des marchés (centre, Grau d'Agde, Cap d'Agde, marché nocturne du Môle), une ferme collective de Portiragnes (hors commune), et un projet de paniers de Thau sans horaires.
+- Site de la Ville d'Agde (`agde.fr`) : réponse quasi vide au téléchargement, aucun contenu exploitable sur les marchés. Page marchés de la Ville : 404.
+- Fiches de l'office de tourisme Hérault Tourisme (marché d'Agde, marché traditionnel de la Promenade) : 410, pages retirées. Seules les pages de recherche subsistent.
+- PDF des marchés de l'office de tourisme Cap d'Agde (2023) : 403, inaccessible.
+
+**Pourquoi rien n'est publié.** Les marchés d'Agde sont le bon gisement, mais leurs horaires se contredisent selon les sources : le centre d'Agde se tient le jeudi, le Cap d'Agde le samedi et le mardi, le Grau d'Agde tous les jours en été. Le site officiel de la Ville et les fiches de l'office de tourisme ne sont pas accessibles depuis cet environnement, si bien qu'aucune source officielle ne tranche. Selon la règle 5, la contradiction se consigne ici ; les fiches resteraient à `a_confirmer` et approximatives, ce qu'une passe ne publie pas. Aucun commerce n'a été vérifié à la source avec horaires et téléphone.
+
+**Pistes non publiées (anonymes).**
+- Agde, centre-ville : marché traditionnel du jeudi matin (parkings de la Vallée et de la Calade, haut de la Promenade). Motif : horaires issus de brochures et de pages d'agrégation, site officiel inaccessible. Déblocage : page de la Ville d'Agde donnant jours, lieux et liste des producteurs.
+- Agde, Grau d'Agde : marché traditionnel de la place de la République, saisonnier. Motif : horaires contradictoires selon les sources (tous les jours en été, jeudi et dimanche le reste de l'année). Déblocage : page de l'office de tourisme du Grau d'Agde ou de la Ville.
+- Agde, Cap d'Agde : marché du samedi (parking Gévaudan), marché du mardi (Vieux Port), marché nocturne du Môle (mercredi et samedi à partir de 17 h 30 selon une source de l'été 2026). Motif : trois sources se contredisent, dates de saison non confirmées. Déblocage : page officielle de l'office de tourisme Cap d'Agde Méditerranée.
+- Agde, marché de producteurs (Florensac) : hors commune, non retenu.
+- Portiragnes, ferme collective de producteurs bio : hors commune, à reprendre si une passe vise Portiragnes.
+- Projet de paniers de Thau (CPIE Bassin de Thau) : pas de point de vente ni d'horaires, non retenu.
+
+**Fiches écartées pour doute sur une personne** : un opérateur du registre à Agde, personne physique, non nommée, écarté pour doute sur une personne.
+
+**Contradictions** (règle 5) : horaires des marchés d'Agde, consignés ci-dessus.
+
+**Point d'arrêt.** Hérault : reprendre Agde à la page de la Ville (rubrique marchés) dès qu'elle est accessible. Si elle ne répond toujours pas, la passe suivante peut descendre à Lunel ou Castelnau-le-Lez, sondées ni l'une ni l'autre cette fois, ou basculer sur la Seine-Saint-Denis (93), réexaminée d'abord.
+
+Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, aucune retirée.** `data/` et images non touchés ; total inchangé : 1 302 fiches.
