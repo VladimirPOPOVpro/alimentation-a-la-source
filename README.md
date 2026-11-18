@@ -55278,3 +55278,25 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Savoie (73) visée, Chambéry sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France), donc cette région est exclue par la garde 41.c. Haute-Garonne (31) reste en tête hors Nord, mais sa descente a été éprouvée sur plus de douze communes sans succès : la règle 247 change de département. Le classement suivant, hors Hauts-de-France et hors départements épuisés, donne la Savoie (73) : déficit ≈ 3,75.
+
+**Commune, règle 41.d.** Chambéry (59 964 habitants), la plus peuplée de la Savoie sans fiche.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Savoie, première page (100 opérateurs). Les opérateurs qui vendent aux particuliers à Chambéry sont soit des personnes physiques (écartées pour doute sur une personne, non nommées), soit des entités de préparation sans point de vente public vérifié. Recherche web : Halles de Chambéry (marché couvert, plus de vingt producteurs, horaires indiqués par un guide touristique, à confirmer sur le site de la Ville), guide des producteurs 2025 de l'office de tourisme Chambéry Montagnes (PDF), magasin de producteurs de La Motte-Servolex et de Cognin (annuaire Que Choisir, sans horaires vérifiés), ferme de Vimines (annuaire régional, sans horaires).
+
+**Pourquoi rien n'est publié.** Aucun commerce n'a été vérifié à la source (site du commerce, site de la Ville ou de l'office de tourisme) avec horaires et téléphone. Les pistes restent des annuaires tiers ou des guides sans date. Une fiche approximative ne passe pas, et une passe ne rend pas cinq fiches vérifiées en une seule session.
+
+**Pistes non publiées (anonymes).**
+- Chambéry, Halles de Chambéry (marché couvert) : motif, horaires seulement issus d'un guide touristique. Déblocage : page de la Ville ou de l'office de tourisme donnant jours, horaires et liste des producteurs.
+- Chambéry, guide des producteurs de l'office de tourisme (2025) : motif, source PDF sans horaires à jour. Déblocage : contact direct ou site de chaque producteur retenu.
+- La Motte-Servolex et Cognin, magasins de producteurs : motif, aucune source officielle ni horaires. Déblocage : site du magasin ou page de la commune.
+- Vimines, ferme : motif, annuaire régional sans horaires. Déblocage : site de la ferme.
+
+**Fiches écartées pour doute sur une personne** : cinq opérateurs du registre à Chambéry et environs, personnes physiques, non nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
