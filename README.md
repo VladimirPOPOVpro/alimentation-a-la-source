@@ -55511,3 +55511,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Écartés (non vérifiables ou hors règle).** Une enseigne de chaîne franchisée à Auxerre (magasin bio en franchise) : hors périmètre des commerces indépendants. Un domaine viticole et deux producteurs dont le nom est un patronyme : écartés sans être nommés.
 
 **Compteurs.** 1 304 fiches (+2) ; données et images ajoutées, code non touché.
+
+## Passe autonome du 18 novembre 2026 (planifiée, Isère (38) reprise, Grenoble relue au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` reste en suspens (doute sur une personne, rien publié).
+
+**Secteur.** Isère reprise, pour la lecture du registre Agence Bio (première page de 100 opérateurs sur 2 255 pour le département). Grenoble et ses communes voisines (Saint-Martin-d'Hères, Échirolles, Sassenage, Claix) sont déjà bien couvertes : aucune nouvelle fiche n'y est ajoutée. Les autres communes de la page ne rendent que des particuliers, des sociétés de transport ou des entrepôts, et aucune commune sans fiche n'y réunit cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Pas de groupe de cinq fiches vérifiables dans une commune non éprouvée. Une fiche isolée ne forme pas le groupe de la règle 41.d. Le constat des passes précédentes sur le classement reste valable ; il n'est pas tranché ici, pour ne pas écrire d'exception.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste identifiée.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé.
