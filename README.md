@@ -55410,3 +55410,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+### Passe autonome du 18 novembre 2026 (Haute-Garonne visée, Muret relue) : aucune publication
+
+**Demandes.** Backlog vide : aucune demande `nouvelle`. Une demande `en_cours` (n° 13, d'octobre) reste en attente de précision et n'est pas traitée cette passe.
+
+**Secteur, règle 41.** Métropole seule, population `geo.api.gouv.fr`, 1 302 fiches. La passe précédente visait le Nord (59) : sa région est close pour cette passe (règle 41.c). Le département retenu est la Haute-Garonne (31, déficit ≈ 4,96). Commune : Muret (26 079 habitants), la plus peuplée sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, département 31 : aucun opérateur de vente au public à Muret ; les autres entrées sont des entreprises individuelles désignées par le nom de leur exploitant (écartées, non lues plus loin).
+- Annuaire de marchés en ligne : deux marchés en plein air, le mardi et le samedi de 8 h à 13 h, sans adresse précise (« centre ville »), et un marché bio le samedi au même endroit. Source unique, participative, sans page de la mairie accessible depuis cet environnement.
+- Annuaire de magasins : un magasin bio de réseau, boulevard Joffrery, dont les horaires divergent d'une source à l'autre. Source tierce seule ; sa page nationale n'a pas répondu.
+- Guide touristique de l'agglomération : PDF non lisible sans outil d'extraction ; non exploité.
+- Une exploitation certifiée bio à Muret, entrée au nom d'une personne physique : écartée pour doute sur une personne.
+- Une ferme de producteurs citée comme présente au marché du samedi se trouve à Mondavezan, hors commune : hors périmètre.
+
+**Pourquoi rien n'est publié.** Muret ne rend pas cinq commerces vérifiables sur source indépendante : les marchés n'ont pas d'adresse précise, et le magasin bio n'a ses horaires que par des sources contradictoires. Une fiche isolée ne forme pas le groupe de cinq (règle 52, règle 248).
+
+**Point structurel, consigné (pas de décision de FAIT).** Haute-Garonne : Muret avait déjà été sondée à zéro à la passe du 18 novembre (00 h 50) ; la borne de la règle 247 pour ce département est atteinte. La formule pointe pourtant encore vers le 31 à la passe suivante, faute de région autre que le Nord. Le choix du secteur n'est pas tranché ici, pour ne pas écrire d'exception à la formule.
+
+**Pistes non publiées (anonymes).** Muret : marchés hebdomadaires sans adresse précise ; magasin bio de réseau, horaires à lire auprès du magasin. Une exploitation certifiée au nom d'une personne physique, écartée.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Muret, exploitation certifiée au nom d'une personne physique).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
