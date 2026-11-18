@@ -55257,3 +55257,24 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Point d'arrêt.** Passe suivante : ne pas viser le 06 si elle suit une passe en Provence-Alpes-Côte d'Azur (règle 41.c) ; sinon reprendre Cagnes-sur-Mer seulement si son déblocage apparaît, puis Le Cannet (marchés à confirmer auprès de la Ville), puis Saint-Laurent-du-Var (32 172 habitants) selon la règle de descente. La règle 247 n'est pas atteinte (deux communes éprouvées dans ce département, sur douze).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Nord (59) visé, communes épuisées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (#13, producteur du Var) reste en `en_cours` : son enseigne est un prénom, et la fiche part en « Pistes non publiées » pour doute sur une personne. Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule (outre-mer exclu), dénominateur national, 1 302 fiches comptées sur le code postal. La passe précédente visait les Alpes-Maritimes (PACA) : cette région est exclue par la garde 41.c. Le Nord (59) reste en tête, déficit ≈ 6,5, puis Haute-Garonne (31), Rhône (69) et Isère (38).
+
+**Commune, règle 41.d.** Les communes du Nord sans fiche, au-dessus de 13 000 habitants, ont toutes été éprouvées dans les passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Hautmont, Mons-en-Barœul, Coudekerque-Branche, Croix, Grande-Synthe, Ronchin, Faches-Thumesnil, Hem, Sin-le-Noble, Saint-Amand-les-Eaux, Halluin, Denain). Aucune nouvelle commune à descendre sans reprendre une piste déjà consignée.
+
+**Ce qui a été lu cette passe.** Registre de l'Agence Bio, Nord, première page de cent opérateurs, relue pour contrôle : rien de nouveau. Aucune recherche web neuve n'a été lancée sur une commune non éprouvée, faute de commune restante.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables qui n'aient pas déjà été sondés sans résultat. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point structurel, consigné (pas de décision de FAIT).** La formule de la règle 41 désigne le Nord à presque chaque passe, mais la descente par population y est épuisée depuis les passes d'octobre et de novembre ; la garde 41.c n'écarte que la région de la passe précédente. Résultat : une passe sur deux environ ne peut rien publier. Ce point touche le choix du secteur, pas une fiche ; il n'est pas tranché ici, pour ne pas écrire d'exception à la formule.
+
+**Pistes non publiées (anonymes).**
+- Demande #13 (producteur, Var, enseigne au prénom) : doute sur une personne, en attente.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
