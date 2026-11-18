@@ -55474,3 +55474,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (nuit, secteur recalculé : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 (producteur du Var, enseigne comportant un prénom, adresse de contact privée) reste en `en_cours` : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule (outre-mer exclu), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : l'Occitanie est exclue par la garde 41.c. Classement après exclusion : Nord (59) 4,39 en veille (41.e), Oise (60) 3,67, Loire (42) 3,62, Haute-Corse (2B) 3,53, Isère (38) 3,53, Savoie (73) 3,46, Calvados (14) 3,40. Les départements en tête sont tous consignés comme clos ou éprouvés dans les passes précédentes.
+
+**Ce qui a été lu cette passe.** Rien de neuf. Aucune commune nouvelle n'a été ouverte : la descente par population de chaque département en tête reprendrait des sondages déjà consignés, et aucune commune non éprouvée n'a été identifiée dans le classement sans créer une exception à la formule.
+
+**Pourquoi rien n'est publié.** Aucun secteur retenu ne rend cinq commerces vérifiables qui n'aient pas déjà été sondés. Une fiche isolée ne forme pas le groupe de cinq de la règle 41.d.
+
+**Point structurel, consigné (pas de décision de FAIT).** La formule continue de désigner des départements épuisés, et la garde 41.c ne retient que la région de la passe précédente. Le constat des passes précédentes reste valable ; il n'est pas tranché ici, pour ne pas écrire d'exception.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
