@@ -55434,3 +55434,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une cette passe (Muret, exploitation certifiée au nom d'une personne physique).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
+
+## Passe autonome du 18 novembre 2026 (Calvados (14) repris, Falaise sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (#13) reste en `en_cours`, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 41.e et 247.** Métropole seule (règle 93), dénominateur national, 1 302 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : l'Occitanie est exclue par la garde 41.c, et seule cette région l'est. Écartés, clos ou en veille comme les passes précédentes le notent : Nord (veille, 41.e), Haute-Garonne, Oise, Loire, Isère, Rhône, Corse, Hérault, Seine-Saint-Denis, Val-de-Marne, Yvelines, Pyrénées-Atlantiques. Premier département éligible : **Calvados (14)**, déficit ≈ 3,96, avec cinq communes éprouvées sur douze (règle 247 non atteinte). Le Calvados n'a pas été la passe immédiatement précédente, donc il reste éligible.
+
+**Commune, règle 41.d et point d'arrêt du 14.** La note précédente demandait de reprendre Bayeux, puis de descendre à **Falaise (7 680 habitants)** si le 14 restait en tête. Bayeux était déjà sondée à zéro ; **Falaise** est donc la commune retenue.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Calvados, quatre cents premières entrées sur 1 373 : quatre opérateurs à Falaise, dont un grossiste, une chocolaterie sans vente aux particuliers, et une entreprise individuelle au nom d'une personne physique (écartée, non lue plus loin). Le reste du registre n'a pas été lu.
+- Recherches web : la page des marchés de la ville (JDS) indique des marchés hebdomadaires et des marchés de produits biologiques, sans jours ni horaires dans l'extrait. Le répertoire Que Choisir (carte circuit court) mentionne un magasin de producteurs à Falaise, dont l'enseigne comporte un prénom. Un guide bio de l'Orne (2019) cite deux producteurs avec paniers à Falaise, et la communauté de communes Falaises du Talou tient un guide des producteurs locaux (PDF non relu, à reprendre en priorité).
+- Biocoop Falaise : magasin de réseau, adresse rue Louis-Rochet ; horaires publiés par un agrégateur tiers, à confirmer sur le site du magasin.
+- Le site de la mairie de Falaise (rubrique marchés) n'a pas été ouvert cette passe.
+
+**Pourquoi rien n'est publié.** Falaise ne rend pas cinq commerces vérifiables sur source indépendante : le marché n'a ni jours ni horaires confirmés, le magasin de producteurs est écarté pour doute sur une personne (l'enseigne comporte un prénom), et le magasin bio de réseau n'a pas d'horaires vérifiés. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Calvados : Falaise sondée, zéro fiche publiée. Passe suivante : ne pas revenir en Normandie si elle suit cette passe (règle 41.c). Si le 14 reste en tête après une autre région, reprendre Falaise à partir du guide des producteurs de la communauté de communes, du site de la mairie et des deux producteurs du guide bio ; sinon descendre à la commune suivante par population sans fiche.
+
+**Pistes non publiées (anonymes).** Falaise : un magasin de producteurs dont l'enseigne comporte un prénom, écarté pour doute sur une personne. Falaise : marché hebdomadaire et marché bio, jours et horaires à confirmer auprès de la mairie. Falaise : magasin bio de réseau, horaires à confirmer auprès du magasin. Falaise : deux producteurs en paniers (guide bio 2019), à vérifier auprès d'eux.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Falaise, enseigne comportant un prénom).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 302 fiches.
