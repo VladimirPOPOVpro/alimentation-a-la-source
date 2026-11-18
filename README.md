@@ -55642,3 +55642,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Calvados : Lisieux sondée, zéro fiche publiée. La passe suivante ne vise pas la Normandie si elle suit immédiatement celle-ci (règle 41.c) ; le Calvados peut revenir après la borne de la règle 247 (Lisieux déjà éprouvée deux fois).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (planifiée, Nord (59) sondé, Valenciennes déjà couverte : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` reste en suspens : son enseigne est un prénom et le contact joint est un portable personnel. Doute sur une personne, rien publié.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule (outre-mer exclu par la règle 177 et par la validation des coordonnées), dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente visait le Calvados (14, Normandie) : cette région est exclue par la garde 41.c. Classement des déficits : Nord (59) en tête, ≈ 6,55 ; puis Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93).
+
+**Commune, règle 41.d.** Le registre de l'Agence Bio, première page du Nord, relu commune par commune : les villes non encore fichées (Avelin, Hazebrouck, Saint-André-lez-Lille, Douai, Maubeuge, Estaires, Wasquehal, Fourmies…) ont peu de vente directe au registre et Valenciennes, la plus peuplée d'entre elles, porte déjà quatre fiches. Aucune commune sans fiche n'a donc pu être retenue avec cinq commerces vérifiables sans reprendre une piste déjà consignée.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend un groupe de cinq commerces qui n'ait déjà été sondé sans résultat. Une fiche isolée ne forme pas le groupe de cinq.
+
+**Point structurel, consigné (pas de décision de FAIT).** Le même constat que les passes du 16 et du 17 novembre : la formule désigne le Nord à presque chaque passe, et la descente par population y est épuisée. La garde 41.c ne retire que la région de la passe précédente. Non tranché ici, pour ne pas écrire d'exception à la formule.
+
+**Pistes non publiées (anonymes).**
+- Demande #13 (producteur, Var, enseigne au prénom) : doute sur une personne, en attente.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
