@@ -55590,3 +55590,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Calvados : relire Lisieux à la passe suivante (office de tourisme, marchés), sans revenir sur Caen. La passe suivante ne vise pas la Normandie (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 18 novembre 2026 (planifiée, Saint-Priest (69) sondée, Rhône reprise : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` reste en suspens (doute sur une personne, rien publié).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Calvados (Normandie) : la Normandie est exclue par la garde 41.c. Le Rhône reste le premier département éligible, avec Vaulx-en-Velin et Caluire-et-Cuire déjà sondées. Descente par population : la commune la plus peuplée du 69 sans fiche et non encore sondée est **Saint-Priest (49 229 habitants)**.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Rhône, 1 100 opérateurs relus : à Saint-Priest, les entrées sont des grossistes, des sièges sociaux ou des enseignes de grande distribution. Aucun producteur en vente directe ni magasin de producteurs n'en ressort. Les entrées au nom d'une personne physique sont écartées, non nommées.
+- Site officiel de la Ville : pas de page de marchés lisible à cette passe, et aucun producteur listé.
+- Annuaires touristiques : deux marchés alimentaires (place Ferdinand-Buisson, place Roger-Salengro), mais leurs jours et horaires ne viennent que d'une fiche datée de 2018 ou d'une annonce sans horaire. Aucun exposant producteur nommé.
+- Recherches générales (Biocoop, AMAP, magasins de producteurs) : aucun résultat à Saint-Priest (69) ; les occurrences concernent Saint-Priest-en-Jarez (Loire), une autre commune.
+- Guide bio local du Grand Lyon : le PDF n'a pas pu être lu (téléchargement refusé dans le navigateur, non relancé).
+
+**Pourquoi rien n'est publié.** Aucun commerce de vente directe n'est vérifié à la source (site du commerce, Ville ou office de tourisme) avec horaires et téléphone. Les marchés relevés ne sont confirmés que par des annuaires datés. Le groupe de cinq fiches de la règle 52 n'est pas atteint, et une fiche isolée n'est pas publiée.
+
+**Pistes non publiées (anonymes, Rhône).**
+- Saint-Priest, marché place Ferdinand-Buisson (vendredi, selon un annuaire de 2018) : **déblocage** = jours et horaires confirmés sur le site de la Ville ou par le marché, et liste des producteurs.
+- Saint-Priest, marché place Roger-Salengro (2026 selon un agenda, sans horaire) : **déblocage** = horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne** : entrées du registre Agence Bio du 69 au nom d'une personne physique, non publiées, ne se rouvrent pas. Nombre : au moins une à Saint-Priest.
+
+**Point d'arrêt.** Saint-Priest sondée, zéro fiche publiée. La passe suivante ne vise pas l'Auvergne-Rhône-Alpes (41.c). Le Rhône peut revenir à une passe ultérieure avec Saint-Priest reprise (déblocage ci-dessus) ou Bron, Villefranche-sur-Saône, Rillieux-la-Pape (sondages non faits).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
