@@ -55894,3 +55894,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio du département sont des personnes physiques exploitantes (notamment à Meaux et Lumigny-Nesles-Ormeaux). Écartées, non nommées, non consignées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (07 h 45, Haute-Corse (2B) reprise, Bastia sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente (06 h 49) visait l'Île-de-France : cette région est exclue par la garde 41.c. Outre-mer écarté (règle 177, garde du build). En tête du classement hors IdF, la **Haute-Corse (2B)** : la passe de 05 h 50 l'avait ouverte et laissé Bastia en point d'arrêt, avec la consigne de relire la rubrique marchés de la Ville avant toute recherche web. Ce qui est fait ici.
+
+**Ce qui a été vérifié.**
+- Marché de Bastia : la Ville publie un avis de domaine public (mis en ligne le 31 octobre 2025, `bastia.corsica`) qui dit que le marché alimentaire a lieu **les samedis et dimanches de 8 h 00 à 13 h 00**. Une source officielle, horaires précis. Lieu : place du Marché (quartier de Terra Vecchia). Liste des producteurs et jours exacts par étal : non publiée. Deuxième source : la fiche d'agrégateur jours-de-marche.fr (participative, non datée). Photo : aucune photo du marché admissible trouvée sur un site officiel à ce stade. Non publié faute de photo et de liste d'étals.
+- Recherche web sur les épiceries de Bastia (sources presse et guides) : U Muntagnolu (centre-ville, ouverte en 1982), U Giru (rue Notre-Dame de Lourdes), U Paisanu (rue Napoléon), Au Panier Garni (centre-ville), Erba Santa (concept store, point-relais producteurs). Aucune de ces fiches n'a d'horaires et de téléphone vérifiés sur une source indépendante ; leur profil est épicerie fine plutôt que vente directe au producteur, à trier avant toute fiche.
+- Biocoop : aucun magasin Biocoop à Bastia trouvé. Les magasins corses référencés sont à Alata et Ajaccio. Un résultat de santé.fr cite une adresse « Rte royale, 20604 Bastia » sans enseigne ni téléphone : non rattachée, non publiée.
+- Registre de l'Agence Bio (Haute-Corse) : déjà lu lors de la passe de 05 h 50, deux personnes physiques écartées sans être nommées.
+
+**Pourquoi rien n'est publié.** Le marché est le seul commerce de Bastia à avoir un fait officiel (horaires), sans liste de producteurs ni photo admissible. Les épiceries n'ont pas d'horaires vérifiés. Aucune zone de cinq fiches vérifiables n'existe dans l'état des sources (règles 52 et 248). Aucun fait n'a été inventé pour compléter le groupe.
+
+**Contradictions** (règle 5) : aucune nouvelle consignée cette passe. Le jeudi de marché indiqué par un guide ancien (Fodor's, lieu « plus en activité ») est écarté au profit de l'avis officiel 2026.
+
+**Point d'arrêt.** Bastia (2B) : marché (horaires officiels, à compléter par la liste d'étals et une photo), U Muntagnolu, U Giru, U Paisanu, Au Panier Garni, Erba Santa (épiceries à horaires et téléphone à vérifier). Passe suivante : relire les sites propres de ces épiceries pour horaires et téléphone ; si la zone de Bastia reste sous cinq, descendre à Biguglia ou Furiani selon la règle 247, en gardant 2B pour la passe suivante (région différente, règle 41.c).
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
