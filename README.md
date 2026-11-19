@@ -55867,3 +55867,30 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : deux entrées du registre de l'Agence Bio à Bastia, personnes physiques exploitantes, non reprises.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (06 h 49, Seine-et-Marne (77) visée, Meaux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Corse (Corse) : la région est exclue par la garde 41.c pour cette passe. Classement : Nord (59), Haute-Garonne (31), Rhône (69), Isère (38), Seine-Saint-Denis (93), Oise (60), Loire (42), Hérault (34) et Yvelines (78) déjà éprouvés dans les passes récentes, la descente de la règle 247 ayant été atteinte ou la commune la plus peuplée sans fiche ayant été sondée. Le premier département du classement sans sondage récent est la **Seine-et-Marne (77, Île-de-France)**, déficit ≈ 3,7, 25 fiches publiées. Commune retenue : **Meaux** (56 905 habitants), la plus peuplée du département sans aucune fiche (Chelles, la deuxième, en a déjà cinq).
+
+**Ce qui a été vérifié.**
+- Registre de l'Agence Bio (Seine-et-Marne, 929 opérateurs lus intégralement) : à Meaux, aucune entrée n'a de vente aux particuliers ni de vente détaillante à un commerce. Les entrées sont des grossistes, des transformateurs, des pharmacies, des enseignes de la grande distribution, et plusieurs personnes physiques : écartées sans être nommées.
+- Jours-de-marché.fr donne, pour Meaux, un marché de producteurs le dimanche de 8 h à 13 h (place du Cinéma) et une halle de marché le samedi de 8 h à 13 h. **Une seule source, agrégateur** : la Ville de Meaux n'a pas pu être consultée (son site n'a pas répondu lors de la passe), et aucun programme officiel ne confirme jours ni producteurs. Non publié.
+- Les pages de producteurs de la même source ne listent que des fermes à plus de 20 km de Meaux : hors commune, hors périmètre de cette passe.
+- Petit Futé (Meaux, marchés et halles) : bloqué par une protection anti-robots, pas de contenu lu. Non consulté.
+
+**Pourquoi rien n'est publié.** À Meaux, aucun commerce n'a deux sources indépendantes et une adresse à la fois vérifiée et bien placée pour le public : le seul point de vente direct du registre est une ferme hors de la ville, et le marché n'a qu'une source agrégée. Cinq fiches ne peuvent pas être réunies sur une seule commune sans en inventer, et aucun fait n'a été ajouté pour compléter le groupe (règles 52 et 248).
+
+**Point d'arrêt.** Meaux éprouvée (une commune sur les douze autorisées par la règle 247). La passe suivante peut reprendre le 77 (l'Île-de-France n'a été visée que par la passe précédant celle-ci, règle 41.c) : commune suivante par population sans fiche, **Melun** (45 995 habitants), puis Pontault-Combault (39 096). Dans Meaux, la reprise attend une source officielle de la Ville pour les marchés, ou de son office de tourisme, à chercher avant tout.
+
+**Contradictions** (règle 5) : aucune nouvelle consignée cette passe.
+
+**Pistes non publiées.**
+- Meaux (77) : marché de producteurs du dimanche (et halle du samedi), une seule source agrégée. Déblocage : programme de la Ville ou de l'office de tourisme.
+- Lumigny-Nesles-Ormeaux (77) : ferme à vente directe au registre de l'Agence Bio, sans horaires ni site vérifiés. Hors commune de la passe. Déblocage : une source propre à la ferme.
+- Bois-le-Roi (77) : épicerie vrac du registre de l'Agence Bio, sans horaires ni site vérifiés. Déblocage : deux sources indépendantes et une adresse à la BAN.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio du département sont des personnes physiques exploitantes (notamment à Meaux et Lumigny-Nesles-Ormeaux). Écartées, non nommées, non consignées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
