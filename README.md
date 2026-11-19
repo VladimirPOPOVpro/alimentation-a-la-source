@@ -55995,3 +55995,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio pour l'Ariège (personnes physiques exploitantes, dont à Pamiers, Saverdun et Mirepoix). Écartées, non nommées, non consignées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (11 h 45, Seine-et-Marne (77) reprise, Melun sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en `en_cours` (n° 13) reste en attente de précision.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Ariège (Occitanie) : la région est exclue pour cette passe. Le Nord, l'Oise, la Haute-Garonne, le Rhône, l'Isère, la Loire et la Savoie sont déjà éprouvés ou closes par la règle 247. Le point d'arrêt de la passe du 19 novembre à 6 h 49 désignait la **Seine-et-Marne (77)**, Île-de-France, région non visée par la passe précédente : elle est reprise.
+
+**Commune, règle 41.d.** **Melun** (45 995 habitants) est la commune la plus peuplée du 77 encore sans fiche, et la première de la descente annoncée.
+
+**Sources.**
+- Registre de l'Agence Bio, Seine-et-Marne (929 opérateurs, dix pages de cent) : à Melun, presque tous les établissements sont des préparateurs ou des distributeurs (grandes surfaces, grossistes, boulangerie industrielle). Trois entrées vendent au public, dont une seule désigne une activité de vente au détail de fruits et légumes et de pain, sans site propre ni horaires vérifiés ; une autre est une entreprise de meunerie.
+- Office de tourisme de Melun Val de Seine : **Marché Gaillardon**, halle couverte de plus de cinquante commerces alimentaires, ouverte le mercredi et le samedi de 7 h 30 à 13 h 30, téléphone public du marché. Source vérifiée sur la fiche de l'office. Ce marché mêle commerçants et producteurs : il reste en pistes, sans fiche isolée (règle 52).
+- Office de tourisme, page « producteurs locaux » : des apiculteurs, une cave, une ferme et une brasserie, dont aucune adresse de vente à Melun n'est donnée. Non retenus.
+- Recherche web : aucune AMAP ni magasin de producteurs identifié à Melun ; une Biocoop trouvée à Montévrain et à Avon, hors commune. Aucun site de la Ville de Melun ne tient une rubrique marchés de producteurs.
+
+**Pourquoi rien n'est publié.** Melun ne rend qu'un marché vérifié (Gaillardon) : le groupe de cinq n'est pas atteint (règle 41.d). Une fiche isolée ne forme pas une zone (règle 52). La descente se poursuit au point suivant, sans publier.
+
+**Pistes non publiées (anonymes).**
+- Melun (77), halle de marché, mercredi et samedi (office de tourisme) : déblocage = liste des producteurs présents, et une photo de la halle ou du site de la Ville.
+- Dammarie-les-Lys (77), marché jeudi et dimanche (recherche web, à relire sur une source officielle de la Ville) : déblocage = source de la mairie ou de l'office de tourisme sur les horaires.
+- Vaux-le-Pénil (77), deux commerces de vente au détail du registre (épicerie en vrac, jardins associatifs) : déblocage = site propre ou page officielle de la Ville confirmant l'activité et les horaires ; le téléphone de la fiche du registre est un numéro mobile, non publié.
+- Savigny-le-Temple (77), producteur de fruits et légumes avec vente au public (registre) : déblocage = source de vente à la ferme ou à un marché.
+
+**Fiches écartées pour doute sur une personne** : quatre (deux à Melun et Dammarie-les-Lys, une à Savigny-le-Temple, une dans le secteur de Vaux-sur-Lunain, hors groupe). Nombre seulement, aucun nom.
+
+**Point d'arrêt.** Seine-et-Marne : Melun sondée, zéro fiche publiée, une halle et un marché en pistes. Passe suivante : ne pas revenir en Île-de-France si elle suit immédiatement cette passe (règle 41.c) ; sinon reprendre la descente à Dammarie-les-Lys puis Pontault-Combault (39 096 habitants) selon la règle 247, en recherchant d'abord la source de la mairie sur les marchés.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
