@@ -55777,3 +55777,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle consignée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (02 h 44, Ajaccio (2A) reprise au point d'arrêt : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours » à traiter. Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal. La passe précédente (01 h 45) visait la Loire (ARA) et la Vienne (NA) : ces deux régions sont exclues par la garde 41.c. Hors ARA et Nouvelle-Aquitaine, les premiers du classement (Nord, Haute-Garonne, Oise, Calvados, Hérault, Yonne) sont déjà épuisés ou consignés. Cette passe reprend Ajaccio, point d'arrêt écrit le 17 novembre, plutôt que de descendre le classement jusqu'à un département neuf : c'est un choix de reprise, consigné ici.
+
+**Ce qui a été vérifié.**
+- Ville d'Ajaccio : aucune page officielle à jour des marchés (jours et horaires). Les sources trouvées sont anciennes ou non datées ; un marché de producteurs ne tient qu'à une date ponctuelle annoncée. Rien de publiable en l'état.
+- Magasin de producteurs du quartier Saint-Joseph : horaires lundi-samedi 9 h 30 - 18 h, fermé le dimanche (Que Choisir). Une source indépendante, déjà consignée le 2 novembre ; une seule fiche ne forme pas une zone (règle 52).
+- Biocoop du centre-ville : adresse rue Del Pellegrino concordante sur trois annuaires, mais téléphone contradictoire selon les fiches (règle 5), et aucun horaire trouvé.
+
+**Pourquoi rien n'est publié.** Ajaccio rend une fiche solide, pas cinq. Aucun fait n'a été inventé pour compléter le groupe.
+
+**Contradictions** (règle 5) : téléphone du Biocoop du centre, deux numéros différents. Consigné, non tranché.
+
+**Pistes non publiées.** Ajaccio (2A) : une fiche entière, deux pistes en attente (Biocoop du centre, marchés de la Ville). Passe suivante : relire le site de la Ville (rubrique marchés) et le site du Biocoop pour trancher le téléphone ; ne pas revenir sur la Loire, la Vienne, l'Oise ni les Hauts-de-France.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
