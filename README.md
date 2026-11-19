@@ -56070,3 +56070,29 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : trois cette passe (Haute-Garonne, entreprises individuelles au nom patronymique).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (Nord (59) visé, Wattrelos sondée de nouveau : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule (règle 93). 1 304 fiches comptées sur le code postal, population `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : la garde 41.c exclut donc l'Occitanie. Premier département éligible au déficit : **Nord (59)**, déficit d'environ 6,5 fiches.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche. Elle a déjà été sondée à plusieurs passes.
+
+**Ce qui a été lu cette passe.**
+- Annuaire participatif des marchés : trois marchés enregistrés à Wattrelos, avec jour, horaires (8 h – 13 h) et lieu : un dimanche, un jeudi au parking des Basanos, un vendredi rue Frédéric-Chopin. Aucune liste de produits ni d'exposants n'y figure.
+- Site officiel de la Ville (ville-wattrelos.fr) : la page d'accueil ne donne que les démarches administratives, aucune rubrique marchés n'est accessible depuis elle. Les marchés n'ont pas pu être relus sur la page dédiée.
+- Recherche web : même calendrier, mais des lieux différents selon les sources pour le marché du jeudi (parking des Basanos d'un côté, rue Gustave-Delory de l'autre). Aucune liste de produits n'est trouvée.
+- Annuaire participatif des producteurs : deux fermes listées près de Wattrelos, mais à Toufflers (59390), hors de la commune : hors règle 41.d, non reprises.
+
+**Contradiction consignée (règle 5).** Le site de la Ville annonce quatre marchés, l'annuaire participatif en compte trois, avec des lieux qui ne coïncident pas. Non tranchée faute de source officielle relue ; aucune fiche de marché publiée.
+
+**Pourquoi rien n'est publié.** Wattrelos ne rend aucune fiche entière : les marchés sont vérifiés pour leur jour et leur lieu, mais aucun produit n'est confirmé par une source indépendante, et le validateur exige au moins un produit. Inventer une liste « type marché » serait un fait non vérifié. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Wattrelos sondée, zéro fiche publiée. Passe suivante : si le Nord reste en tête, relire la page marchés de la Ville (rubrique accessible depuis le menu « Démarches et services », pas depuis l'accueil) et demander aux exploitants eux-mêmes les produits, puis descendre à Cambrai (31 134 habitants) si Wattrelos reste vide. Si la Haute-Garonne reprend la tête, Muret reste le point d'arrêt de la passe précédente.
+
+**Pistes non publiées (anonymes).** Wattrelos : trois marchés hebdomadaires, horaires connus, produits non vérifiés (un marché du dimanche, un du jeudi, un du vendredi). Wattrelos : lieu du marché du jeudi contradictoire entre sources. Toufflers (hors commune) : deux exploitations agricoles en vente directe, hors périmètre de la passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
