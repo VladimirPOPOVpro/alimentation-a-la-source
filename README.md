@@ -56263,3 +56263,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Pistes non publiées (anonymes).** Beauvais : magasin de produits locaux, adresse et horaires à vérifier sur source propre. Beauvais : maraîchage en entreprise individuelle, écarté pour doute sur une personne. Beauvais : arche artisanale, date et liste d'exposants à vérifier. Wattrelos : trois marchés hebdomadaires, produits et horaires non vérifiés.
 **Fiches écartées pour doute sur une personne** : une cette passe (Beauvais, entreprise individuelle), non nommée.
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (planifiée, Haute-Garonne (31) visée, Plaisance-du-Touch sondée : aucune publication)
+**Backlog.** Aucune demande « nouvelle » ni en cours. Rien n'est répondu ni publié au titre des demandes.
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 93). 1 304 fiches comptées sur le code postal. La passe précédente visait l'Oise (Hauts-de-France), donc la garde 41.c écarte les Hauts-de-France ; le Nord reste épuisé (règle 247). Haute-Garonne (31) est le premier département éligible du classement, déficit d'environ 4,8 fiches.
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux et les autres communes de plus de dix mille habitants portent déjà des fiches. Muret, sondée à plusieurs passes, reste sans fiche ; la descente passe à Plaisance-du-Touch (21 079 habitants).
+**Ce qui a été lu cette passe.**
+- Site de la commune : la page du marché de plein vent indique un marché les jeudis et samedis, de 8 h à 12 h 45, place Bombail. Elle mélange commerçants titulaires, saisonniers et occasionnels, sans liste de produits ni de producteurs.
+- Registre des entreprises : l'entité municipale est active ; les entrées du registre à Plaisance-du-Touch sont en partie des entreprises individuelles au nom d'un particulier (écartées pour doute sur une personne, non nommées).
+- Recherche web (une requête) : un annuaire participatif recense un seul jour de marché, sans horaire, et renvoie vers la mairie.
+**Pourquoi rien n'est publié.** Plaisance-du-Touch ne rend aucune fiche de producteur ou de commerce avec produits et horaires vérifiés sur source indépendante. Le marché de plein vent a des horaires officiels, mais aucun produit vérifié : une fiche de marché sans produit ne passe pas le validateur, et en inventer une serait un fait non vérifié.
+**Point d'arrêt.** Passe suivante : si la Haute-Garonne reste éligible, relire l'office de tourisme de Toulouse métropole (rubrique annuaire, marchés et producteurs) et le registre de l'Agence Bio sur la page suivante ; si rien, descendre à Balma selon la règle 41.d, en gardant Muret et Plaisance-du-Touch ouvertes.
+**Pistes non publiées (anonymes).** Plaisance-du-Touch : marché de plein vent (jeudi et samedi, 8 h à 12 h 45, place Bombail), produits des commerçants à relever auprès de la mairie. Plaisance-du-Touch : boutique bio de fruits et légumes au registre, horaires et site non vérifiés (déjà consignée en passe précédente).
+**Fiches écartées pour doute sur une personne** : plusieurs entrées individuelles à Plaisance-du-Touch, non nommées, non reproduites.
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
