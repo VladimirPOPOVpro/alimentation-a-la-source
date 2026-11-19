@@ -55841,3 +55841,29 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une demande en_cours (#13, Var), déjà consignée, non reprise ici. Aucune nouvelle fiche écartée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (05 h 50, Haute-Corse (2B) ouvert, Bastia sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu. Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : la région est exclue par la garde 41.c. Hors ARA, Nord, Haute-Garonne, Oise, Calvados, Hérault et Yonne étant épuisés ou consignés, le premier département ouvert du classement est la **Haute-Corse (2B)**, sans aucune fiche publiée, déficit ≈ 3,5. Commune la plus peuplée sans fiche : Bastia.
+
+**Ce qui a été vérifié.**
+- Registre de l'Agence Bio (Haute-Corse, 400 opérateurs sur 745 lus) : à Bastia, huit entrées. La plupart sont des préparateurs, des producteurs sans vente aux particuliers, ou des structures sans point de vente public. Deux entrées sont des personnes physiques exploitantes : écartées, non nommées.
+- Épicerie fine de produits corses du centre-ville (enseigne « U Muntagnolu », rue César-Campinchi) : adresse vue sur une fiche Gault&Millau ; horaires et téléphone non trouvés sur une source indépendante. Consignée, non publiée.
+- Marché de Bastia : les pages d'agrégateurs (jours-de-marché) donnent des horaires de 8 h à 13 h sur trois places, mais elles datent d'avant la période de référence (bandeau COVID). Aucune page à jour de la Ville ne les confirme ; l'agenda du site officiel ne donne que les événements. Non publié.
+- Drive de producteurs de Bastia (article Corse Net Infos) : non daté, statut actuel inconnu. Non publié.
+- Un bio de Bastia (« Au Panier Corse », Petit Futé 2025) : aucun horaire ni adresse vérifiés. Non publié.
+- Biocoop Alata : hors Bastia, écarté.
+
+**Pourquoi rien n'est publié.** Aucune fiche ne remplit le critère (deux sources, fait et image utilisables). Bastia rend au plus une fiche solide, pas cinq : le groupe de cinq commerces vérifiables n'existe pas dans l'état des sources (règles 52 et 248). Aucun fait n'a été inventé pour compléter le groupe.
+
+**Point d'arrêt.** Bastia reste à éprouver pour un marché daté : relire la rubrique marchés du site de la Ville (`bastia.corsica`) et l'office de tourisme avant toute recherche web. Si la Ville ne publie pas ses marchés, descendre à Biguglia ou Furiani, puis appliquer la règle 247. Ne pas revenir sur l'Isère, la Haute-Garonne, le Nord ni la Loire.
+
+**Contradictions** (règle 5) : aucune nouvelle consignée cette passe.
+
+**Pistes non publiées.** Bastia (2B) : une épicerie fine du centre (horaires et téléphone manquants), un marché de la place centrale (horaires périmés), un drive de producteurs (non daté), un bio (sans horaires). Toutes en attente de sources à jour.
+
+**Fiches écartées pour doute sur une personne** : deux entrées du registre de l'Agence Bio à Bastia, personnes physiques exploitantes, non reprises.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
