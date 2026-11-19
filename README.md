@@ -55798,3 +55798,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (03 h 46, Hautes-Alpes (05) visé, Gap sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Les premiers du classement sont écartés : Haute-Corse (2B) par la garde 41.c (la passe précédente visait la Corse), Savoie et Haute-Garonne déjà éprouvées les 16 à 18 novembre, Grand Est et Hauts-de-France visés récemment. Le Hautes-Alpes (05, Provence-Alpes-Côte d'Azur, déficit ≈ 2,7) n'avait encore aucune fiche ni aucune passe. Commune retenue : Gap, la plus peuplée du département sans fiche.
+
+**Ce qui a été vérifié (Gap, 05000).**
+- Marchés : la fiche « Marchés de Gap » du site de la destination régionale décrit un marché du samedi matin (centre-ville) et un marché du mercredi. Une seule source, horaires précis non publiés.
+- Le Panier Gapençais (magasin de producteurs, rue des Silos) : établissement actif au registre des entreprises, téléphone et horaires relevés sur Que Choisir, adresse concordante à la BAN. Aucun site propre trouvé, seulement une page Facebook.
+- Sainbio'z (magasin bio, avenue d'Embrun) : deux numéros de rue et des horaires divergents selon les annuaires ; un annuaire associe l'une des adresses à une autre enseigne. Contradiction consignée, non tranchée.
+- Biocoop (rue Alphonse-Daudet) : adresse concordante, mais horaires et téléphone contradictoires selon trois annuaires. Contradiction consignée, non tranchée.
+- Photos : aucun commerce n'a de photo admissible sur son propre site ou sur celui de l'office de tourisme. L'image disponible sur la fiche de la destination n'illustre aucun commerce précis.
+
+**Pourquoi rien n'est publié.** Cinq commerces ou marchés sont identifiés dans une même commune, mais aucun n'a de photo admissible, et les deux enseignes bio ont des horaires et des téléphones contradictoires. Une photo partagée entre fiches, ou une photo de la destination présentée comme celle d'un commerce, serait fausse. Rien n'est donc publié.
+
+**Contradictions** (règle 5) : deux adresses et horaires divergents pour Sainbio'z ; téléphone et horaires divergents pour Biocoop Gap. Consignées, non tranchées.
+
+**Pistes non publiées.** Gap (05) : Le Panier Gapençais, Sainbio'z, Biocoop Gap, marché du samedi, marché du mercredi. Déblocage : une photo du commerce sur son site ou sur celui de l'office de tourisme ; horaires et téléphone confirmés pour Sainbio'z et Biocoop. Passe suivante : Gap reprise, sans revenir au Hautes-Alpes avant une autre région (règle 41.c).
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre de l'Agence Bio du département sont des personnes physiques. Elles sont écartées sans être consignées, aucun nom n'est repris.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
