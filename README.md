@@ -56048,3 +56048,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une cette passe (Lambersart, enseigne comportant des prénoms).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (Haute-Garonne (31) visée, Muret et L'Union sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait le Nord (59), en Hauts-de-France : la garde 41.c l'exclut. Premier département éligible au déficit : **Haute-Garonne (31)**, déficit d'environ 5,0 fiches.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux portent déjà des fiches. La plus peuplée sans fiche est **Muret (26 079 habitants)**, sondée à plusieurs passes sans cinq commerces vérifiables ; Plaisance-du-Touch et Balma ont le même historique.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Haute-Garonne : une seule page de cent entrées sur 2 851 a été lue. Dans cette page, quatre opérateurs à Muret, Balma, Plaisance-du-Touch et L'Union. Trois ont pour raison sociale le nom patronymique d'un particulier ou une entreprise individuelle sans enseigne : écartés pour doute sur une personne. Un domaine viticole de Balma déclare la vente aux particuliers ; la recherche indépendante n'en trouve pas de point de vente direct, et la marque en cause renvoie à un négociant : non publié, faute de source.
+- Une brasserie de L'Union déclare la vente aux particuliers dans le registre ; la recherche indépendante ne retrouve ni enseigne ni horaires à cette adresse : non publié.
+
+**Pourquoi rien n'est publié.** Muret ne rend aucune fiche entière sur source indépendante. Les deux pistes de commerce restantes ne sont pas vérifiables à ce stade et la troisième est écartée pour doute sur une personne. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Muret sondée, zéro fiche publiée. Passe suivante : si la Haute-Garonne reste en tête, reprendre Muret à partir de la source de la mairie sur les marchés, puis descendre à Plaisance-du-Touch selon la règle 247.
+
+**Pistes non publiées (anonymes).** Haute-Garonne : une brasserie de L'Union, vente aux particuliers au registre, adresse et horaires non vérifiés. Haute-Garonne : un domaine viticole de Balma, vente directe non confirmée par une source indépendante. Haute-Garonne : trois entrées au registre Agence Bio portant un nom de particulier, écartées pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : trois cette passe (Haute-Garonne, entreprises individuelles au nom patronymique).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
