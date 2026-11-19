@@ -56229,3 +56229,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une cette passe (Marchiennes), non nommée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (planifiée, Haute-Garonne (31) reprise, Cornebarrieu sondée au registre et sur le web : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule. 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Nord (Hauts-de-France) : la règle 41.c écarte les Hauts-de-France pour cette passe. Premier département éligible au déficit : **Haute-Garonne (31)**, déficit d'environ 5 fiches, 24 fiches publiées.
+
+**Commune, règle 41.d.** Les communes de plus de 10 000 habitants du 31 sont déjà consignées (voir la passe précédente). Il ne reste que Portet-sur-Garonne (9 782 habitants) et Aucamville (9 623) au-dessous de ce seuil, et Cornebarrieu (8 978) ; ces deux premières n'ont aucune entrée au registre de l'Agence Bio qui soit à vente aux consommateurs, sauf une seule à Aucamville. Cornebarrieu a donc été retenue, n'ayant jamais été sondée dans ces notes.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour le 31, en entier (700 entrées, 7 pages), filtré sur la vente aux consommateurs. À Cornebarrieu : une boutique bio à l'enseigne d'un réseau coopératif, un café, une structure bio sans adresse publiée, une société de production bio (deux entrées), et plusieurs entrepreneurs individuels (noms non reproduits, écartés pour doute sur des personnes).
+- Recherche web (une requête) : deux marchés recensés par un annuaire tiers, sans jour ni exposant lu ; une boutique en ligne avec points de retrait ; un événement d'agenda de la métropole. Aucune AMAP installée à Cornebarrieu trouvée. Aucune source propre (site de la commune, office de tourisme) relue.
+
+**Pourquoi rien n'est publié.** Cornebarrieu ne rend pas cinq commerces vérifiables sur une source indépendante, avec un produit et des horaires vérifiés. La boutique bio est un point de vente réel mais une fiche isolée ne forme pas le groupe de cinq (règle 41.d). Une fiche de marché sans produit ne passe pas le validateur.
+
+**Point d'arrêt.** La passe précédente visait le Nord, donc la règle 41.c laisse la Haute-Garonne éligible à la passe suivante. Retenter le site de la mairie de Cornebarrieu à un autre moment ; si rien, descendre à Portet-sur-Garonne en lisant le registre et le site de la commune, sans s'appuyer sur un seul annuaire de plateforme.
+
+**Pistes non publiées (anonymes).** Cornebarrieu : boutique bio de réseau coopératif (site à lire, horaires et produits à vérifier) ; deux marchés recensés par un annuaire tiers, à confirmer auprès de la commune ; une boutique en ligne avec points de retrait, statut à vérifier. Plusieurs entrées du registre à Cornebarrieu sont des entrepreneurs individuels : écartées pour doute sur des personnes, non nommées.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées individuelles à Cornebarrieu, non nommées, non reproduites.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
