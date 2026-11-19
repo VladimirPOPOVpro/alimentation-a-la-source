@@ -55916,3 +55916,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (08 h 45, Calvados (14) repris, Lisieux relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (n° 13) reste en attente : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 41.e, 93, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente (07 h 45) visait la Haute-Corse : la Corse est exclue par la garde 41.c. Le Nord reste en veille (41.e), la Haute-Garonne a atteint sa borne (247), la Loire, l'Isère et la Vienne sont closes (247). Les départements plus haut au classement (Rhône, Seine-Saint-Denis, Yvelines, Hérault) ont déjà été éprouvés sans zone de cinq. Premier département ouvert : **Calvados (14)**, déficit ≈ 4,5, avec des communes éprouvées en nombre inférieur à la borne de douze (règle 247).
+
+**Commune, règle 41.d.** La descente reprend à Lisieux, relue cette passe conformément au point d'arrêt précédent, sans revenir sur Caen.
+
+**Ce qui a été lu cette passe.**
+- Site de la Ville de Lisieux : la page d'accueil ne donne qu'un agenda des marchés de la commune (Noël, marchés de quartier) ; aucune rubrique marchés ou producteurs n'est accessible depuis la page d'accueil, et aucun jour ni adresse de marché de producteurs n'a pu être relevé.
+- Site touristique de l'office de tourisme de Lisieux (domaine `.com`) : répond, mais la passe n'a pas poursuivi la lecture de ses rubriques producteurs.
+- Registre de l'Agence Bio, Calvados, deuxième page (entrées 100 à 199) : un seul opérateur de Lisieux, qui ne vend pas aux particuliers (aucune vente au public au registre) : écarté.
+- Le domaine `.fr` de l'office de tourisme ne résout pas depuis cet environnement.
+
+**Pourquoi rien n'est publié.** Lisieux ne rend pas cinq commerces vérifiables sur source indépendante : le site de la Ville ne fournit ni marché de producteurs ni horaires, et les pistes de la passe du 18 novembre restent non vérifiées. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d, règle 52).
+
+**Point d'arrêt.** Calvados : Lisieux relue, zéro fiche publiée. La passe suivante ne vise pas la Normandie si elle suit immédiatement celle-ci (règle 41.c). Reprendre l'office de tourisme, puis le registre Agence Bio de la deuxième page si l'office ne donne rien.
+
+**Pistes non publiées (anonymes).** Lisieux : marché de producteurs, jours et adresse à confirmer auprès de la Ville ou de l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
