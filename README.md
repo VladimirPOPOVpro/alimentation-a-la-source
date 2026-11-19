@@ -55850,7 +55850,7 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 
 **Ce qui a été vérifié.**
 - Registre de l'Agence Bio (Haute-Corse, 400 opérateurs sur 745 lus) : à Bastia, huit entrées. La plupart sont des préparateurs, des producteurs sans vente aux particuliers, ou des structures sans point de vente public. Deux entrées sont des personnes physiques exploitantes : écartées, non nommées.
-- Épicerie fine de produits corses du centre-ville (enseigne « U Muntagnolu », rue César-Campinchi) : adresse vue sur une fiche Gault&Millau ; horaires et téléphone non trouvés sur une source indépendante. Consignée, non publiée.
+- Épicerie fine de produits corses du centre-ville (enseigne « U Muntagnolu ») : adresse vue sur une fiche Gault&Millau ; horaires et téléphone non trouvés sur une source indépendante. Consignée, non publiée.
 - Marché de Bastia : les pages d'agrégateurs (jours-de-marché) donnent des horaires de 8 h à 13 h sur trois places, mais elles datent d'avant la période de référence (bandeau COVID). Aucune page à jour de la Ville ne les confirme ; l'agenda du site officiel ne donne que les événements. Non publié.
 - Drive de producteurs de Bastia (article Corse Net Infos) : non daté, statut actuel inconnu. Non publié.
 - Un bio de Bastia (« Au Panier Corse », Petit Futé 2025) : aucun horaire ni adresse vérifiés. Non publié.
