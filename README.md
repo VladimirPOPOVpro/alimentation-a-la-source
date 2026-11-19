@@ -56181,3 +56181,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs cette passe (Nord, entreprises individuelles au nom patronymique), non nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (planifiée, Haute-Garonne (31) visée, Muret sondée : aucune publication)
+
+**Secteur, règle 41.** Métropole seule (outre-mer exclu : le build refuse les coordonnées hors métropole). 1 304 fiches comptées sur le code postal, Corse répartie entre 2A et 2B, population `geo.api.gouv.fr`. La passe précédente visait le Nord (59), donc la garde 41.c écarte les Hauts-de-France. Premier département éligible au déficit : **Haute-Garonne (31)**, déficit d'environ 3,9 fiches, 24 fiches publiées.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux portent déjà des fiches. La plus peuplée sans fiche est **Muret (26 079 habitants)**.
+
+**Ce qui a été lu cette passe.**
+- Site de la mairie de Muret : injoignable depuis cet environnement (aucune réponse). Pas de source officielle lue pour la commune.
+- Annuaire de marchés tiers : trois marchés listés à Muret, le mardi et le samedi de 8 h à 13 h, dont une halle aux grains bio le samedi. Aucun produit ni aucun exploitant vérifiés, et les horaires ne viennent pas de la commune.
+- Agenda local : aucune fiche exploitable pour Muret même.
+- Réseau Bienvenue à la ferme : les exploitations citées sont implantées dans d'autres communes (Mondavezan, Vallesvilles, Lherm, Cadours). Elles ne forment pas un groupe à Muret.
+- Plaisance-du-Touch (21 079 habitants, sans fiche) : le site de la mairie répond ; la page des marchés mentionne un marché de plein vent, sans jour ni horaire dans le texte lu.
+
+**Pourquoi rien n'est publié.** Muret ne rend aucune fiche entière sur source officielle ou indépendante : une liste de marchés sans produit ne passe pas le validateur (au moins un produit exigé), et en inventer une serait un fait non vérifié. Une fiche isolée de marché ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Passe suivante : si la Haute-Garonne reste en tête (l'alternance ne bloque que la passe précédente), retenter le site de la mairie de Muret à un autre moment, puis descendre à Plaisance-du-Touch selon la règle 41.d. Le Nord reste exclu pour une passe.
+
+**Pistes non publiées (anonymes).** Muret : trois marchés (mardi, samedi), à confirmer auprès de la mairie, sans produits vérifiés. Muret : un point de vente à commandes en ligne et retrait, statut et adresse non vérifiés. Haute-Garonne : exploitations Bienvenue à la ferme hors de Muret, à traiter si une commune du 31 les reprend en groupe.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Muret, nom d'enseigne comportant un prénom), non nommée.
+
+**Demandes.** Backlog vide : aucune demande à traiter, aucun email.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
