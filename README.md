@@ -56277,3 +56277,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Pistes non publiées (anonymes).** Plaisance-du-Touch : marché de plein vent (jeudi et samedi, 8 h à 12 h 45, place Bombail), produits des commerçants à relever auprès de la mairie. Plaisance-du-Touch : boutique bio de fruits et légumes au registre, horaires et site non vérifiés (déjà consignée en passe précédente).
 **Fiches écartées pour doute sur une personne** : plusieurs entrées individuelles à Plaisance-du-Touch, non nommées, non reproduites.
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 20 novembre 2026 (planifiée, Rhône (69) visé, Caluire-et-Cuire et Saint-Priest sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande déjà en cours, inchangée. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule (outre-mer exclu, règle 177). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Le Nord (59) reste exclu, sa descente étant épuisée (règle 247) ; la passe précédente visait la Haute-Garonne, donc la garde 41.c écarte l'Occitanie seule. Premier département éligible au déficit : **Rhône (69)**, déficit d'environ 4,7 fiches, 33 fiches publiées.
+
+**Commune, règle 41.d.** Vaulx-en-Velin (53 069 habitants), déjà sondée lors de la passe du 2 novembre, n'a pas été reprise ce jour. La descente passe à Saint-Priest (49 229 habitants), puis Caluire-et-Cuire (43 597).
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour le Rhône, en entier (2 451 entrées), filtré sur les deux communes. Caluire-et-Cuire : un magasin spécialisé bio, actif au registre, sans site ni horaires trouvés ; un magasin bio d'un réseau indépendant, avenue du Général-Leclerc. Saint-Priest : pas de magasin de producteurs ni de vente directe retenu, mais des grossistes, un café, une épicerie généraliste, et plusieurs entrées au nom de particuliers (écartées pour doute sur des personnes, non nommées).
+- Recherche d'entreprises : un établissement bio de Caluire-et-Cuire actif (commerce de détail alimentaire) ; une entrée de Caluire-et-Cuire classée en culture (écartée : pas un commerce alimentaire).
+- Recherche web (trois requêtes), sources d'annuaires uniquement : marchés de Caluire-et-Cuire (Montessuy jeudi et samedi, Saint-Clair mardi, centre-bourg mardi soir) ; horaires d'un magasin bio de Caluire-et-Cuire (8 h 30 à 19 h 30, lundi au samedi) ; marché de Saint-Priest place Ferdinand-Buisson (vendredi, source de 2018 et agenda 2026) ; une biocoop de Caluire-et-Cuire, horaires partiels, non retenue faute de source propre.
+- Site de la commune de Caluire-et-Cuire : ne répond pas (aucun code HTTP). Site de Saint-Priest : répond, non relu cette passe.
+- Guide des produits locaux du Grand Lyon (2024) : téléchargé, mais l'environnement n'a pas d'outil d'extraction de PDF ; non lu.
+
+**Pourquoi rien n'est publié.** Ni Caluire-et-Cuire ni Saint-Priest ne rendent cinq commerces vérifiables sur une source propre, avec produits et horaires. Les marchés ne sont attestés que par des annuaires tiers ; le site de la commune de Caluire ne répond pas ; les horaires du magasin bio ne viennent que d'un annuaire. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte le Rhône seul pour cette passe, donc le Rhône redevient éligible à la passe suivante. Reprendre Caluire-et-Cuire en relisant le site de la mairie s'il répond, le guide du Grand Lyon avec un outil d'extraction PDF, et le site du magasin bio ; si rien, Saint-Priest en lisant le site de la ville.
+
+**Pistes non publiées (anonymes).** Caluire-et-Cuire : magasin bio au registre, sans site ni horaires vérifiés. Caluire-et-Cuire : magasin bio de réseau indépendant, avenue du Général-Leclerc, horaires d'annuaire. Caluire-et-Cuire : marchés de Montessuy, Saint-Clair et centre-bourg, attestés par annuaires seulement. Saint-Priest : marché place Ferdinand-Buisson, source de 2018.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Saint-Priest et une à Caluire-et-Cuire, au nom de particuliers, non nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
