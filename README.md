@@ -56250,4 +56250,4 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 
 **Fiches écartées pour doute sur une personne** : plusieurs entrées individuelles à Cornebarrieu, non nommées, non reproduites.
 
-**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run lint` et `npm run build` passés, aucune donnée modifiée.
