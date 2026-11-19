@@ -56158,3 +56158,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs cette passe (Haute-Garonne, entreprises individuelles au nom patronymique), non nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (planifiée, Nord (59) visé, Caudry et Wattignies sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande reste « en cours » depuis une passe précédente. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41 et 41.c.** Métropole seule (règle 93 : outre-mer exclu). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie), donc la garde 41.c écarte l'Occitanie seule. Premier département éligible au déficit : **Nord (59)**, déficit d'environ 4,5 fiches, 45 fiches publiées.
+
+**Commune, règle 41.d.** Les communes du Nord de plus de 13 000 habitants sans fiche ont déjà été éprouvées à de nombreuses passes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Mons-en-Barœul, Coudekerque-Branche, Haubourdin, Mouvaux). Cette passe a relu le registre de l'Agence Bio pour le 59 en entier (1 798 entrées, 18 pages), filtré sur la vente aux consommateurs et regroupé par commune. Les entrées restantes sont très majoritairement des entreprises individuelles au nom d'un particulier (écartées, non nommées) ou des points de vente d'enseignes de grande distribution (exclues par `MODERATION.md`).
+
+**Ce qui a été lu cette passe.**
+- Caudry (13 833 habitants, sans fiche) : une seule entrée au registre, un magasin de la grande distribution. Aucun commerce indépendant. Commune écartée.
+- Wattignies : une franchise bio au registre et un marché déjà publié (une fiche existante). La commune n'est pas sans fiche : elle ne relève pas de la règle 41.d. Aucune autre source indépendante relue.
+- Cambrai, Lambersart, Coudekerque-Branche, Croix, Villeneuve-d'Ascq et Dunkerque ont déjà des fiches ou ont été éprouvées à des passes précédentes : rien de neuf à reprendre.
+
+**Pourquoi rien n'est publié.** Aucune commune du 59 sans fiche ne rend cinq commerces vérifiables sur une source indépendante. Le registre du département ne contient plus, hors personnes physiques et grande distribution, de point de vente isolé qu'une source propre puisse confirmer. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d). Une fiche de marché sans produit vérifié serait un fait inventé : le validateur exige au moins un produit.
+
+**Point d'arrêt.** Le Nord est épuisé pour la règle 41.d, comme le notaient les passes précédentes. Passe suivante : la règle 41.c écarte les Hauts-de-France, région de cette passe, et elle seule ; le département éligible au déficit devient alors le Nord hors Hauts-de-France, c'est-à-dire la prochaine case de la liste (Haute-Garonne n'étant plus écartée, elle revient en tête). Il faut donc soit trancher la règle 41.d (le responsable du site doit décider si l'on passe à la commune suivante par population en gardant le groupement de cinq, ou si l'on élargit le groupement à une agglomération), soit laisser la formule passer au département suivant (Oise, 60) : c'est le seul choix sans contournement de la formule.
+
+**Pistes non publiées (anonymes).** Nord : entrées au registre portant des noms de particuliers, écartées pour doute sur une personne (plusieurs communes, non nommées). Wattignies : franchise bio au registre, commune déjà pourvue d'une fiche marché (règle 41.d non applicable).
+
+**Fiches écartées pour doute sur une personne** : plusieurs cette passe (Nord, entreprises individuelles au nom patronymique), non nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
