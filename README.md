@@ -55940,3 +55940,30 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (09 h 45, Savoie (73) sondée, Aix-les-Bains : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en `en_cours` (n° 13) reste en attente, sans réponse envoyée.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente (08 h 45) visait le Calvados (Normandie) : la région est exclue par la garde 41.c. Hors Normandie, Nord, Haute-Garonne, Loire, Isère, Oise et Hérault sont épuisés ou consignés (règle 247). Premier département ouvert : **Savoie (73, Auvergne-Rhône-Alpes)**, déficit ≈ 3,5, 5 fiches publiées. Commune retenue : **Chambéry** a déjà cinq fiches, elle ne compte donc pas (règle 41.d) ; commune suivante par population sans fiche : **Aix-les-Bains**.
+
+**Ce qui a été vérifié.**
+- Office de tourisme (`aixlesbains-rivieradesalpes.com`, fiche « Market », Place Clemenceau, marché couvert et petits producteurs) : mercredi et samedi à partir de 7 h, toute l'année. Fiche datée 2026.
+- Jours-de-marche.fr : deux marchés à Aix-les-Bains, dont l'un le mercredi de 14 h à 18 h et l'autre le samedi de 8 h à 13 h. **Contradiction sur les horaires** avec l'office de tourisme : règle 5, les horaires ne sont pas publiés en l'état.
+- Bio C'Bon Aix-les-Bains : registre des entreprises, établissement fermé (0 établissement ouvert). **Écarté.**
+- Registre de l'Agence Bio (Savoie, quatre pages lues) : à Aix-les-Bains, un seul opérateur déclare la vente aux particuliers sans fiche sur source propre ; plusieurs autres entrées sont des personnes physiques exploitantes, **écartées sans être nommées**.
+- Recherche web : une épicerie de produits locaux rue de Chambéry (annuaire MSA 2025) n'a ni horaires ni site vérifiés. Le site de la Ville (`aixlesbains.fr`) répond, mais ses pages statiques ne donnent aucune information sur les marchés.
+
+**Pourquoi rien n'est publié.** Aix-les-Bains ne rend aucune fiche entière sur deux sources indépendantes concordantes : le marché couvert a une source datée mais des horaires contradictoires, et les commerces restants n'ont ni horaires ni téléphone vérifiés. Une fiche isolée ne forme pas une zone (règles 52 et 248). Aucun fait n'a été ajouté pour compléter le groupe.
+
+**Contradictions** (règle 5). Horaires du marché couvert d'Aix-les-Bains : office de tourisme (mer. et sam. dès 7 h) contre jours-de-marche.fr (mer. 14 h–18 h, sam. 8 h–13 h). Non tranché, rien publié sur les horaires.
+
+**Point d'arrêt.** Savoie : Aix-les-Bains, marché couvert (horaires à confirmer auprès de la Ville, photo possible sur la fiche de l'office de tourisme), épicerie de la rue de Chambéry (horaires et téléphone à vérifier). Passe suivante : ne pas revenir en Auvergne-Rhône-Alpes (garde 41.c), reprendre la Savoie seulement si la Ville ou l'office de tourisme lèvent la contradiction (règle 247, descente à Albertville puis Aix si besoin).
+
+**Pistes non publiées (anonymes).**
+- Aix-les-Bains (73) : marché couvert, Place Clemenceau. Déblocage : horaires confirmés par la Ville ou l'office de tourisme.
+- Aix-les-Bains (73) : épicerie de produits locaux, rue de Chambéry. Déblocage : horaires, téléphone et site propre.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio pour la Savoie (personnes physiques exploitantes, dont à Aix-les-Bains). Écartées, non nommées, non consignées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
