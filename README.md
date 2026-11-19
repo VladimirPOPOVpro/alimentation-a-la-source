@@ -56023,3 +56023,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Seine-et-Marne : Melun sondée, zéro fiche publiée, une halle et un marché en pistes. Passe suivante : ne pas revenir en Île-de-France si elle suit immédiatement cette passe (règle 41.c) ; sinon reprendre la descente à Dammarie-les-Lys puis Pontault-Combault (39 096 habitants) selon la règle 247, en recherchant d'abord la source de la mairie sur les marchés.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (Nord (59) repris, Lambersart sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule, population `geo.api.gouv.fr`, 1 304 fiches comptées sur le code postal. La passe précédente visait la Seine-et-Marne (Île-de-France), qui est exclue par la garde 41.c. Premier département éligible : **Nord (59)**, en tête du déficit après exclusion de l'outre-mer (règle 93).
+
+**Commune, règle 41.d et point d'arrêt.** Wattrelos (40 847 habitants) reste la plus peuplée sans fiche, mais elle a été sondée à plusieurs passes sans cinq commerces vérifiables. Marcq-en-Barœul (40 184 habitants) a été sondée de même. La commune retenue est donc **Lambersart (27 090 habitants)**, comme le point d'arrêt précédent le prévoyait.
+
+**Ce qui a été lu cette passe.**
+- Site de la mairie de Lambersart, pages et bulletins municipaux : un marché du Bourg chaque samedi matin, relevé par un bulletin de 2021, sans heure ni liste de producteurs. Les coordonnées de la mairie sont publiées par un annuaire tiers ; le site n'a pas été relu au-delà de ses bulletins.
+- Une convention du conseil municipal (juin 2024) relative à un jardin de cocagne : projet d'insertion, pas un point de vente de particuliers ; non retenu.
+- Registre de l'Agence Bio, Nord : une seule page de cent entrées sur 1 797 a été lue. Dans cette page, deux opérateurs à Lambersart : un opérateur dont l'enseigne n'est pas identifiée, non lu plus loin ; une entrée dont l'enseigne comporte deux prénoms, écartée pour doute sur une personne.
+- Annuaire participatif des marchés : trois marchés enregistrés à Lambersart, sans jours ni adresses détaillés.
+- Guide des producteurs de la métropole lilloise (carnet 2024) et répertoire Que Choisir : des points de vente aux alentours (Wambrechies, La Chapelle-d'Armentières) mais aucun à Lambersart.
+
+**Pourquoi rien n'est publié.** Lambersart ne rend pas cinq commerces vérifiables sur source indépendante : le marché du Bourg n'a ni horaire ni liste de producteurs confirmés, les autres marchés ne sont pas identifiés, et l'unique piste de commerce restante est écartée pour doute sur une personne. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Lambersart sondée, zéro fiche publiée. Passe suivante : si le Nord reste en tête, reprendre Lambersart à partir du carnet des producteurs 2024 et du site de la ville (rubrique marchés), ou descendre à Armentières (26 998 habitants), sans fiche.
+
+**Pistes non publiées (anonymes).** Lambersart : marché du Bourg hebdomadaire (samedi), horaires et producteurs à confirmer auprès de la mairie. Lambersart : un opérateur au registre Agence Bio, vente aux particuliers, enseigne non identifiée, à lire. Lambersart : une entrée dont l'enseigne comporte des prénoms, écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Lambersart, enseigne comportant des prénoms).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
