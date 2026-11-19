@@ -56206,3 +56206,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Demandes.** Backlog vide : aucune demande à traiter, aucun email.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (planifiée, vingt heures quarante-trois, Nord (59) visé, Somain sondée au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule (outre-mer exclu, la règle 93 et le validateur refusent ses coordonnées). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la garde 41.c écarte l'Occitanie seule. Premier département éligible au déficit : **Nord (59)**, déficit d'environ 4,5 fiches, 45 fiches publiées.
+
+**Commune, règle 41.d.** Les communes du Nord de plus de 5 000 habitants sans fiche (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin) ont déjà été éprouvées à de nombreuses passes précédentes : rien de neuf à reprendre. Cette passe a relu le registre de l'Agence Bio pour le 59 en entier (1 798 entrées, 18 pages), filtré sur la vente aux consommateurs, et examiné les localités plus petites sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Somain (sans fiche) : au registre, un comptoir bio qui vend aux consommateurs, une distillerie, et des enseignes de la grande distribution (exclues par `MODERATION.md`). Aucune source propre (site de la commune, office de tourisme, annuaire) n'a été relue. Aucun groupe de cinq : commune écartée.
+- Marchiennes (sans fiche) : au registre, deux points de vente à vente aux consommateurs, dont l'un porte des prénoms dans son intitulé (écarté pour doute sur une personne, non nommé), et deux ateliers bio sans source propre. Commune écartée.
+- Hazebrouck, Bailleul, Saint-Amand-les-Eaux et Seclin ont déjà des fiches : hors règle 41.d.
+
+**Pourquoi rien n'est publié.** Aucune commune du 59 sans fiche ne rend cinq commerces vérifiables sur une source indépendante. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d). Le registre du département ne donne plus de point de vente isolé qu'une source propre puisse confirmer.
+
+**Point d'arrêt.** Passe suivante : la règle 41.c écarte les Hauts-de-France, région de cette passe, et elle seule. Le département éligible au déficit redevient alors la Haute-Garonne (31) puis l'Oise (60), selon le classement de la règle 41. Le Nord ne se rouvre qu'avec une source nouvelle, par exemple un annuaire de commerces de l'agglomération de Valenciennes ou de la métropole lilloise qui ne soit pas l'Agence Bio.
+
+**Pistes non publiées (anonymes).** Somain : comptoir bio au registre, à relire par source propre. Marchiennes : deux points de vente à vente aux consommateurs, dont un intitulé portant des prénoms (écarté pour doute sur une personne).
+
+**Fiches écartées pour doute sur une personne** : une cette passe (Marchiennes), non nommée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
