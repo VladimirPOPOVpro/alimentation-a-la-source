@@ -56136,3 +56136,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (planifiée, Haute-Garonne (31) visée, Plaisance-du-Touch et L'Union sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule (règle 93 : l'outre-mer est exclu du calcul). 1 304 fiches comptées sur le code postal, population `geo.api.gouv.fr`. La passe précédente visait le Nord (59), donc la garde 41.c écarte les Hauts-de-France, dont l'Oise (60). Premier département éligible au déficit : **Haute-Garonne (31)**, déficit d'environ 3,8 fiches, 24 fiches publiées.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux portent déjà des fiches. Muret reste la plus peuplée sans fiche ; elle a été sondée à plusieurs passes. Cette passe a repris le registre de l'Agence Bio sur trois pages (300 entrées sur près de 2 850) : Muret n'y compte que des producteurs au nom patronymique d'un particulier et un importateur, aucun point de vente vérifiable.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio, Haute-Garonne, pages 1 à 3 : les entrées situées à Plaisance-du-Touch et à L'Union sont en partie des entreprises individuelles au nom d'un particulier (écartées pour doute sur une personne, non nommées), et en partie des points de vente d'enseignes (boulangerie, magasin de fruits et légumes, brasserie, magasin à enseigne nationale de la grande distribution, exclu par `MODERATION.md`).
+- Pour L'Union, la recherche indépendante n'a pas été poursuivie au-delà du registre : aucune source d'office de tourisme ou de mairie relue.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 sans fiche ne rend cinq commerces vérifiables sur source indépendante. Les candidats non personnels sont des points de vente isolés (une boutique bio de Plaisance-du-Touch, une boulangerie, une brasserie, deux magasins d'une enseigne bio à L'Union et à Cornebarrieu), dont aucun n'a été relu sur un site propre ni sur l'annuaire d'une collectivité. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Passe suivante : si la Haute-Garonne reste en tête, relire la rubrique commerces de l'office de tourisme (esterel-cotedazur et la-provence-verte ne couvrent pas le 31 : chercher l'office de Toulouse métropole) et le site de la mairie de Muret, puis descendre à Plaisance-du-Touch ou L'Union selon la règle 247. Sinon, le Nord ne peut pas revenir avant une passe tierce (règle 41.c).
+
+**Pistes non publiées (anonymes).** Plaisance-du-Touch : boutique bio de fruits et légumes au registre, horaires et site non vérifiés. Plaisance-du-Touch : boulangerie de production, vente au point de vente à confirmer. Plaisance-du-Touch : brasserie au registre, adresse et horaires non vérifiés. L'Union : magasin d'une enseigne bio, à relire par source propre. Haute-Garonne : une entrée au registre portant un nom de particulier, écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : plusieurs cette passe (Haute-Garonne, entreprises individuelles au nom patronymique), non nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
