@@ -56096,3 +56096,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (15 h 45, Haute-Garonne (31) reprise, registre relu sur la première page : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule (outre-mer exclu : la validation du build refuse les coordonnées hors métropole). La passe précédente visait le Nord (59), donc la garde 41.c écarte les Hauts-de-France. Premier département éligible au déficit : **Haute-Garonne (31)**, déficit d'environ 3,8 fiches, 24 fiches publiées.
+
+**Ce qui a été lu cette passe.** Une seule page du registre de l'Agence Bio pour le 31 (cent entrées sur près de 2 850). Ces entrées sont très majoritairement des entreprises individuelles au nom patronymique, écartées pour doute sur une personne sans être nommées. Aucune nouvelle piste n'a été vérifiée jusqu'au bout, donc aucune ne figure ici comme publiable.
+
+**Pourquoi rien n'est publié.** Aucune commune du 31 sans fiche ne donne aujourd'hui cinq commerces vérifiés sur une source indépendante ; la passe n'a pas eu le temps de descendre dans les pages suivantes du registre ni de sonder une commune de rang inférieur à Muret.
+
+**Point d'arrêt.** Passe suivante : lire les pages 2 à 3 du registre Agence Bio pour le 31, et ne retenir que les opérateurs dont la raison sociale est une enseigne (pas un nom de particulier), puis descendre dans le classement de population des communes sans fiche.
+
+**Fiches écartées pour doute sur une personne** : plusieurs cette passe (Haute-Garonne, entreprises individuelles au nom patronymique), non nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
