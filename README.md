@@ -56112,3 +56112,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs cette passe (Haute-Garonne, entreprises individuelles au nom patronymique), non nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (Nord (59) visé, Haubourdin et Mouvaux sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règle 41.** Métropole seule. 1 304 fiches comptées sur le code postal, population `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (31) : la garde 41.c exclut l'Occitanie. Premier département éligible au déficit : **Nord (59)**, déficit d'environ 4,5 fiches, 45 fiches publiées.
+
+**Commune, règle 41.d.** Les communes du Nord de plus de 13 000 habitants sans fiche ont déjà été éprouvées (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Maubeuge, Armentières, La Madeleine, Mons-en-Barœul, etc.). La descente par population mène à Haubourdin (15 074 habitants) puis Mouvaux (13 369 habitants), qui n'ont pas encore été sondées sur le web.
+
+**Ce qui a été lu cette passe.**
+- Haubourdin : un répertoire participatif recense un marché le jeudi de 8 h à 13 h, mais à Hallennes-lez-Haubourdin (même code postal, commune voisine), pas à Haubourdin. Pour Haubourdin même, la source lue ne donne ni jour ni horaire.
+- Mouvaux : l'annuaire des marchés du Nord mentionne un marché, sans jour ni horaire dans l'extrait ; le répertoire participatif de producteurs n'a pas de fiche précise pour la commune.
+
+**Pourquoi rien n'est publié.** Aucune de ces deux communes ne rend cinq commerces vérifiables : pas de liste de produits confirmée par une source indépendante, horaires contradictoires ou absents. Le validateur exige au moins un produit, et une fiche de marché sans produit vérifié serait un fait inventé. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Contradiction consignée (règle 5).** Hallennes-lez-Haubourdin : l'heure de fin du marché du jeudi diffère selon le titre et le corps de la page du répertoire participatif (13 h contre 12 h 30). Non tranchée faute de source officielle relue.
+
+**Point d'arrêt.** Passe suivante : si le Nord reste en tête, lire le site officiel de la mairie de Haubourdin (rubrique marchés) et celui de Mouvaux ; à défaut, descendre à Caudry (13 833 habitants) ou Mouvaux via les producteurs eux-mêmes. Si l'épuisement persiste, la règle 41.d sera à revoir par le responsable du site : le Nord n'offre plus de commune neuve à cinq commerces vérifiables.
+
+**Pistes non publiées (anonymes).** Hallennes-lez-Haubourdin (hors commune visée) : marché du jeudi, horaires contradictoires entre sources, produits non vérifiés. Mouvaux : marché existant au registre des marchés, jour et produits non vérifiés.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
