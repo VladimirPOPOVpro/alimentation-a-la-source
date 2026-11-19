@@ -55759,3 +55759,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune nouvelle cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (01 h 45, Loire (42) et Vienne (86) closes par la règle 247 : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours » à traiter. Rien à répondre par email.
+
+**Secteur, règles 41, 41.c, 224 et 247.** Métropole seule, dénominateur national (68 952 941 habitants, outre-mer compris, règle 224), 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (Hauts-de-France) : la région est exclue par la garde 41.c. Classement hors Hauts-de-France : Haute-Garonne (31, ≈ 3,83), Loire (42, ≈ 3,64), Isère (38, ≈ 3,57), Savoie (73, ≈ 3,48), Calvados (14, ≈ 3,42), Vienne (86, ≈ 3,30), Hérault (34, ≈ 3,27), Rhône (69, ≈ 3,21).
+
+**Descentes.** Haute-Garonne : borne de la règle 247 atteinte (passes des 17 et 18 novembre). Loire : neuf communes éprouvées sans zone de cinq (Roanne, Firminy, Montbrison, Veauche, Roche-la-Molière, Riorges, Andrézieux-Bouthéon, Rive-de-Gier, Le Chambon-Feugerolles), en plus de Saint-Étienne, Saint-Chamond et Saint-Just-Saint-Rambert déjà fichées. Vienne : Poitiers, Châtellerault, Buxerolles, Chauvigny, Jaunay-Marigny, Saint-Benoît, Loudun, Vouneuil-sous-Biard, Naintré et Migné-Auxances éprouvées ou fichées. Isère, Savoie, Rhône, Hérault, Calvados : descentes déjà consignées dans les passes des 15 au 18 novembre, sans zone de cinq.
+
+**Pourquoi rien n'est publié.** Aucune commune du haut du classement ne rend un groupe de cinq commerces vérifiables qui n'ait déjà été sondé sans résultat. Une fiche isolée ne forme pas le groupe (règles 52 et 248). Aucune exception n'est écrite à la formule, et la garde 41.c ne retient que la région de la passe précédente.
+
+**Point structurel, consigné (pas de décision de FAIT).** Le classement de la règle 41 désigne, passe après passe, des départements dont la descente par population est épuisée. Le secteur d'une passe ne peut plus être choisi sans toucher à la formule ou à la règle 247 : ce n'est pas tranché ici.
+
+**Pistes non publiées.** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune nouvelle consignée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
