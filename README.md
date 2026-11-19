@@ -55967,3 +55967,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio pour la Savoie (personnes physiques exploitantes, dont à Aix-les-Bains). Écartées, non nommées, non consignées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 19 novembre 2026 (10 h 45, Ariège (09) visée, Pamiers sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en cours ». Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente (09 h 45) visait la Savoie (Auvergne-Rhône-Alpes) : la région est exclue par la règle 41.c, ainsi que la Normandie de la passe d'avant. Écartés, clos ou épuisés en tête du classement : Nord (en veille), Haute-Garonne, Oise, Loire, Isère, Calvados, Hérault, Seine-Saint-Denis, Rhône, Vienne, Yvelines, Haute-Marne, Gironde, Corse-du-Sud, Loiret, Bas-Rhin, Val-de-Marne. Premier département ouvert : **Ariège (09), Occitanie, déficit ≈ 2,94, aucune fiche publiée**. Commune retenue, règle 41.d : **Pamiers** (commune la plus peuplée sans fiche, la descente ne compte qu'une commune pour cette passe).
+
+**Ce qui a été vérifié.**
+- Marché de Pamiers : l'office de tourisme départemental (ariegepyrenees.com, fiche « marché de Pamiers ») donne le samedi de 6 h à 13 h, place de la République et parking des Trois Pigeons ; producteurs de fruits et légumes, boucherie, poissonnerie, boulangerie. Jours-de-marche.fr (participatif) ajoute un petit marché les mardi et jeudi, sans horaires fiables. Liste des producteurs de la halle fermière : seulement une liste de la Chambre d'agriculture datée du 29 avril 2020, donc périmée.
+- Biocoop de Pamiers (rue André-Citroën) : existence confirmée par plusieurs annuaires, mais **contradiction** sur le téléphone (deux numéros différents selon les annuaires) et sur les horaires (samedi 08 h–20 h selon un annuaire, 09 h 30–19 h selon deux autres). Le site officiel Biocoop n'a pas été retrouvé dans les résultats. Non publié.
+- Magasin de produits locaux « Le Petit Tour des Fermes » (route de Toulouse) : une seule source, Que Choisir, sans téléphone ni horaires détaillés. Non publié.
+- Registre de l'Agence Bio (Ariège, première page de cent opérateurs) : plusieurs entrées à Pamiers, Saverdun et Mirepoix déclarent la vente aux particuliers, mais la majorité sont des personnes physiques exploitantes, **écartées sans être nommées**, et les autres n'ont pas de site ni d'horaires vérifiés.
+- Photos : aucune photo du marché ni d'un magasin trouvée sur un site officiel à ce stade.
+
+**Pourquoi rien n'est publié.** Pamiers ne rend qu'un fait officiel complet (le marché du samedi, source de l'office de tourisme), sans liste de producteurs à jour ni photo admissible. La seule autre fiche solide, le Biocoop, a des coordonnées contradictoires : règle 5, rien n'est publié. Une fiche isolée ne forme pas la zone de cinq (règles 52 et 248). Aucun fait n'a été ajouté pour compléter le groupe, et aucune donnée n'a été géocodée ni photographiée.
+
+**Contradictions** (règle 5) : téléphone et horaires du Biocoop de Pamiers, selon les annuaires. Non tranché, rien publié sur ces points. Le marché du samedi est retenu sur la seule source de l'office de tourisme.
+
+**Point d'arrêt.** Ariège : Pamiers, marché du samedi (horaires officiels, à compléter par la liste d'étals récente et une photo), Biocoop (téléphone et horaires à confirmer auprès du magasin ou du site Biocoop), Le Petit Tour des Fermes (téléphone et horaires à vérifier). Passe suivante : relire le site officiel de Biocoop et la rubrique marchés de la ville de Pamiers ; si Pamiers reste sous cinq, descendre à Foix selon la règle 247, sans revenir en Occitanie avant une autre région (règle 41.c).
+
+**Pistes non publiées (anonymes).**
+- Pamiers (09) : marché du samedi, place de la République. Déblocage : liste de producteurs à jour, et une photo sur un site officiel.
+- Pamiers (09) : Biocoop, rue André-Citroën. Déblocage : téléphone et horaires confirmés par le magasin ou par Biocoop.
+- Pamiers (09) : magasin de produits locaux, route de Toulouse. Déblocage : téléphone, horaires et site propre.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio pour l'Ariège (personnes physiques exploitantes, dont à Pamiers, Saverdun et Mirepoix). Écartées, non nommées, non consignées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
