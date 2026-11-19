@@ -55821,3 +55821,23 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre de l'Agence Bio du département sont des personnes physiques. Elles sont écartées sans être consignées, aucun nom n'est repris.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 19 novembre 2026 (04 h 45, Isère (38) reprise, descente épuisée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : doute sur une personne (le nom d'enseigne est un prénom, et la coordonnée fournie est personnelle), rien n'est publié ni répondu. Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait Provence-Alpes-Côte d'Azur (Hautes-Alpes) : la région est exclue par la garde 41.c. Classement hors PACA : Nord (59) et Haute-Garonne (31) épuisés (règle 247 déjà atteinte), Rhône (69) éprouvé les 11 et 12 novembre, puis l'**Isère (38)**, déficit ≈ 4,4, premier département ouvert.
+
+**Ce qui a été vérifié.** Commune la plus peuplée sans fiche : Vienne (31 778 hab.), puis Bourgoin-Jallieu, Fontaine, Voiron, Villefontaine, Meylan, Seyssinet-Pariset, L'Isle-d'Abeau et Saint-Égrève (17 986 hab.). Toutes ont été sondées dans les passes précédentes sans atteindre un groupe de cinq commerces vérifiables. Registre de l'Agence Bio (Isère, pagination de 600 opérateurs) : à Villefontaine et à Meylan, les entrées relèvent surtout de grossistes, de la restauration ou de personnes physiques sans vente aux particuliers ; aucun point de vente public nouveau n'est ressorti.
+
+**Pourquoi rien n'est publié.** La descente en Isère est épuisée : neuf communes éprouvées sans zone, au-delà du seuil de la règle 247. Passer à la commune suivante par population ne rend rien de plus que ce que le registre a déjà donné. Aucune fiche isolée ne forme le groupe de cinq (règles 52 et 248). Aucune exception n'est écrite à la formule.
+
+**Point d'arrêt.** Le département suivant par déficit, hors PACA et hors Isère, reste à éprouver : la passe suivante l'ouvre, en commençant par la commune la plus peuplée sans fiche de ce département, sans revenir sur l'Isère ni sur les régions des deux passes précédentes.
+
+**Contradictions** (règle 5) : aucune nouvelle consignée cette passe.
+
+**Pistes non publiées.** Aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne** : une demande en_cours (#13, Var), déjà consignée, non reprise ici. Aucune nouvelle fiche écartée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
