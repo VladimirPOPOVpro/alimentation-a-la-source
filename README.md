@@ -56302,3 +56302,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Saint-Priest et une à Caluire-et-Cuire, au nom de particuliers, non nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 20 novembre 2026 (nuit, Haute-Garonne (31) visée, Balma sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule (outre-mer exclu, règle 177). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : la garde 41.c écarte cette région seule pour cette passe. Le Nord (59) reste exclu, sa descente étant épuisée (règle 247). Au classement, la Haute-Garonne (31) vient en tête des départements éligibles, avec un déficit d'environ 3,8 fiches, devant l'Oise (60), à environ 3,7. La descente de la Haute-Garonne est en cours et son point d'arrêt désigne Balma : **Haute-Garonne (31) retenue**.
+
+**Commune, règle 41.d.** Balma est la commune suivante de la descente sans fiche publiée.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour la Haute-Garonne, quatre pages de cent (400 entrées), filtré sur Balma : trois entrées. Une vend aux particuliers et aux professionnels de détail, sans site ni horaires relevés ; les deux autres ne déclarent aucune vente.
+- Site de la commune de Balma (`balma.fr`) : répond. La page d'accueil ne cite aucune rubrique marchés ni producteurs ; pas relue plus loin cette passe.
+- Office de tourisme de Toulouse métropole (`toulouse-metropole.fr`) : répond par une redirection (301), non suivie cette passe.
+
+**Pourquoi rien n'est publié.** Balma ne rend aucun commerce vérifiable sur une source propre : l'entrée du registre qui vend aux particuliers n'a ni nom ni produits relevés, et la commune ne documente pas ses marchés sur sa page d'accueil. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Contradiction de lecture consignée.** Les passes du 19 novembre tenaient Beauvais pour « sans fiche » ; `data/marchands.json` compte pourtant deux fiches sous un code postal de Beauvais. Selon la lettre de la règle 41.d (« aucune fiche »), Beauvais n'est donc plus éligible au rang de commune la plus peuplée de l'Oise. Cette passe n'y touche pas, puisque l'Oise n'est pas retenue ; la passe qui la reprendra devra relire ce point.
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte la Haute-Garonne si la passe précédente la vise ; sinon, relire la page marchés de Balma (rubrique agenda ou commerces), l'office de tourisme de Toulouse métropole à son adresse finale (rubrique annuaire, marchés et producteurs), puis descendre à Plaisance-du-Touch selon la règle 41.d si Balma reste sous cinq. Le Rhône redevient éligible à la passe suivante.
+
+**Pistes non publiées (anonymes).** Balma : une entrée de l'Agence Bio qui vend aux particuliers, sans nom ni produits vérifiés. Balma : marchés non documentés sur le site de la commune à ce jour.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
