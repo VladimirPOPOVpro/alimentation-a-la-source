@@ -56515,3 +56515,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (11 h 40, Oise (60) visée, Creil sondée au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93, 177, 247 et 248.** Métropole seule, dénominateur national, 1 304 fiches, populations relues sur `geo.api.gouv.fr`. Classement de tête : Nord (59), épuisé (règle 247) ; Haute-Garonne (31), déficit 3,83, écartée par la garde 41.c (passe précédente en Occitanie) ; Oise (60), déficit 3,69, première région éligible. La passe vise donc l'Oise.
+
+**Commune, règle 41.d.** La descente de l'Oise compte onze communes éprouvées (Beauvais, Compiègne, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne, Montataire, Noyon, Chambly, Méru, Pont-Sainte-Maxence, puis Clermont). Creil, environ 32 000 habitants, est la commune la plus peuplée restante sans fiche : c'est la douzième et dernière de la borne (règle 247).
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour l'Oise, en entier (613 opérateurs, sept pages de cent), filtré sur Creil : un magasin de la chaîne Biocoop (sans vente déclarée aux particuliers au registre), une boutique de thé (vente aux particuliers, mais pas de produit de ferme), et des opérateurs de gros ou de restauration collective. Aucun producteur déclaré en vente directe aux particuliers.
+- Aucune recherche web sur les marchés de Creil ni sur les producteurs locaux : le registre ne rend déjà aucun producteur vendant en direct, et un groupe de cinq n'est pas atteignable sur cette seule commune.
+
+**Pourquoi rien n'est publié.** Creil ne rend ni cinq commerces de circuit court ni deux sources indépendantes pour un groupe de cinq (règle 52). La descente de l'Oise est épuisée au douzième essai (règle 247).
+
+**Point d'arrêt.** Passe suivante : l'Oise est close pour cette série ; la garde 41.c écarte les Hauts-de-France si la passe précédente y a visé ; Nord (59) et Haute-Garonne (31) restent closes (règle 247). Reprendre le classement de la règle 41 au-delà de ces trois départements, en excluant les départements dont la descente est épuisée ; le prochain candidat au déficit est la Loire (42), dont la descente est à reprendre depuis la dernière commune éprouvée.
+
+**Pistes non publiées (anonymes).**
+- Creil (Oise) : magasin bio de chaîne au registre, sans vente déclarée aux particuliers ; motif : pas de producteur, pas de groupe de cinq.
+- Creil (Oise) : boutique de thé au registre, vente aux particuliers, hors circuit court agricole ; motif : catégorie non retenue.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
