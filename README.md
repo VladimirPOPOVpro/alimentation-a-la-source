@@ -56800,3 +56800,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Calvados : deux communes éprouvées (Bayeux, Falaise), zéro fiche publiée. Passe suivante : Calvados, commune suivante par population sans aucune fiche (à recalculer sur `data/marchands.json`), en gardant les marchés de Bayeux en pistes.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (22 h 45, secteur recalculé : Corse corrigée, Savoie consignée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Métropole seule (outre-mer écarté, règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches. Région de la passe précédente (Normandie, Calvados) exclue par la règle 41.c.
+
+**Correction de méthode.** Le décompte par département lisait `20` pour toute la Corse : il comptait zéro fiche en Corse alors qu'il y en a trois (deux à Bastia, une à Furiani). Découpage corrigé : codes postaux `20000` à `20199` pour la Corse-du-Sud (2A), `20200` et au-delà pour la Haute-Corse (2B). Avec ce décompte, la Haute-Corse tombe à un déficit d'environ 0,6 et ne sort plus en tête. Le classement de tête est donc inchangé pour les départements déjà éprouvés, mais la Haute-Corse n'est plus un candidat neuf. À reporter dans la règle 41 lors de la prochaine révision.
+
+**Classement métropolitain corrigé, départements sortis du tirage.** Savoie (73, déficit ≈ 3,50) et Isère (38) : descente consignée (règle 247). Hérault (34), Seine-Saint-Denis (93), Vienne (86), Ille-et-Vilaine (35), Eure-et-Loir (28), Haute-Marne (52), Corse-du-Sud (2A) : déjà éprouvés dans des passes précédentes ou en veille. Nord (59), Haute-Garonne (31), Oise (60) et Loire (42) : clos ou en veille (règles 41.e et 247).
+
+**Ce qui a été lu.** Rien de nouveau : le secteur retenu par la formule (Savoie, puis les départements suivants) est épuisé par les passes des 18 et 19 novembre, et les sources (registre de l'Agence Bio, sites des communes) n'ont pas été rouvertes pour ne pas reproduire un travail déjà consigné.
+
+**Pourquoi rien n'est publié.** Règle 248 : une passe qui ne trouve sa zone dans aucun des départements qu'elle éprouve ne publie rien. Aucun commerce vérifié et éligible n'a été ajouté.
+
+**Point d'arrêt.** La formule renvoie vers des départements dont la descente est consignée. La passe suivante devra décider : soit reprendre la Savoie à la commune suivante par population sans fiche (Annecy, Aix-les-Bains), soit la règle 247 doit être revue pour permettre une reprise. Ce choix n'est pas tranché ici.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
