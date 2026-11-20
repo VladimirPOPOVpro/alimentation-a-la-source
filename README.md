@@ -56327,3 +56327,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (02 h 45, Oise (60) reprise, Chantilly sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule (outre-mer exclu, règles 93 et 177). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). La passe précédente visait la Haute-Garonne (Occitanie) : la garde 41.c écarte l'Occitanie seule pour cette passe. Le Nord (59), en tête du déficit, reste épuisé (règle 247). Premier département éligible au classement : **Oise (60)**, déficit ≈ 3,7 fiches, 12 fiches publiées. Le Rhône (69, déficit ≈ 3,4) est en second rang et redevient éligible (sa passe date d'avant la précédente).
+
+**Commune, règle 41.d.** Les communes de l'Oise déjà éprouvées sans succès (Nogent-sur-Oise, Senlis, Crépy-en-Valois, Méru, Montataire, Noyon, Pont-Sainte-Maxence) ne se rouvrent pas. Beauvais et Compiègne portent déjà des fiches. La commune suivante sans fiche par population est **Chantilly** (10 591 habitants) ; avec elle, la descente compte huit communes éprouvées sur la borne de douze (règle 247).
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour l'Oise, en pagination complète (613 opérateurs), filtré sur Chantilly : quatre entrées. Toutes sont des préparateurs, des distributeurs ou des grossistes d'ingrédients, et aucune ne déclare la vente aux particuliers ni la vente au détail. Écartées : pas des commerces de circuit court.
+- Site de la Ville de Chantilly (`chantilly.fr`) : ne répond pas (aucun code HTTP).
+- Parc naturel régional Oise – Pays de France (`parc-oise-pays-de-france.fr`) : ne répond pas cette passe.
+
+**Pourquoi rien n'est publié.** Chantilly ne rend aucun commerce vérifiable sur une source propre : le registre n'y compte aucun point de vente aux particuliers, et les deux sources de marché et de producteurs (site de la Ville, liste du PNR) sont restées injoignables. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Contradiction de lecture consignée.** Les points d'arrêt de l'Oise divergent d'une passe à l'autre (Beauvais, Pont-Sainte-Maxence, Compiègne). La lecture retenue ici suit la lettre de la règle 41.d : la commune la plus peuplée sans aucune fiche, parmi celles qui n'ont pas encore été éprouvées.
+
+**Point d'arrêt.** Passe suivante : si la Ville de Chantilly répond, relire sa rubrique marchés et commerces ; sinon, descendre à Chambly (9 959 habitants, sans fiche) et compter la borne de douze communes (règle 247). L'Oise reste éligible à la passe suivante ; la garde 41.c écarte alors la Haute-Garonne seule, la passe précédente ayant visé l'Occitanie.
+
+**Pistes non publiées (anonymes).** Chantilly : marché et producteurs locaux non documentés sur une source propre (site de la Ville injoignable cette passe). Oise : liste de producteurs du PNR Oise – Pays de France injoignable cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe (les entrées du registre à Chantilly ne sont pas des commerces de vente au public).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
