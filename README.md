@@ -56468,3 +56468,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Ce qui n'a pas été fait.** Recherche de points de vente complémentaires à Bron ; relevé de l'activité de l'enseigne bio de Bron au registre des entreprises ; reprise des marchés de la métropole lyonnaise non encore relus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 20 novembre 2026 (Oise (60) sondée jusqu'à Clermont : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en cours », inchangée : enseigne au prénom d'un particulier, producteur du Var, adresse de contact privée. Doute sur une personne : rien n'est publié, aucune réponse envoyée, la demande reste en cours.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule. 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes), donc la région est écartée. Nord (59) reste épuisé (règle 247). Premier département éligible : **Oise (60)**, déficit 3,69, 12 fiches publiées.
+
+**Commune, règle 41.d.** La descente de l'Oise compte déjà Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne, Montataire, Noyon, Chambly, Méru, Pont-Sainte-Maxence, avec Beauvais et Compiègne (fiches déjà publiées). Clermont (10 564 habitants) est la commune suivante sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour l'Oise, en entier (613 opérateurs, sept pages de cent) : pour Clermont, aucun producteur ni point de vente de produits de ferme ; trois entrées sont à Clermont, dont deux de préparation et distribution (condiments, thé) sans site ni horaires vérifiés et une de grossiste.
+- Recherche web (deux requêtes) : une liste de producteurs locaux de Clermont en ligne sans adresse précise ; le marché hebdomadaire est confirmé le samedi, sans horaires ni emplacement vérifiés ; aucune liste de commerces de circuit court à jour.
+- Une ferme voisine (Folemprise) relève d'une fiche déjà publiée dans l'Oise, à Saint-Vaast-lès-Mello, et ne compte pas pour Clermont.
+
+**Pourquoi rien n'est publié.** Clermont ne rend pas cinq commerces de circuit court vérifiables sur deux sources indépendantes : un seul marché confirmé, sans horaires ni emplacement, et aucun producteur localisé. Une fiche isolée ne forme pas le groupe de cinq (règle 52).
+
+**Point d'arrêt.** Clermont compte pour la onzième commune éprouvée de l'Oise, sur la borne de douze (règle 247). Passe suivante : le département de la passe reste l'Oise en principe, mais la règle 247 impose de passer à la commune suivante de sa descente ou au département suivant du classement, avec la garde 41.c. Une passe qui ne publie rien le dit ici.
+
+**Pistes non publiées (anonymes).**
+- Clermont (Oise) : marché hebdomadaire du samedi, horaires et emplacement non confirmés par une source propre (seule une annuaire tiers les mentionne).
+- Clermont (Oise) : deux opérateurs bio de préparation et distribution, sans site ni horaires vérifiés.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
