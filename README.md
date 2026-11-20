@@ -56522,7 +56522,7 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 
 **Secteur, règles 41, 41.c, 93, 177, 247 et 248.** Métropole seule, dénominateur national, 1 304 fiches, populations relues sur `geo.api.gouv.fr`. Classement de tête : Nord (59), épuisé (règle 247) ; Haute-Garonne (31), déficit 3,83, écartée par la garde 41.c (passe précédente en Occitanie) ; Oise (60), déficit 3,69, première région éligible. La passe vise donc l'Oise.
 
-**Commune, règle 41.d.** La descente de l'Oise compte onze communes éprouvées (Beauvais, Compiègne, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne, Montataire, Noyon, Chambly, Méru, Pont-Sainte-Maxence, puis Clermont). Creil, environ 32 000 habitants, est la commune la plus peuplée restante sans fiche : c'est la douzième et dernière de la borne (règle 247).
+**Commune, règle 41.d.** La descente de l'Oise compte onze communes éprouvées (Beauvais, Compiègne, Nogent-sur-Oise, Senlis, Crépy-en-Valois, Chantilly, Margny-lès-Compiègne, Montataire, Noyon, Chambly, Méru, Pont-Sainte-Maxence, puis Clermont). Creil, 36 301 habitants, est la commune la plus peuplée restante sans fiche : c'est la douzième et dernière de la borne (règle 247).
 
 **Ce qui a été lu cette passe.**
 - Registre de l'Agence Bio pour l'Oise, en entier (613 opérateurs, sept pages de cent), filtré sur Creil : un magasin de la chaîne Biocoop (sans vente déclarée aux particuliers au registre), une boutique de thé (vente aux particuliers, mais pas de produit de ferme), et des opérateurs de gros ou de restauration collective. Aucun producteur déclaré en vente directe aux particuliers.
