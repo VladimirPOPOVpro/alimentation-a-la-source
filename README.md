@@ -56680,3 +56680,23 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne :** aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (17 h 45, Calvados (14), Bayeux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Rien à répondre par email.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, 1 308 fiches. La passe précédente visait la Normandie (Vire et Calvados) : la région a été écartée par la garde 41.c au profit d'un autre département, et le Calvados reprend ici à la commune suivante par population sans fiche, Bayeux (12 659 habitants). Hérouville-Saint-Clair, Lisieux, Ifs, Ouistreham, Mondeville et Mézidon avaient déjà été éprouvées ou sont consignées.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Calvados, première page de cent opérateurs : aucune entrée à Bayeux sur cette page.
+- Recherche web sur les marchés de Bayeux : les résultats sont des blogs d'agrégation et une fiche de guide (Petit Futé) qui donne un marché le mercredi matin rue Saint-Jean et le samedi matin place Saint-Patrice. Aucune source officielle (site de la Ville, office de tourisme) n'a été ouverte cette passe.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Bayeux n'a été recoupé sur une source indépendante et officielle, ni vérifié au registre des entreprises. La règle 52 (cinq commerces vérifiés sur deux sources) n'est pas atteinte.
+
+**Pistes non publiées (anonymes, Bayeux).** Deux marchés (rue Saint-Jean le mercredi, place Saint-Patrice le samedi) : horaires d'après un guide seulement ; **déblocage** = confirmation par le site de la Ville ou l'office de tourisme, avec la liste des producteurs.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Bayeux, ouvrir le site de la Ville et l'office de tourisme (rubriques marchés et producteurs) avant tout autre tri ; si rien n'est vérifiable, passer à la commune suivante du Calvados par population (Falaise, 7 680 habitants, ou au-delà).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
