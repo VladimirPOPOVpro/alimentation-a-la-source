@@ -56569,3 +56569,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio dans l'agglomération, exploitants en nom propre, non reprises ni nommées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (12 h 45, Haute-Marne (52) visée, registre de l'Agence Bio lu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (n° 13) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. Classement : Nord (59, ≈ 4,47), Haute-Garonne (31, ≈ 3,83), Oise (60, ≈ 3,69) et Loire (42, ≈ 3,64) sont closes par la règle 247 ; Isère (38, ≈ 3,57) et Savoie (73, ≈ 3,48) ont leur descente consignée sans zone de cinq. Haute-Corse (2B, ≈ 3,54) est exclue par la garde 41.c, la passe précédente y ayant visé. Les départements d'outre-mer restent hors calcul (règles 177 et 93). La première région non exclue est donc le Grand Est : Haute-Marne (52, ≈ 3,18, aucune fiche), avec Calvados (14, ≈ 3,42) et Vienne (86, ≈ 3,30) plus haut mais déjà consignés.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour la Haute-Marne, première page de cent : la plupart des opérateurs sont des adresses de Chaumont, Langres et Saint-Dizier, à examiner une à une. Aucune fiche de cette page n'a été recoupée sur une source indépendante.
+
+**Pourquoi rien n'est publié.** La descente de la Haute-Marne n'a pas été conduite jusqu'à la règle 52 (cinq commerces vérifiés sur deux sources) : le temps de la passe s'est arrêté au premier tri du registre. Aucune fiche n'est donc ajoutée, et aucun fait n'est affirmé sur un commerce.
+
+**Point d'arrêt.** Passe suivante : reprendre le registre de la Haute-Marne à Chaumont, Langres et Saint-Dizier, puis recouper chaque candidat sur le site du commerce ou l'office de tourisme ; la Haute-Corse peut reprendre à la passe qui suivra une passe hors Corse, pour respecter la garde 41.c.
+
+**Pistes non publiées (anonymes).** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
