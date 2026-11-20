@@ -56420,3 +56420,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (Oise (60) reprise, Chambly relue sur le site officiel : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande déjà en cours, inchangée. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule. 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la garde 41.c écarte l'Occitanie seule. Le Nord (59) reste épuisé (règle 247). Premier département éligible : **Oise (60)**, déficit ≈ 3,8 fiches, 12 fiches publiées. Point d'arrêt désigné par la passe précédente sur ce département : Chambly (9 959 habitants, sans fiche).
+
+**Ce qui a été lu cette passe.**
+- Site officiel de la Ville de Chambly (`ville-chambly.fr`, injoignable en ligne de commande, lu dans le navigateur) : le marché de plein air se tient chaque samedi de 7 h à 13 h place Charles-de-Gaulle, et un second marché a lieu le deuxième mercredi du mois place de l'Hôtel-de-Ville. Source propre, horaires confirmés, produits non détaillés.
+- Page « Les commerces du centre-ville » du même site : quarante commerçants et artisans, dont très peu relèvent du circuit court (boucheries, boulangeries, traiteur, supermarché généraliste, restaurants, commerces de services). Aucun producteur ni point de vente directe identifié sur cette liste.
+- Registre de l'Agence Bio pour l'Oise (passe précédente) : une seule entrée de magasin bio vendant aux particuliers, sans site ni horaires relevés.
+- Registre des entreprises : aucun établissement de vente directe localisé à Chambly.
+
+**Pourquoi rien n'est publié.** Chambly ne rend pas cinq commerces de circuit court vérifiables : le marché est une source solide mais une seule fiche (marché de plein air, produits non détaillés), le magasin bio n'a ni site ni horaires vérifiés, et la liste municipale des commerces est généraliste. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d). La commune ne doit pas être comptée comme éprouvée sans succès : ses horaires de marché sont désormais établis ; l'alimentation de la fiche attend des producteurs ou un point de vente direct.
+
+**Point d'arrêt.** Passe suivante : l'Oise reste éligible (la garde 41.c écarte alors la Haute-Garonne seule, la passe précédente ayant visé l'Occitanie). Reprendre Chambly en cherchant les producteurs qui fréquentent le marché (liste des exposants ou site de la Ville, rubrique marchés) ; si rien, Chambly compte pour la borne de douze communes de la règle 247 et l'Oise passe à la commune suivante par population.
+
+**Pistes non publiées (anonymes).** Chambly : marché de plein air, samedi 7 h à 13 h, place Charles-de-Gaulle, et second marché le deuxième mercredi du mois, place de l'Hôtel-de-Ville : une seule fiche possible, sans produits détaillés. Chambly : magasin bio au registre, sans site ni horaires vérifiés. Chambly : épicerie et boucherie du centre-ville, hors circuit court au sens du site.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
