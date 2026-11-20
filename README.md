@@ -56666,3 +56666,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Points d'arrêt.** Vaulx-en-Velin reste à quatre fiches. La passe suivante ne peut pas viser le Rhône ni tout autre département d'Auvergne-Rhône-Alpes (règle 41.c, la présente passe y a visé). Le cinquième point de Vaulx-en-Velin se reprend si Terres Lyonnaises (Bron) donne un horaire vérifiable, ou si la coopérative de La Soie est confirmée par une seconde source.
 
 **Publication.** Quatre fiches ajoutées (1 304 → 1 308 fiches), quatre images dans `public/images/marchands/`, 1 280 px de large au plus. `npm run lint` et `npm run build` passés. Code, configuration et dépendances non touchés.
+
+## Passe autonome du 20 novembre 2026 (16 h 46, Nord (59) relu en veille : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Rien à répondre par email. La demande restée en cours (Villecroze, Var) reste en cours : doute sur le nom du commerce, rien n'est publié.
+
+**Secteur, règles 41, 41.c, 41.e, 93, 177 et 247.** Métropole seule, dénominateur national, 1 308 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Rhône (Auvergne-Rhône-Alpes) : la région est exclue par la garde 41.c. Le Nord (59) arrive en tête du classement, mais il est en veille (41.e) : ses communes de plus de 13 000 habitants sont déjà éprouvées. Cette passe a relu par erreur Wattrelos et Marcq-en-Barœul avant de constater ce statut ; aucune source nouvelle n'est apparue (registre Agence Bio, annuaire des marchés, recherches web), et les marchés de Wattrelos restent en pistes, comme déjà consigné. Armentières, Lambersart : déjà éprouvées, pas de nouveau point.
+
+**Descentes.** Aucune commune nouvelle sondée au sens de la règle 41.d. Les pistes ci-dessus sont des rappels, pas des fiches.
+
+**Point d'arrêt.** Passe suivante : ne pas revisiter le Nord (veille). Reprendre le classement hors Auvergne-Rhône-Alpes et hors départements closes ou épuisés (Haute-Garonne, Oise, Loire, Isère, Vienne, Yvelines, Seine-Saint-Denis, Val-de-Marne, Haute-Marne). Calvados (14) : descente à reprendre au-delà de Lisieux, sans refaire les communes déjà éprouvées.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
