@@ -56373,3 +56373,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : une cette passe (entrée individuelle au registre, non nommée).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (planifiée, Oise (60) reprise, Chambly sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande déjà en cours, inchangée. Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule (outre-mer exclu, règles 93 et 177). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la garde 41.c écarte l'Occitanie seule pour cette passe. Le 93 (Seine-Saint-Denis) reste épuisé par la borne de la règle 247 (treize communes éprouvées). Premier département éligible au classement : **Oise (60)**, déficit ≈ 4,4 fiches, 12 fiches publiées. La descente de l'Oise s'arrête à Chantilly, injoignable ; le point d'arrêt désigne Chambly.
+
+**Commune, règle 41.d.** Chambly (9 959 habitants), sans fiche par code postal.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour l'Oise, en pagination complète (613 opérateurs), filtré sur Chambly : six entrées. Une seule vend aux particuliers avec un magasin bio ; une grande surface alimentaire, écartée (généraliste) ; les autres sont des grossistes, préparateurs ou entrées sans vente au public.
+- Site de la Ville de Chambly : aucune résolution DNS. Parc naturel régional Oise – Pays de France : aucune réponse. Office de tourisme départemental : aucune réponse.
+- Recherche web (une requête), annuaires uniquement : un seul jour de marché indiqué par un annuaire participatif, sans lieu ni horaires vérifiés ; aucun producteur en vente directe localisé à Chambly dans les extraits ; le PDF du PNR ne cite pas Chambly.
+
+**Pourquoi rien n'est publié.** Chambly ne rend aucun commerce vérifiable sur une source propre : le seul magasin bio au registre n'a ni site ni horaires relevés, le marché n'est attesté que par un annuaire participatif, et la mairie n'est pas joignable. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte l'Oise seule si la passe précédente la vise. Reprendre Chambly en relisant la mairie si elle répond, puis le magasin bio au registre avec son site propre ; si rien, Chambly compte pour la borne de douze communes de la règle 247, et l'Oise passe à la commune suivante par population.
+
+**Pistes non publiées (anonymes).** Chambly : magasin bio au registre, sans site ni horaires vérifiés. Chambly : marché attesté par un annuaire participatif seulement, jour et lieu non confirmés. Chambly : grande surface alimentaire au registre, écartée (généraliste).
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
