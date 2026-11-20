@@ -56396,3 +56396,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (Haute-Garonne (31) visée après l'Oise, Portet-sur-Garonne relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien à répondre par email. La demande en cours (n° 13) reste inchangée.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches. La passe précédente visait l'Oise (Hauts-de-France) : la garde 41.c écarte cette région seule. Premier département éligible : Haute-Garonne (31), déficit ≈ 5,00. Commune : Portet-sur-Garonne (9 782 habitants), point d'arrêt désigné par la passe de 03 h 45 du même jour.
+
+**Ce qui a été lu cette passe.**
+- Registre des entreprises : une entrée active à Portet-sur-Garonne sous l'enseigne « La Ferme du Village », code NAF 47.29Z, un établissement ouvert. Aucune trace de vente au public ni de site web lue : non retenue.
+- Que Choisir, carte circuit court : Midi Cueillette (magasin de la ferme, chemin des Sables) et Le Drive tout nu (boutique en ligne avec points de retrait, sans lieu physique à Portet).
+- Tourisme Occitanie : fiche Midi Cueillette (cueillette libre, paniers sur commande les mercredis et vendredis). Le site midicueillette.fr ne répond pas depuis cet environnement ; les horaires relevés chez un agrégateur tiers (cueillette de mai à novembre, mercredi et vendredi 15 h à 18 h, samedi 10 h 30 à 12 h 30) ne sont pas confirmés par une source propre.
+- Petit Futé : Frais d'Ici, chemin des Genêts, avec une mention « Fermé 2025 » à côté de la fiche. Statut incertain ; la presse de 2014 présente le magasin pilote de Portet comme un supermarché du local, sans mise à jour depuis.
+- Site de la commune : le domaine portet-sur-garonne.fr est un site commercial privé (annuaire et agenda), pas le site de la mairie. Aucune rubrique marchés ou producteurs de la commune trouvée.
+- Aucun marché de producteurs à Portet-sur-Garonne n'apparaît dans les sources lues.
+
+**Pourquoi rien n'est publié.** Portet-sur-Garonne ne rend qu'un commerce de vente directe vérifiable sur une source propre, et ses horaires viennent d'un tiers. Frais d'Ici a un statut contredit (ouverture ancienne, mention « Fermé 2025 »), et la ferme du registre n'a aucune trace de vente au public. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Portet-sur-Garonne : retenter midicueillette.fr et la mairie par téléphone, puis vérifier l'activité de Frais d'Ici auprès de son exploitant. Si la commune ne rend toujours pas cinq commerces, descendre à Aucamville (9 623 habitants) en lisant d'abord son entrée au registre.
+
+**Pistes non publiées (anonymes).** Portet-sur-Garonne : magasin de la ferme Midi Cueillette (cueillette et paniers, horaires à confirmer). Portet-sur-Garonne : magasin Frais d'Ici, activité incertaine. Portet-sur-Garonne : « La Ferme du Village », entrée active au registre sans trace de vente au public.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
