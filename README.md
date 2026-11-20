@@ -56751,3 +56751,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Points d'arrêt.** Agde reste à zéro fiche. Passe suivante : ouvrir `agde.fr` (rubrique commerces et marchés) et l'office de tourisme Cap d'Agde dès qu'ils répondent, et reprendre le Grau d'Agde et le centre au premier horaire confirmé. Si Agde reste sans source officielle, passer à Lunel (34145, 26 623 habitants), commune suivante de l'Hérault sans fiche, en gardant les pistes ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (20 h 45, Rhône (69) sondé au registre : aucune publication)
+
+**Backlog.** Une demande « en_cours » (#13, producteur à Villecroze, Var), aucune « nouvelle ». Elle reste en_cours et aucun message n'est envoyé : l'enseigne est un prénom de personne et l'adresse de contact contient un nom de personne. Règle 6 : rien n'est publié, la demande attend une précision du responsable du site ou un nom d'entreprise distinct.
+
+**Secteur.** Hérault (34) est exclu : passe précédente en Occitanie (réserve 41.c). Calvados (14) : passe d'avant, reprise évitée. Nord (59) en veille (41.e). Haute-Garonne, Loire, Isère, Savoie, Haute-Corse, Vienne, Seine-Saint-Denis et Val-de-Marne sont épuisés ou clos (règle 247). Oise (60) : descente déjà sondée jusqu'à Clermont et Creil sans zone de cinq. Retenu : **Rhône (69, déficit ≈ 3,21)**, département ouvert, sans passe récente.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Rhône, première page de cent opérateurs. Vendeurs aux particuliers hors fiches existantes : Tassin-la-Demi-Lune, Anse, Montrottier, Brullioles, Valsonne, Meys, Saint-Cyr-au-Mont-d'Or, Caluire-et-Cuire, Communay, Quincié-en-Beaujolais, Villié-Morgon. Chacune n'a qu'un opérateur sur cette page.
+- Caluire-et-Cuire, déjà sondée lors d'une passe précédente, reste sans zone de cinq.
+- Aucune source municipale ni office de tourisme n'a été ouverte cette passe : le budget de recherche est consommé par le registre.
+
+**Pourquoi rien n'est publié.** Aucune commune du Rhône ne rend cinq commerces vérifiés sur deux sources. Une fiche isolée ne forme pas le groupe (règles 52 et 248).
+
+**Pistes non publiées (anonymes, Rhône, 69).** Tassin-la-Demi-Lune, Anse, Communay et Villié-Morgon : un seul opérateur au registre chacune, sans source municipale vérifiée. **Déblocage** = seconde source (marché municipal ou site du producteur) et un groupe de cinq.
+
+**Fiches écartées pour doute sur une personne :** une (Var, commune de Villecroze), demande #13 ; aucun nom publié ici.
+
+**Point d'arrêt.** Passe suivante : Rhône, Tassin-la-Demi-Lune (office de tourisme et site de la commune) ; si rien n'est confirmé, Rhône devient épuisé au titre de la règle 247. La demande #13 attend une précision directe du responsable du site.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
