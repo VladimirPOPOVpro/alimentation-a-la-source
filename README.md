@@ -56700,3 +56700,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Bayeux, ouvrir le site de la Ville et l'office de tourisme (rubriques marchés et producteurs) avant tout autre tri ; si rien n'est vérifiable, passer à la commune suivante du Calvados par population (Falaise, 7 680 habitants, ou au-delà).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (18 h 44, Calvados (14), Bayeux relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Rien à répondre par email.
+
+**Secteur.** Calvados (14), commune la plus peuplée restante sans fiche : Bayeux, reprise comme le demandait le point d'arrêt précédent. Aucune autre commune n'est touchée.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Bayeux, rubrique « Marchés hebdomadaires » : deux marchés communaux en plein air, le mercredi de 7 h 30 à 13 h 30 (rue piétonne Saint-Jean) et le samedi de 7 h 30 à 14 h (place Saint-Patrice), avec la mention « commerçants et producteurs locaux ». Le marché du terroir et de l'artisanat est un marché d'été du jeudi soir, place de la Liberté ; le marché de Noël est un événement de fin d'année. Ces deux derniers ne sont pas retenus comme points permanents.
+- Rubrique « Commerces » du site de la Ville : elle ne liste aucun commerce alimentaire nommément.
+- Registre de l'Agence Bio, Calvados, première page de cent opérateurs : aucune entrée à Bayeux sur cette page.
+- Recherche web : pas de liste officielle de producteurs ni de points de vente à la ferme à Bayeux ; les autres pages trouvées sont des agendas et des blogs d'agrégation.
+
+**Pourquoi rien n'est publié.** Deux points seulement sont vérifiés, et ce sont des marchés municipaux : c'est en dessous des cinq exigés par le groupement de la règle 41.d et de la règle 52. Aucun commerçant ni producteur de Bayeux n'a été recoupé sur une source indépendante et vérifié au registre des entreprises.
+
+**Pistes non publiées (anonymes, Bayeux, 14).**
+- Marché Saint-Jean, mercredi 7 h 30 à 13 h 30 : vérifié sur le site de la Ville. **Déblocage** = fiche publiable dans un groupe de cinq, avec la liste des producteurs (non publiée à ce jour).
+- Marché Saint-Patrice, samedi 7 h 30 à 14 h : vérifié sur le site de la Ville. **Déblocage** = même critère que ci-dessus.
+- Marché du terroir (jeudi soir, été) : événement saisonnier, hors fiche permanente tant que la Ville ne publie pas de dates.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Point d'arrêt.** Calvados : Bayeux a deux points vérifiables sur cinq, zéro fiche publiée. Passe suivante : chercher les producteurs et points de vente de Bayeux au registre de l'Agence Bio (pages suivantes) et sur l'office de tourisme (Bayeux Bessin Tourisme, rubrique marchés) ; si cinq points ne sont pas atteints, descendre à la commune suivante du Calvados par population (Falaise, 7 680 habitants), en gardant les deux marchés en pistes.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
