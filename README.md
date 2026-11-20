@@ -56588,3 +56588,32 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (13 h 45, Haute-Corse (2B) reprise, recompte corrigé, Bastia sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs : 1 en cours (demande n° 13, doute sur une personne, inchangée, rien publié, aucun message envoyé). Total inchangé : 1 304 fiches.
+
+**Correction du recompte, règle 41.** Le code postal `20xxx` couvre à la fois la Corse-du-Sud (2A) et la Haute-Corse (2B). Les passes précédentes comptaient donc 0 fiche en 2B alors que trois fiches y sont publiées (Bastia : Pratali, marché de la place du Marché ; Furiani : La Roulotte). Avec ce recompte, le déficit de la Haute-Corse tombe à ≈ 0,5 fiche (part de population ≈ 0,27 % × 1 304 − 3), au lieu de ≈ 3,5. Le calcul de la règle 41 par département n'est donc fiable qu'à condition de séparer 2A et 2B ; cette passe ne le refait pas pour les autres départements.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule. Classement brut : Nord (59), Haute-Garonne (31), Oise (60) et Loire (42) restent clos (règle 247) ; Isère (38) et Savoie (73) ont leur descente consignée. La passe précédente visait la Haute-Marne (Grand Est), donc la garde 41.c écarte le Grand Est seul pour cette passe. Haute-Corse (2B) reste donc éligible au sens de la règle 41.c, et sa descente reprend à Bastia, comme l'indiquait le point d'arrêt de la passe précédente.
+
+**Sources de cette passe.**
+- Marché de la place du Marché, Bastia : la ville et l'office de tourisme ne publient pas d'horaires précis ; les sources décrivent un marché le week-end matin, sans date fiable. Un article de presse de 2020 (réouverture après confinement) n'est pas une source d'horaires. Rien ne se publie (règle 9).
+- Route des Sens Authentiques, avenue Paul-Giacobbi : citée par un annuaire touristique comme producteur local ; absente du registre des entreprises ; aucune page officielle trouvée. Rien ne se publie (règle 5).
+- Ferme Corse, Lucciana (20290), hors commune de Bastia : entreprise active au registre, un établissement ouvert, site officiel injoignable depuis cet environnement, horaires non vérifiés. Point de vente collectif d'une cinquantaine de producteurs, hors de la commune calculée : rien ne se publie cette passe (règles 8 et 52), elle est consignée ci-dessous.
+- Magasin bio du centre commercial de Montesoro, Bastia : le registre donne **0 établissement ouvert** pour l'entité : on ne publie pas (règle de vérification d'activité).
+- Recherche d'un Biocoop à Bastia : aucun Biocoop trouvé dans la commune ; les Biocoop corses cités sont à Ajaccio et Alata (Corse-du-Sud), hors périmètre.
+
+**Pourquoi rien n'est publié.** Aucun candidat de Bastia ne réunit cinq fiches vérifiées sur deux sources indépendantes, ni des horaires officiels. Les pistes restent à compléter.
+
+**Pistes non publiées (anonymes, Haute-Corse).**
+- Bastia, marché de la place du Marché : horaires officiels à obtenir de la Ville (règle 9). Déjà publiée en fiche sans horaires précis : à vérifier à la prochaine passe sur la commune.
+- Bastia, producteur de vente directe, avenue Paul-Giacobbi : pas de source officielle ; **déblocage** : page de l'enseigne ou fiche de la Chambre d'agriculture.
+- Lucciana (20290), point de vente collectif de producteurs : hors commune ; **déblocage** : horaires et site vérifiés, à reprendre si la descente atteint Lucciana (règle 8).
+- Bastia, magasin bio de centre commercial : registre à 0 établissement ouvert ; **écartée** tant que le registre ne rouvre pas le lieu.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Passe suivante : la garde 41.c écarte la Haute-Corse si cette passe y vise ; reprendre plutôt un département hors Corse et hors Grand Est, à partir du classement recalculé avec le recompte 2A/2B ci-dessus. Pour la Haute-Corse, la descente de Bastia reste ouverte : déblocages listés ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
