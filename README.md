@@ -56617,3 +56617,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Points d'arrêt.** Passe suivante : la garde 41.c écarte la Haute-Corse si cette passe y vise ; reprendre plutôt un département hors Corse et hors Grand Est, à partir du classement recalculé avec le recompte 2A/2B ci-dessus. Pour la Haute-Corse, la descente de Bastia reste ouverte : déblocages listés ci-dessus.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
+
+## Passe autonome du 20 novembre 2026 (14 h 45, Haute-Marne (52) reprise, registre relu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste en cours, doute sur une personne : rien n'est publié, aucun message envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, population `geo.api.gouv.fr` relue ce jour, fiches comptées sur le code postal, 2A et 2B séparées (règle de recompte de la passe de 13 h 45). La passe précédente visait la Haute-Corse (Corse), donc la garde 41.c écarte la Corse. Le Grand Est, visé deux passes plus tôt (12 h 45), est à nouveau éligible ; sa descente y reprend, à partir du point d'arrêt de cette passe.
+
+**Ce qui a été lu cette passe.** Registre de l'Agence Bio pour la Haute-Marne, les cent premières entrées (sur 476). Dans les trois communes les plus peuplées sans fiche (Saint-Dizier, Chaumont, Langres) :
+- des grandes surfaces (enseignes de la grande distribution), écartées : le registre les déclare, mais le site les écarte comme commerces généralistes (MODERATION.md) ;
+- des boulangeries et des entreprises de transport ou de distribution, hors sujet ou sans vente au public ;
+- des exploitants en nom propre (producteurs et vendeurs individuels), écartés pour doute sur une personne : rien n'est publié ni repris ici.
+
+**Pourquoi rien n'est publié.** Aucune commune de Haute-Marne ne rend cinq commerces vérifiables sur deux sources : le registre ne donne après tri que des entreprises hors sujet ou des personnes. La descente n'est pas allée plus loin que ce tri, faute de candidats éligibles à recouper sur le site du commerce ou l'office de tourisme.
+
+**Point d'arrêt.** Passe suivante : la Haute-Marne n'a pas de descente utile à ce stade ; sauf si une source nouvelle apparaît (annuaire Bienvenue à la Ferme, Chambre d'agriculture), la règle 247 conduit à passer au département suivant du classement, hors Corse et en dehors de la région de la passe précédente.
+
+**Pistes non publiées (anonymes).** Haute-Marne : deux à trois entrées de vente directe à Langres et Chaumont relevant de personnes physiques, écartées pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne :** trois, Langres et Saint-Dizier (aucun nom consigné).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
