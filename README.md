@@ -56830,3 +56830,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Aucune fiche publiée, aucun doute sur une personne consigné. La passe suivante devra reprendre la descente au prochain département éligible du classement (une fois la règle 41.c appliquée à la région de cette passe), en commençant par la commune la plus peuplée sans fiche.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (00 h 45, Seine-et-Marne (77) reprise, registre relu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Métropole seule. Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Classement de tête recalculé : Nord (59), Haute-Garonne (31), Oise (60), Loire (42), Isère (38), Yvelines (78) et Seine-Saint-Denis (93) sortent du tirage (épuisés, en veille ou clos, voir les passes précédentes). Premier département éligible : la **Seine-et-Marne (77)**, déficit ≈ 3,7.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, département 77, première page (100 opérateurs sur 929). Communes les plus représentées : Torcy, Fontainebleau, Serris (3 opérateurs chacune), puis Villeparisis, Dammartin-en-Goële, Ozoir-la-Ferrière, Montigny-sur-Loing, Claye-Souilly, Combs-la-Ville, Montévrain, Héricy, Nemours, Coulommiers (2 chacune). **Meaux (56 905 habitants) ne compte qu'un opérateur** au registre sur cette page : la commune déjà sondée ne rend pas cinq fiches vérifiables.
+
+**Pourquoi rien n'est publié.** Aucune commune du 77 ne rend cinq commerces vérifiables sur une seule commune ou agglomération : les opérateurs sont dispersés, et aucun site municipal ni office de tourisme n'a été ouvert ici pour compléter le registre. Cinq fiches groupées ne sont donc pas réunies. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Point d'arrêt.** Pour la passe suivante : Fontainebleau (3 opérateurs au registre, à recouper sur le site de la ville et l'office de tourisme) est la piste la plus prometteuse du 77 ; si elle ne rend pas cinq commerces, la descente passe à Villeparisis et Torcy.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
