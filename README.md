@@ -56442,3 +56442,29 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (Rhône (69) visé, Bron sondée, Aux 4 Vents retenue en piste : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en cours », inchangée : enseigne au prénom d'un particulier, producteur du Var, adresse de contact privée. Doute sur une personne : rien n'est publié, aucune réponse envoyée, la demande reste en cours.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (outre-mer exclu, règle 177). 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Classement brut : Nord (59) en tête à 6,55, mais la passe précédente visait l'Oise, même région (Hauts-de-France) : la garde 41.c écarte donc tout le Nord, et la descente déjà épuisée (règle 247) l'interdit de toute façon. Premier département éligible hors Hauts-de-France : **Rhône (69)**, déficit 4,73 pour 33 fiches.
+
+**Commune, règle 41.d.** Vaulx-en-Velin, Saint-Priest et Caluire-et-Cuire ont été sondées lors de passes précédentes sans cinq commerces vérifiables. Bron (42 982 habitants) est la commune suivante sans fiche.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour le Rhône, en entier (2 451 entrées), filtré sur Bron : une seule entrée de vente aux particuliers (enseigne de magasin bio, sans site, sans horaires vérifiés) ; le reste est grossiste, grande distribution ou sans vente directe.
+- Recherche web (une requête) : aucune source propre pour un marché de producteurs ou une ferme à Bron.
+- Registre des entreprises : pas encore relevé pour l'enseigne bio de Bron (à faire à la passe suivante).
+
+**Pourquoi rien n'est publié.** Bron ne rend pas cinq commerces de circuit court vérifiables : une seule piste, sans horaires ni source propre. Publier une fiche isolée est interdit par la règle 248.
+
+**Pistes non publiées (anonymes).**
+- Bron : enseigne bio au registre de l'Agence Bio, vente aux particuliers, sans site ni horaires vérifiés.
+- Sailly-lez-Lannoy (Nord, MEL) : ferme-magasin « Aux 4 Vents » (cueillette, produits fermiers), active au registre des entreprises, site propre avec adresse et téléphone. Hors commune de Wattrelos, donc hors du groupement en cours ; elle est en Nord, exclu par la garde 41.c pour cette passe. À retenir pour une passe MEL ultérieure, avec quatre autres points vérifiables de la même agglomération.
+- Villecroze (Var) : demande en cours, voir ci-dessus.
+
+**Fiches écartées pour doute sur une personne** : une (demande en cours, enseigne au prénom d'un particulier), non reprise.
+
+**Ce qui n'a pas été fait.** Recherche de points de vente complémentaires à Bron ; relevé de l'activité de l'enseigne bio de Bron au registre des entreprises ; reprise des marchés de la métropole lyonnaise non encore relus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches.
