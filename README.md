@@ -56539,3 +56539,33 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (planifiée, Haute-Corse (2B) reprise, agglomération de Bastia sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 177, 247 et 248.** Métropole seule, dénominateur national, 1 304 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (Hauts-de-France) : la garde 41.c écarte cette région. Haute-Corse (2B), Corse, déficit ≈ 3,5, aucune fiche publiée : premier département ouvert. Commune : Bastia, déjà sondée, point d'arrêt de la passe de 19 novembre. La descente passe à l'agglomération (règle 219, intercommunalité).
+
+**Ce qui a été vérifié cette passe.**
+- Registre de l'Agence Bio pour la Haute-Corse, pages restantes (huit pages de cent) filtrées sur l'agglomération : une quarantaine d'opérateurs à Biguglia, Furiani, Borgo, Lucciana et Patrimonio. La plupart sont producteurs sans point de vente public, préparateurs, grossistes ou personnes physiques exploitantes (écartées, non nommées) ; un magasin de grande surface est hors circuit court.
+- Épiceries de Bastia, sites propres : une épicerie fine du centre donne 9 h–20 h du lundi au samedi et 9 h–17 h le dimanche selon son site officiel et des annuaires qui se contredisent sur le dimanche ; une herboristerie de la ville (cosmétiques, bien-être) est hors sujet du site.
+- Marché de Bastia : avis officiel de la Ville (publié 31 octobre 2025) : samedi et dimanche, 8 h–13 h, place du Marché. Liste des producteurs et photo admissible non trouvées.
+- Biguglia : règlement intérieur du marché (2021) : samedi 8 h–13 h, place du marché couvert, producteurs et artisans locaux. Pas d'autre source à jour.
+- Borgo : un guide donne un marché de producteurs le samedi 8 h 30–13 h (parking du Muntese) ; un annuaire le donne le mercredi 8 h 30–13 h sans précision de producteurs. Contradiction consignée (règle 5), non tranchée.
+- Furiani : aucun marché de producteurs recensé.
+- Recherche web sur les fermes et ventes directes de Borgo : une ferme bio de la commune annoncée vendredi et samedi, nom et adresse non vérifiés ; le reste renvoie vers Cuttoli-Corticchiato, Bonifacio ou Lucciana, hors agglomération.
+
+**Pourquoi rien n'est publié.** L'agglomération rend des faits, mais pas cinq commerces entiers et vérifiables sur deux sources : un marché de Bastia avec horaires officiels sans liste d'étals ni photo ; un marché de Biguglia avec horaires d'un règlement de 2021 ; un marché de Borgo contredit par un annuaire ; des épiceries sans producteur identifié. Une fiche isolée ou un marché seul n'est pas une zone (règles 52 et 248).
+
+**Point d'arrêt.** Passe suivante : relire la rubrique marchés du site de la Ville de Biguglia et celle de Borgo pour trancher la contradiction du mercredi/samedi ; chercher une photo admissible du marché de Bastia sur le site de la Ville ; relire les sites propres des épiceries bastiaises pour un téléphone et un horaire du dimanche. La Haute-Corse reste ouverte pour la passe suivante (région différente de l'Oise, règle 41.c).
+
+**Pistes non publiées (anonymes).**
+- Bastia (2B) : marché du samedi et du dimanche, horaires officiels, liste d'étals et photo manquantes.
+- Biguglia (2B) : marché couvert du samedi 8 h–13 h, horaires issus d'un règlement de 2021, à reconfirmer.
+- Borgo (2B) : marché de producteurs, jour contradictoire selon les sources (règle 5).
+- Borgo (2B) : ferme bio au registre, vente annoncée le vendredi et le samedi, sans site ni nom vérifié.
+- Bastia (2B) : épicerie fine du centre, téléphone et horaires du dimanche à confirmer ; herboristerie hors sujet.
+
+**Fiches écartées pour doute sur une personne** : plusieurs entrées du registre de l'Agence Bio dans l'agglomération, exploitants en nom propre, non reprises ni nommées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
