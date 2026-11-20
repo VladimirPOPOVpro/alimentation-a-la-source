@@ -56352,3 +56352,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe (les entrées du registre à Chantilly ne sont pas des commerces de vente au public).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (03 h 45, Haute-Garonne (31) reprise, Portet-sur-Garonne sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande déjà en cours, inchangée (producteur dans le Var, doute sur une personne). Rien n'est répondu ni publié au titre des demandes.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule. La passe précédente visait l'Oise (Hauts-de-France), donc la garde 41.c écarte cette région seule pour cette passe. Le Nord (59) reste épuisé (règle 247). La Haute-Garonne (31), visée deux passes plus tôt, redevient éligible et reste en tête du déficit parmi les départements disponibles. Commune : **Portet-sur-Garonne** (9 782 habitants), point d'arrêt désigné par la passe précédente sur ce département.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour la Haute-Garonne, en pagination complète (700 entrées), filtré sur Portet-sur-Garonne : cinq entrées, dont aucune ne déclare la vente aux particuliers ni la vente au détail. Une entrée de Portet-d'Aspet, commune homonyme et distincte, relève d'une entreprise individuelle (écartée pour doute sur une personne, non nommée).
+- Site « portet-sur-garonne.fr » : site commercial privé d'annuaire, sans rubrique marchés de la commune ni liste de producteurs ; il ne compte pas comme source propre de la commune.
+- Site officiel de la commune non relu cette passe (pas d'adresse confirmée dans les sources lues).
+
+**Pourquoi rien n'est publié.** Portet-sur-Garonne ne rend aucun commerce vérifiable sur une source propre : le registre n'y compte aucun point de vente aux particuliers, et l'unique site local lu est un annuaire commercial. Une fiche isolée ne forme pas le groupe de cinq (règle 41.d).
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte la Haute-Garonne si elle est visée ici, mais la passe qui suit la prochaine la rendra de nouveau éligible. Reprendre Portet-sur-Garonne en cherchant le site officiel de la commune (rubrique marchés ou commerces) ; si rien, descendre à Aucamville (9 623 habitants), en lisant d'abord son entrée au registre.
+
+**Pistes non publiées (anonymes).** Portet-sur-Garonne : marché et producteurs locaux non documentés sur une source propre. Portet-sur-Garonne : entrées du registre sans vente aux particuliers, écartées. Portet-d'Aspet (commune homonyme, hors cible) : entreprise individuelle écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne** : une cette passe (entrée individuelle au registre, non nommée).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
