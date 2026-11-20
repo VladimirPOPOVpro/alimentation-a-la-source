@@ -56772,3 +56772,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Rhône, Tassin-la-Demi-Lune (office de tourisme et site de la commune) ; si rien n'est confirmé, Rhône devient épuisé au titre de la règle 247. La demande #13 attend une précision directe du responsable du site.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (21 h 50, Calvados (14) reprise, Bayeux et Falaise sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). La demande en_cours (#13) reste en attente, sans message envoyé : règle 6 inchangée.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Outre-mer écarté : la construction refuse hors du cadre métropolitain (règle 93). Région exclue : Auvergne-Rhône-Alpes, visée par la passe précédente. Nord (59) reste en veille (41.e). Haute-Garonne, Oise et Loire sont épuisées. Isère et Savoie tombent dans la région exclue. Retenu : **Calvados (14, déficit ≈ 3,46)**, reprise de la descente : Bayeux sondée lors d'une passe précédente, puis Falaise au point d'arrêt.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Calvados, six cents opérateurs (six pages de cent). À Bayeux : des entrées de préparation ou de distribution sans vente au public, un restaurant collectif, la Ville elle-même, et deux exploitations à enseigne patronymique (écartées, règle 36). À Falaise : une société de grande distribution (écartée), un chocolatier sans vente au public, des préparateurs.
+- Site officiel de la Ville de Bayeux : deux marchés municipaux hebdomadaires (mercredi et samedi), déjà en pistes depuis la passe du 20 novembre à 18 h 44.
+- Office de tourisme Bayeux Bessin Tourisme : une cidrerie de vente directe à Guéron, à enseigne patronymique (écartée) ; une seconde cidrerie à Bayeux, même cas (écartée).
+- Annuaire jours-de-marche : des fermes à 13 km et plus de Bayeux, sans enseigne ni horaires exploitables dans le secteur immédiat.
+- Falaise : un magasin de producteurs dont l'enseigne est un prénom (écartée, règle 259) ; un magasin de produits locaux rue de la Pelleterie, horaires d'une seule source participative, contredits par un autre annuaire ; un caviste, hors du champ du site.
+
+**Pourquoi rien n'est publié.** Deux communes éprouvées, zéro fiche. Les deux marchés de Bayeux sont vérifiés mais ne forment qu'un point sur cinq exigés (règle 52). Les exploitations trouvées à Bayeux et Guéron portent un patronyme en enseigne, et la règle 36 les écarte même lorsque l'office de tourisme les met en avant. À Falaise, aucun horaire n'est confirmé par une source fiable.
+
+**Pistes non publiées (anonymes, Calvados, 14).**
+- Bayeux : marché du mercredi (rue piétonne) et marché du samedi (place) : sources municipales vérifiées. **Déblocage** = groupe de cinq avec des producteurs vérifiés.
+- Guéron (commune voisine de Bayeux) : cidrerie de vente directe, enseigne patronymique : écartée entière (règles 36 et 259), ne se rouvre pas.
+- Bayeux : cidrerie cidricole à enseigne patronymique : écartée entière (règles 36 et 259).
+- Falaise : épicerie de producteurs dont l'enseigne est un prénom : écartée (règle 259).
+- Falaise : magasin de produits locaux, rue de la Pelleterie : horaires non confirmés. **Déblocage** = horaires confirmés par le commerce ou un annuaire officiel.
+
+**Fiches écartées pour doute sur une personne :** trois (deux à Bayeux et Guéron, une à Falaise).
+
+**Point d'arrêt.** Calvados : deux communes éprouvées (Bayeux, Falaise), zéro fiche publiée. Passe suivante : Calvados, commune suivante par population sans aucune fiche (à recalculer sur `data/marchands.json`), en gardant les marchés de Bayeux en pistes.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
