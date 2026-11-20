@@ -56493,3 +56493,25 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (planifiée, Haute-Garonne (31) au-delà de la borne, Saint-Gaudens relue au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en cours (n° 13) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 304 fiches. Classement de tête : Nord (59), épuisé (règle 247) ; Haute-Garonne (31), déficit 3,83 pour 24 fiches publiées ; Oise (60), déficit 3,69, descente à Clermont déjà éprouvée (onzième commune). La passe précédente visait l'Oise, donc la garde 41.c écarte les Hauts-de-France. La Haute-Garonne est donc la seule région éligible du haut du classement, et la passe l'a examinée.
+
+**Constat sur la Haute-Garonne.** Sa descente dépasse la borne de douze communes de la règle 247 : Balma, Portet-sur-Garonne, Muret, L'Union, Plaisance-du-Touch, Cornebarrieu, Castanet-Tolosan, Saint-Orens-de-Gameville, Ramonville-Saint-Agne, Fonsorbes, Castelginest, Villeneuve-Tolosane et Saint-Gaudens ont déjà été sondées dans les passes antérieures. La règle 247 impose donc de changer de département ; la descente ne reprend pas ici.
+
+**Ce qui a été lu cette passe.**
+- Registre de l'Agence Bio pour la Haute-Garonne, première page de cent (100 entrées) : une seule entrée à Saint-Gaudens, un abattoir sans vente aux particuliers. Rien à publier.
+- Registre des entreprises, recherche « marché producteurs Saint-Gaudens » : aucun résultat.
+
+**Pourquoi rien n'est publié.** Aucune commune de la Haute-Garonne ne rend cinq commerces de circuit court vérifiables dans sa descente restante, et la borne impose de passer au département suivant. Le classement suivant (au-delà des trois premiers, hors Outre-mer exclus par la règle 177 et la règle 93) n'a pas été éprouvé cette passe : la recherche des communes en est le travail de la passe suivante, qui doit recalculer le classement et partir de la commune la plus peuplée sans fiche hors des régions écartées par la garde 41.c.
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte l'Occitanie si cette passe la vise ; reprendre le classement de la règle 41 au-delà de l'Oise et de la Haute-Garonne, en excluant les départements closes par la règle 247.
+
+**Pistes non publiées (anonymes).** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
