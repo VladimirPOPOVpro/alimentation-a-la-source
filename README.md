@@ -56638,3 +56638,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne :** trois, Langres et Saint-Dizier (aucun nom consigné).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 304 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (15 h 45, Rhône (69), Vaulx-en-Velin : quatre fiches publiées)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Rien à répondre par email. La demande restée en cours reste en cours : doute sur une personne, rien n'est publié.
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté par les règles 93 et 177), population relue sur `geo.api.gouv.fr`, fiches comptées sur le code postal du champ `adresse`. Classement après exclusions : le Nord (59, ≈ 6,12) reste clos par la règle 247 ; la Haute-Garonne (31, ≈ 4,76) reste close ; le **Rhône (69, ≈ 4,42, 33 fiches comptées)** est le premier éligible. La passe précédente (14 h 45) visait le Grand Est : la garde 41.c l'écarte, le Rhône est en Auvergne-Rhône-Alpes et n'est pas touché par la garde. Commune : **Vaulx-en-Velin** (69256), la plus peuplée du Rhône sans aucune fiche (53 069 habitants), dans la Métropole de Lyon.
+
+**Descente.** Registre de l'Agence Bio pour le 69, 25 pages de cent lues (2 451 opérateurs), filtre sur la commune : la plupart sont des grandes surfaces, des grossistes, des sièges ou des établissements hors sujet ; deux entrées de vente directe au nom de personnes physiques, écartées pour doute sur une personne (aucun nom consigné). Puis recoupement sur des sources indépendantes :
+
+- **Marché du Village** (place Gilbert-Boissier) : site de la Ville, rubrique Marchés (mise à jour du 10 septembre 2026), mardi et dimanche de 7 h à 12 h 30. Jours-de-Marché le donne le mardi de 8 h à 12 h. Horaires en `a_confirmer`.
+- **Marché du Mas du Taureau** (place François-Mauriac) : site de la Ville, mercredi de 7 h à 12 h 30 et samedi de 7 h à 13 h, avec présence de producteurs locaux de légumes, d'herbes aromatiques et de fruits. Jours-de-Marché : mercredi et samedi de 8 h à 12 h. Horaires en `a_confirmer`.
+- **Marché de l'Écoin Thibaude** (place Robert-Badinter) : site de la Ville, jeudi de 7 h à 12 h 30. **Contradiction** : Jours-de-Marché place un marché le jeudi de 8 h à 12 h avenue Georges-Dimitrov. Tranché ainsi : le lieu et l'horaire viennent de la source officielle, qui gère le marché ; la fiche part en `a_confirmer` et la contradiction est consignée ici.
+- **Satoriz Vaulx-en-Velin** (centre commercial Les 7 Chemins, 10 rue des Frères-Lumière) : fiche du magasin sur le site du réseau (téléphone et horaires du lundi au samedi, 8 h 30 à 19 h 30, fermé le dimanche), établissement actif au registre des entreprises, annuaire 118712 cohérent sur le lundi.
+
+**Pourquoi cinq et pas quatre.** Quatre points vérifiés atteignent le seuil de la règle 52 : on cherche le cinquième chez un voisin de même intercommunalité plutôt que de descendre. Le voisin tenté est **Terres Lyonnaises à Bron** (116 avenue Franklin-Roosevelt, établissement actif au registre). Sa seule source d'horaires, la fiche d'Auvergne-Rhône-Alpes Tourisme, répond aujourd'hui en erreur 404, et les sources qui restent se contredisent sur le dimanche ; aucun téléphone ni site propre n'est vérifié. Le cinquième point reste donc hors publication, en pistes.
+
+**Photos.** Trois photos viennent de la galerie de la Ville : le Mas du Taureau (étals de légumes, visages floutés dans l'original) et l'Écoin Thibaude (vue de la place) montrent bien le marché. Celle du **Marché du Village** montre un étal de textile et de parfums, pas un étal alimentaire : c'est une photo thématique de la commune, légende non vérifiée, fiche en `a_confirmer` (règle 1 des Règles de décision). La photo de **Satoriz** est un étal de fruits et légumes du marché du Mas du Taureau, prise dans la même commune : elle ne montre pas le magasin, fiche en `a_confirmer`.
+
+**Pistes non publiées (anonymes, Vaulx-en-Velin).**
+- une coopérative de consommateurs bio à La Soie, active au registre : une seule source tierce, un annuaire qui donne des horaires de février 2026 ; ni site ni téléphone recoupés. En piste, à reprendre si une deuxième source confirme.
+- une brasserie-restaurant du même registre : hors sujet (restauration, pas un point de vente).
+- deux entrées de vente directe au nom de personnes physiques : écartées pour doute sur une personne, rien repris.
+
+**Fiches écartées pour doute sur une personne :** deux, Vaulx-en-Velin.
+
+**Points d'arrêt.** Vaulx-en-Velin reste à quatre fiches. La passe suivante ne peut pas viser le Rhône ni tout autre département d'Auvergne-Rhône-Alpes (règle 41.c, la présente passe y a visé). Le cinquième point de Vaulx-en-Velin se reprend si Terres Lyonnaises (Bron) donne un horaire vérifiable, ou si la coopérative de La Soie est confirmée par une seconde source.
+
+**Publication.** Quatre fiches ajoutées (1 304 → 1 308 fiches), quatre images dans `public/images/marchands/`, 1 280 px de large au plus. `npm run lint` et `npm run build` passés. Code, configuration et dépendances non touchés.

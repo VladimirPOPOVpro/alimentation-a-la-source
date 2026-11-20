@@ -34397,5 +34397,107 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La%20Plauderie%2C%2089220%20Saint-Priv%C3%A9",
     "image_url": "/images/marchands/chevrette-et-grenouillette-saint-prive.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-village-vaulx-en-velin",
+    "nom": "Marché du Village",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.786423,
+    "lon": 4.926846,
+    "adresse": "Place Gilbert-Boissier, 69120 Vaulx-en-Velin",
+    "horaires": "Mardi et dimanche, 7h à 12h30 (produits alimentaires et manufacturés)",
+    "produits": [
+      "Fruits et légumes",
+      "Viande",
+      "Fleurs et plantes"
+    ],
+    "description": "Marché de quartier de la place Gilbert-Boissier, au cœur du Village, avec une quinzaine de commerçants ; la Ville le présente comme un lieu d'échanges entre commerçants et habitants.",
+    "site_web": "https://vaulx-en-velin.net/bien-vivre/economie-emploi/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Village+Vaulx-en-Velin",
+    "image_url": "/images/marchands/marche-du-village-vaulx-en-velin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-du-mas-du-taureau-vaulx-en-velin",
+    "nom": "Marché du Mas du Taureau",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.785524,
+    "lon": 4.912513,
+    "adresse": "Place François-Mauriac, 69120 Vaulx-en-Velin",
+    "horaires": "Mercredi, 7h à 12h30 ; samedi, 7h à 13h (produits alimentaires et manufacturés)",
+    "produits": [
+      "Fruits et légumes",
+      "Herbes aromatiques",
+      "Pain et galettes",
+      "Fromages",
+      "Viande et poisson",
+      "Épicerie"
+    ],
+    "description": "Le plus grand marché de Vaulx-en-Velin, place François-Mauriac, avec environ 200 étals selon la Ville ; des producteurs locaux de légumes, d'herbes aromatiques et de fruits y vendent directement.",
+    "site_web": "https://vaulx-en-velin.net/bien-vivre/economie-emploi/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+du+Mas+du+Taureau+Vaulx-en-Velin",
+    "image_url": "/images/marchands/marche-du-mas-du-taureau-vaulx-en-velin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "marche-ecoin-thibaude-vaulx-en-velin",
+    "nom": "Marché de l'Écoin Thibaude",
+    "categorie": "marche",
+    "piliers": [
+      "alimentation",
+      "economie",
+      "social"
+    ],
+    "lat": 45.777102,
+    "lon": 4.925878,
+    "adresse": "Place Robert-Badinter, 69120 Vaulx-en-Velin",
+    "horaires": "Jeudi, 7h à 12h30 (produits alimentaires et manufacturés)",
+    "produits": [
+      "Viande",
+      "Poisson",
+      "Légumes",
+      "Fruits",
+      "Épicerie"
+    ],
+    "description": "Marché de la place Robert-Badinter, qui rassemble 60 à 70 commerçants sur 553 mètres linéaires, avec une buvette ; la Ville le décrit comme très actif.",
+    "site_web": "https://vaulx-en-velin.net/bien-vivre/economie-emploi/marches/",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marché+de+l'Écoin+Thibaude+Vaulx-en-Velin",
+    "image_url": "/images/marchands/marche-ecoin-thibaude-vaulx-en-velin.jpg",
+    "a_confirmer": true
+  },
+  {
+    "slug": "satoriz-vaulx-en-velin",
+    "nom": "Satoriz Vaulx-en-Velin",
+    "categorie": "magasin-bio",
+    "piliers": [
+      "alimentation",
+      "environnement"
+    ],
+    "lat": 45.749563,
+    "lon": 4.929691,
+    "adresse": "Centre commercial Les 7 Chemins, 10 rue des Frères-Lumière, 69120 Vaulx-en-Velin",
+    "horaires": "Du lundi au samedi, 8h30 à 19h30 ; fermé le dimanche et les jours fériés",
+    "produits": [
+      "Épicerie bio",
+      "Fruits et légumes",
+      "Pain de boulangeries partenaires",
+      "Produits de la mer (livraison le mercredi)"
+    ],
+    "description": "Magasin du réseau Satoriz, spécialisé dans l'alimentation biologique, installé au centre commercial Les 7 Chemins ; il propose le retrait en magasin de courses faites en ligne.",
+    "telephone": "04 78 26 68 72",
+    "site_web": "https://www.satoriz.fr/magasin-bio/satoriz-septchemins",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Satoriz+Vaulx-en-Velin",
+    "image_url": "/images/marchands/satoriz-vaulx-en-velin.jpg",
+    "a_confirmer": true
   }
 ]
