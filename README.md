@@ -56818,3 +56818,15 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** La formule renvoie vers des départements dont la descente est consignée. La passe suivante devra décider : soit reprendre la Savoie à la commune suivante par population sans fiche (Annecy, Aix-les-Bains), soit la règle 247 doit être revue pour permettre une reprise. Ce choix n'est pas tranché ici.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (fin de soirée, secteur recalculé, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches, aucune fiche sans code postal. Découpage Corse retenu (2A : 20000 à 20199 ; 2B : 20200 et au-delà). Classement de tête, déficit calculé : Nord (59) 6,71, Haute-Garonne (31) 5,09, Seine-Saint-Denis (93) 4,69, Isère (38) 4,68, Oise (60) 4,41, Yvelines (78) 4,36, Hérault (34) 4,32, Loire (42) 4,30, Val-de-Marne (94) 4,21, Ille-et-Vilaine (35) 4,15.
+
+**Pourquoi rien n'est publié.** Les départements en tête sont déjà consignés : Nord, Haute-Garonne, Oise et Loire sont clos ou en veille (règles 41.e et 247) ; Seine-Saint-Denis, Hérault et Ille-et-Vilaine sont éprouvés ; Isère a sa descente consignée ; Val-de-Marne a été criblé jusqu'à la borne de la règle 247 ; Yvelines (Versailles, Sartrouville, Saint-Germain-en-Laye) a des pistes déjà ouvertes sans fiche. Calvados (14), point d'arrêt de la passe précédente, est exclu par la règle 41.c (Normandie, passe précédente). Aucune commune neuve n'a été éprouvée dans cette passe : cinq fiches vérifiées n'ont donc pu être réunies sur une seule commune.
+
+**Point d'arrêt.** Aucune fiche publiée, aucun doute sur une personne consigné. La passe suivante devra reprendre la descente au prochain département éligible du classement (une fois la règle 41.c appliquée à la région de cette passe), en commençant par la commune la plus peuplée sans fiche.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
