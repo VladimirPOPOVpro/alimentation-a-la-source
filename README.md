@@ -56725,3 +56725,29 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Calvados : Bayeux a deux points vérifiables sur cinq, zéro fiche publiée. Passe suivante : chercher les producteurs et points de vente de Bayeux au registre de l'Agence Bio (pages suivantes) et sur l'office de tourisme (Bayeux Bessin Tourisme, rubrique marchés) ; si cinq points ne sont pas atteints, descendre à la commune suivante du Calvados par population (Falaise, 7 680 habitants), en gardant les deux marchés en pistes.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 20 novembre 2026 (19 h 45, Hérault (34), Agde sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Rien à répondre par email.
+
+**Secteur, règles 41, 41.c et 41.e.** Métropole seule, dénominateur national, 1 308 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (outre-mer écarté). Les deux passes précédentes visaient le Calvados (Normandie) : la région est donc exclue cette passe. Le Nord reste en veille (41.e), Haute-Garonne, Loire, Isère, Yvelines, Seine-Saint-Denis et Oise sont closes ou épuisées. Classement retenu : **Hérault (34, ≈ 4,32)**. Commune : **Agde** (34003), la plus peuplée de l'Hérault sans aucune fiche (29 939 habitants). Béziers, Sète, Frontignan, Juvignac et Saint-Jean-de-Védas sont déjà couvertes ; Montpellier aussi.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Hérault, 300 premières entrées : deux opérateurs ont une adresse à Agde, un hypermarché (écarté, grande surface) et un fournisseur de pâtisserie-boulangerie en gros sans vente au public. Aucun producteur ni point de vente de détail à Agde dans cette tranche.
+- Recherche web : plusieurs marchés (Agde centre, Grau d'Agde, Cap d'Agde) et marchés nocturnes de producteurs au Cap d'Agde, avec des horaires qui divergent selon les annuaires. Les pages de l'office de tourisme (`capdagde.com`) répondent 403 et la fiche Hérault Tourisme du marché d'Agde répond 410 : aucune source officielle de marché n'a pu être ouverte.
+- `agde.fr` répond, mais sa page d'accueil ne donne aucun lien vers les marchés ni vers une liste de commerçants.
+- Une liste AMAP et une liste de producteurs (Paniers de Thau, Portiragnes) datent de plusieurs années ou sont hors commune.
+
+**Pourquoi rien n'est publié.** Aucun commerce d'Agde n'a été recoupé sur deux sources indépendantes et actuelles ; les marchés n'ont qu'une source d'annuaire et des horaires contradictoires. La règle 52 (cinq points vérifiés) n'est pas atteinte, et aucune fiche de marché ne peut être datée sans source officielle.
+
+**Pistes non publiées (anonymes, Agde, 34).**
+- Marché du centre (La Promenade, dimanche matin ; jeudi selon une autre source) : horaires contradictoires, pas de source officielle ouverte. **Déblocage** = horaire confirmé par la Ville ou l'office de tourisme.
+- Marché du Grau d'Agde (place des Muriers, matin) : une seule source d'annuaire. **Déblocage** = seconde source.
+- Marché du Cap d'Agde (parking Gévaudan, samedi matin) et marchés nocturnes de producteurs (place du Môle, mercredi et samedi, saisonniers) : source Hérault Tourisme indisponible (410) ; saisonnier, hors fiche permanente tant que les dates ne sont pas confirmées.
+- Une AMAP à Agde ou à Pézenas (distribution de paniers) : source de 2012, non reprise.
+
+**Fiches écartées pour doute sur une personne :** aucune cette passe.
+
+**Points d'arrêt.** Agde reste à zéro fiche. Passe suivante : ouvrir `agde.fr` (rubrique commerces et marchés) et l'office de tourisme Cap d'Agde dès qu'ils répondent, et reprendre le Grau d'Agde et le centre au premier horaire confirmé. Si Agde reste sans source officielle, passer à Lunel (34145, 26 623 habitants), commune suivante de l'Hérault sans fiche, en gardant les pistes ci-dessus.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
