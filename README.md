@@ -57092,3 +57092,19 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Digne-les-Bains reste la commune en cours d'éprouvement (deuxième de la descente du 04). Éprouver au plus la commune suivante avant de conclure (règle 248) ; sources à lire en premier : sites propres des commerces, puis la rubrique marchés de la ville.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (13 h 45, planifiée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Métropole seule. Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal, 2A et 2B séparées. Région exclue par la règle 41.c : Provence-Alpes-Côte d'Azur (passes de 10 h 44 et 12 h 45 sur le 04). Le classement de tête, hors outre-mer (règle 93), donne Nord (59), Haute-Garonne (31), Oise (60), Loire (42), Isère (38), Haute-Corse (2B), Savoie (73), Calvados (14), Hérault (34) et Seine-Saint-Denis (93) : tous déjà clos par la règle 247, en veille (41.e), ou éprouvés dans des passes précédentes. Haute-Marne (52), Corse-du-Sud (2A), Ariège (09) et Loiret (45) ont aussi été visités.
+
+**Pourquoi rien n'est publié.** Aucun département du classement ne s'ouvre à une commune nouvelle : la règle 248 impose de ne rien publier quand la passe ne trouve sa zone dans aucun département éprouvé. Aucun commerce vérifié et éligible n'a été ajouté.
+
+**Point d'arrêt.** La formule est épuisée sur sa tête de classement. La passe suivante devra choisir une région hors PACA et hors Hauts-de-France, puis un département jamais éprouvé (la liste des visités est dans les passes ci-dessus), ou la règle 247 devra être révisée pour permettre une reprise. Ce choix n'est pas tranché ici.
+
+**Pistes non publiées.** Aucune cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
