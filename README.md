@@ -57265,6 +57265,6 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 
 **Fiches écartées pour doute sur une personne.** Aucune cette passe : les exploitants rencontrés au registre portent des noms de personnes et n'ont pas été repris.
 
-**Point d'arrêt.** Passe suivante : Nord toujours visé (la réserve ne bloque que la Bretagne cette fois-ci, donc la passe suivante devra viser une autre région). Ouvrir d'abord la rubrique marchés du site de Maubeuge et réessayer le site de Cambrai ; si aucune des deux communes ne rend cinq fiches entières, descendre à Lambersart et Armentières, déjà lues, puis appliquer la règle 247.
+**Point d'arrêt.** Passe suivante : la réserve de la règle 41 interdit de viser le Nord deux passes de suite, donc la passe suivante doit viser une autre région (la Bretagne reste permise). Le Nord reprendra à la passe d'après : ouvrir d'abord la rubrique marchés du site de Maubeuge et réessayer le site de Cambrai ; si aucune des deux communes ne rend cinq fiches entières, descendre à Lambersart et Armentières, déjà lues, puis appliquer la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés : `npm run lint && npm run build` non relancé, aucune donnée modifiée. Total inchangé : 1 308 fiches.
