@@ -57268,3 +57268,21 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : la réserve de la règle 41 interdit de viser le Nord deux passes de suite, donc la passe suivante doit viser une autre région (la Bretagne reste permise). Le Nord reprendra à la passe d'après : ouvrir d'abord la rubrique marchés du site de Maubeuge et réessayer le site de Cambrai ; si aucune des deux communes ne rend cinq fiches entières, descendre à Lambersart et Armentières, déjà lues, puis appliquer la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés : `npm run lint && npm run build` non relancé, aucune donnée modifiée. Total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (20 h 45, planifiée, Isère (38) sondée au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Population `geo.api.gouv.fr`, 1 308 fiches comptées sur le code postal. Classement de la règle 41, hors Hauts-de-France (passe de 19 h, Nord) : Seine-Saint-Denis (93) et Isère (38) à 4,7 chacune, Haute-Garonne (31) écartée, épuisée à 06 h 50. Le 93 a déjà reçu les descentes des 16 et 17 novembre, sept communes éprouvées, et les notes antérieures ne le donnent plus pour fertile ; le 38 est retenu pour cette passe. Région visée : Auvergne-Rhône-Alpes.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Isère, première page (100 opérateurs). La plupart sont des personnes physiques identifiées par leur nom (producteurs, vente à la ferme), des grossistes ou des entrepôts ; ni fiche ni piste ne peuvent en être tirées sans reprendre un nom de personne. Quelques enseignes apparaissent, mais dans des communes de moins de 5 000 habitants, hors de la descente de la règle 41.d. Aucun site de commune ni d'office de tourisme n'a été ouvert pendant cette passe : aucune source indépendante nouvelle.
+
+**Pourquoi rien n'est publié.** Aucune commune de plus de 5 000 habitants sans fiche n'a été éprouvée ce soir, et une page de registre seule ne suffit pas à la règle 52 (une source indépendante, activité vérifiée). Publier à partir du registre aurait envoyé des visiteurs vers des entrepôts et des particuliers.
+
+**Pistes non publiées.** Aucune nouvelle piste ce soir.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe : les exploitants du registre portent des noms de personnes et n'ont pas été repris.
+
+**Point d'arrêt.** Passe suivante : Auvergne-Rhône-Alpes exclue par la règle 41.c, donc ni le 38 ni la Rhône ni la Loire. Le 93 est de nouveau éligible (la passe de 19 h visait le Nord). Descendre au-delà de Montreuil, Saint-Denis, Noisy-le-Grand, Bobigny, Drancy, Aulnay-sous-Bois et Le Blanc-Mesnil, par Épinay-sur-Seine, Sevran, Bondy, Rosny-sous-Bois, puis Tremblay-en-France (38 348 habitants, aucune note antérieure) ; la borne de douze communes de la règle 247 s'applique.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run lint && npm run build` non relancé, aucune donnée modifiée.
