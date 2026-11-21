@@ -57306,3 +57306,26 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : Tremblay-en-France ne se reprend pas. Dans la Seine-Saint-Denis, la descente reprend à Épinay-sur-Seine, puis Sevran, Bondy et Rosny-sous-Bois, dans la limite de la borne de douze communes de la règle 247. La réserve de la règle 41.c interdit de viser la Seine-Saint-Denis deux passes de suite : la passe suivante doit donc viser le Nord, dont la rubrique marchés de Maubeuge et le site de Cambrai restent à relire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run lint && npm run build` non relancé, aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (22 h 43, planifiée, Nord (59) repris : Maubeuge et Cambrai sondées, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). La passe de 21 h 44 visait la Seine-Saint-Denis : la réserve de la règle 41.c interdit de la reprendre, donc le Nord, point d'arrêt désigné, est visé. Descente par population : Maubeuge (28 767) puis Cambrai (31 134), dans l'ordre demandé par le point d'arrêt.
+
+**Ce qui a été lu.**
+- Maubeuge : le domaine maubeuge.fr répond, mais sa page d'accueil est un annuaire local (liens d'annuaire, pied de page d'un prestataire web) et non le site officiel de la Ville. Aucun lien « marché » ni « producteur » sur la page. Non retenu comme source : la rubrique marchés officielle reste à trouver.
+- Cambrai : le site de la Ville ne répond pas depuis cet environnement (000 sur l'adresse ville-cambrai.fr, 436 sur cambrai.fr). Non lu.
+- Recherche au registre : le résultat « marché Maubeuge » ne renvoie qu'une enseigne de grande distribution, écartée.
+
+**Pourquoi rien n'est publié.** Aucune source officielle de marchés n'a été lue à Maubeuge ni à Cambrai, et aucune commune du Nord descendue ce soir ne rend cinq fiches entières (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Maubeuge (59), marchés et commerces de circuit court : aucune source officielle lue. Déblocage : rubrique marchés du site officiel de la Ville, ou fiche de l'office de tourisme.
+- Cambrai (59) : site officiel injoignable. Déblocage : site de la Ville quand il répond, ou office de tourisme du Cambrésis.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : la réserve de la règle 41.c interdit le Nord deux passes de suite, donc viser une autre région (la Seine-Saint-Denis redevient éligible, et la Bretagne reste permise). Reprendre Cambrai si le site répond, et Lambersart et Armentières déjà lues.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` non relancé, aucune donnée modifiée. Total inchangé : 1 308 fiches.
