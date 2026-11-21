@@ -56844,3 +56844,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Pour la passe suivante : Fontainebleau (3 opérateurs au registre, à recouper sur le site de la ville et l'office de tourisme) est la piste la plus prometteuse du 77 ; si elle ne rend pas cinq commerces, la descente passe à Villeparisis et Torcy.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (Fontainebleau (77) sondée, marché Saint-Louis en piste : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Ce qui a été lu.** Registre de l'Agence Bio, département 77 : un seul opérateur à Fontainebleau (77300), sans vente aux particuliers. Recherche web : la Ville de Fontainebleau décrit le marché Saint-Louis (place de la République, mardi, vendredi et dimanche matin) avec une « allée des producteurs » ; l'office de tourisme le signale aussi. La page de la Ville elle-même n'a pas pu être ouverte pendant la passe (un lien deviné renvoyait une 404 ; le lien trouvé dans les résultats n'a pas répondu).
+
+**Écarté.** La Ferme Chaillotine (fruits rouges bio, magasin de producteurs) est à Chailly-en-Bière (77930), une autre commune : hors du groupement.
+
+**Pourquoi rien n'est publié.** Une seule piste vérifiée à Fontainebleau, et la page source de la Ville n'a pas été lue directement. Une passe de cinq fiches ne se réunit pas sur une commune avec un seul commerce confirmé. Le marché Saint-Louis reste une piste solide pour la prochaine passe : à ouvrir sur fontainebleau.fr, puis à compléter par les producteurs de l'allée (cinq fiches vérifiées requises).
+
+**Point d'arrêt.** Passe suivante : ouvrir la page marché de la Ville sur fontainebleau.fr ; relever les producteurs de l'allée des producteurs ; si cinq ne sont pas vérifiables à Fontainebleau, descendre à Nemours ou Coulommiers (Agence Bio, 77) selon la règle 41.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
