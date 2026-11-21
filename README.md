@@ -56934,3 +56934,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : relire le site de la Ville à nouveau ; sinon, Marcq-en-Barœul reste à zéro fiche et la descente passe à Armentières ou Coudekerque-Branche (règle 41), en gardant les pistes ci-dessus. La règle 41.e (Nord en veille) n'a pas été rappelée dans ce choix : à trancher à la prochaine révision du README.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (06 h 50, Haute-Garonne (31) visée, aucune commune non éprouvée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule. Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Classement : Nord (59) en tête, mais sorti du tirage (passe précédente). Haute-Garonne (31) en deuxième position, déficit ≈ 5,1 ; Seine-Saint-Denis (93) et Isère (38) suivent, déjà éprouvées.
+
+**Ce qui a été lu.** Rien de nouveau : toutes les communes du 31 de plus de 10 000 habitants sans fiche ont été sondées lors des passes précédentes (Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, Saint-Orens-de-Gameville, Fonsorbes, L'Union, Saint-Gaudens, Castelginest, Villeneuve-Tolosane, Seysses, Cornebarrieu, Portet-sur-Garonne). Aucune source indépendante nouvelle n'a été ouverte pendant cette passe.
+
+**Pourquoi rien n'est publié.** Le département est épuisé au sens de la règle 41.d : aucune commune restante ne rend cinq commerces vérifiables, et reprendre les mêmes sondages ne change pas le résultat. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Point d'arrêt.** Le tirage doit sortir de la Haute-Garonne. Passe suivante : ne pas revenir au 31 ; prendre le premier département du classement hors 59 et 31 dont une commune de plus de 5 000 habitants n'a pas encore été sondée, et lire en premier le site officiel de la commune (marchés, commerces), puis l'annuaire Bienvenue à la Ferme du département.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
