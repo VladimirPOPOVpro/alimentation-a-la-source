@@ -57108,3 +57108,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Fiches écartées pour doute sur une personne.** Aucune cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (14 h 50, planifiée, Manosque (04) reprise, La Terre Ferme vérifiée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** La passe précédente (13 h 45) n'était pas en PACA : la règle 41.c (pas deux passes de suite dans la même région) n'exclut donc pas PACA à cette passe. Choix retenu : Manosque (04100), la plus peuplée du 04 sans fiche, déjà en cours depuis 10 h 44. Lecture de la règle 41.c consignée ici ; à réviser si elle doit être plus stricte.
+
+**Ce qui a été vérifié.**
+
+- **La Terre Ferme** (Impasse de Valgas, 04100). Site officiel laterreferme.fr vivant : micro-ferme maraîchère biologique, vente au stand le mercredi et le samedi (horaires d'été et d'hiver donnés par l'office de tourisme, concordants avec le site). Registre des entreprises : une entité **active** exploite à cette adresse, code NAF 01.13Z, sous l'enseigne de la ferme (le nom du titulaire n'est pas repris). Non publiée : **aucune photo** vérifiée (pas d'og:image sur le site ; la photo de l'office est créditée à une personne). Une photo thématique de la commune reste à trouver (règle 1), et `image_url` est obligatoire au build.
+- **Couleurs Paysannes** (place du Terreau, 04100). Comparateur circuits courts : horaires lundi-jeudi 9h-12h30 et 14h30-19h, vendredi 9h-19h, samedi 8h30-13h et 14h30-19h, dimanche fermé ; téléphone affiché par le comparateur, non repris. Registre : enseigne « À la Ferme (Couleurs Paysannes) » active, mais son siège est à Valensole (04210) et l'adresse du 5 place du Terreau n'y figure pas ; règle 6 satisfaite par l'enseigne. Site officiel et photo non encore lus : non publiée.
+- **Ruches et Collines** (montée de la mort d'Imbert, 04100). Office de tourisme : vente sur place, lundi-samedi 9h-18h, miel bio. Aucune entité trouvée au registre sous l'enseigne (la recherche n'a rien rendu) : non publiée, à reprendre si une entité active est trouvée.
+- **Une fiche Manosque du comparateur** (« La Belle Ferme ») pointe sur une commune des Côtes-d'Armor : erreur de lien du comparateur, écartée.
+
+**Pistes non publiées.** Un magasin bio de Manosque (enseigne patronymique, déjà consigné, ne se rouvre pas). Une ferme de transformation sans point de vente public (consignée à la passe de 10 h 44).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Pourquoi rien n'est publié.** Manosque reste à deux fiches vérifiables en comptant La Terre Ferme sans photo, et Couleurs Paysannes n'a pas encore son site officiel lu. La règle 41 demande cinq fiches par commune : on ne publie pas une passe partielle.
+
+**Point d'arrêt.** Passe suivante : trouver une photo thématique nette de Manosque (sans personne reconnaissable) pour La Terre Ferme ; lire le site officiel de Couleurs Paysannes (horaires, photo) ; chercher une entité active pour Ruches et Collines. Biocoop et l'épicerie en vrac restent à sonder au registre. Si Manosque ne rend toujours pas cinq fiches, descendre à Digne-les-Bains.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
