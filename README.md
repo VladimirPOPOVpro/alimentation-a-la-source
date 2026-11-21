@@ -56858,3 +56858,17 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : ouvrir la page marché de la Ville sur fontainebleau.fr ; relever les producteurs de l'allée des producteurs ; si cinq ne sont pas vérifiables à Fontainebleau, descendre à Nemours ou Coulommiers (Agence Bio, 77) selon la règle 41.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (Fontainebleau (77) poursuivie, Nemours (77) sondée : aucune publication)
+
+**Secteur.** Calcul de la règle 41 relancé sur `origin/main`, métropole seule. La Réunion, premier déficit du calcul, est sautée au titre de la règle 93 : le cadre de `lib/validateMerchants.ts` ne l'admet pas (point de blocage, voir le compte rendu). Le 77 est repris à la demande du point d'arrêt de la passe précédente ; cette passe n'a rien publié, elle ne vaut donc pas « visé » au sens de la règle 41.c.
+
+**Ce qui a été lu.**
+- Ville de Fontainebleau, page du marché Saint-Louis : marché trois fois par semaine (mardi et vendredi de 8h à 13h, dimanche de 8h à 13h30), place de la République, environ 70 commerçants réguliers, alimentaires et non alimentaires. Le marché est géré par un délégataire (une société) ; les coordonnées de contact publiées sur cette page sont celles de personnes et ne sont pas reprises ici. Une fiche de marché est possible, mais une fiche isolée n'est pas une zone (règle 52).
+- Registre de l'Agence Bio, 77, première page (100 opérateurs sur 929) : aucun opérateur de Fontainebleau ne déclare la vente aux particuliers. Un seul opérateur déclarant la vente aux particuliers apparaît à Avon et un à Nemours.
+- Office de tourisme de Fontainebleau : aucune liste de producteurs ni de commerces en circuit court sur la page d'accueil ; seul un lien vers les marchés de Noël.
+- Ville de Nemours, page « Les marchés » : deux marchés de plein air par semaine (mercredi de 8h à 12h30, place de la République ; samedi de 8h à 13h, Champ-de-Mars), à dominante non alimentaire, sans liste de producteurs.
+
+**Pourquoi rien n'est publié.** À Fontainebleau, un seul marché généraliste est vérifié, et aucun producteur ne l'est : on ne réunit pas cinq fiches entières. À Nemours, les deux marchés sont généralistes et ne donnent aucun producteur. La règle 248 limite la passe à la commune calculée du département et à la suivante de sa descente ; la descente est donc arrêtée ici.
+
+**Point d'arrêt.** Passe suivante, dans le 77 : ouvrir l'allée des producteurs du marché Saint-Louis sur le site de la Ville et relever les exploitants qui y tiennent un étal avec leur nom commercial ; ne publier le marché que s'il rejoint au moins quatre producteurs vérifiés. Si le 77 ne rend pas cinq fiches entières d'ici la prochaine passe, la descente passe à Coulommiers (registre de l'Agence Bio, 77), puis la passe reprend le classement de la règle 41.
