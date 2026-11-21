@@ -57000,3 +57000,23 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : relire le site du magasin de producteurs pour ses horaires et son image ; si Manosque reste à deux fiches, la passe éprouve Digne-les-Bains (commune suivante du 04, règle 248) et ne va pas plus loin.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (planifiée, Manosque (04) reprise, Digne-les-Bains sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Point d'arrêt de la passe précédente : rester sur Manosque (04100). Manosque reste à deux commerces vérifiables ; la descente sur Digne-les-Bains (commune suivante du 04 par population, règle 248) a été sondée sans l'atteindre.
+
+**Ce qui a été lu.**
+- Manosque, magasin de producteurs (place du Terreau, BAN : coordonnées confirmées) : enseigne active au registre ; quatre comparateurs et annuaires donnent la même adresse, mais les horaires du jeudi et du samedi divergent d'une source à l'autre. Le site du commerce n'était pas joignable depuis cet environnement. Horaires à confirmer par le commerce : pas de fiche tant que la grille n'est pas tranchée.
+- Manosque, marché : les sources se contredisent (samedi matin pour la plupart ; mercredi marché vert ; la Ville n'avait pas publié ses dates 2026). Règle 5 des « Règles de décision » : pas de publication.
+- Digne-les-Bains : la page « Bienvenue à la ferme » de l'office de tourisme (mise à jour en avril 2026) ne nomme aucun commerce ; la liste des commerçants du marché publiée par la Ville renvoie une page introuvable ; les annuaires de vente directe donnent des fermes sans horaires vérifiés, souvent datés de plus d'un an. Aucune fiche n'atteint le niveau d'exigence : rien n'est publié.
+
+**Pourquoi rien n'est publié.** Cinq fiches vérifiées sur une seule commune ne sont réunies ni à Manosque (deux commerces, horaires contradictoires) ni à Digne-les-Bains (aucune fiche vérifiée à ce stade). Une passe partielle ne vaut pas une zone (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Digne-les-Bains (04), vente à la ferme et producteurs : pistes issues des annuaires, à reprendre une fois chaque ferme confirmée par elle-même ou par l'office de tourisme.
+
+**Point d'arrêt.** Passe suivante : Manosque reste la cible ; pour sortir de l'impasse, lire le site du magasin de producteurs pour sa grille (ou la tenir pour « horaires à confirmer » sans la publier), et chercher une source de la Ville sur le marché. Si Manosque reste à deux, poursuivre Digne-les-Bains en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
