@@ -57154,3 +57154,29 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Manosque reste la cible ; chercher une photo nette et sans personne pour La Terre Ferme ; chercher une entité active pour Ruches et Collines ; sonder les épiceries en vrac et Biocoop de Manosque au registre. Si Manosque ne rend toujours pas cinq fiches, descendre à Digne-les-Bains (règle 248).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (16 h 45, planifiée, Bas-Rhin : Saverne sondée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé. La demande en_cours (producteur, commune du Var, enseigne désignée par un prénom seul) reste en attente : doute sur une personne, rien n'est publié.
+
+**Secteur, règles 41, 41.c, 93, 247 et 248.** Métropole seule. Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal, 2A et 2B séparées. La passe précédente (15 h 45) visait la Provence-Alpes-Côte d'Azur : la région est exclue par la règle 41.c. Hauts-de-France exclus (consigné au 13 h 45). Les têtes du classement hors ces régions sont closes, éprouvées ou en veille (Haute-Garonne, Isère, Hérault, Seine-Saint-Denis, Loire, Oise, Calvados, Savoie, Nord). Retenu : **Bas-Rhin (67)**, déficit ≈ 4,0, dont la descente est en cours (règle 247).
+
+**Descente du Bas-Rhin.** Déjà éprouvées : Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Sélestat, Hœnheim, Bischwiller. Bischwiller est fermée à l'agent nommé (règle 257) ; la descente passe à la commune suivante par population, **Saverne (11 460)**, avant la borne de douze.
+
+**Saverne, ce qui a été lu.**
+- Registre Agence Bio, département 67, quatre opérateurs à Saverne : deux boulangeries, une brasserie et un préparateur. Aucun n'est un magasin de producteurs, et les deux boulangeries ne relèvent d'aucune catégorie de `lib/types.ts` sans règle 4.
+- Recherche web : un marché de producteurs se tient place de la Gare (charte et règlement de la Ville, 2015 à 2017, donc à confirmer ; horaires d'installation et de clôture dans les engagements). Un magasin vrac (Vracomarche) est recensé sur une carte de circuit court, sans source de la Ville à jour. Les magasins de producteurs voisins (Oberhausbergen, Schnersheim, Bouxwiller) sont sur d'autres communes.
+
+**Pourquoi rien n'est publié.** Saverne ne rend pas cinq fiches entières sur une seule commune : un marché daté et un vrac non recoupé ne suffisent pas. Une fiche isolée n'est pas une zone (règle 52). Aucune fiche n'a été ajoutée, aucune photo n'a été prise, `data/` et les images sont inchangés.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Saverne (67), marché de producteurs place de la Gare : source de la Ville datée de 2015 à 2017. Déblocage : page à jour du site de la Ville ou de l'office de tourisme (jours, horaires, liste d'exposants).
+- Saverne (67), magasin vrac : enseigne recensée par une carte de circuit court, pas de registre ni de site confirmés. Déblocage : site propre du commerce et un contrôle au registre (règle 6).
+- Saverne (67), boulangeries et brasserie du registre bio : hors catégories, ou sans vente directe au public. Écartées.
+- Bischwiller (67) : Ville fermée à l'agent nommé (règle 257). Un atelier écarté pour doute sur une personne, non rouvrable.
+
+**Fiches écartées pour doute sur une personne.** Une (Bischwiller, 67), déjà consignée.
+
+**Point d'arrêt.** Passe suivante : rester sur le Bas-Rhin (la passe précédente était en PACA, la règle 41.c ne l'interdit pas). Lire le site de la Ville de Saverne et de son office de tourisme pour le marché (jours, horaires, exposants à jour) ; contrôler le magasin vrac au registre ; si Saverne ne rend pas cinq fiches entières, passer à Brumath (10 499), puis Molsheim (9 318), dans la borne de douze (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
