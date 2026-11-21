@@ -57048,3 +57048,24 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : lire le site propre de chaque commerce cité (horaires et photo) ; si Manosque reste à deux fiches, descendre à la commune suivante du 04 par population sans fiche, en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (Manosque (04) relue, recherche web sur les producteurs et le marché : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Point d'arrêt des passes précédentes : rester sur Manosque (04100), commune la plus peuplée du 04 sans fiche (≈ 22 700 habitants). Population `geo.api.gouv.fr` relue ; 1 308 fiches au total.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 04 (100 premiers opérateurs) : à Manosque, la plupart des entrées sont des personnes physiques (écartées, règle « Personnes, noms et données personnelles ») ou des opérateurs sans vente au public. Recherches web sur les producteurs et le marché de Manosque : les résultats confirment deux enseignes déjà consignées et n'apportent aucun horaire vérifié pour une troisième.
+
+**Pourquoi rien n'est publié.** Manosque ne rend toujours que deux commerces, dont aucun n'a d'horaires confirmés par le commerce lui-même ; le marché hebdomadaire a des emplacements provisoires (travaux du Terreau) et des sources qui ne concordent pas. La règle 41.d exige cinq fiches entières sur une seule commune ; une fiche partielle ne vaut pas une zone (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Manosque (04), magasin de producteurs (enseigne Couleurs Paysannes) : horaires à confirmer par le commerce. Déblocage : grille publiée par le commerce.
+- Manosque (04), maraîchage bio (enseigne La Terre Ferme) : horaires saisonniers non confirmés, photo à trouver sans personne reconnaissable. Déblocage : horaires confirmés par la ferme.
+- Manosque (04), magasin de producteurs (enseigne La Belle Ferme) : aucun horaire trouvé. Déblocage : source du commerce.
+- Manosque (04), marché hebdomadaire : emplacements provisoires, jour et lieu contradictoires. Déblocage : confirmation par la mairie (règle 5 des « Règles de décision »).
+- Manosque (04), enseignes à nom patronymique : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Manosque reste la cible ; lire les pages propres des commerces (horaires, image) ; si Manosque reste à deux fiches, éprouver Digne-les-Bains (commune suivante du 04) en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
