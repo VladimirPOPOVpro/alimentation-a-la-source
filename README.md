@@ -56891,3 +56891,21 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante, dans le 77 : recouper la vente directe d'Avon sur le site de l'enseigne et l'office de tourisme ; si Fontainebleau et Avon ne rendent pas cinq fiches entières, descendre à Coulommiers (Agence Bio, 77), dont le marché de la place du Marché est déjà signalé au registre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (Nord (59) visé, registre de l'Agence Bio lu : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal, métropole seule (règle 93). Le 77 est exclu : passe précédente. Premier département éligible du tirage : Nord (59), déficit ≈ 4,6 après exclusion des départements d'outre-mer.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 59, dix premières pages (1 000 opérateurs) : 629 déclarent la vente aux particuliers. La majorité sont des entreprises individuelles désignées par le nom patronymique de leur exploitant (non publiables, règle personnes), des grandes surfaces, des grossistes ou des structures d'insertion. Peu d'entre elles sont des fermes ou des magasins identifiables comme commerces de proximité.
+- Aucune commune du 59 n'a été recoupée sur un site officiel dans cette passe : le registre seul ne vaut pas source indépendante.
+
+**Pourquoi rien n'est publié.** Aucune fiche de ferme, de marché ou de magasin de producteurs n'a été vérifiée nominativement avec au moins une source indépendante. Les cinq fiches d'une même commune ne sont pas réunies.
+
+**Pistes non publiées** (commune, catégorie, motif) : Lille (59), plusieurs entreprises de vente directe déclarées au registre, toutes désignées par un nom de personne : écartées pour doute sur une personne, non rouvertes.
+
+**Point d'arrêt.** Passe suivante, dans le 59 : Marcq-en-Barœul (59700, sans fiche, 40 000 habitants) ; ouvrir le site de la Ville et l'annuaire des marchés avant le registre. Si cinq fiches entières ne s'y réunissent pas, descendre à Armentières ou Coudekerque-Branche selon la règle 41.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
