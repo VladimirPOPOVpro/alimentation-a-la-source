@@ -56948,3 +56948,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Le tirage doit sortir de la Haute-Garonne. Passe suivante : ne pas revenir au 31 ; prendre le premier département du classement hors 59 et 31 dont une commune de plus de 5 000 habitants n'a pas encore été sondée, et lire en premier le site officiel de la commune (marchés, commerces), puis l'annuaire Bienvenue à la Ferme du département.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (planifiée, Alpes-de-Haute-Provence (04) visé, Manosque sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (compteurs : en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Région de la passe précédente (Occitanie, Haute-Garonne) exclue par la règle 41.c. Classement hors Nord, Haute-Garonne et Occitanie : Oise (60), Loire (42), Isère (38) et Savoie (73) sont consignées ou closes ; Calvados (14), Hérault (34), Seine-Saint-Denis (93), Ille-et-Vilaine (35), Eure-et-Loir (28) sont déjà éprouvés. Premier département neuf du classement : **Alpes-de-Haute-Provence (04)**, déficit ≈ 3,19, zéro fiche publiée. La Corse n'est pas reprise (règle 247).
+
+**Commune retenue.** Manosque (04100), la plus peuplée du département sans fiche (≈ 22 000 habitants).
+
+**Ce qui a été lu.** Registre `recherche-entreprises` pour chaque commerce cité ; registre de l'Agence Bio pour le 04 (100 premiers opérateurs lus) ; fiches du comparateur de circuits courts pour Manosque ; fiches de l'office de tourisme régional (provence-alpes-cotedazur.com) pour les deux commerces retenus ; recherche web sur le marché hebdomadaire.
+
+**Pistes vérifiées (à intégrer au prochain passage sur Manosque, une fois complétées à cinq) :**
+
+- **Couleurs Paysannes (Manosque, place du Terreau)**, magasin de producteurs. Registre : établissement actif, enseigne « À la Ferme (Couleurs Paysannes) », code NAF 47.29Z. Sources indépendantes : comparateur de circuits courts (adresse, horaires, produits). **Horaire à confirmer, règle 180** : une seule source publie la grille (lundi-jeudi 9h-12h30 et 14h30-19h, vendredi 9h-19h, samedi 8h30-13h et 14h30-19h, dimanche fermé). Téléphone publié par le comparateur (04 92…) : non repris dans une fiche tant que le commerce ne le publie pas lui-même. Photo : à chercher sur le site du commerce (og:image) avant publication.
+- **La Terre Ferme (Manosque, impasse de Valgas)**, ferme maraîchère en agriculture biologique, légumes, volailles, œufs. Office de tourisme régional : horaires d'été (mercredi 16h-19h, samedi 9h-12h) et d'hiver (mercredi 14h30-17h30) ; mention « horaires non garantis » sur la fiche. Registre : établissement actif. Le téléphone affiché par l'office est un portable : non repris. La photo de l'office est créditée à une personne : non reprise, photo thématique à prévoir. Fiche à publier en `a_confirmer: true` dès qu'une photo nette et sans personne est trouvée.
+
+**Pistes non publiées à Manosque :**
+
+- un magasin bio de Manosque, enseigne patronymique (nom de famille) : écarté pour doute sur une personne, ne se rouvre pas (règle « Personnes, noms et données personnelles »).
+- une ferme de transformation (fruits, fleurs, tisanes) à Manosque : vente sur rendez-vous uniquement, téléphone portable seul disponible, pas de point de vente ouvert au public : à reprendre si l'exploitant publie un point de contact commercial.
+- le marché hebdomadaire du centre : les sources se contredisent (samedi 8h-13h pour une source ; mardi 8h-13h pour un agenda 2026 ; emplacements déplacés pendant les travaux). Non publié tant que la mairie ne tranche pas (règle 5 des « Règles de décision »).
+- le marché vert : mercredi 8h-12h selon l'office, déplacement annoncé sans date : à reprendre à la prochaine lecture de la rubrique marchés de la ville.
+
+**Pourquoi rien n'est publié.** Manosque ne rend que deux commerces vérifiables à ce stade, pas les cinq exigés par la règle 41. Une fiche de moins n'est pas une fiche fausse : on ne publie pas une passe partielle sur une commune qui n'est pas encore complète. La commune reste la cible de la passe suivante.
+
+**Point d'arrêt.** Passe suivante : rester sur Manosque (04) et compléter jusqu'à cinq ; sources à lire en premier : site de la ville (rubrique marchés), site du commerce Couleurs Paysannes pour son horaire et son image, photo sans personne pour La Terre Ferme. Si Manosque reste à deux, descendre à la commune suivante du 04 par population sans fiche (Digne-les-Bains), et le dire dans le compte rendu.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
