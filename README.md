@@ -57216,3 +57216,28 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : rester sur le Bas-Rhin, éprouver la douzième commune de la descente par population (règle 247), en reprenant d'abord Saverne (liste d'exposants) et l'AMAP de Molsheim si la commune a rejoint un groupement de cinq.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (18 h 50, planifiée, Ille-et-Vilaine (35) : Fougères et Vitré sondées, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93) : les codes 97x et 98x sont écartés du classement (ils étaient en tête à cause de leur population brute, hors du cadre de la carte). La passe précédente visait le Bas-Rhin (Grand Est), donc la règle 41.c n'exclut que cette région. Premier département éprouvé hors Grand Est et hors Hauts-de-France : **Ille-et-Vilaine (35)**, déjà descendu jusqu'à Le Rheu. Descente reprise sur la commune la plus peuplée encore sans fiche : **Fougères (35300, 20 307 habitants)**, puis **Vitré (35500, 19 365)**.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, département 35 (première page de cent) : la liste ne distingue pas la vente réelle (les champs de vente sont tous présents) et ne contient surtout que des exploitants identifiés par leur nom patronymique : rien n'est repris, conformément à la règle sur les personnes.
+- Fougères : un seul marché daté et précis, mais à Pleine-Fougères (35610), commune distincte. Les marchés de Fougères (35300) ont été annoncés sans jours ni horaires ; une ferme bio est listée sans horaires. Rien de vérifiable pour cinq fiches entières.
+- Vitré : un commerce bio aux horaires concordants (lundi-samedi, 9 h-19 h) et un point de retrait en ligne sans horaires. Un marché de producteurs annoncé sans commune confirmée. Rien de vérifiable pour cinq fiches entières.
+
+**Pourquoi rien n'est publié.** Ni Fougères ni Vitré ne rendent cinq fiches entières sur une seule commune (règle 52). Une fiche isolée ne fait pas une zone, et les horaires trouvés ne sont pas recoupés par le commerce lui-même.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Fougères (35), ferme bio en vente directe : produits listés, horaires absents, commune du point de vente non confirmée. Déblocage : site ou fiche du producteur avec adresse et horaires.
+- Fougères (35), marchés de la ville : jours et horaires non lus. Déblocage : page « Foires et marchés » du site de la Ville.
+- Vitré (35), commerce bio à enseigne de réseau : horaires concordants, mais une seule source. Déblocage : une seconde source indépendante (site du réseau ou de l'office de tourisme).
+- Vitré (35), marché de producteurs annoncé sans commune confirmée. Déblocage : fiche de l'office de tourisme du Pays de Vitré.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe : les exploitants du registre portent des noms de personnes et n'ont pas été repris.
+
+**Point d'arrêt.** Passe suivante : rester en Bretagne (35) si la descente y reste en cours, lire la page « Foires et marchés » de Fougères et la fiche de l'office de tourisme du Pays de Vitré. Si aucune de ces communes ne rend cinq fiches entières, passer à Châteaugiron (10 845) et consigner le motif.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` non relancé : aucune donnée modifiée. Total inchangé : 1 308 fiches.
