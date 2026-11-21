@@ -57020,3 +57020,31 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Manosque reste la cible ; pour sortir de l'impasse, lire le site du magasin de producteurs pour sa grille (ou la tenir pour « horaires à confirmer » sans la publier), et chercher une source de la Ville sur le marché. Si Manosque reste à deux, poursuivre Digne-les-Bains en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (10 h 44, planifiée, Manosque (04) relue, Digne-les-Bains non reprise : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Point d'arrêt de la passe de 08 h 44 : rester sur Manosque (04100). Total inchangé : 1 308 fiches.
+
+**Ce qui a été lu.**
+- Deux recherches web sur les producteurs et le marché de Manosque, puis recoupement avec le registre des entreprises déjà consigné.
+- Magasin de producteurs de la place du Terreau : enseigne référencée par un comparateur de circuits courts, mais une autre fiche du même comparateur, rattachée à un code postal voisin, donne une grille différente : il s'agit probablement d'un autre point de vente. Horaire non publié par le commerce : rien n'est retenu.
+- Second magasin de producteurs de Manosque : référencé par un comparateur, sans horaires ni source du commerce.
+- Marché hebdomadaire : samedi matin selon un site touristique ; note de travaux déplaçant le marché sur la promenade Aubert-Millot, date non précisée ; agenda d'un marché vert déplacé, sans année. Mairie non lisible depuis cet environnement.
+- Ferme maraîchère bio de l'impasse de Valgas : horaires saisonniers de l'office de tourisme, non confirmés par la ferme ; photo créditée à une personne (non reprise).
+
+**Pourquoi rien n'est publié.** Manosque ne rend toujours que deux commerces, dont aucun n'a ses horaires confirmés par lui-même, et le marché a des sources contradictoires. La règle 41.d exige cinq fiches entières sur une seule commune ; une fiche partielle ne vaut pas une zone (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Manosque (04), magasin de producteurs (place du Terreau) : horaires à confirmer par le commerce ; ne pas confondre avec le point de vente voisin. Déblocage : horaires publiés par le commerce.
+- Manosque (04), second magasin de producteurs : aucun horaire ni source propre. Déblocage : source du commerce ou de l'office de tourisme.
+- Manosque (04), marché hebdomadaire : jour et emplacement contradictoires. Déblocage : confirmation par la mairie (règle 5 des « Règles de décision »).
+- Manosque (04), magasin bio à enseigne patronymique : écarté pour doute sur une personne, ne se rouvre pas.
+- Manosque (04), maraîchage bio : horaires saisonniers non confirmés, photo à trouver sans personne reconnaissable. Déblocage : horaires confirmés par la ferme.
+
+**Fiches écartées pour doute sur une personne :** une (Manosque, 04).
+
+**Point d'arrêt.** Passe suivante : lire le site propre de chaque commerce cité (horaires et photo) ; si Manosque reste à deux fiches, descendre à la commune suivante du 04 par population sans fiche, en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
