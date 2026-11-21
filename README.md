@@ -57241,3 +57241,30 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : rester en Bretagne (35) si la descente y reste en cours, lire la page « Foires et marchés » de Fougères et la fiche de l'office de tourisme du Pays de Vitré. Si aucune de ces communes ne rend cinq fiches entières, passer à Châteaugiron (10 845) et consigner le motif.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` non relancé : aucune donnée modifiée. Total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (19 h, planifiée, Nord (59) : Armentières, Lambersart, Cambrai et Maubeuge sondées, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Classement de la règle 41 : le Nord (59) est en tête, à 4,6 (45 fiches publiées). La passe de 18 h 50 visait la Bretagne (35) : la réserve « deux passes de suite » ne bloque donc pas le Nord. Le point d'arrêt de la passe précédente demandait de reprendre le Nord par Lambersart et Armentières.
+
+**Descente par population dans le Nord** (communes sans fiche) : Wattrelos (40 847) et Marcq-en-Barœul (40 184), déjà sondées à plusieurs passes sans cinq commerces vérifiables (non relues ce soir) ; puis Cambrai (31 134), Maubeuge (28 767), Lambersart (27 090), Armentières (26 998).
+
+**Ce qui a été lu.**
+- Ville de Lambersart, site officiel : la seule annonce commerciale est un marché de Noël de fin d'année au Colysée. Aucun marché de producteurs ni de commerce de bouche listé. Rien de vérifiable.
+- Ville d'Armentières, site officiel, pages « Les marchés hebdomadaires » et « Les marchés d'Armentières » : un marché hebdomadaire le vendredi matin, place du Général de Gaulle, jusqu'à 13 h, avec des producteurs locaux (ferme, confiture, miel, yaourts, fruits et légumes) présents sans être nommés. Le marché lui-même est un point réel, mais les commerçants individuels ne sont pas identifiés par le site : aucune fiche d'exploitant ne peut être construite sans reprendre un nom de personne ou une devinette. Une seule fiche de marché ne fait pas une zone (règle 52). Pistes non publiées ci-dessous.
+- Ville de Cambrai : site officiel injoignable depuis cet environnement (réponses 436 et 000 sur les deux adresses essayées). Non lue.
+- Ville de Maubeuge, site officiel : l'accueil ne montre que l'agenda de Noël. Rubrique marchés non trouvée à ce stade. Non lue.
+
+**Pourquoi rien n'est publié.** Aucune commune de la descente ne rend cinq fiches entières sur une seule commune : Lambersart n'a aucun marché de producteurs, Armentières ne nomme aucun commerçant, Cambrai est injoignable, Maubeuge n'a pas de page de marchés trouvée. Publier une fiche de marché isolée ou un produit sans horaires relevés enverrait un visiteur dans le vide.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Armentières (59), marché hebdomadaire du vendredi matin : point réel, mais une seule fiche possible sans exploitant identifié. Déblocage : une liste d'exposants publiée par la Ville ou par le marché, sans nom de personne à reprendre, ou quatre autres commerces vérifiés sur la même commune.
+- Cambrai (59) : site officiel injoignable. Déblocage : relire le site quand il répond, ou une autre source institutionnelle (office de tourisme du Cambrésis).
+- Maubeuge (59) : marchés non trouvés sur l'accueil. Déblocage : rubrique marchés du site de la Ville, ou l'office de tourisme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe : les exploitants rencontrés au registre portent des noms de personnes et n'ont pas été repris.
+
+**Point d'arrêt.** Passe suivante : Nord toujours visé (la réserve ne bloque que la Bretagne cette fois-ci, donc la passe suivante devra viser une autre région). Ouvrir d'abord la rubrique marchés du site de Maubeuge et réessayer le site de Cambrai ; si aucune des deux communes ne rend cinq fiches entières, descendre à Lambersart et Armentières, déjà lues, puis appliquer la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés : `npm run lint && npm run build` non relancé, aucune donnée modifiée. Total inchangé : 1 308 fiches.
