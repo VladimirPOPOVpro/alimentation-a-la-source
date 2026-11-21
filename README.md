@@ -57286,3 +57286,23 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : Auvergne-Rhône-Alpes exclue par la règle 41.c, donc ni le 38 ni la Rhône ni la Loire. Le 93 est de nouveau éligible (la passe de 19 h visait le Nord). Descendre au-delà de Montreuil, Saint-Denis, Noisy-le-Grand, Bobigny, Drancy, Aulnay-sous-Bois et Le Blanc-Mesnil, par Épinay-sur-Seine, Sevran, Bondy, Rosny-sous-Bois, puis Tremblay-en-France (38 348 habitants, aucune note antérieure) ; la borne de douze communes de la règle 247 s'applique.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run lint && npm run build` non relancé, aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (21 h 44, planifiée, Seine-Saint-Denis (93) : Tremblay-en-France sondée, aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Classement de la règle 41 recalculé sur les 1 308 fiches : Nord (59) en tête à 6,7 (45 fiches) ; Haute-Garonne (31) à 5,1 ; Seine-Saint-Denis (93) à 4,7. La réserve de la règle 41.c écarte Auvergne-Rhône-Alpes, visée à la passe de 20 h 45 ; le Nord, visé à la passe de 19 h, n'est pas écarté par cette réserve. La passe suit toutefois le point d'arrêt le plus récent, qui désigne la Seine-Saint-Denis : descente au-delà des communes déjà éprouvées.
+
+**Ce qui a été lu.**
+- Ville de Tremblay-en-France, site officiel : la rubrique « Commerces et entreprises » (331 entrées) est un annuaire généraliste ; l'alimentation n'y figure que sous forme d'épiceries, boucheries et boulangeries sans indication de circuit court. Aucun marché de producteurs, aucune AMAP, aucun magasin bio indépendant n'apparaît sur le site de la Ville.
+- L'actualité « Bienvenue aux nouveaux commerces » (20 novembre 2026) présente une location de matériel et un studio de coaching : hors sujet pour la carte.
+
+**Pourquoi rien n'est publié.** Aucun commerce de la commune ne relève du circuit court : publier une épicerie ou une boucherie généraliste irait contre MODERATION.md (commerces généralistes écartés). Aucune fiche n'a donc été préparée.
+
+**Pistes non publiées.** Aucune nouvelle piste ; la commune est consignée sans fiche.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Tremblay-en-France ne se reprend pas. Dans la Seine-Saint-Denis, la descente reprend à Épinay-sur-Seine, puis Sevran, Bondy et Rosny-sous-Bois, dans la limite de la borne de douze communes de la règle 247. La réserve de la règle 41.c interdit de viser la Seine-Saint-Denis deux passes de suite : la passe suivante doit donc viser le Nord, dont la rubrique marchés de Maubeuge et le site de Cambrai restent à relire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run lint && npm run build` non relancé, aucune donnée modifiée.
