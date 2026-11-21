@@ -57069,3 +57069,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : Manosque reste la cible ; lire les pages propres des commerces (horaires, image) ; si Manosque reste à deux fiches, éprouver Digne-les-Bains (commune suivante du 04) en commençant par les fermes que l'office de tourisme nomme elles-mêmes.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (12 h 45, planifiée, Manosque (04) relue, Digne-les-Bains reprise : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Déficit recalculé sur `geo.api.gouv.fr` (1 308 fiches comptées sur le code postal). En tête, La Réunion (974) et les autres départements d'outre-mer : inéligibles (règle 93, cadre métropolitain de `lib/validateMerchants.ts`). En métropole, le 04 reste le déficit retenu ; la descente de la règle 41.d en est à deux communes éprouvées, sous la borne de la règle 247.
+
+**Ce qui a été lu.** Recherche web sur le magasin de producteurs de la place du Terreau : adresse confirmée, aucun horaire publié par le commerce ni par une source tierce ; le marché du samedi est déplacé pendant les travaux. Recherche web sur Digne-les-Bains : plusieurs points de vente et fermes identifiés (magasin de produits locaux, boutique de produits du terroir, marché du samedi), mais aucun horaire de boutique vérifié, et une seule fiche d'horaires (GAEC à Selonnet, hors commune) qui pourrait décrire la ferme plutôt que la vente.
+
+**Pourquoi rien n'est publié.** Ni Manosque ni Digne-les-Bains ne rendent cinq fiches entières ; une fiche partielle ne vaut pas une zone (règle 52). Les horaires manquent là où ils seraient nécessaires, et une fiche sans horaire vérifié enverrait un visiteur au mauvais moment.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Manosque (04), magasin de producteurs : horaires absents de toutes les sources. Déblocage : grille publiée par le commerce.
+- Manosque (04), marché hebdomadaire : jour et emplacement déplacés pendant les travaux. Déblocage : confirmation par la mairie (règle 5).
+- Digne-les-Bains (04), magasin de produits locaux et boutique du terroir : aucun horaire vérifié. Déblocage : horaires publiés par chaque commerce.
+- Digne-les-Bains (04), boulanger-oléiculteur bio vendant au marché : pas de point de vente fixe à publier. Déblocage : point de vente ou fiche du marché datée.
+- Digne-les-Bains (04), ferme florale bio sur le marché du samedi : catégorie et horaires du stand seulement, à reprendre une fois le marché retenu comme fiche.
+- Digne-les-Bains (04), fermes de vente directe : pistes des annuaires, sans horaires vérifiés.
+- Fiches écartées pour doute sur une personne : une, à Manosque (04), ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : Digne-les-Bains reste la commune en cours d'éprouvement (deuxième de la descente du 04). Éprouver au plus la commune suivante avant de conclure (règle 248) ; sources à lire en premier : sites propres des commerces, puis la rubrique marchés de la ville.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
