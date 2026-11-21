@@ -57180,3 +57180,39 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : rester sur le Bas-Rhin (la passe précédente était en PACA, la règle 41.c ne l'interdit pas). Lire le site de la Ville de Saverne et de son office de tourisme pour le marché (jours, horaires, exposants à jour) ; contrôler le magasin vrac au registre ; si Saverne ne rend pas cinq fiches entières, passer à Brumath (10 499), puis Molsheim (9 318), dans la borne de douze (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (17 h 45, planifiée, Bas-Rhin : Saverne et Brumath éprouvées, Molsheim sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 247 et 248.** Métropole seule. La passe précédente (16 h 45) visait le Bas-Rhin ; la règle 247 veut que la passe qui y revient reprenne la descente à la commune suivante, et la règle 41.c ne joue pas puisque rien n'a été publié. Le Bas-Rhin est donc repris, descente à la commune suivante.
+
+**Descente du Bas-Rhin, communes éprouvées.** Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Sélestat, Hœnheim, Bischwiller (fermée, règle 257), Saverne, Brumath, Molsheim : onze communes. La borne de douze (règle 247) n'est pas atteinte ; la douzième commune par population reste à éprouver à la passe suivante.
+
+**Saverne (67), ce qui a été lu.** Page « Foires et marchés » du site de la Ville (datée du 8 septembre 2025) : un marché des producteurs le mardi de 16 h à 19 h, place de la Gare, avec charte et règlement ; un grand marché généraliste le jeudi ; un mini-marché alimentaire le samedi. Aucune liste d'exposants n'est publiée : un marché daté ne donne pas cinq fiches entières.
+
+**Brumath (67), ce qui a été lu.** Page « Foires et marchés » de la Ville : un marché hebdomadaire généraliste (fruits et légumes, viandes, plats, artisanat, vêtements), et la Foire aux oignons de fin septembre. Aucun marché de producteurs n'est annoncé : rien à retenir au titre du circuit court.
+
+**Molsheim (67), ce qui a été lu.** Page « Foires & marchés » de la Ville :
+- un marché hebdomadaire le lundi de 7 h à 12 h, une trentaine de stands, généraliste : écarté ;
+- l'AMAP de la Bruche, distribution le jeudi de 18 h à 19 h dans la cour de l'école élémentaire des Tilleuls, avec des producteurs nommés par leurs exploitations.
+
+**Vérification des exploitations de l'AMAP (recherche web, aucune ne tient en Molsheim).**
+- Potager du Rosenmeer : aucune fiche trouvée ; le nom renvoie à un hôtel-restaurant de Rosheim et à un sentier botanique de Griesheim-près-Molsheim. Non identifié.
+- Ferme du Kikiriki : commune non confirmée, produits (pain, farine, jus) non confirmés par une source indépendante.
+- Ferme de la Bouille : localisée à Sainte-Croix-aux-Mines (68), donc hors Bas-Rhin : écartée.
+- Chèvrerie du Windstein : localisée à Windstein (67110), hors Molsheim ; la certification bio n'est pas lue dans l'extrait Ecocert ; horaires non trouvés.
+- Ferme de Truttenhausen : localisée à Heiligenstein (67140), hors Molsheim ; produits laitiers et épicerie non confirmés ; une journée portes ouvertes annoncée le 13 septembre 2026 est passée.
+
+Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une seule fiche à Molsheim (l'AMAP) est possible, pas cinq. Aucune fiche n'est ajoutée.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Saverne (67), marché des producteurs, place de la Gare : marché daté de la Ville, exposants non listés. Déblocage : liste d'exposants à jour (site de la Ville ou de l'office de tourisme).
+- Molsheim (67), AMAP de la Bruche : distribution vérifiée sur le site de la Ville ; fiche possible seulement avec cinq fiches entières dans la commune. Déblocage : cinq fiches vérifiées à Molsheim, ou changement de groupement (règle 52).
+- Molsheim (67), exploitations de l'AMAP : aucune n'est localisée à Molsheim ; leurs adresses sont à Windstein, Heiligenstein, et non identifiées pour le Kikiriki et le Rosenmeer. Déblocage : adresse de chaque exploitation (site propre ou registre).
+
+**Fiches écartées pour doute sur une personne.** Aucune. Les noms de personnes qui apparaissent dans les pages de sources ne sont pas repris dans ce README.
+
+**Point d'arrêt.** Passe suivante : rester sur le Bas-Rhin, éprouver la douzième commune de la descente par population (règle 247), en reprenant d'abord Saverne (liste d'exposants) et l'AMAP de Molsheim si la commune a rejoint un groupement de cinq.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
