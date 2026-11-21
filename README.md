@@ -57131,3 +57131,26 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : trouver une photo thématique nette de Manosque (sans personne reconnaissable) pour La Terre Ferme ; lire le site officiel de Couleurs Paysannes (horaires, photo) ; chercher une entité active pour Ruches et Collines. Biocoop et l'épicerie en vrac restent à sonder au registre. Si Manosque ne rend toujours pas cinq fiches, descendre à Digne-les-Bains.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (15 h 45, planifiée, Manosque (04) reprise, Couleurs Paysannes recoupée au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Point d'arrêt de la passe de 14 h 50 : rester sur Manosque (04100). Total inchangé : 1 308 fiches.
+
+**Ce qui a été lu.**
+- Registre `recherche-entreprises` pour l'enseigne « À la Ferme (Couleurs Paysannes) » : l'entreprise a son siège à Valensole (04210) ; trois établissements, dont deux ouverts. L'adresse du 5 place du Terreau n'apparaît pas dans les champs du siège. Le point de vente de Manosque n'est donc pas confirmé par le registre, seulement par un comparateur.
+- Base Adresse Nationale : « Place du Terreau 04100 Manosque » géocodée (score 0,96), coordonnées disponibles.
+
+**Pourquoi rien n'est publié.** Manosque ne rend toujours que deux commerces vérifiables (La Terre Ferme sans photo, Couleurs Paysannes sans horaire confirmé par le commerce ni rattachement à l'adresse au registre). La règle 41.d exige cinq fiches entières sur une seule commune ; une fiche partielle ne vaut pas une zone (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Manosque (04), magasin de producteurs (enseigne Couleurs Paysannes) : adresse non rattachée au siège au registre, horaires d'une seule source. Déblocage : confirmation du point de vente par le commerce.
+- Manosque (04), maraîchage bio (La Terre Ferme) : aucune photo vérifiée sans personne reconnaissable. Déblocage : photo du site officiel ou thématique de la commune.
+- Manosque (04), magasin bio à enseigne patronymique : écarté pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne :** une (Manosque, 04), déjà consignée.
+
+**Point d'arrêt.** Passe suivante : Manosque reste la cible ; chercher une photo nette et sans personne pour La Terre Ferme ; chercher une entité active pour Ruches et Collines ; sonder les épiceries en vrac et Biocoop de Manosque au registre. Si Manosque ne rend toujours pas cinq fiches, descendre à Digne-les-Bains (règle 248).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run build` non relancé : aucune donnée modifiée.
