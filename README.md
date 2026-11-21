@@ -56909,3 +56909,28 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante, dans le 59 : Marcq-en-Barœul (59700, sans fiche, 40 000 habitants) ; ouvrir le site de la Ville et l'annuaire des marchés avant le registre. Si cinq fiches entières ne s'y réunissent pas, descendre à Armentières ou Coudekerque-Branche selon la règle 41.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (05 h 45, Marcq-en-Barœul (59) sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal, aucune sans code postal. Classement de tête : Nord (59) en tête, ouvert par le point d'arrêt de la passe de 21 h 50 ; Marcq-en-Barœul (59700) est la commune désignée par ce point d'arrêt, sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 59, première page (100 opérateurs sur 1 000 lus lors de la passe précédente) : deux opérateurs à Marcq-en-Barœul, déclarant la vente aux particuliers. Leur dénomination ressemble à celle d'une personne physique : écartés pour doute sur une personne (règle 36), non nommés ici.
+- Site officiel de la Ville (`marcq-en-baroeul.org`) : réponse 403 depuis cet environnement. Aucune rubrique marchés ni commerces n'a pu être lue.
+- Jours de Marché : trois marchés recensés à Marcq-en-Barœul (mardi place Leclerc, vendredi place du Général-de-Gaulle, samedi place Doumer). Source participative, sans seconde source officielle ouverte.
+- Recherche web : pas de liste de producteurs vérifiée ; un maraîcher de vente directe est mentionné dans un annuaire, non recoupé.
+
+**Pourquoi rien n'est publié.** Aucun commerce de Marcq-en-Barœul n'est recoupé sur une source indépendante et actuelle : le registre donne deux entrées à dénomination incertaine, la Ville ne répond pas. Les marchés n'ont qu'une source participative, et la règle 9 demande deux sources officielles (commune et office de tourisme). Cinq fiches groupées ne sont donc pas réunies.
+
+**Pistes non publiées (anonymes, Marcq-en-Barœul, 59).**
+- Trois marchés (mardi, vendredi, samedi) : une source participative. **Déblocage** = confirmation par le site de la Ville ou l'office de tourisme (règle 9).
+- Maraîcher de vente directe : une mention d'annuaire. **Déblocage** = site ou registre de l'entreprise, et une source indépendante.
+- Deux opérateurs du registre Agence Bio, dénomination de personne : écartés (règle 36), ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne :** deux (Marcq-en-Barœul, 59).
+
+**Point d'arrêt.** Passe suivante : relire le site de la Ville à nouveau ; sinon, Marcq-en-Barœul reste à zéro fiche et la descente passe à Armentières ou Coudekerque-Branche (règle 41), en gardant les pistes ci-dessus. La règle 41.e (Nord en veille) n'a pas été rappelée dans ce choix : à trancher à la prochaine révision du README.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
