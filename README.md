@@ -56872,3 +56872,22 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Pourquoi rien n'est publié.** À Fontainebleau, un seul marché généraliste est vérifié, et aucun producteur ne l'est : on ne réunit pas cinq fiches entières. À Nemours, les deux marchés sont généralistes et ne donnent aucun producteur. La règle 248 limite la passe à la commune calculée du département et à la suivante de sa descente ; la descente est donc arrêtée ici.
 
 **Point d'arrêt.** Passe suivante, dans le 77 : ouvrir l'allée des producteurs du marché Saint-Louis sur le site de la Ville et relever les exploitants qui y tiennent un étal avec leur nom commercial ; ne publier le marché que s'il rejoint au moins quatre producteurs vérifiés. Si le 77 ne rend pas cinq fiches entières d'ici la prochaine passe, la descente passe à Coulommiers (registre de l'Agence Bio, 77), puis la passe reprend le classement de la règle 41.
+
+## Passe autonome du 21 novembre 2026 (Fontainebleau (77) relue, marché Saint-Louis non détaillé : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). La demande n° 13 (Villecroze) reste en cours : doute sur une personne, rien n'est publié. Aucun courriel envoyé.
+
+**Secteur.** Calcul de la règle 41 relu sur `origin/main` : le 77 reste le premier département éligible. Fontainebleau est la commune la plus peuplée du 77 sans cinq fiches entières ; le point d'arrêt de la passe précédente la désigne.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 77, les 929 opérateurs (dix pages). À Fontainebleau (77300) : aucun opérateur déclarant la vente aux particuliers, hors une distillerie. À Avon (77210) : une société de vente directe déclarée auprès des particuliers, à recouper (enseigne, horaires, site). À Saint-Pierre-lès-Nemours et Nemours : déjà couverts par des fiches publiées.
+- Site de la Ville de Fontainebleau, rubrique commerces : le marché est présenté comme une fiche « Le marché » sans liste de producteurs sur la page lue ; aucune « allée des producteurs » n'a été trouvée sur fontainebleau.fr.
+- Recherche web sur le marché Saint-Louis : un avis de concession publié en 2026 (exploitation du marché de plein air, période 2027-2032) et des pages de l'office de tourisme ; aucune liste d'exploitants en circuit court.
+
+**Pourquoi rien n'est publié.** Le marché Saint-Louis reste un marché généraliste dont aucun étal producteur n'est vérifié nominativement : la règle du point d'arrêt (quatre producteurs vérifiés au minimum) n'est pas atteinte. Les opérateurs du registre à Fontainebleau ne sont pas vendeurs aux particuliers, sauf la distillerie, qui ne relève pas de la vente de produits alimentaires de proximité sans recoupement. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) : Avon (77), vente directe déclarée au registre, à recouper avec une source indépendante ; Fontainebleau (77), marché Saint-Louis, à lier à au moins quatre producteurs vérifiés.
+
+**Point d'arrêt.** Passe suivante, dans le 77 : recouper la vente directe d'Avon sur le site de l'enseigne et l'office de tourisme ; si Fontainebleau et Avon ne rendent pas cinq fiches entières, descendre à Coulommiers (Agence Bio, 77), dont le marché de la place du Marché est déjà signalé au registre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
