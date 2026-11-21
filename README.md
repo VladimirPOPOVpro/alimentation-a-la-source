@@ -57329,3 +57329,19 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : la réserve de la règle 41.c interdit le Nord deux passes de suite, donc viser une autre région (la Seine-Saint-Denis redevient éligible, et la Bretagne reste permise). Reprendre Cambrai si le site répond, et Lambersart et Armentières déjà lues.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` non relancé, aucune donnée modifiée. Total inchangé : 1 308 fiches.
+
+## Passe autonome du 21 novembre 2026 (23 h 45, planifiée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Classement de la règle 41 : Nord (59) en tête à 6,7, puis Haute-Garonne (31) à 5,1, Seine-Saint-Denis (93) et Isère (38) à 4,7. La réserve de la règle 41.c écarte les Hauts-de-France, visés à la passe de 22 h 43. Haute-Garonne épuisée (passe de 06 h 50), Seine-Saint-Denis déjà descendue au-delà de douze communes (règle 247), Seine-Maritime close (règle 247).
+
+**Ce qui a été lu.** Rien de nouveau : cette passe n'a ouvert aucune source indépendante. Les fiches de la Seine-Maritime et les passes des dix derniers jours ont été relues dans le README.
+
+**Pourquoi rien n'est publié.** Aucune commune descendue depuis le début du cycle ne rend cinq commerces vérifiables sur deux sources (règle 52). Reprendre les mêmes sondages ne change pas le résultat : aucune fiche n'a été écrite à partir d'une estimation.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Hauts-de-France exclue (règle 41.c). Ne pas revenir à la Haute-Garonne ni à la Seine-Maritime. Le classement suivant hors de ces départements est les Yvelines (78) ou la Gironde (33), à condition de ne pas reprendre une commune déjà consignée ici.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` passés ; total inchangé : 1 308 fiches.
