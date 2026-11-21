@@ -57345,3 +57345,31 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : Hauts-de-France exclue (règle 41.c). Ne pas revenir à la Haute-Garonne ni à la Seine-Maritime. Le classement suivant hors de ces départements est les Yvelines (78) ou la Gironde (33), à condition de ne pas reprendre une commune déjà consignée ici.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; `npm run lint && npm run build` passés ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (Yvelines (78) visées, Poissy et Conflans sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Demande en_cours non traitée à cette passe : elle reste en attente, aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93), 2A et 2B séparées. Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Classement de la règle 41 après les exclusions de la note précédente : Yvelines (78) retenu, déficit ≈ 4,1, région Île-de-France non visée à la passe précédente (23 h 45, rien publié). Commune : Mantes-la-Jolie (43 526 habitants) est la plus peuplée sans fiche, mais son site officiel reste inaccessible à cette passe ; la descente reprend donc à Poissy (40 983), puis Conflans-Sainte-Honorine (36 958), comme prescrit par le point d'arrêt de la passe du 14 novembre.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Poissy : accueil lisible, aucune rubrique marchés ni producteurs trouvée sur la page d'accueil.
+- Annuaires : terroir78.fr (fiche Épi C'Tout et liste des AMAP du plateau), acheteralasource.com (liste des producteurs en vente directe de Poissy), recherche d'AMAP sur avenir-bio.fr, mon-panier-bio.com et sites d'AMAP de Sartrouville.
+- Site de l'association Le Jardin de Poissy (AMAP, lue à l'accueil) : présentation de l'association, sans horaires de distribution vérifiables sur la page.
+- Registre des entreprises (recherche-entreprises.api.gouv.fr) pour chaque piste de Poissy.
+- Marchés de Mantes-la-Jolie : deux marchés généralistes (Vieux-Pilori, Val Fourré) par des agrégateurs ; pas de source propre de la Ville lisible, et les sources ne précisent pas de producteurs.
+
+**Pistes non publiées (anonymes).**
+- Poissy, ferme caprine en vente directe (vendredi après-midi) : aucune entité trouvée au registre sous ce nom ; non vérifiée, non publiée.
+- Poissy, verger de vente directe : fiche de l'annuaire, mais l'entreprise est **cessée** au registre (aucun établissement ouvert) : écartée.
+- Poissy, enseigne de miel et produits de la ruche : registre au nom d'une personne physique, aucune source commerciale propre : écartée pour doute sur une personne (non nommée, ne se rouvre pas sans source de l'établissement lui-même).
+- Poissy, distillerie : registre rattaché à une adresse parisienne, rien de local vérifié : écartée.
+- Poissy, ferme bio annoncée dans l'annuaire mais située en Normandie : hors secteur, écartée.
+- Conflans-Sainte-Honorine, producteur maraîcher du bord de l'Oise (vente à la ferme, mercredi matin) : l'annuaire le rattache au Val-d'Oise (Cergy, 95) : hors secteur, écarté.
+- Conflans-Sainte-Honorine, ferme avec paniers de légumes : signalée par une seule source secondaire, non lue sur site : non publiée.
+
+**Fiches écartées pour doute sur une personne.** Une (Poissy, enseigne de miel, registre au nom d'une personne physique), non nommée.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir au Val-d'Oise ni à la Normandie. Pour les Yvelines, relire le site de Conflans-Sainte-Honorine et chercher un quatrième point vérifié dans l'intercommunalité (règle 52). Si Poissy ne rend toujours aucun point vérifié sur deux sources, Mantes-la-Jolie seulement si son site répond.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
