@@ -56976,3 +56976,27 @@ Aucune demande de visiteur traitée, aucun courriel. **Aucune fiche publiée, au
 **Point d'arrêt.** Passe suivante : rester sur Manosque (04) et compléter jusqu'à cinq ; sources à lire en premier : site de la ville (rubrique marchés), site du commerce Couleurs Paysannes pour son horaire et son image, photo sans personne pour La Terre Ferme. Si Manosque reste à deux, descendre à la commune suivante du 04 par population sans fiche (Digne-les-Bains), et le dire dans le compte rendu.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches. `npm run build` non relancé : aucune donnée modifiée.
+
+## Passe autonome du 21 novembre 2026 (08 h 44, Alpes-de-Haute-Provence (04) reprise, Manosque relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Point d'arrêt de la passe du 21 novembre (04 h 45, planifiée) : rester sur Manosque (04100). La réserve de la règle 41.c ne joue pas, la passe précédente n'ayant rien publié (elle ne vaut pas « visé »).
+
+**Ce qui a été lu.**
+- Registre `recherche-entreprises` : deux établissements actifs, l'un sous l'enseigne « Couleurs Paysannes » (magasin de producteurs, place du Terreau), l'autre sous l'enseigne « La Terre Ferme » (maraîchage bio, impasse de Valgas). Les dénominations juridiques de ce second établissement désignent une personne physique : seule l'enseigne commerciale est reprise, jamais le nom.
+- Recherche web sur Couleurs Paysannes : adresse confirmée, mais aucun horaire publié par une source du commerce lui-même. Une seule source indépendante, à confirmer.
+- Recherche web sur La Terre Ferme : l'office de tourisme donne deux blocs d'horaires (mercredi 16 h-19 h et samedi 9 h-12 h en saison, mercredi 14 h 30-17 h 30 en hiver) qui ne concordent pas entre la version française et la version anglaise ; une seule source d'horaires, datée de mars 2026.
+- Marché hebdomadaire de Manosque : sources contradictoires (samedi 8 h-13 h selon un site touristique, mardi 8 h-13 h selon une fiche d'agenda), emplacement déplacé pendant des travaux. Aucune source officielle de la mairie sur les producteurs.
+
+**Pourquoi rien n'est publié.** Manosque ne rend toujours que deux commerces, dont aucun n'a ses horaires confirmés par le commerce lui-même : la règle 41.d exige cinq fiches entières sur une seule commune. Une fiche partielle ne vaut pas une zone (règle 52).
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Manosque (04), magasin de producteurs : horaires à confirmer par le commerce, photo à trouver sans personne reconnaissable. Déblocage : horaires publiés par le commerce ou son site.
+- Manosque (04), maraîchage bio en vente directe : horaires contradictoires entre sources, photo de l'office créditée à une personne (écartée, photo thématique à prévoir). Déblocage : horaires confirmés par la ferme.
+- Manosque (04), marché hebdomadaire : jour contradictoire entre sources. Déblocage : confirmation par la mairie (règle 5 des « Règles de décision »).
+- Manosque (04), magasin bio à enseigne patronymique : écarté pour doute sur une personne, ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : relire le site du magasin de producteurs pour ses horaires et son image ; si Manosque reste à deux fiches, la passe éprouve Digne-les-Bains (commune suivante du 04, règle 248) et ne va pas plus loin.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
