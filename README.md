@@ -57841,3 +57841,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Lire la fiche de la mairie de Rochefort pour le marché, puis le registre pour les magasins ; si Rochefort ne rend pas cinq fiches, descendre à Royan (règle 247).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
+
+### Passe autonome du 22 novembre 2026 (Haute-Marne (52) reprise, Langres (52200) sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Classement : les deux premiers rangs sont des territoires hors métropole (règle 93, écartés) ; viennent ensuite le Nord, la Haute-Garonne, l'Oise, la Loire, l'Isère, la Savoie, l'Hérault et la Seine-Saint-Denis, écartés comme clos, épuisés ou en veille. La passe précédente était en Nouvelle-Aquitaine (Charente-Maritime) : la réserve 41.c l'exclut, la Haute-Marne (Grand Est) reste éligible et reprend sa descente.
+
+**Commune, règle 41.d et 247.** Chaumont et Saint-Dizier ont déjà été sondées sans zone de cinq. Langres (7 421 habitants) est la troisième commune de la descente.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Marne : une vingtaine d'opérateurs signalés à Langres. La plupart sont des boulangeries ou des producteurs qui ne vendent pas aux particuliers, donc hors périmètre. Deux entreprises individuelles portant un patronyme et une entreprise de légumes vendant aux particuliers : écartées (règle personnes pour les premières, sans publication ; la troisième n'a pas de source de vente lue).
+- Registre des entreprises : DEFIS (ZI, Langres) est active, mais son code d'activité (94.99Z, organisation associative) ne correspond ni à un point de vente ni à une ferme ; site et horaires non lus. Non publiée.
+- Aucun marché de Langres, aucune AMAP et aucun magasin de producteurs n'ont été confrontés à une source officielle dans cette passe.
+
+**Pourquoi rien n'est publié.** Moins de cinq commerces de Langres ont une source officielle lue et une activité confirmée au registre, et aucune photographie autorisée n'a été recherchée. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Langres (52), vente directe bio : un producteur vendant aux particuliers, registre bio seul, pas de source de vente lue. Déblocage : site du producteur, vérification au registre des entreprises.
+- Langres (52), association ZI, vente aux particuliers : code d'activité non commercial au registre. Déblocage : site et horaires lus, confirmation du point de vente.
+
+**Fiches écartées pour doute sur une personne.** Deux entreprises individuelles à Langres portant un patronyme : écartées, noms non repris.
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte ; reprendre Langres par le site de DEFIS et le registre des entreprises ; si Langres ne rend pas cinq fiches, passer à la règle 247 (douze communes au plus, Chaumont et Saint-Dizier déjà comptées).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
