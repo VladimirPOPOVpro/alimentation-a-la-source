@@ -57467,3 +57467,30 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : Saverne reste ouverte. Chercher le site propre du vrac et l'office de tourisme de Saverne ; sinon, descendre à la commune suivante du 67 sans fiche par population.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (planifiée, Isère (38) visée, Vienne sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule (outre-mer exclu, règle 93). 1 308 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). La passe précédente visait la région Grand Est (Bas-Rhin), donc la garde 41.c écarte cette seule région. Classement de tête : Nord (59), épuisé (règle 247) ; Haute-Garonne (31), épuisée ; Seine-Saint-Denis (93), borne atteinte ; Isère (38), déficit d'environ 4,7 pour 21 fiches, premier département éligible hors Grand Est. Isère retenue.
+
+**Commune, règle 41.d.** Vienne (31 778 habitants) est la commune la plus peuplée de l'Isère sans fiche (les communes plus grandes portent déjà une fiche).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 38, pages 1 à 3 (2 255 entrées) : pour Vienne, un seul opérateur à vente aux particuliers, et c'est une boulangerie hors périmètre des catégories du site. Les autres entrées de l'Isère sont des entreprises individuelles au nom d'un particulier (écartées, non nommées) ou des distributeurs grossistes.
+- Recherche web sur les marchés de Vienne : les sources touristiques donnent des jours et des lieux de marché qui se contredisent (samedi matin, mercredi matin, jeudi et dimanche sans horaires). Aucune page de la mairie listant les producteurs n'a été trouvée.
+- Un magasin de producteurs de Vienne n'apparaît que sur la carte d'un comparateur grand public, avec des horaires et des produits. Ni son propre site, ni un numéro vérifié, ni une confirmation au registre des entreprises (interrogation sans réponse exploitable cette passe) : une seule source indépendante, insuffisante.
+- Une enseigne de vente de fromages de Seyssins (38), citée par un annuaire touristique, n'a pas été confirmée comme point de vente d'un fromage de la coopérative.
+
+**Pourquoi rien n'est publié.** Vienne ne rend pas cinq commerces vérifiables avec deux sources indépendantes (règle 52) : les marchés se contredisent et la seule fiche de producteurs n'a pas de source propre à jour. Aucune fiche, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Vienne (38), magasin de producteurs : établissement signalé par un comparateur, sans site propre ni registre vérifié. Déblocage : site propre ou confirmation au registre des entreprises, et une deuxième source.
+- Vienne (38), marchés hebdomadaires : jours et lieux contradictoires entre sources touristiques. Déblocage : page de la mairie ou de l'office de tourisme Vienne Condrieu Agglomération.
+- Seyssins (38), magasin de fromages : enseigne citée sans confirmation de la vente du fromage local. Déblocage : site propre du commerce.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre bio dans le 38 (entreprises individuelles), non nommées, écartées.
+
+**Point d'arrêt.** Passe suivante : si l'Isère reste en tête, lire la page marchés du site de la mairie de Vienne, puis le site de l'office de tourisme Vienne Condrieu Agglomération ; si rien, Voiron (21 847 habitants, sans fiche) selon la règle 41.d. La garde 41.c écarte alors l'Isère si la passe la vise. Le Grand Est redevient éligible.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
