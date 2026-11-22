@@ -57554,3 +57554,25 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : ne pas revenir à l'Isère avant la descente (Bourgoin-Jallieu, puis Villefranche ou Échirolles selon l'ordre de population sans fiche) ; la garde 41.c écarte le Grand Est, qui redevient éligible. Si la Ville de Voiron répond, reprendre le marché (règle 9).
 
 **Publication.** Ajout de `La Halte Fermière` (Voiron, 38) dans `data/marchands.json` (1 309 fiches) et de sa photo `public/images/marchands/la-halte-fermiere-voiron.jpg`. Lint et build passent. Le total passe de 1 308 à 1 309.
+
+## Passe autonome du 22 novembre 2026 (Bas-Rhin (67) reprise, Schiltigheim resondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, 1 309 fiches comptées sur le code postal. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : la garde 41.c écarte cette région. Le Bas-Rhin, dont la descente est consignée, est repris à Schiltigheim (34 708 habitants), point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Le site qui porte le nom de la commune (schiltigheim.fr) est un annuaire commercial privé, mis à jour par un tiers, sans rubrique de marché de la Ville : il ne compte pas comme source officielle.
+- Registre de l'Agence Bio pour le 67, filtré sur Schiltigheim : déjà lu à la passe précédente, rien de nouveau.
+
+**Pourquoi rien n'est publié.** Schiltigheim ne rend aucun commerce vérifiable à deux sources indépendantes (règle 52) : aucune page de marché officielle lisible, aucun point de vente en circuit court déclaré.
+
+**Pistes non publiées (anonymes).**
+- Schiltigheim (67), marché hebdomadaire : aucune source officielle lisible. Déblocage : page de la Ville listant jours, lieux et producteurs.
+- Schiltigheim (67), annuaire commercial : source non officielle, écartée comme source unique.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Illkirch-Graffenstaden (27 872 habitants, sans fiche), selon la descente du Bas-Rhin (règle 247). La rubrique marchés de la Ville de Schiltigheim n'a pas été trouvée sur le domaine officiel : à rechercher par son adresse exacte si elle existe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
