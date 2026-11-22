@@ -57674,3 +57674,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Saint-Orens-de-Gameville reprise si la mairie ou la Métropole publie la liste des exposants ; sinon descente par population dans le 31 (commune suivante sans fiche).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Yvelines (78) reprises, Mantes-la-Jolie et Poissy relues : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règles 41, 41.c, 93 et 410.** Métropole seule, outre-mer exclu, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait la Haute-Garonne (Occitanie) : la région est exclue par la garde 41.c. Classement relu depuis le premier rang : Nord (59) épuisé, Haute-Garonne (31) épuisée, Seine-Saint-Denis (93) à la borne, Oise (60) et Loire (42) closes, Val-de-Marne (94) épuisé, Ille-et-Vilaine (35) en descente à son point d'arrêt. Premier département ouvert hors Occitanie : **Yvelines (78)**, descente en cours depuis la passe précédente de la journée.
+
+**Commune, règle 41.d.** Mantes-la-Jolie (43 526 habitants) reste la plus peuplée sans fiche. Son site officiel ne répond pas (code 000 à la lecture automatisée), comme à la passe précédente. Poissy (40 983) répond en 503.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 78, première page (cent opérateurs), filtré sur Mantes-la-Jolie, Mantes-la-Ville, Poissy, Conflans-Sainte-Honorine, Sartrouville et Houilles : aucun producteur à vente directe déclarée dans la descente. Une enseigne bio de Mantes-la-Jolie (magasin de réseau) y est déclarée sans vente aux particuliers : elle n'est pas retenue (règle 40).
+- Une autre entrée de vente aux particuliers à Mantes-la-Jolie porte la dénomination d'une entreprise individuelle formée d'un nom de personne : écartée pour doute sur une personne, rien n'est publié, la piste ne se rouvre pas.
+- Sites communaux : Mantes-la-Jolie hors ligne (000), Poissy en 503, Conflans-Sainte-Honorine et Sartrouville répondent mais ont été sondés aux passes précédentes sans fiche.
+
+**Pourquoi rien n'est publié.** Mantes-la-Jolie et Poissy ne rendent pas cinq commerces vérifiables à deux sources indépendantes (règle 52). Les fiches trouvées dans les annuaires sont des pistes, sans horaires ni téléphone vérifiés. Aucune photo honnête du lieu n'a été trouvée.
+
+**Pistes non publiées (anonymes).**
+- Yvelines (78), Mantes-la-Jolie : magasin bio de réseau, sans vente aux particuliers au registre. Déblocage : une source de l'enseigne qui établisse le contraire.
+- Yvelines (78), Mantes-la-Jolie : producteur à vente directe au registre, dénomination de personne. Écarté pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Mantes-la-Jolie (78), cette passe.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
+**Point d'arrêt.** Passe suivante : Mantes-la-Jolie reprise si son site répond ; sinon Sartrouville (site joignable, marchés à lire sur la page de la Ville), puis descente par population dans les Yvelines. Le Bas-Rhin, l'Occitanie et l'Ille-et-Vilaine ne sont pas visés à la passe suivante, selon la garde 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
