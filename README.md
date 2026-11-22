@@ -57576,3 +57576,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Illkirch-Graffenstaden (27 872 habitants, sans fiche), selon la descente du Bas-Rhin (règle 247). La rubrique marchés de la Ville de Schiltigheim n'a pas été trouvée sur le domaine officiel : à rechercher par son adresse exacte si elle existe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 22 novembre 2026 (Yvelines (78) reprises, Mantes-la-Jolie et Poissy sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93, 247 et 410.** Métropole seule (outre-mer exclu). Classement relu depuis le premier rang (règle 410) : Nord (59) épuisé (règle 41.d), Haute-Garonne (31) épuisée, Seine-Saint-Denis (93) à la borne, Oise (60) descente close à Creil (douzième commune), Loire (42) close. Premier département ouvert hors région de la passe précédente (Grand Est, 41.c) : **Yvelines (78)**, descente en cours.
+
+**Commune, règle 41.d.** Mantes-la-Jolie (43 526 habitants) est la plus peuplée sans fiche ; son site officiel ne répond pas (code 000 à la lecture automatisée). Poissy (40 983) répond en 503 ; la descente reste donc sur les communes déjà éprouvées à la passe précédente, sans nouvelle commune éprouvée utilement.
+
+**Ce qui a été lu.**
+- Recherches générales sur Mantes-la-Jolie et Poissy : annuaires et cartes de producteurs (comparateur de circuit court, carte « Manger local » du GPSEO, annuaire des marchés). Aucune source n'est une page officielle de commune ou d'office de tourisme lisible ; les points de vente cités n'ont ni horaires ni téléphone vérifiés à deux sources indépendantes.
+- Poissy : le marché des terroirs annuel (annonce du 2 au 4 octobre 2026) est une manifestation ponctuelle, sans liste d'exposants ; hors fiche permanente.
+- Conflans-Sainte-Honorine : site joignable, déjà sondé à la passe précédente (producteur rattaché au Val-d'Oise, hors secteur).
+
+**Pourquoi rien n'est publié.** Mantes-la-Jolie et Poissy ne rendent pas cinq commerces vérifiables à deux sources indépendantes (règle 52) : les sites des deux villes sont injoignables, et les fiches trouvées dans les annuaires sont des pistes, pas des faits. Une fiche de marché sans horaires ni produits relevés serait incomplète. Aucune photo honnête du lieu n'a été trouvée.
+
+**Pistes non publiées (anonymes).**
+- Yvelines (78), magasins de la ferme cités par un comparateur (quatre ou cinq points, dans des communes voisines de Mantes) : sources uniques, horaires non vérifiés. Déblocage : site propre de chaque commerce ou registre, et une seconde source.
+- Yvelines (78), marché du centre de Mantes-la-Jolie (mercredi et samedi, source d'annuaire) : jour et lieu non confirmés par la Ville. Déblocage : page de la Ville ou de l'office de tourisme lisible.
+- Yvelines (78), marché des terroirs de Poissy : manifestation annuelle, exposants non publiés. Déblocage : liste d'exposants publiée par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Mantes-la-Jolie reprise si son site répond (rubrique commerces et marchés) ; sinon Poissy, dont le site répond en 503, puis descente à la commune suivante par population sans fiche dans les Yvelines. Le Bas-Rhin et l'Isère ne sont pas visés, la garde 41.c écarte la région de la passe précédente.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
