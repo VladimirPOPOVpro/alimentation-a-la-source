@@ -57400,3 +57400,31 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : reprendre la Loire. Chercher un quatrième point vérifié à Roanne : horaires de Bio-Cultura sur le site du magasin, ferme de vente directe sur son propre site. Sinon, descendre au classement de la commune sans fiche de la Loire : Firminy (17 060 habitants), puis Montbrison (16 123 habitants).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (Nord (59) visé, Maubeuge et Armentières sondées, Lambersart relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. Classement de la règle 41 : Nord (59) en tête à 4,6, devant la Haute-Garonne (31) à 3,9 et l'Oise (60) à 3,7. La passe précédente visait la Loire (42) : la réserve de la règle 41.c écarte Auvergne-Rhône-Alpes, Nord retenu. Le point d'arrêt de la passe du 22 novembre (Loire) et celui du 21 novembre (22 h 43, Nord) désignent la même liste, la descente reprend là où elle s'est arrêtée.
+
+**Ce qui a été lu.**
+- Maubeuge, site officiel (ville-maubeuge.fr, rubrique « Marchés et halles ») : un marché le mercredi matin (fruits et légumes, viandes, poissons, fromages, produits bio, fleurs) ; un marché de Sous-le-Bois et un marché du centre-ville, décrits comme essentiellement alimentaires et divers ; un emplacement boulevard Pasteur, provisoire pendant les travaux ; une halle, ouverte du mardi au samedi de 8 h à 19 h, qui réunit « producteurs et commerçants de bouche » et dispose de son propre site. Le site de la Ville donne les horaires et les lieux, mais pas les noms ni les produits de chaque exposant.
+- Armentières, site officiel (ville-armentieres.fr, rubrique « Les marchés ») : un marché du vendredi matin jusqu'à 13 h, place du Général-de-Gaulle, où la Ville écrit que des producteurs locaux vendent des produits de la ferme, de la confiture, du miel, des yaourts et du vrac ; un marché du dimanche matin jusqu'à 13 h, place Chanzy, décrit comme généraliste ; un marché du mardi de 16 h à 20 h ; un samedi annoncé de 8 h 30 à 11 h 30 sur une page et de 8 h 30 à 12 h sur l'autre.
+- Lambersart, site officiel (lambersart.fr, pages commerces et démarches) : aucune rubrique marchés alimentaires lisible ; seul le marché de Noël apparaît.
+- Cambrai : site de la Ville toujours injoignable (cambrai.fr répond 436, ville-cambrai.fr ne répond pas). Non lu.
+
+**Pourquoi rien n'est publié.** Aucune commune ne rend cinq commerces vérifiables. Maubeuge : la halle est un établissement sûr, mais les marchés n'ont pas de produits attribués, et une fiche isolée ne forme pas le groupe de cinq (règle 127). Armentières : un seul marché décrit avec des producteurs, l'autre de type généraliste, et une contradiction d'horaire le samedi (règle 5). Lambersart : aucune source de marché lisible. Aucun registre des entreprises n'a été interrogé pour ces pistes, faute d'une candidate prête à publier.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Maubeuge (59), halle gourmande (producteurs et commerçants de bouche) : une fiche possible, mais seule dans sa commune (règle 127). Déblocage : au moins quatre autres points vérifiés à Maubeuge, avec produits attribués par la Ville ou par les exposants.
+- Maubeuge (59), marché du mercredi matin : horaires vérifiés, produits génériques, emplacement non précisé. Déblocage : lieu exact sur la page de la Ville et liste des exposants.
+- Maubeuge (59), marchés de Sous-le-Bois et du centre-ville : décrits comme essentiellement alimentaires et divers, sans produits de producteurs. Non publiés.
+- Armentières (59), marché du vendredi matin : producteurs locaux décrits par la Ville, horaire de fin vérifié, heure de début non précisée. Déblocage : heure de début et liste d'exposants ; quatre autres points vérifiés dans la commune.
+- Armentières (59), marché du dimanche matin : généraliste. Écarté selon le critère des marchés généralistes.
+- Armentières (59), marché du samedi : horaires contradictoires entre deux pages de la Ville. Déblocage : horaire tranché par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : la réserve de la règle 41.c interdit le Nord deux passes de suite. Viser une autre région, en recalculant le classement sur les 1 308 fiches. Maubeuge et Armentières ne se reprennent que si la Ville publie les noms ou les produits des exposants ; Cambrai se relit si son site répond ; Lambersart n'a pas de rubrique marchés à relire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
