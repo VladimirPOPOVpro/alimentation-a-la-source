@@ -57701,3 +57701,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Mantes-la-Jolie reprise si son site répond ; sinon Sartrouville (site joignable, marchés à lire sur la page de la Ville), puis descente par population dans les Yvelines. Le Bas-Rhin, l'Occitanie et l'Ille-et-Vilaine ne sont pas visés à la passe suivante, selon la garde 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 22 novembre 2026 (planifiée, Calvados (14) reprise, Mondeville relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié ni répondu).
+
+**Secteur, règles 41, 41.c, 93, 177, 247 et 410.** Métropole seule (règle 177), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait les Yvelines (Île-de-France) : la région est exclue par la garde 41.c. Le classement relu depuis le premier rang : Nord (59) en veille (41.e), Haute-Garonne (31) épuisée, Seine-Saint-Denis (93) à la borne, Oise (60) et Loire (42) closes, Val-de-Marne (94) épuisé, Haute-Corse (2B) épuisée (règle 247), Savoie (73) et Isère (38) consignées, Ille-et-Vilaine (35) en descente. Premier département ouvert hors Île-de-France : **Calvados (14)**, déficit ≈ 3,5, descente en cours.
+
+**Commune, règle 41.d.** Mondeville (10 331 habitants) a été sondée le 17 novembre sans fiche publiée. Hérouville-Saint-Clair (23 470), Lisieux, Ifs, Ouistreham, Mézidon, Bayeux, Falaise et Caen (déjà cinq fiches) sont en amont de la descente. La commune la plus peuplée sans fiche et non éprouvée reste donc Mondeville, reprise pour compléter son relevé, avant de passer à la commune suivante de la règle 247.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 14 (sept pages de cent, 700 opérateurs), filtré sur Mondeville : une enseigne de grande distribution en vente aux particuliers (hors périmètre, règle 40), des entrées de stockage ou de gros, une entreprise en vente aux particuliers sans nom de commerce identifiable, et un magasin bio de réseau AB (magasin spécialisé, distribution de fruits, légumes, pain, viande, épicerie) dont la vente aux particuliers n'est pas déclarée au registre.
+- Recherche web : une vente à la ferme à Mondeville, référencée par un comparateur de circuit court (carte des magasins de la ferme). Son nom reprend un prénom : doute sur une personne, écartée, ne se rouvre pas.
+- Recherche web sur Hérouville-Saint-Clair : une AMAP signalée complète avec liste d'attente (article ancien, date non vérifiée), aucun marché ni magasin de producteurs à Hérouville elle-même.
+
+**Pourquoi rien n'est publié.** Mondeville ne rend qu'un magasin bio de réseau (source registre et une seule source web, horaires non vérifiés) et une vente à la ferme écartée pour doute sur une personne : aucune commune ne rend cinq commerces vérifiables à deux sources indépendantes (règle 52). La règle 52 n'autorise pas à compléter par une fiche isolée de moins de quatre points. Aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Calvados (14), Mondeville : magasin bio de réseau, registre AB et source web seule ; horaires, téléphone et site non vérifiés. Déblocage : site propre du magasin ou page de la Ville.
+- Calvados (14), Mondeville : vente à la ferme, dénomination de personne ; écartée pour doute sur une personne, ne se rouvre pas.
+- Calvados (14), Hérouville-Saint-Clair : AMAP complète avec liste d'attente, article ancien. Déblocage : page de l'AMAP à jour.
+
+**Fiches écartées pour doute sur une personne.** Une, à Mondeville (14), cette passe.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
+**Point d'arrêt.** Passe suivante : Calvados reprend à la commune suivante par population sans fiche, Falaise (7 680 habitants) si son relevé registre et site n'a pas été fait ; sinon la règle 247 conduit à passer au département suivant du classement, hors Île-de-France et hors Normandie, la garde 41.c écartant la région de cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
