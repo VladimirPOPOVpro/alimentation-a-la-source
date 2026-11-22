@@ -57373,3 +57373,30 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : ne pas revenir au Val-d'Oise ni à la Normandie. Pour les Yvelines, relire le site de Conflans-Sainte-Honorine et chercher un quatrième point vérifié dans l'intercommunalité (règle 52). Si Poissy ne rend toujours aucun point vérifié sur deux sources, Mantes-la-Jolie seulement si son site répond.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (Loire (42) visée, Roanne sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Population `geo.api.gouv.fr` (34 969 communes), 1 308 fiches comptées sur le code postal. La passe précédente visait l'Île-de-France : la réserve de la règle 41.c écarte donc cette région. Dans le classement de la règle 41 restant, la Loire (42) est retenue. Commune : Saint-Étienne et Saint-Chamond ont déjà une fiche ; Roanne (35 409 habitants) est la plus peuplée sans aucune fiche.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour la Loire, lu en entier (1 412 opérateurs, par pages de cent) et filtré sur Roanne ; registre des entreprises pour chaque piste ; site officiel de l'épicerie ; Roannais Tourisme (page de la place du Marché) ; Loire Tourisme ; recherche web sur les marchés et les fermes.
+
+**Vérifié : trois points sur quatre requis.** Sous le seuil de quatre points vérifiables (règles 52 et 247), rien n'est publié à Roanne.
+- Épicerie en vrac et bio, rue Anatole France : site officiel (horaires publiés par le commerce), registre des entreprises actif, Agence Bio. Téléphone non repris.
+- Marché de la place du Marché : mardi et vendredi matin, 8 h à 12 h 30 selon Loire Tourisme ; Roannais Tourisme décrit des producteurs locaux sur ce marché. Une source d'office de tourisme de plus est nécessaire pour la fiche.
+- Bio-Cultura, rue de Bapaume : établissement actif au registre des entreprises et référencé à l'Agence Bio. Le site du magasin n'a pas répondu à cette passe : horaires non vérifiés.
+
+**Pistes non publiées (anonymes).**
+- Roanne, enseigne de miel : le nom de marque pourrait désigner une personne. Écartée pour doute sur une personne ; ne se rouvre pas.
+- Roanne, ferme de vente directe (Agence Bio, vente aux particuliers) : aucun site ni horaires trouvés ; raison sociale au nom d'une personne physique. Non publiée.
+- Roanne, petite épicerie bio : un annuaire la décrit comme un lieu de restauration midi ; la nature du lieu n'est pas établie. Non publiée.
+- Roanne, boulangeries et chocolaterie : hors catégories du site. Écartées.
+- Roanne, Halles Diderot : adresse sans horaires ni source propre. Non publiée.
+- Roanne, place Georges-Clémenceau (marché du mercredi et du dimanche) : une seule source, marché généraliste sans producteurs identifiés. Non publié.
+
+**Fiches écartées pour doute sur une personne.** Une (Roanne, enseigne de miel), non nommée.
+
+**Point d'arrêt.** Passe suivante : reprendre la Loire. Chercher un quatrième point vérifié à Roanne : horaires de Bio-Cultura sur le site du magasin, ferme de vente directe sur son propre site. Sinon, descendre au classement de la commune sans fiche de la Loire : Firminy (17 060 habitants), puis Montbrison (16 123 habitants).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
