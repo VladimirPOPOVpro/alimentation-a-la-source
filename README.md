@@ -57786,3 +57786,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Si Chaumont et Saint-Dizier ne rendent toujours pas cinq fiches à elles deux, descendre à Langres (7 421 habitants), selon la règle 247. Pour Chaumont, lire une photo sur une source autorisée avant toute publication.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Haute-Marne (52) reprise, Chaumont et Saint-Dizier relues : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule (règle 93), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait la Haute-Marne, région Grand Est, qui n'est donc pas reprise à l'identique ; le point d'arrêt de la passe précédente désigne pourtant la Haute-Marne, et c'est elle qui est relue. Commune : Saint-Dizier et Chaumont, traitées ensemble comme les passes précédentes, Langres (7 421 habitants) en commune suivante.
+
+**Ce qui a été lu.**
+- **Chaumont, Les Halles** : le site officiel (halles-chaumont.fr) répond ; son image de partage est un logo de 1 012 × 235 px, non une photographie du lieu. Aucune photo utilisable n'est donc retenue. Horaires du marché (samedi matin, marché extérieur mercredi et samedi) déjà relevés les passes précédentes, non modifiés ; une recherche web ne fait que confirmer l'adresse rue Georges-Clémenceau et le numéro de téléphone publié sur un agenda d'événements.
+- **Saint-Dizier, Au Panier Champenois (Le Local Bragard)** : une recherche web ne fait toujours remonter que des annuaires (produits locaux, bières, cidre, confitures, fromages, miel, pâtes, vins, selon l'annuaire, sans liste de producteurs ni de site propre du magasin). Les horaires ne sont pas publiés en ligne. La liste des produits reste à relever auprès du magasin lui-même.
+- **Chaumont, réseau de magasins de producteurs** : toujours bloqué (403 à chaque requête), non repris.
+
+**Pourquoi rien n'est publié.** Pour Chaumont, aucune photo autorisée du lieu : le validateur exige une image. Pour Saint-Dizier, la liste des produits n'est lue que dans des annuaires tiers, insuffisante pour une fiche vérifiée. Aucun commerce de Haute-Marne ne rend cinq fiches vérifiables à deux sources indépendantes.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Chaumont (52), halles de marché : fiche de lieu solide, image non autorisée (logo seul). Déblocage : photographie du lieu d'une source autorisée, ou photo thématique nette.
+- Saint-Dizier (52), magasin de producteurs : liste des produits à relever auprès du magasin. Déblocage : produits relevés.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Si Chaumont et Saint-Dizier ne rendent toujours pas cinq fiches à elles deux, descendre à Langres (7 421 habitants), selon la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
