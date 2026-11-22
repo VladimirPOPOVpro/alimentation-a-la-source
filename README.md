@@ -57428,3 +57428,19 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : la réserve de la règle 41.c interdit le Nord deux passes de suite. Viser une autre région, en recalculant le classement sur les 1 308 fiches. Maubeuge et Armentières ne se reprennent que si la Ville publie les noms ou les produits des exposants ; Cambrai se relit si son site répond ; Lambersart n'a pas de rubrique marchés à relire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+### Passe autonome du 22 novembre 2026 (Haute-Garonne (31), Saint-Jory sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, dénominateur national, 1 308 fiches comptées sur le code postal. La passe précédente visait le Nord (Hauts-de-France) : cette région est exclue par la garde 41.c. Premier département éligible : **Haute-Garonne (31)**, en Occitanie. Commune : la plus peuplée sans fiche qui n'a pas encore été sondée, **Saint-Jory** (8 662 habitants).
+
+**Ce qui a été lu.** Recherche web : l'agenda de Toulouse Métropole liste un marché de producteurs place de la République, sans jour hebdomadaire confirmé ; un annuaire de marchés indique « aucun marché » pour la commune ; la mairie n'a pas été jointe. Aucun magasin de producteurs identifié. Le seul commerce trouvé est une jardinerie de réseau, hors sujet.
+
+**Pourquoi rien n'est publié.** Saint-Jory ne rend pas cinq commerces vérifiables sur source indépendante : le marché n'a ni jour ni horaires confirmés, et les sources se contredisent (règle 5).
+
+**Point d'arrêt.** Saint-Jory : sondée, zéro fiche publiée. Passe suivante : confirmer le marché auprès de la mairie, puis descendre aux communes non sondées de la Haute-Garonne par population.
+
+**Pistes non publiées (anonymes).** Saint-Jory : marché de producteurs, jour à confirmer ; producteurs maraîchers listés par la Métropole, sans adresse ni horaires vérifiés.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
