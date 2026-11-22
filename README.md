@@ -57622,3 +57622,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Ramonville-Saint-Agne reste ouverte (page de la Ville à chercher). Sinon, Saint-Orens-de-Gameville (14 646 habitants, marché du samedi place de la Fraternité selon l'agenda de la Métropole, horaires à confirmer auprès de la mairie), puis descente par population dans le 31.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Ille-et-Vilaine (35) reprise, Châteaugiron sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » (doute sur une personne, rien n'est publié).
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule. Le Nord (59) reste en veille, l'Hérault (34) et la Haute-Garonne (31) sont en Occitanie, région de la passe précédente (41.c), le Val-de-Marne et la Seine-Saint-Denis sont épuisés ou à la borne, l'Oise et la Loire sont closes. La descente en Ille-et-Vilaine (35) reprend donc, à son point d'arrêt.
+
+**Commune, règle 41.d.** Fougères et Vitré ont été sondées la veille. Le point d'arrêt prévoyait Châteaugiron (10 845 habitants) si ces deux villes ne rendaient rien. Aucune fiche n'est publiée.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 35, quatre pages de cent : à Châteaugiron, aucun opérateur de vente aux particuliers ; les entrées sont des restaurateurs, grossistes ou boulangeries.
+- Une entrée de vente aux particuliers à Guichen (35) porte la dénomination d'une entreprise individuelle formée d'un nom de personne : écartée pour doute sur une personne, rien n'est publié.
+- Recherche web sur Châteaugiron : seuls des annuaires participatifs et des guides de producteurs de l'agglomération rennaise. Aucune page de la Ville ni de l'office de tourisme ; les fermes citées sont dans d'autres communes.
+
+**Pourquoi rien n'est publié.** Châteaugiron ne rend aucun commerce vérifiable à deux sources indépendantes (règle 52). Aucun fait incertain n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Ille-et-Vilaine (35), marchés de Châteaugiron : deux fiches participatives, jours et lieux non confirmés par la Ville. Déblocage : page de la Ville ou de l'office de tourisme.
+- Ille-et-Vilaine (35), Guichen : producteur en vente directe au registre, dénomination de personne. Écarté pour doute sur une personne ; ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Guichen (35), cette passe.
+
+**Point d'arrêt.** Passe suivante : Chartres-de-Bretagne (8 880 habitants, sans mention au README) si la page « marchés » de sa commune répond ; sinon descente par population en Ille-et-Vilaine, puis la règle 247 après douze communes éprouvées.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
