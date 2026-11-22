@@ -57756,3 +57756,33 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Calvados reprend à la commune suivante par population sans fiche (Hérouville-Saint-Clair, déjà en amont de la descente, à relire au registre si sa page de l'AMAP est à jour) ; sinon la règle 247 conduit au département suivant du classement, la garde 41.c écartant la région de cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
+
+## Passe autonome du 22 novembre 2026 (Haute-Marne (52) reprise, Chaumont sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 41.e, 93 et 247.** Métropole seule (règle 93), dénominateur national (règle 224), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait le Calvados (Normandie), région exclue. Les départements clos ou épuisés ou en veille sont écartés (Nord en veille, Haute-Garonne, Loire, Oise, Isère, Savoie, Hérault, Seine-Saint-Denis, Ille-et-Vilaine, Haute-Corse, Vienne closes par la règle 247). Premier département éligible : **Haute-Marne (52, Grand Est)**, sans fiche, reprise de la passe du 23 octobre.
+
+**Commune, règle 41.d.** Saint-Dizier (22 858 habitants) et Chaumont (20 827), sans fiche publiée, traitées ensemble comme la passe précédente l'avait prévu. Langres (7 421) est la commune suivante.
+
+**Ce qui a été lu.**
+- **Chaumont, Les Halles** (21 rue Georges-Clémenceau, 52000) : site officiel des Halles, lu. Grand marché alimentaire le samedi de 7 h 30 à 13 h ; marché extérieur les mercredis et samedis de 7 h 30 à 18 h (19 h en été). Plus de trente commerçants installés, dont viandes, fruits et légumes de saison, huîtres et produits de la mer, charcuterie, traiteur et pâtisseries. Coordonnées BAN : 5,139866 ; 48,110356 (score 0,97). Les noms des commerçants ne sont pas repris ici : une fiche de lieu suffit, et certaines enseignes portent des noms patronymiques d'entreprises individuelles (règle personnes).
+- **Saint-Dizier, Au Panier Champenois** (place Émile-Mauguet) : adresse, horaires et téléphone déjà vérifiés lors de la passe du 25 octobre. BAN : 4,95019 ; 48,637929 (score 0,96). La liste des produits n'a toujours pas pu être lue sur le site.
+- **Chaumont, Esprit Paysan** : le site du réseau renvoie une erreur 403 « Malware détecté » à chaque requête. Source non utilisable : la piste n'est pas retenue, et le domaine n'est pas consulté davantage.
+- Registre des entreprises : la recherche « halles Chaumont » ne remonte pas l'entité des Halles ; non confrontée.
+
+**Pourquoi rien n'est publié.** La fiche des Halles de Chaumont est solide sur les horaires et l'adresse, mais l'image manque : l'image de partage du site est un logo, et les photographies publiées par les Halles sont créditées à leur auteur, sans licence de reprise. Aucune source de photo autorisée (ni Unsplash, ni Pexels, ni Wikimedia Commons) n'a été retenue : le validateur exige une image. Au Panier Champenois reste en attente de sa liste de produits. À Chaumont et Saint-Dizier ensemble, deux fiches au plus sont vérifiables, pas cinq (règle 247 et point d'arrêt du 23 octobre). Aucune fiche n'est complétée à la main.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Chaumont (52), halles de marché : fiche de lieu solide, image non autorisée à ce jour. Déblocage : photo du lieu d'une source autorisée, ou photo thématique nette.
+- Saint-Dizier (52), magasin de producteurs : liste des produits à lire sur le site du magasin. Déblocage : produits relevés.
+- Chaumont (52), réseau de magasins de producteurs : site de l'enseigne bloqué (403). Non reprise.
+- Saint-Dizier (52), halles et marché du Vert-Bois : aucun producteur identifié. Écartées en l'état.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Si Chaumont et Saint-Dizier ne rendent toujours pas cinq fiches à elles deux, descendre à Langres (7 421 habitants), selon la règle 247. Pour Chaumont, lire une photo sur une source autorisée avant toute publication.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
