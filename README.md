@@ -57909,3 +57909,35 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Haute-Marne épuisée au sens de la règle 247 : trois communes éprouvées (Langres, Chaumont, Saint-Dizier), aucune de cinq fiches. Passe suivante : prendre le département suivant du classement métropolitain, hors Grand Est, avec la réserve de la règle 41.c. La Haute-Garonne, rouverte par la passe du 12 novembre, est la candidate naturelle.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Charente-Maritime (17) reprise, Rochefort (17300) sondée à fond : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule (règle 177), dénominateur national (règle 224), 1 309 fiches comptées sur le code postal. La passe précédente visait la Haute-Marne (Grand Est) : la région est exclue par la garde 41.c. Charente-Maritime (Nouvelle-Aquitaine) reste ouverte depuis la passe du 22 novembre, avec Rochefort comme point d'arrêt : la commune suivante de la descente est Royan si Rochefort ne rend pas cinq fiches.
+
+**Ce qui a été lu.**
+- Site officiel de la ville, page « Marché de Rochefort » : marché des quatre saisons et marché aux poissons, accès libre, toute l'année. La page ne publie ni jour ni horaire. Le pied de page affiche une adresse de contact personnelle : non reprise.
+- Le site `rochefort.fr` ne répond pas avec un certificat valide : rien n'a été lu par ce domaine, et la vérification n'a pas été contournée.
+- Registre de l'Agence Bio, Charente-Maritime (cinq pages, 500 opérateurs) : neuf entrées à Rochefort, dont une seule active en vente aux particuliers et au registre des entreprises (magasin bio de distribution, rue des Pêcheurs d'Islande). Les autres sont des préparateurs, des producteurs qui ne vendent pas aux particuliers, ou des grossistes.
+- Registre des entreprises : le magasin Biocoop de Rochefort est un établissement fermé ; l'enseigne Bio C'Bon n'a plus d'établissement ouvert à Rochefort ; aucune entité locale de So.bio n'apparaît sous ce nom ; l'enseigne Colibri n'apparaît pas sous son nom.
+- Recherches web (agrégateurs) : les jours et horaires du marché des halles divergent selon les sites (mardi, jeudi et samedi ; 7 h – 12 h 30 ; 8 h 30 – 12 h 30 ; 7 h – 13 h). Les horaires de l'office de tourisme divergent aussi et ne sont pas ceux de la ville.
+- Aucun magasin de producteurs ni AMAP de Rochefort confirmé par une source officielle.
+
+**Pourquoi rien n'est publié.** Une zone de cinq fiches vérifiables n'existe pas à Rochefort. Le marché n'a ni jour ni horaire confirmés par deux sources officielles (règle 9). Le seul magasin actif au registre a des horaires lus seulement dans un annuaire dont la mise à jour date de plus d'un an, et aucun site joignable. Les autres pistes n'ont pas de source de vente confirmée au registre. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Rochefort (17), marché des halles : jours et horaires non confirmés par deux sources officielles. Déblocage : une page de la ville ou de l'office qui donne les jours.
+- Rochefort (17), magasin bio indépendant, vente aux particuliers : registre actif, horaires lus seulement dans un annuaire ancien, site non joignable. Déblocage : site du magasin ou fiche à jour.
+- Rochefort (17), magasin bio d'enseigne franchisée : aucune entité locale au registre. Déblocage : registre de l'exploitant du magasin.
+- Rochefort (17), magasin bio d'enseigne régionale : introuvable au registre sous son nom, horaires d'un annuaire ancien. Déblocage : registre de l'exploitant, site du magasin.
+- Rochefort (17), magasin de producteurs cité par une carte de circuit court : horaires lus seulement dans cette source. Déblocage : site du magasin et entrée au registre.
+- Rochefort (17), maraîchage vendu sur le marché : entreprise individuelle à patronyme. Écartée pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne.** Une, à Rochefort (entreprise individuelle), non nommée.
+
+**Contradictions** (règle 5) : horaires du marché des halles, consignés ci-dessus, non tranchés faute de source officielle qui les donne.
+
+**Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Royan (17200) est la commune suivante de la descente (règle 247, borne de douze, Rochefort déjà éprouvée). Au registre bio, Royan compte dix opérateurs, dont la plupart sont des boulangeries ; deux producteurs déclarent la vente aux particuliers et n'ont pas encore été lus. Lire ces deux sites et le registre des entreprises, puis le site de la ville pour le marché.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
