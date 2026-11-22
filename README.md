@@ -57444,3 +57444,26 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Pistes non publiées (anonymes).** Saint-Jory : marché de producteurs, jour à confirmer ; producteurs maraîchers listés par la Métropole, sans adresse ni horaires vérifiés.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; total inchangé : 1 308 fiches.
+
+### Passe autonome du 22 novembre 2026 (Bas-Rhin (67) reprise, Saverne sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 41.e et 247.** Métropole seule, 1 308 fiches comptées sur le code postal. La passe précédente visait la Haute-Garonne (Occitanie) : la région est exclue par la garde 41.c. Les têtes du classement hors Occitanie sont closes, en veille (41.e) ou éprouvées. La descente du Bas-Rhin, en cours, reprend donc à la commune suivante par population, **Saverne (11 460)**.
+
+**Ce qui a été lu.**
+- Registre des entreprises : VRACOMARCHE, rue Saint-Nicolas à Saverne, un établissement sur deux ouvert. Enseigne active, donc règle 6 satisfaite ; l'adresse est géocodée par la BAN.
+- Site de la Ville de Saverne (saverne.fr), rubrique « Foires et marchés » : aucune page de marché alimentaire lisible, horaires de la mairie seulement.
+- Recherche de l'enseigne sur le web : aucune trace d'un site propre ni d'horaires publiés par le commerce.
+
+**Pourquoi rien n'est publié.** Une enseigne active sans site propre, sans horaires ni téléphone vérifiés, ne suffit pas pour une fiche (règle 52). Le marché de producteurs signalé dans la passe précédente n'a toujours pas de source à jour. Saverne ne rend pas cinq commerces vérifiables : aucune fiche, aucune photo, `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Saverne (67), vrac de la rue Saint-Nicolas : établissement actif au registre. Déblocage : site propre ou horaires publiés par le commerce, et une deuxième source.
+- Saverne (67), marché de producteurs : pas de source à jour sur le site de la Ville. Déblocage : page de la Ville ou de l'office de tourisme (jours, horaires, exposants).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Saverne reste ouverte. Chercher le site propre du vrac et l'office de tourisme de Saverne ; sinon, descendre à la commune suivante du 67 sans fiche par population.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
