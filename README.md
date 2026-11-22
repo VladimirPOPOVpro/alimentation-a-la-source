@@ -57729,3 +57729,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Calvados reprend à la commune suivante par population sans fiche, Falaise (7 680 habitants) si son relevé registre et site n'a pas été fait ; sinon la règle 247 conduit à passer au département suivant du classement, hors Île-de-France et hors Normandie, la garde 41.c écartant la région de cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 22 novembre 2026 (Calvados (14) reprise, Falaise sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande n° 13 reste « en_cours » : son nom d'enseigne reprend un prénom et son contact privé comporte un nom de personne. Doute sur une personne : rien n'est publié, aucune réponse envoyée, la demande ne se rouvre pas d'elle-même.
+
+**Secteur, règles 41, 41.c, 177, 247.** Métropole seule (règle 177), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Le classement reste celui de la passe précédente : Calvados (14) en descente, sans région visée deux fois de suite (41.c). Commune éprouvée : Falaise (7 680 habitants), la suivante par population après Mondeville.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 14 (huit pages de cent, 800 opérateurs), filtré sur Falaise : une entrée de vente aux particuliers portant le nom d'une entreprise individuelle formée d'un nom de personne (écartée pour doute sur une personne), une entreprise de distribution déclarant la vente aux particuliers sans enseigne de commerce identifiable (écartée, hors périmètre), et des entreprises de stockage, de gros ou sans vente aux particuliers.
+- Recherche web sur Falaise (marchés, AMAP, producteurs) : un magasin de producteurs en centre-ville dont l'enseigne reprend un prénom (doute sur une personne, écarté, ne se rouvre pas) ; un agenda de marché qui ne donne ni jour ni horaire ; aucune AMAP à Falaise identifiée ; annuaires communautaires et Bienvenue à la Ferme sans fiche à Falaise.
+- Site de la Ville : hors ligne lors du contrôle (000) ; site de l'office de tourisme départemental : joignable, sans liste de producteurs de Falaise exploitable.
+
+**Pourquoi rien n'est publié.** Falaise ne rend aucun commerce vérifiable à deux sources indépendantes, sans doute sur une personne (règle 52). Aucune photo honnête du lieu n'a été trouvée.
+
+**Pistes non publiées (anonymes).**
+- Calvados (14), Falaise : magasin de producteurs en centre-ville, enseigne au nom de personne ; écarté pour doute sur une personne, ne se rouvre pas.
+- Calvados (14), Falaise : entreprise de distribution en vente aux particuliers au registre, sans enseigne identifiable ; hors périmètre.
+- Calvados (14), Falaise : marché sans jour ni horaires publiés ; déblocage : page officielle de la Ville à jour.
+- Var (83), Villecroze : demande n° 13, enseigne au nom d'une personne et contact privé nominatif ; en_cours, rien publié.
+
+**Fiches écartées pour doute sur une personne.** Une, à Falaise (14), cette passe.
+
+**Contradictions** (règle 5) : aucune retenue cette passe.
+
+**Point d'arrêt.** Passe suivante : Calvados reprend à la commune suivante par population sans fiche (Hérouville-Saint-Clair, déjà en amont de la descente, à relire au registre si sa page de l'AMAP est à jour) ; sinon la règle 247 conduit au département suivant du classement, la garde 41.c écartant la région de cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
