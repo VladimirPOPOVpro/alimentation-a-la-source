@@ -57647,3 +57647,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Chartres-de-Bretagne (8 880 habitants, sans mention au README) si la page « marchés » de sa commune répond ; sinon descente par population en Ille-et-Vilaine, puis la règle 247 après douze communes éprouvées.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Haute-Garonne (31) reprise, Ramonville-Saint-Agne et Saint-Orens-de-Gameville sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 247 et 410.** Métropole seule, outre-mer exclu (règle 177). La passe précédente visait la Bretagne (Ille-et-Vilaine) : la région est exclue par la garde 41.c. Le Nord (59) reste en veille. Premier département éligible au classement : **Haute-Garonne (31)**, en Occitanie.
+
+**Commune, règle 41.d.** Ramonville-Saint-Agne (15 158 habitants), point d'arrêt de la passe précédente, puis Saint-Orens-de-Gameville (14 646 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 31, quatre pages de cent (400 opérateurs), filtré sur les deux communes.
+- Recherche web : un seul marché de producteurs recensé à Ramonville, sur un annuaire participatif, non confirmé par la Ville.
+
+**Pourquoi rien n'est publié.**
+- Ramonville-Saint-Agne ne rend qu'un seul opérateur de vente aux particuliers au registre. Sa dénomination est celle d'une personne physique : écartée pour doute sur une personne, rien n'est publié, et la piste ne se rouvre pas.
+- Saint-Orens-de-Gameville ne rend qu'une boulangerie de préparation, qui ne relève pas des catégories de la carte (commerce généraliste). Aucun producteur ou marché de circuit court vérifiable à deux sources indépendantes (règle 52).
+
+**Pistes non publiées (anonymes).**
+- Ramonville-Saint-Agne (31), producteur en vente directe au registre, dénomination de personne : écarté pour doute sur une personne ; ne se rouvre pas.
+- Ramonville-Saint-Agne (31), marché de producteurs du mercredi : source participative seule. Déblocage : confirmation par la Ville ou par le producteur.
+- Saint-Orens-de-Gameville (31), marché du samedi selon l'agenda de la Métropole : horaires et lieu à confirmer auprès de la mairie.
+
+**Fiches écartées pour doute sur une personne.** Une, à Ramonville-Saint-Agne (31), cette passe.
+
+**Point d'arrêt.** Passe suivante : Saint-Orens-de-Gameville reprise si la mairie ou la Métropole publie la liste des exposants ; sinon descente par population dans le 31 (commune suivante sans fiche).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
