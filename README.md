@@ -57811,3 +57811,33 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Si Chaumont et Saint-Dizier ne rendent toujours pas cinq fiches à elles deux, descendre à Langres (7 421 habitants), selon la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
+
+## Passe autonome du 22 novembre 2026 (Charente-Maritime (17) reprise, Rochefort (17300) relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule (règle 93), dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait la Haute-Marne (Grand Est), région exclue. Les départements clos, épuisés ou en veille sont écartés (Nord en veille, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Seine-Saint-Denis, Ille-et-Vilaine, Haute-Corse, Vienne, Pas-de-Calais, Calvados, Seine-Maritime, Loiret, Eure-et-Loir, Finistère, Gironde, Ain, Yvelines, Val-de-Marne, Seine-et-Marne, Bas-Rhin). Premier département ouvert : **Charente-Maritime (17, Nouvelle-Aquitaine)**, déficit ≈ 3,30, dix fiches publiées, toutes à La Rochelle, Saint-Xandre, Salles-sur-Mer et Châtelaillon-Plage.
+
+**Commune, règle 41.d.** Commune la plus peuplée sans fiche : Saintes (25 363 habitants), sondée lors de la passe du 17 novembre sans zone de cinq. Rochefort (23 460) reste ouverte : une fiche vérifiée, zéro publiée. Royan (19 425) est la commune suivante.
+
+**Ce qui a été lu.**
+- Recherches web sur les marchés et magasins de producteurs de Rochefort : les sources se contredisent sur les jours et heures du marché du centre-ville (listes d'événements : mardi, jeudi et samedi ; autre source : jeudi 9 h sur l'esplanade). Non tranché, faute de source officielle lue (mairie non consultée à cette passe).
+- Magasin de producteurs « La Ferme des 4 Anes » : signalé sur une carte de circuit court, horaires lus seulement dans cette source. Ni le site du magasin, ni le registre des entreprises n'ont été confrontés : non publié.
+- Magasins bio de Rochefort (Biomonde, Bio C'Bon, Les Bocaux de Mélanie) : annuaires seulement, aucune activité confirmée ni distinction producteur ou revendeur. Non publiés.
+- Une entreprise de maraîchage présente sur le marché de Rochefort est une entreprise individuelle portant un patronyme : écartée par la règle personnes, sans publication.
+- Aucune AMAP rochefortaise trouvée dans les sources lues.
+
+**Pourquoi rien n'est publié.** Moins de cinq commerces de Rochefort ont une source officielle lue et une activité confirmée au registre ; les horaires du marché sont contradictoires entre sources. Aucune fiche n'a été écrite à partir d'une estimation. Rochefort reste ouverte pour la passe suivante.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Rochefort (17), magasin de producteurs : horaires à confirmer au magasin et au registre. Déblocage : site du magasin et entrée au registre.
+- Rochefort (17), magasins bio : producteurs ou revendeurs à départager. Déblocage : registre Agence Bio, sites des enseignes.
+- Rochefort (17), marché du centre-ville : jours et heures contradictoires. Déblocage : fiche de la mairie.
+
+**Fiches écartées pour doute sur une personne.** Une piste de maraîchage à Rochefort, entreprise individuelle portant un patronyme : écartée, nom non repris.
+
+**Contradictions** (règle 5) : horaires du marché du centre-ville, consignés ci-dessus, non tranchés.
+
+**Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Lire la fiche de la mairie de Rochefort pour le marché, puis le registre pour les magasins ; si Rochefort ne rend pas cinq fiches, descendre à Royan (règle 247).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
