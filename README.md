@@ -57888,3 +57888,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Lire le site de l'association de Langres ; si Langres ne rend toujours pas cinq fiches, passer au rang suivant de la règle 247 (borne de douze, trois communes déjà éprouvées).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Haute-Marne (52), Langres épuisée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Les sept premiers rangs du déficit sont des départements d'outre-mer (règle 93, écartés). Le premier rang métropolitain reste le Nord, en descente déjà éprouvée (règle 247). La Haute-Marne reprend le point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Marne : 476 opérateurs. À Langres, quatre entrées déclarent une vente aux particuliers ; trois sont des entreprises individuelles au nom d'une personne, écartées pour doute sur une personne (ne se rouvrent pas).
+- DEFIS (ZI, Langres), site officiel et annuaires publics (lemarche.inclusion.gouv.fr, langres.fr, IAE Grand Est) : atelier et chantier d'insertion dont les activités sont des espaces verts, du petit bâtiment, un garage solidaire, du textile et du réemploi, et de la formation. Aucun point de vente alimentaire n'apparaît. La mention « Production / Distribution » du registre bio ne se retrouve ni sur le site ni dans les annuaires. Écartée : hors périmètre alimentaire.
+- Les autres communes de Haute-Marne qui vendent aux particuliers selon le registre restent des villages isolés, sans cinq commerces vérifiables.
+
+**Pourquoi rien n'est publié.** Langres ne rend aucune zone de cinq fiches vérifiables. Aucune photographie n'a été recherchée, et aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Langres (52), association d'insertion, activités non alimentaires : écartée (le registre bio ne se retrouve pas sur le site ni dans les annuaires).
+- Langres (52), trois entreprises individuelles à patronyme, vente aux particuliers : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Point d'arrêt.** Haute-Marne épuisée au sens de la règle 247 : trois communes éprouvées (Langres, Chaumont, Saint-Dizier), aucune de cinq fiches. Passe suivante : prendre le département suivant du classement métropolitain, hors Grand Est, avec la réserve de la règle 41.c. La Haute-Garonne, rouverte par la passe du 12 novembre, est la candidate naturelle.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
