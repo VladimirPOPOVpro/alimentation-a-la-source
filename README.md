@@ -57941,3 +57941,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Royan (17200) est la commune suivante de la descente (règle 247, borne de douze, Rochefort déjà éprouvée). Au registre bio, Royan compte dix opérateurs, dont la plupart sont des boulangeries ; deux producteurs déclarent la vente aux particuliers et n'ont pas encore été lus. Lire ces deux sites et le registre des entreprises, puis le site de la ville pour le marché.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 22 novembre 2026 (Charente-Maritime (17) reprise, Royan sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Compteurs inchangés : 6 intégrées, 6 refusées, 1 en cours (ancienne demande, hors de cette passe).
+
+**Secteur, règles 41, 41.c, 247.** Charente-Maritime reste ouverte, avec Royan comme commune suivante de la descente (Rochefort déjà éprouvée). Total : 1 309 fiches, aucune ajoutée.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Charente-Maritime, cinq pages (500 opérateurs). Royan compte un seul opérateur actif en vente aux particuliers : un producteur maraîcher, vente au Marché Central, engagé en bio depuis 2011 (certificat Ecocert en cours). Son enseigne publique (« Le Petit Marais ») n'apparaît dans aucune source indépendante trouvée : ni site, ni téléphone, ni horaires. Son registre au nom d'un particulier n'est pas repris.
+- Recherches web sur l'enseigne : aucune trace publique de la ferme. Le guide « Route des Saveurs » de l'agglomération et le carnet de producteurs ne la mentionnent pas dans les pages lues.
+- Royan Atlantique, fiche d'un maraîcher du marché central : enseigne reprenant un patronyme, donc entreprise individuelle. Écartée pour doute sur une personne, non nommée, ne se rouvre pas.
+- Le deuxième producteur déclarant la vente aux particuliers est à Saint-Sulpice-de-Royan, hors commune : la règle 52 interdit de le compléter ici.
+
+**Pourquoi rien n'est publié.** Royan ne rend aucun commerce vérifiable sur une source indépendante, et une fiche isolée ne forme pas la zone de cinq. L'enseigne du seul producteur actif au registre n'a aucune source publique, et la fiche qui reprend le patronyme est écartée.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Royan (17), maraîchage du marché central, registre actif, enseigne sans source publique. Déblocage : site ou présence publique de la ferme, ou téléphone publié par elle.
+- Royan (17), maraîchage du marché central, enseigne en patronyme. Écartée pour doute sur une personne, ne se rouvre pas.
+- Royan (17), marché de la Ville : jours et horaires à lire sur la page de la mairie (non encore ouverte cette passe).
+
+**Fiches écartées pour doute sur une personne** : une, à Royan (entreprise individuelle, non nommée).
+
+**Contradictions** (règle 5) : aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Lire la page du marché de Royan sur le site de la ville ; si la ferme n'a pas de présence publique, la passe prend la commune suivante de la descente (règle 247, borne de douze, Rochefort et Royan déjà éprouvées).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
