@@ -57602,3 +57602,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Mantes-la-Jolie reprise si son site répond (rubrique commerces et marchés) ; sinon Poissy, dont le site répond en 503, puis descente à la commune suivante par population sans fiche dans les Yvelines. Le Bas-Rhin et l'Isère ne sont pas visés, la garde 41.c écarte la région de la passe précédente.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 22 novembre 2026 (Haute-Garonne (31) reprise, Ramonville-Saint-Agne sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 41.e et 93.** Métropole seule, population par département (geo.api.gouv.fr, 34 969 communes), 1 309 fiches comptées sur le code postal. Les trois premiers déficits sont ultramarins : écartés (règle 93). Le Nord reste en veille (règle 41.e, décidée le 15 novembre). La passe précédente visait l'Île-de-France (Yvelines) : la région est exclue par la garde 41.c, ainsi que la Seine-Saint-Denis et le Val-de-Marne. Premier département éligible : **Haute-Garonne (31)**, en Occitanie.
+
+**Commune, règle 41.d.** La Haute-Garonne a déjà été sondée à Muret, Saint-Jory, Tournefeuille et Colomiers ; Muret et Saint-Jory n'ont rien rendu. La commune la plus peuplée sans fiche et non encore instruite est **Ramonville-Saint-Agne** (15 158 habitants).
+
+**Ce qui a été lu.** Recherche web : un seul marché de producteurs recensé, « La cagette du Kiwi », place de l'Église, le mercredi de 16h à 20h, sur un annuaire participatif. Aucune page de la Ville ni de la Métropole ne le confirme. Aucun autre commerce de producteurs trouvé.
+
+**Pourquoi rien n'est publié.** Ramonville-Saint-Agne ne rend qu'une source participative pour un seul commerce. Elle ne rend pas cinq commerces vérifiables sur source indépendante (règle 96 : l'élargissement à l'agglomération ne rend pas davantage de sources officielles dans le temps imparti). Aucun fait incertain n'est publié.
+
+**Piste non publiée (anonyme).** Ramonville-Saint-Agne (31), marché de producteurs du mercredi : source participative seule. Déblocage : confirmation par la Ville ou par le producteur.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Ramonville-Saint-Agne reste ouverte (page de la Ville à chercher). Sinon, Saint-Orens-de-Gameville (14 646 habitants, marché du samedi place de la Fraternité selon l'agenda de la Métropole, horaires à confirmer auprès de la mairie), puis descente par population dans le 31.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
