@@ -57524,3 +57524,33 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : lire la rubrique marchés du site de la Ville de Schiltigheim et l'office de tourisme de Strasbourg (Schiltigheim y est rattachée) ; si rien, descendre à Illkirch-Graffenstaden (27 872 habitants, sans fiche), puis Lingolsheim, Bischheim, Sélestat. La garde 41.c interdit le Grand Est deux passes de suite : la passe suivante vise une autre région.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (Isère (38) reprise, Voiron : une fiche publiée)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande ancienne reste en « en cours » (Var, commerce au nom pouvant être celui d'une personne) : rien n'en est publié, elle est notée anonymement dans « Pistes non publiées ». Aucune réponse par email.
+
+**Secteur, règles 41, 41.c, 247 et 177.** Outre-mer écarté (97x et 98x, le validateur ne rend que la métropole). 1 308 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait le Bas-Rhin (Grand Est) : la garde 41.c écarte cette région. Classement : Nord (59), Haute-Garonne (31) et Seine-Saint-Denis (93) sont épuisés (règle 247) ; l'Isère (38), déficit ≈ 4,7 pour 21 fiches, est le premier département éligible. Isère retenue.
+
+**Commune, règle 41.d.** Vienne (31 778 habitants) est sondée une seconde fois, puis Voiron (21 847 habitants) selon le point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Vienne : site de la Ville (rubrique commerces et démarches), sans page de marchés ni liste de producteurs ; les marchés cités par les sources touristiques se contredisent (jours et lieux) ; le magasin de producteurs cité par un comparateur n'a toujours qu'une source indépendante. Le site de l'office de tourisme Vienne Condrieu Tourisme n'a pas répondu à la requête directe. Vienne ne rend pas cinq commerces vérifiables (règle 52) : rien n'est publié.
+- Voiron, « La Halte Fermière » : deux sources indépendantes (annuaire Que Choisir Ensemble et fiche de l'office de tourisme du Pays voironnais), registre des entreprises (établissement actif, siège à l'adresse de la fiche, règle 6), géocodage BAN (score 0,97), photo de la vitrine prise sur la fiche de l'office de tourisme (aucune personne identifiable, règle 1). Les deux sources s'accordent sur le lundi fermé, le dimanche fermé et les horaires de semaine ; elles diffèrent sur le samedi (fin de matinée à 12h30 ou 13h, fin d'après-midi à 18h30 ou 18h). Les deux versions sont publiées, la fiche passe en `a_confirmer` (règle 5). Le téléphone n'est repris d'aucune source officielle de la boutique : non publié. Catégorie `producteur`, comme la fiche Flour de Camin (magasin de producteurs tenu en commun, règle 8).
+- Voiron, marché : la fiche de l'office de tourisme annonce un marché régulier le mercredi et le samedi matin, mais le site de la Ville répond 403 à toute lecture automatisée : la règle 9 exige deux sources officielles, la seconde manque. Piste ouverte.
+- Voiron, producteurs : la fiche de l'office de tourisme en cite plusieurs, dont une exploitation désignée par le nom d'une personne : écartée pour doute sur une personne, non nommée. Les autres n'ont pas de point de vente propre vérifié.
+
+**Pourquoi la passe ne rend qu'une fiche.** Voiron ne rend qu'un commerce vérifiable à deux sources, et la règle 52 demande cinq commerces. La fiche solide est publiée, les quatre autres emplacements ne sont pas comblés. La descente vers la commune suivante (Bourgoin-Jallieu, Vienne déjà épuisée) est la prochaine étape, et compte pour la règle 247.
+
+**Pistes non publiées (anonymes).**
+- Vienne (38), magasin de producteurs : une seule source indépendante. Déblocage : site propre du commerce ou confirmation au registre, et une deuxième source.
+- Vienne (38), marchés hebdomadaires : jours et lieux contradictoires entre sources touristiques. Déblocage : page de la Ville ou de l'office de tourisme Vienne Condrieu.
+- Voiron (38), marché hebdomadaire : sources touristiques concordantes, source communale inaccessible. Déblocage : page de la Ville lisible (jours, lieu, horaires).
+- Voiron (38), exploitation désignée par le nom d'une personne : écartée pour doute sur une personne, ne se rouvre pas.
+- Voiron (38), autre magasin de producteurs : source unique. Déblocage : site propre ou registre.
+- Demande ancienne « en cours » (Var, commerce au nom pouvant être celui d'une personne) : rien publié. Déblocage : la demande elle-même, et une source écrite par le commerce.
+
+**Fiches écartées pour doute sur une personne.** Une (Voiron), non nommée.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir à l'Isère avant la descente (Bourgoin-Jallieu, puis Villefranche ou Échirolles selon l'ordre de population sans fiche) ; la garde 41.c écarte le Grand Est, qui redevient éligible. Si la Ville de Voiron répond, reprendre le marché (règle 9).
+
+**Publication.** Ajout de `La Halte Fermière` (Voiron, 38) dans `data/marchands.json` (1 309 fiches) et de sa photo `public/images/marchands/la-halte-fermiere-voiron.jpg`. Lint et build passent. Le total passe de 1 308 à 1 309.

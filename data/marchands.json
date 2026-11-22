@@ -34499,5 +34499,32 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Satoriz+Vaulx-en-Velin",
     "image_url": "/images/marchands/satoriz-vaulx-en-velin.jpg",
     "a_confirmer": true
+  },
+  {
+    "slug": "la-halte-fermiere-voiron",
+    "nom": "La Halte Fermière",
+    "categorie": "producteur",
+    "piliers": [
+      "alimentation",
+      "economie"
+    ],
+    "lat": 45.379182,
+    "lon": 5.581029,
+    "adresse": "15 boulevard de Charavines, Espace Brunerie, 38500 Voiron",
+    "horaires": "Mardi, mercredi, jeudi et vendredi : 9h–12h30 et 15h–19h. Samedi : 9h–12h30 et 15h–18h30 selon l’annuaire Que Choisir, 9h–13h et 15h–18h selon l’office de tourisme du Pays voironnais (horaires du samedi à confirmer). Fermé le lundi et le dimanche.",
+    "produits": [
+      "Fruits et légumes de saison",
+      "Viandes et volailles",
+      "Charcuterie",
+      "Fromages de vache, de brebis et de chèvre",
+      "Produits laitiers",
+      "Truite",
+      "Vin et bière",
+      "Miel et confitures"
+    ],
+    "description": "Boutique de vente directe de produits fermiers de la région, installée à Voiron dans l’Espace Brunerie. Selon l’office de tourisme du Pays voironnais, des agriculteurs se relaient au comptoir et présentent la production de leur exploitation. Un plateau de fromages et de charcuterie peut être commandé.",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=La+Halte+Fermi%C3%A8re+15+boulevard+de+Charavines+38500+Voiron",
+    "image_url": "/images/marchands/la-halte-fermiere-voiron.jpg",
+    "a_confirmer": true
   }
 ]
