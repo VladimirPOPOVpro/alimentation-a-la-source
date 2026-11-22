@@ -57968,3 +57968,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Charente-Maritime reste ouverte. Lire la page du marché de Royan sur le site de la ville ; si la ferme n'a pas de présence publique, la passe prend la commune suivante de la descente (règle 247, borne de douze, Rochefort et Royan déjà éprouvées).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026 (Charente-Maritime (17) reprise, Royan sondée au registre et sur le web : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Charente-Maritime reste ouverte, Royan (17200) est la commune de la passe, comme annoncé par la passe du 22 novembre. Total inchangé : 1 309 fiches, aucune ajoutée.
+
+**Ce qui a été lu.**
+- Site de l'office de tourisme Royan Atlantique, page « marché » : introuvable ou sans contenu exploitable (page 404 sur l'adresse de la rubrique marchés, et page des marchés sans horaires). Les dates de marchés listées par l'office sont celles d'une saison passée.
+- Site de la ville de Royan : aucune page des horaires du marché central trouvée. Les horaires du marché central restent donc à lire sur une source officielle, non disponible cette passe.
+- Sites tiers sur le marché central (site de location de vacances, guide de visite) : horaires divergents, adresse du boulevard Briand ou de la place Charles-de-Gaulle selon la source. Non retenus (règle 9 : deux sources officielles requises pour un horaire).
+- Que Choisir, carte des circuits courts : une fiche de magasin de producteurs à Royan, horaires indiqués, téléphone indiqué. Registre des entreprises : l'association qui porte ce magasin est active, établissement actif à la même adresse, code 94.99Z. Un seul commerce vérifié de la sorte.
+- Registre des entreprises, Royan (code postal 17200, activité de vente de détail en supermarché) : trois résultats, tous de grande distribution ou de distribution hors circuit court. Aucun autre producteur ou magasin de circuit court identifié sous ce filtre.
+
+**Pourquoi rien n'est publié.** Royan ne rend pas cinq commerces vérifiables cette passe : un seul magasin de producteurs (sources : Que Choisir et registre) et le marché central dont les horaires ne sont confirmés par aucune source officielle. Publier une fiche isolée ne forme pas la zone de cinq prévue par le prompt. Aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Royan (17), magasin de producteurs de circuit court (association active au registre, horaires et téléphone lus sur une source tierce) : fiche prête à rédiger si la passe rend quatre autres fiches vérifiables à Royan. Déblocage : site du magasin ou page de la ville qui confirme les horaires.
+- Royan (17), marché central : horaires et jours non confirmés par une source officielle. Déblocage : page de la ville de Royan ou de l'office de tourisme à jour.
+- Royan (17), maraîchage du marché central, enseigne au nom d'un patronyme : déjà écartée au 22 novembre pour doute sur une personne, ne se rouvre pas.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Contradictions** (règle 5) : horaires et adresse du marché central divergent entre sites tiers, consignés ci-dessus, non tranchés faute de source officielle.
+
+**Point d'arrêt.** Passe suivante : Royan reste la commune en cours. Chercher quatre autres commerces vérifiables sur la ville (marché central : page officielle de la ville ; magasins de producteurs et AMAP du registre Agence Bio, code 17200). Si Royan ne rend pas cinq fiches, descendre à la commune suivante de la descente de Charente-Maritime (règle 247) et le dire.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
