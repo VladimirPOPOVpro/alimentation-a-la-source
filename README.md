@@ -57868,3 +57868,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte ; reprendre Langres par le site de DEFIS et le registre des entreprises ; si Langres ne rend pas cinq fiches, passer à la règle 247 (douze communes au plus, Chaumont et Saint-Dizier déjà comptées).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches. Lint et build non relancés : aucune donnée modifiée.
+
+### Passe autonome du 22 novembre 2026 (Haute-Marne (52), Langres relue : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Le classement se relit depuis son premier rang : les premiers rangs sont hors métropole (règle 93, écartés) ; la Haute-Marne reste éligible, puisque la passe précédente n'y a rien publié et qu'une passe sans publication ne vise pas un département au sens de la règle 41.c. Langres reste la troisième commune éprouvée de la descente (règle 247, borne de douze).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Marne : 476 opérateurs. À Langres, sept entrées : trois boulangeries et deux producteurs qui ne vendent pas aux particuliers (hors périmètre) ; deux entreprises individuelles portant un patronyme, écartées pour doute sur une personne (règle personnes, non nommées) ; une association d'insertion en zone industrielle, active au registre des entreprises, dont l'activité (code 94.99Z) n'est pas celle d'un point de vente : non publiée, site et horaires non lus.
+- Les autres communes de la Haute-Marne qui vendent aux particuliers selon le registre sont des villages isolés : aucune ne rend cinq commerces à une source officielle.
+
+**Pourquoi rien n'est publié.** Langres ne rend aucune zone de cinq vérifiable. Aucune photographie autorisée n'a été recherchée, et aucune fiche n'a été écrite à partir d'une estimation.
+
+**Pistes non publiées** (commune, catégorie, motif) :
+- Langres (52), association d'insertion en zone industrielle, vente aux particuliers : code d'activité non commercial au registre. Déblocage : site et horaires lus, confirmation d'un point de vente.
+- Langres (52), vente directe bio, personne physique : écartée pour doute sur une personne, ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Marne reste ouverte. Lire le site de l'association de Langres ; si Langres ne rend toujours pas cinq fiches, passer au rang suivant de la règle 247 (borne de douze, trois communes déjà éprouvées).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
