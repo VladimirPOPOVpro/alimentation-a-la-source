@@ -57494,3 +57494,33 @@ Le groupement d'une passe (règle 52) n'est donc pas réuni à Molsheim : une se
 **Point d'arrêt.** Passe suivante : si l'Isère reste en tête, lire la page marchés du site de la mairie de Vienne, puis le site de l'office de tourisme Vienne Condrieu Agglomération ; si rien, Voiron (21 847 habitants, sans fiche) selon la règle 41.d. La garde 41.c écarte alors l'Isère si la passe la vise. Le Grand Est redevient éligible.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+## Passe autonome du 22 novembre 2026 (Bas-Rhin (67) reprise, Schiltigheim sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, 1 308 fiches comptées sur le code postal. La passe précédente visait l'Isère (Auvergne-Rhône-Alpes) : la garde 41.c écarte cette région. Le Bas-Rhin est repris.
+
+**Correction de descente, règle 41.d.** La passe précédente avait sauté Schiltigheim pour Saverne. Or la règle prend la commune la plus peuplée du département qui n'a aucune fiche : Strasbourg, Haguenau, Obernai et Erstein en ont déjà une, donc la première commune sans fiche est **Schiltigheim (34 708 habitants)**, et non Saverne (11 460). Saverne reste en réserve. Schiltigheim est sondée cette passe.
+
+**Ce qui a été lu.** Registre de l'Agence Bio pour le 67, pages 1 et 2 (200 opérateurs), filtré sur Schiltigheim : six opérateurs.
+- une enseigne de grande distribution, écartée (supermarché certifié bio, `MODERATION.md`) ;
+- une association régionale sans vente au public ;
+- une boulangerie, hors des catégories du site ;
+- un fabricant de bretzels, sans vente aux particuliers ;
+- une entreprise individuelle au nom d'un particulier, écartée pour doute sur une personne ;
+- une autre entité à usage de vente non déclaré.
+Aucun site de commerce de producteurs ni marché de producteurs vérifié à Schiltigheim à cette passe.
+
+**Pourquoi rien n'est publié.** Schiltigheim ne rend aucun commerce vérifiable (règle 52) : le registre ne déclare aucun point de vente en circuit court. Aucune fiche, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Schiltigheim (67), entreprise individuelle déclarée en vente aux particuliers : écartée pour doute sur une personne. Ne se rouvre pas.
+- Schiltigheim (67), boulangerie : hors catégories du site.
+- Schiltigheim (67), marché hebdomadaire de la commune : aucune source de la Ville lue cette passe. Déblocage : page de la Ville listant les jours, lieux et producteurs, et une deuxième source.
+
+**Fiches écartées pour doute sur une personne.** Une (Schiltigheim), non nommée.
+
+**Point d'arrêt.** Passe suivante : lire la rubrique marchés du site de la Ville de Schiltigheim et l'office de tourisme de Strasbourg (Schiltigheim y est rattachée) ; si rien, descendre à Illkirch-Graffenstaden (27 872 habitants, sans fiche), puis Lingolsheim, Bischheim, Sélestat. La garde 41.c interdit le Grand Est deux passes de suite : la passe suivante vise une autre région.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
