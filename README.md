@@ -58093,3 +58093,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord reste ouvert, mais la règle 41.c interdit de le viser la passe d'après. Descendre à la commune suivante par population dans le Nord sans fiche (Mons-en-Barœul, Coudekerque-Branche, Wasquehal), après relecture de leurs sites officiels. Si aucune ne rend cinq commerces vérifiables, la règle 247 conduit à la commune suivante.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026 (Loire (42) reprise, Roanne sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Région Hauts-de-France écartée par la garde 41.c, la passe précédente ayant visé le Nord. Le département retenu est la Loire (42), déficit ≈ 3,70 pour 11 fiches, Auvergne-Rhône-Alpes, région non visée depuis le 2 novembre. Commune : Roanne (35 409 habitants), toujours la plus peuplée de la Loire sans fiche.
+
+**Ce qui a été lu.** Les deux pistes du point d'arrêt de la passe du 1er novembre ont été reprises : horaires de Bio-Cultura et ferme de vente directe. Recherche web sur le magasin Bio-Cultura de Roanne : aucune page de l'enseigne ni horaires trouvés ; seul un autre magasin bio de la ville apparaît, sans horaires. Recherche web sur les producteurs de la place du Marché : les fiches consultées datent de 2020 à 2024, les jours de marché divergent selon les sources (mardi et vendredi, ou vendredi seul), et aucune ne confirme la présence des producteurs en 2026.
+
+**Vérifié.** Toujours trois points sur quatre requis (règles 52 et 247). Sous ce seuil, rien n'est publié à Roanne.
+
+**Contradiction consignée.** Le point d'arrêt de la passe du 23 novembre (Nord) écrit que le Nord « reste ouvert » pour la passe suivante, alors que la règle 41.c interdit de viser deux passes de suite la même région. La règle 41.c l'emporte : cette passe n'a pas visé le Nord, et la note du point d'arrêt est à relire.
+
+**Pistes non publiées (anonymes).**
+- Roanne, marché de la place du Marché : jours et producteurs datés, pas de confirmation 2026. À reprendre sur la page en cours de l'office de tourisme.
+- Roanne, éleveur vendant de la viande au marché, source de 2020 seulement. Non publié.
+- Renaison (hors Roanne, environ 20 km), magasin collectif de producteurs : commune voisine, à traiter dans une passe où elle devient la commune de la descente.
+
+**Point d'arrêt.** Passe suivante : Loire toujours ouverte, sans être visée deux passes de suite. Roanne : relire la page de l'office de tourisme (marchés, producteurs, 2026) et chercher la page officielle de Bio-Cultura ; si rien ne se confirme, descendre à Firminy (17 060 habitants).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
