@@ -58208,3 +58208,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours ouverte (non visée la passe précédente, donc la garde 41.c ne la bloque pas, mais elle a été visée aujourd'hui : la passe suivante devra choisir une autre région si la garde le demande). Muret : relire le site de la Ville et la page de l'office de tourisme du Muretain ; si rien ne se confirme, descendre à Plaisance-du-Touch selon la règle de descente.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, cinquième passe du jour (Nord (59) repris, Wattrelos relue : aucune publication)
+
+**Secteur.** Métropole seule (règle 93, outre-mer et collectivités 97x et 98x exclues du calcul). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : Nord (59) en tête, ≈ 6,3 ; Haute-Garonne (31) ≈ 4,9 écartée par la garde 41.c, la passe précédente l'ayant visée ; Oise (60) ≈ 4,3 ; Loire (42) ≈ 4,2. Commune : Wattrelos (40 847 habitants), la plus peuplée du Nord sans aucune fiche.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville : la page « marchés de Wattrelos » répond (200) mais le texte extrait ne donne ni jours ni horaires de marché ; des blocs de l'annuaire participatif y sont mêlés. Rien de retenu.
+- Registre de l'Agence Bio et recherche web : déjà relus lors de la passe précédente, sans producteur confirmé à Wattrelos.
+- Sites de Marcq-en-Barœul et de Cambrai : non joignables depuis cet environnement (échec de connexion), donc non relus cette passe.
+
+**Vérifié.** Rien. Aucun commerce de producteurs confirmé par une source officielle et une source indépendante. Le seuil de cinq fiches entières n'est pas atteint ; rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos, marchés hebdomadaires : jours et horaires non confirmés par la page officielle lue. À relire sur la mairie ou la page des marchés une fois le site à nouveau accessible.
+- Nord, Marcq-en-Barœul et Cambrai : pistes de descente d'échelle, non éprouvées cette passe (sites de la Ville injoignables).
+
+**Contradictions consignées (règle 5).** Aucune de fait sur une fiche.
+
+**Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente visait Wattrelos, pas le Nord ; garde 41.c non bloquante). Relire la page des marchés de Wattrelos sur le site de la Ville, puis tenter Marcq-en-Barœul si son site répond.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
