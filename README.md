@@ -58325,3 +58325,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord toujours éligible ; la commune à reprendre est Marcq-en-Barœul quand son site répond, puis Wattrelos si la page de la Ville porte enfin un lien vers les marchés. Sinon, sortir du Nord et laisser la formule choisir.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, dixième passe du jour (Yvelines (78) visées, Mantes-la-Jolie et Conflans-Sainte-Honorine sondées : aucune publication)
+
+**Secteur.** Métropole seule (règles 93 et 177). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : le Nord (59) reste en tête mais la passe précédente l'a visé (règle 41.c) ; la Haute-Garonne (31) et la Seine-Saint-Denis (93) sont au-delà de la borne de douze communes (règle 247) ; l'Oise (60) appartient à la même région que le Nord (Hauts-de-France, règle 41.c). Le département retenu est donc les **Yvelines (78)**, Île-de-France, au déficit le plus grand après ces exclusions. Commune : la plus peuplée sans fiche, Mantes-la-Jolie (43 526 habitants), puis Conflans-Sainte-Honorine (36 958) selon la règle de descente.
+
+**Ce qui a été lu.**
+- Site officiel de Mantes-la-Jolie : hors ligne (000) à cette passe, comme aux passes précédentes.
+- Site officiel de Poissy : réponse 503. Site officiel de Conflans-Sainte-Honorine : répond (200), sans rubrique marchés ou producteurs repérée à la lecture automatisée.
+- Registre de l'Agence Bio, Yvelines, première page (cent opérateurs), filtré sur les communes sans fiche : entrées de vente aux particuliers à Mantes-la-Jolie et à Conflans-Sainte-Honorine, toutes deux à classer en pistes ; une entrée de Mantes-la-Jolie porte le nom d'une personne (écartée pour doute sur une personne, ne se rouvre pas).
+- Recherches web sur les marchés et la vente directe à Mantes-la-Jolie et à Conflans-Sainte-Honorine : sources participatives (annuaires de marchés, cartes de consommateurs, guides de 2014 à 2025) seulement, aucune source officielle datée et concordante.
+
+**Vérifié.** Rien. Aucune commune ne rend cinq commerces vérifiables à deux sources indépendantes (règle 52). Les jours de marché diffèrent d'une source à l'autre (Conflans-Sainte-Honorine : trois marchés selon un annuaire participatif, sept selon un guide de 2025). Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Mantes-la-Jolie, marché du centre-ville et marché bio de l'hôtel de ville : jours signalés par des annuaires, non confirmés par la Ville. Non publié.
+- Mantes-la-Jolie, deux fermes à vente directe dans les communes voisines (Arnouville-lès-Mantes, Brueil-en-Vexin) : hors commune, et horaires non lus à la source. Non publié.
+- Mantes-la-Jolie, boutique de produits du terroir d'une commune voisine : source de guide, adresse non vérifiée. Non publié.
+- Mantes-la-Jolie, une entrée de vente aux particuliers au registre dont la dénomination est celle d'une personne : écartée pour doute sur une personne, ne se rouvre pas.
+- Conflans-Sainte-Honorine, magasin bio de réseau : listé par une carte de consommateurs, horaires non lus. Non publié.
+- Conflans-Sainte-Honorine, producteur de légumes bio en camion itinérant : site du producteur à lire. Non publié.
+
+**Contradictions consignées (règle 5).** Nombre de marchés de Conflans-Sainte-Honorine : trois (annuaire participatif) contre sept (guide 2025). Non tranchées.
+
+**Point d'arrêt.** Passe suivante : les Yvelines restent éligibles (région différente de la passe précédente). Mantes-la-Jolie reprise si son site répond ; sinon Poissy (site en 503) puis Conflans-Sainte-Honorine, dont le site répond et reste à lire sur ses pages de marchés.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
