@@ -58112,3 +58112,27 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Loire toujours ouverte, sans être visée deux passes de suite. Roanne : relire la page de l'office de tourisme (marchés, producteurs, 2026) et chercher la page officielle de Bio-Cultura ; si rien ne se confirme, descendre à Firminy (17 060 habitants).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 308 fiches.
+
+### Passe autonome du 23 novembre 2026 (Nord (59) reprise, Wattrelos sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : Nord (59) en tête, ≈ 6,7 ; Oise (60) ≈ 4,4 ; Loire (42) ≈ 4,3 ; Calvados (14) ≈ 4,0. La passe précédente visait la Loire, et non le Nord : la garde 41.c ne bloque donc pas le Nord. Commune : Wattrelos (40 847 habitants), la plus peuplée du Nord sans aucune fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, 1 799 opérateurs parcourus : pour Wattrelos, un distributeur de grande surface, un magasin Leclerc, une entrée de vente à particuliers au nom d'une personne (écartée pour doute sur une personne, non nommée, ne se rouvre pas) et un établissement de travail protégé rattaché à Linselles. Aucun producteur ni magasin de producteurs à Wattrelos.
+- Site officiel de la Ville : accessible (200), mais aucune page de marchés ni de producteurs n'apparaît dans le menu ; seule la rubrique des marchés publics.
+- Recherche web : trois marchés à Wattrelos (mercredi après-midi, jeudi matin, vendredi matin), relevés seulement sur un guide de voyage et un agrégateur communautaire, sans confirmation par la Ville.
+
+**Vérifié.** Rien. Aucun commerce de producteurs n'est confirmé à Wattrelos par une source indépendante, et les trois marchés n'ont pas d'horaire confirmé par une source officielle. Le seuil de cinq fiches entières n'est pas atteint ; rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos, trois marchés : jours relevés sur des sources non officielles, à confirmer sur la page de la Ville ou auprès de la mairie. Aucune fiche.
+- Wattrelos, une entrée de vente directe au registre au nom d'une personne : écartée pour doute sur une personne, ne se rouvre pas.
+- Environs (hors Wattrelos) : magasins de producteurs de Bailleul, La Chapelle-d'Armentières et Vendeville repérés sur un guide de consommation, non relus cette passe : commune par commune, dans une passe qui les prendra pour commune.
+
+**Contradictions consignées (règle 5).** Aucune contradiction de fait sur une fiche ; les jours de marché diffèrent selon les sources qui les citent et restent à confirmer.
+
+**Demande en attente.** Une demande (sud-est du Var, producteur) reste en `en_cours` : doute sur une personne, aucune publication. Aucun message envoyé.
+
+**Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente ne le visait pas). Wattrelos : relire la page des marchés du site de la Ville, puis la mairie ; si rien ne se confirme, descendre à Marcq-en-Barœul ou Cambrai selon la règle de descente.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
