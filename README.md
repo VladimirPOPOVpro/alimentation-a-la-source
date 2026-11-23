@@ -58420,7 +58420,7 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 
 **Sources consultées.** Registre de l'Agence Bio pour 2B, première page (cent opérateurs). Trois opérateurs sont déclarés à Borgo, dont un vendant aux particuliers avec un site de production ; aucun n'a été éprouvé de bout en bout (existence sur source indépendante, activité au registre, adresse BAN, photo). Une passe sans vérification complète ne publie rien.
 
-**Fiches publiées.** Aucune. Aucune fiche n'a été vérifiée jusqu'au bout, et la sondage n'a pas atteint le seuil de cinq fiches entières dans une même commune.
+**Fiches publiées.** Aucune. Aucune fiche n'a été vérifiée jusqu'au bout, et le sondage n'a pas atteint le seuil de cinq fiches entières dans une même commune.
 
 **Point d'arrêt.** Passe suivante en Haute-Corse : éprouver Borgo, en commençant par le producteur déclaré en vente aux particuliers, puis les fiches désignées de Bastia et de Calvi selon les règles 258 et 424. La demande #13 reste à traiter sur son libellé, sans que son nom soit publié.
 
