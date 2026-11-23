@@ -58159,3 +58159,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Loire toujours ouverte, sans être visée deux passes de suite (la prochaine devra choisir une autre région). Si la Loire revient, Roanne : relire la page de l'office de tourisme (marchés, 2026) puis la page officielle de l'enseigne roannaise ; si rien ne se confirme, descendre à Firminy (17 060 habitants) selon la règle de descente.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, troisième passe du jour (Nord (59) repris, Marcq-en-Barœul sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : les premiers rangs sont des territoires d'outre-mer (règle 93, écartés) ; la métropole est en tête avec le Nord (59), la passe précédente ayant visé la Loire (42), la garde 41.c ne bloque donc pas le Nord. Commune : Wattrelos sondée puis écartée (voir ci-dessous) ; descente selon le point d'arrêt vers Marcq-en-Barœul.
+
+**Ce qui a été lu.**
+- Wattrelos, relecture : la page d'accueil du site de la Ville répond (200) mais ne porte aucun lien vers une rubrique marchés ou producteurs. Une recherche web ne donne que des sources tierces (annuaire de marchés participatif, guide de voyage) pour trois marchés, sans date ni confirmation de la Ville. Aucun producteur confirmé. Wattrelos reste sans fiche.
+- Marcq-en-Barœul : le site officiel de la Ville ne répond pas (000) à cette passe. Une recherche web signale des points de vente (un maraîcher chemin des Peupliers, un maraîcher rue de Bondues, un magasin de producteurs dont l'adresse est donnée à Wambrechies sur un annuaire et à Marcq dans un article de presse). Aucun horaire lu sur une source officielle.
+
+**Vérifié.** Rien. Aucune des fiches possibles n'a deux sources indépendantes concordantes ni d'horaire vérifié ; le seuil de cinq fiches entières n'est pas atteint. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Wattrelos, trois marchés : jours relevés sur des sources non officielles uniquement ; à confirmer sur une page de la Ville ou auprès de la mairie.
+- Marcq-en-Barœul, deux maraîchers en vente directe : adresses repérées sur des sources tierces, horaires et site officiel à lire ; à reprendre quand le site de la Ville répond.
+- Marcq-en-Barœul / Wambrechies, magasin de producteurs : adresse contradictoire entre un annuaire et un article de presse (règle 5) ; rien n'est publié tant que l'adresse n'est pas tranchée sur la page de l'enseigne.
+
+**Contradictions consignées (règle 5).** Adresse du magasin de producteurs de la métropole lilloise : Wambrechies dans l'annuaire, Marcq-en-Barœul dans l'article. Non tranché.
+
+**Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente était la Loire, pas le Nord ; mais le Nord a été visé à deux passes de suite aujourd'hui, donc la passe suivante devra choisir une autre région si la garde 41.c le demande). Marcq-en-Barœul : relire le site de la Ville quand il répond, et l'adresse de l'enseigne sur sa propre page. Ne pas contourner le blocage (436) du site de Cambrai.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
