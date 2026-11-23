@@ -58068,3 +58068,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Calvados reste ouvert. Lire le registre Agence Bio pour Lisieux (pages de cent, filtre ville) et la page officielle de la Ville d'Hérouville-Saint-Clair. Si aucune commune ne rend cinq commerces vérifiables, la règle 247 conduit à la commune suivante par population.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026 (Nord (59) reprise, Cambrai sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 177). Classement de la règle 41 : Nord (59) en tête à 4,7, la Normandie ayant été visée à la passe précédente, la réserve de la règle 41.c ne bloque pas le Nord. Commune de la descente : Cambrai (31 134 habitants), la plus peuplée du Nord sans fiche après Wattrelos, Marcq-en-Barœul, Lambersart, Armentières et Maubeuge, déjà sondées.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Cambrai : domaine cambrai.fr et ville-cambrai.fr injoignables depuis cet environnement ; le domaine villedecambrai.com, qui apparaît dans les résultats de recherche, n'a pas été ouvert pour cette passe.
+- Recherche web sur les marchés de Cambrai : un marché alimentaire le mercredi et le samedi matin, dans la halle couverte ; les horaires diffèrent selon les sources (7 h ou 8 h d'ouverture, 12 h 30 ou 13 h 30 de fermeture), contradiction consignée (règle 5).
+- Trois ou quatre vendeurs en vente directe trouvés par les annuaires tiers, hors marché. Deux d'entre eux portent le nom d'une personne (prénom ou patronyme d'exploitant) ; un autre est une exploitation identifiée par un patronyme.
+- Registre de l'Agence Bio, Nord : la première page de cent opérateurs (sur 1 799) ne contient aucun opérateur de Cambrai.
+
+**Pourquoi rien n'est publié.** Cambrai ne rend qu'un marché vérifiable, avec des horaires contradictoires, et aucun commerce de vente directe vérifiable sans doute sur une personne. Cinq commerces vérifiables sont loin d'être atteints.
+
+**Pistes non publiées (anonymes).**
+- Cambrai (59), marché alimentaire couvert : un seul point vérifié, horaires contradictoires entre sources. Déblocage : site officiel de la Ville lisible, et quatre autres points vérifiés dans la commune.
+- Cambrai (59), deux vendeurs en vente directe : nom de personne ou patronyme d'exploitant, doute sur une personne. Écartés pour ce motif, ne se rouvrent pas sans nouvelle source.
+- Cambrai (59), exploitation de vente directe de viande : nom d'une personne dans l'appellation, doute sur une personne. Écartée pour ce motif.
+
+**Fiches écartées pour doute sur une personne.** Trois cette passe (Cambrai, vente directe).
+
+**Point d'arrêt.** Passe suivante : Nord reste ouvert, mais la règle 41.c interdit de le viser la passe d'après. Descendre à la commune suivante par population dans le Nord sans fiche (Mons-en-Barœul, Coudekerque-Branche, Wasquehal), après relecture de leurs sites officiels. Si aucune ne rend cinq commerces vérifiables, la règle 247 conduit à la commune suivante.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
