@@ -58425,3 +58425,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante en Haute-Corse : éprouver Borgo, en commençant par le producteur déclaré en vente aux particuliers, puis les fiches désignées de Bastia et de Calvi selon les règles 258 et 424. La demande #13 reste à traiter sur son libellé, sans que son nom soit publié.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026 (Nord (59) reprise, Mons-en-Barœul, Coudekerque-Branche et Wasquehal sondées au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » (en_cours 1, intégrées 6, refusées 6). La demande en cours (Var, producteur) reste en « Pistes non publiées » : doute sur une personne, rien n'est publié, elle ne se rouvre pas sans nouvelle source. Aucun courriel envoyé.
+
+**Secteur.** Métropole seule (règle 93). Nord (59) retenu : il n'a pas été visé à la passe précédente (Haute-Corse), la garde 41.c ne bloque donc pas. Fiches comptées sur le code postal : 1 309. Communes du Nord sans fiche, par population : Mons-en-Barœul (21 105), Coudekerque-Branche (20 787), Wasquehal (20 726), Halluin (20 715), Denain (20 665).
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Nord, première page de 1 000 opérateurs (sur 1 799), filtrée sur les communes ci-dessus.
+- Mons-en-Barœul : deux points de vente recensés, tous deux des grandes surfaces généralistes, et une exploitation au nom d'une personne (écartée pour doute sur une personne, non nommée, ne se rouvre pas). Aucun magasin de producteurs ni commerce bio indépendant.
+- Coudekerque-Branche : un magasin bio en franchise (vente aux consommateurs, à vérifier sur la page de l'enseigne) et deux grandes surfaces, dont une exclue par la règle 3 de la décision.
+- Wasquehal : un magasin bio en franchise et un magasin de vente en ligne ou spécialisé non éprouvés, et une enseigne de magasins bio en réseau ; le reste relève de grandes surfaces ou de grossistes.
+
+**Vérifié.** Rien de bout en bout : aucune fiche n'a été éprouvée (existence sur source indépendante, activité au registre des entreprises, adresse BAN, photo). Une passe sans vérification complète ne publie rien.
+
+**Pourquoi rien n'est publié.** Aucune des trois communes ne rend cinq commerces de circuit court vérifiables : au mieux un ou deux magasins bio spécialisés par commune, et les grandes surfaces sont exclues par le cadre du site.
+
+**Pistes non publiées (anonymes).**
+- Mons-en-Barœul (59), exploitation en vente directe au nom d'une personne : doute sur une personne, écartée, ne se rouvre pas.
+- Coudekerque-Branche (59) et Wasquehal (59), magasins bio en franchise ou en réseau : une fiche possible chacun, à éprouver au site de l'enseigne et à la BAN. Insuffisant seul pour une passe.
+- Halluin (59), Denain (59) : registre relu cette passe sans commerce de circuit court identifié.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (Mons-en-Barœul, vente directe).
+
+**Point d'arrêt.** Le secteur du Nord est pauvre en commerces de circuit court permanents au registre des communes sans fiche ; la règle 247 conduit à la commune suivante par population si aucune ne rend cinq fiches. Passe suivante : relire le site de l'enseigne de Coudekerque-Branche et celui de Wasquehal, puis Halluin et Denain ; si rien ne se confirme, descendre.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
