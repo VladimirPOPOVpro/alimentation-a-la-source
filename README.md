@@ -58021,3 +58021,27 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : la garde 41.c écarte les Hauts-de-France (région de cette passe). Si la Ville de Nogent-sur-Oise répond, relire sa page marchés ; sinon, Senlis (15 157 habitants, sans fiche) selon la règle 41.d, si l'Oise reste visée.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026 (Calvados (14) reprise, Hérouville-Saint-Clair sondée au registre bio : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Aucune demande en cours à traiter cette passe.
+
+**Secteur, règles 41, 41.c, 93, 247 et 410.** Métropole seule, outre-mer exclu (règle 93). 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). La passe précédente visait l'Oise (Hauts-de-France) : la garde 41.c écarte cette région. Classement relu depuis le premier rang : Nord (59) en veille, Haute-Garonne (31) épuisée, Seine-Saint-Denis (93) à la borne de la règle 247, Val-de-Marne (94) épuisé, Oise (60) close, Loire (42) close. Premier département ouvert hors Hauts-de-France : **Calvados (14, Normandie)**, descente en cours depuis la passe du 22 novembre.
+
+**Commune, règle 247.** La descente reprend à la commune suivante sans fiche. Hérouville-Saint-Clair est la première de ce cas à relire.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 14, une page de cent entrées. Trois entrées mentionnent Hérouville-Saint-Clair : une importation, une distribution et une préparation, aucune ne déclare de vente aux particuliers. Aucun point de vente à retenir.
+- Aucune nouvelle source de marché ou de producteur à Hérouville-Saint-Clair n'a été ouverte cette passe ; la page officielle de la Ville, à relire, reste à consulter.
+
+**Pourquoi rien n'est publié.** Aucun commerce vérifiable avec deux sources indépendantes à Hérouville-Saint-Clair : le registre n'identifie que des entreprises de négoce ou de préparation, sans vente au public. Aucune fiche, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Hérouville-Saint-Clair (14), registre bio : trois entrées sans vente aux particuliers. Écartées. Ne se rouvrent pas sans nouvelle source.
+- Hérouville-Saint-Clair (14), marché : page de la Ville à relire. Déblocage : jour et lieu du marché publiés par la Ville, plus une deuxième source.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Calvados reste ouvert. Relire la page officielle de la Ville d'Hérouville-Saint-Clair ; si elle ne rend aucun commerce vérifiable, passer à la commune suivante sans fiche de Calvados par population, selon la règle 247 (borne de douze communes éprouvées au total pour cette descente).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
