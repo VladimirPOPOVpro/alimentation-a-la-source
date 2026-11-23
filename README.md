@@ -58451,3 +58451,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Le secteur du Nord est pauvre en commerces de circuit court permanents au registre des communes sans fiche ; la règle 247 conduit à la commune suivante par population si aucune ne rend cinq fiches. Passe suivante : relire le site de l'enseigne de Coudekerque-Branche et celui de Wasquehal, puis Halluin et Denain ; si rien ne se confirme, descendre.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, seizième passe du jour (Haute-Garonne (31), groupe du Muretain sondé : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : outre-mer exclu par la règle 93 ; le Nord (59) est écarté par la garde 41.c (région visée la passe précédente) ; la Haute-Garonne (31) est retenue, la région Occitanie n'ayant pas été visée la passe précédente. Commune la plus peuplée du département sans fiche : Muret (26 079 habitants), déjà sondée trois fois ce jour.
+
+**Ce qui a été lu.**
+- Office de tourisme du Muretain, page « Producteurs locaux » : une cinquantaine d'exploitations listées avec coordonnées, labels et mode de vente. Beaucoup sont à nom de personne (écartées, règle de personnes) ; plusieurs sont des magasins ou des fermes sans horaires publiés.
+- Registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs : aucun vendeur aux particuliers à Muret ; deux entrées de vente directe à Saint-Lys et Seysses sont à nom de personne (non reprises).
+- Sites officiels de la Ville de Muret et de l'office : non joignables depuis cet environnement lors de cette passe (réponse 403 aux requêtes de ligne de commande ; le navigateur n'a lu que la page de l'office).
+
+**Vérifié.** Rien ne franchit le seuil. Une exploitation maraîchère et aquaponique de Pinsaguel (fiche de l'office, site propre, activité au registre) reste la seule candidate solide du groupe, sans rattachement à cinq autres fiches vérifiées. Les autres entrées sont écartées pour absence d'horaires, d'activité vérifiée au registre ou de source indépendante. Le seuil de cinq fiches entières n'est pas atteint ; rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Muret, marché de producteurs du mardi après-midi : horaires contradictoires entre source participative et office de tourisme (voir contradiction ci-dessous).
+- Muret, magasin bio coopératif : horaires à lire sur la page de l'enseigne.
+- Pinsaguel, ferme maraîchère et aquaponique : candidate solide, vérifiée sur sa propre source et au registre, mais seule dans son groupe. À rattacher à une passe qui réunira cinq fiches voisines.
+- Saint-Lys, ferme de volailles en vente directe : une seule source (annuaire de l'office), pas de site, pas d'horaires.
+- Saint-Lys, ferme de fruits en libre cueillette : deux sources concordantes, mais aucune inscription au registre trouvée.
+- Quatre ou cinq exploitations de la liste de l'office sont à nom de personne : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Horaires du marché de Muret : mardi 17 h - 19 h (source participative) contre mardi 8 h - 13 h (office de tourisme). Non tranché.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs cette passe, toutes dans le groupe du Muretain ; elles ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante l'a encore retenu. Relire le site de la Ville de Muret et la page des marchés dès qu'ils répondent ; sinon descendre à Plaisance-du-Touch, puis à Balma, en gardant la règle de groupement (cinq fiches voisines, même office).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
