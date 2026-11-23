@@ -58045,3 +58045,26 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Calvados reste ouvert. Relire la page officielle de la Ville d'Hérouville-Saint-Clair ; si elle ne rend aucun commerce vérifiable, passer à la commune suivante sans fiche de Calvados par population, selon la règle 247 (borne de douze communes éprouvées au total pour cette descente).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026 (fin de matinée, Calvados (14) reprise, Lisieux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » depuis octobre (Var, producteur, adresse et contact renseignés par le visiteur, nom comportant un prénom) : doute sur une personne, rien n'est publié, elle reste en « Pistes non publiées ».
+
+**Secteur.** Calvados (14) reste la descente en cours ; la règle 41.c écarte la Normandie si elle est visée deux passes de suite, mais Calvados n'a pas été visé à la passe précédente (Oise). Commune éprouvée : Hérouville-Saint-Clair, relue, puis Lisieux, la commune suivante par population.
+
+**Ce qui a été lu.**
+- Recherche web sur les marchés d'Hérouville-Saint-Clair : une seule source (article d'un site régional, non daté) donne un marché le mercredi matin et le samedi matin ; la page officielle de la Ville n'a pas été trouvée. Une source, pas deux : rien n'est publié.
+- Recherche web sur Lisieux : l'office de tourisme (page « marchés », mise à jour en juin 2024) ne nomme aucun producteur ni marché permanent dans le texte lisible ; les autres résultats sont un marché de Noël, une épicerie bio à Livarot (hors Lisieux, non vérifiée) et des annuaires tiers. Aucun commerce vérifiable à Lisieux avec deux sources indépendantes.
+
+**Pourquoi rien n'est publié.** Aucune commune éprouvée cette passe ne rend cinq commerces vérifiables : les marchés n'ont pas de jour confirmé par une source officielle, et les AMAP ou magasins de producteurs trouvés sont hors commune ou non vérifiés.
+
+**Pistes non publiées (anonymes).**
+- Hérouville-Saint-Clair (14), marché : jours signalés par un seul article non daté. Déblocage : page officielle de la Ville ou second site.
+- Lisieux (14), marché de producteurs : pas de liste permanente lisible. Déblocage : registre Agence Bio ou site de la Ville.
+- Var (83), producteur, demande en cours : nom comportant un prénom, doute sur une personne. Écartée pour ce motif, ne se rouvre pas sans nouvelle source.
+
+**Fiches écartées pour doute sur une personne.** Une cette passe (demande en cours ci-dessus, Var).
+
+**Point d'arrêt.** Passe suivante : Calvados reste ouvert. Lire le registre Agence Bio pour Lisieux (pages de cent, filtre ville) et la page officielle de la Ville d'Hérouville-Saint-Clair. Si aucune commune ne rend cinq commerces vérifiables, la règle 247 conduit à la commune suivante par population.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
