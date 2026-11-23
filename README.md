@@ -58497,3 +58497,20 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : la Seine-Saint-Denis est visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante le retient à nouveau. Reprendre à Noisy-le-Grand, puis Drancy, en gardant la règle de groupement (cinq fiches voisines, même commune).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026, dix-huitième passe du jour (Nord (59) repris, registre bio relu : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches, outre-mer exclu : Nord (59) en tête, non visé la passe précédente (Seine-Saint-Denis), garde 41.c non bloquante.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, 1 799 opérateurs (dix-neuf pages de cent) filtrés sur « vente aux particuliers » et adresse active. La plupart des entrées sont des exploitations dont le nom est celui d'une personne physique : écartées, règle de personnes. Les rares entrées de sociétés, de coopératives ou de magasins n'ont pas été éprouvées ce jour, faute de sources indépendantes lisibles dans cette passe.
+
+**Vérifié.** Rien ne franchit le seuil. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Nord, plusieurs communes du bassin lillois et valenciennois : exploitations en vente directe au registre, à nom de personne : écartées, ne se rouvrent pas.
+- Nord, grande distribution et boulangeries au registre : hors sujet (règle de commerce généraliste).
+
+**Point d'arrêt.** Passe suivante : Nord ouvert, mais visé aujourd'hui. Les communes sans fiche doivent être relues sur leur propre site de marchés avant toute nouvelle descente.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
