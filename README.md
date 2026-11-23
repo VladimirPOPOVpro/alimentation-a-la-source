@@ -58229,3 +58229,32 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente visait Wattrelos, pas le Nord ; garde 41.c non bloquante). Relire la page des marchés de Wattrelos sur le site de la Ville, puis tenter Marcq-en-Barœul si son site répond.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, sixième passe du jour (Haute-Garonne (31), Muret sondée à nouveau : aucune publication)
+
+**Secteur.** Métropole seule (règle 93, outre-mer et collectivités 97x et 98x exclues du calcul). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : Nord (59) en tête, ≈ 6,8, mais la passe précédente l'ayant visé, la garde 41.c l'écarte ; Haute-Garonne (31) ≈ 5,1, non visée par la passe précédente, donc ouverte. Commune : Muret (26 079 habitants), la plus peuplée du département sans fiche (Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux ont déjà des fiches).
+
+**Ce qui a été lu.**
+- Site officiel de la Ville (mairie-muret.fr) : répond ce matin avec un navigateur, pas avec un client de ligne de commande ; aucune page de marchés de producteurs. Seules des pages d'agenda (marché de Noël, 29 novembre).
+- Office de tourisme du Muretain (tourisme.agglo-muretain.fr) : page « Producteurs locaux », qui liste une quinzaine d'exploitations du Muretain avec coordonnées, labels et mode de vente. C'est la source la plus utile lue jusqu'ici pour ce secteur.
+- Registre des entreprises : une quinzaine d'entrées de producteurs de la liste vérifiées une à une ; le registre de l'Agence Bio (première page, cent opérateurs de la Haute-Garonne) ne donne aucun vendeur aux particuliers à Muret.
+- Recherche web et fiches régionales (Tourisme Occitanie) : deux fiches de fermes concordant avec la liste de l'office.
+
+**Vérifié.** Rien ne franchit le seuil. Une exploitation maraîchère et aquaponique de la commune voisine de Pinsaguel est vérifiée par son site propre, son registre (société active, un établissement ouvert) et la fiche régionale : elle seule tient à elle seule. Une ferme de volailles de Saint-Lys est active au registre et listée par l'office, sans site ni horaires : à confirmer. Le seuil de cinq fiches entières dans un même groupe (Muret ou le Muretain) n'est pas atteint ; rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Muret, marché de producteurs du mardi : horaires encore contradictoires (source participative : 17 h - 19 h ; office de tourisme : 8 h - 13 h). Aucune page officielle de la Ville ne le confirme. Non tranché.
+- Pinsaguel, ferme maraîchère et aquaponique (société active au registre, un établissement ouvert, site propre lu) : vente à la ferme le mercredi, de 16 h à 17 h 30 sur commande de novembre à avril et de 16 h à 19 h de mai à octobre ; marché du dimanche de 8 h à 12 h 30 sur le parking du château. Candidate solide, vérifiée, mais seule dans son groupe : à rattacher à une passe qui en trouverait quatre autres dans le Muretain.
+- Saint-Lys, ferme de volailles en vente directe (société active au registre) : une seule source (annuaire de l'office), pas de site, pas d'horaires. À confirmer.
+- Saint-Lys, ferme de fruits en libre cueillette (cassis, groseilles, myrtilles) : deux fiches régionales concordantes, site de la ferme injoignable ce matin, aucune inscription au registre trouvée. Non publiable en l'état.
+- Pins-Justaret, ferme de légumes en vente directe : entreprise individuelle au registre, une seule source, pas de site. Écartée pour l'instant.
+- Le Fauga, ferme de légumes, œufs et fruits en vente directe : entreprise individuelle, une seule source. Écartée pour l'instant.
+- Muret, producteur de céréales et de légumes annoncé en vente directe par l'office : aucune inscription au registre à Muret, l'identité juridique relevée est établie dans une autre commune. Écartée pour doute sur l'identité de l'exploitant.
+- Seysses et Fonsorbes, fermes à noms de personnes sur l'annuaire de l'office, adresses contradictoires entre les fiches : écartées pour doute sur une personne, ne se rouvrent pas.
+- Muret, magasin bio coopératif et marché de Muret : déjà notés lors des passes précédentes, non repris.
+
+**Contradictions consignées (règle 5).** Horaires du marché de Muret : mardi 17 h - 19 h (source participative) contre mardi 8 h - 13 h (office de tourisme). Non tranché, rien n'est publié.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours ouverte mais visée aujourd'hui, la garde 41.c l'écartera si la passe suivante est encore sur 31. Le Muretain dispose maintenant d'une liste d'exploitations sérieuse (page « Producteurs locaux » de l'office) : relire les fiches de la liste une à une, vérifier chacune au registre et sur son site, et ne publier que si cinq fiches tiennent ensemble.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
