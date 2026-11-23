@@ -58409,3 +58409,19 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : ni la Loire (Auvergne-Rhône-Alpes, passe de ce jour) ni la Corse ne sont à reprendre en seconde passe de suite si la garde 41.c le demande. Haute-Corse : commencer par les fiches désignées de Bastia et de Calvi, puis Borgo selon la règle 41.d.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, quatorzième passe du jour (Haute-Corse (2B), Borgo sondée au registre : aucune publication)
+
+**Backlog.** Une demande, au statut « en_cours » (#13, commune du Var, catégorie producteur). Aucune au statut « nouvelle ». Le libellé de l'enseigne comporte un prénom, et la demande joint une adresse privée : doute sur une personne, donc rien n'est publié et aucun message n'est envoyé. La demande reste « en_cours ». Piste consignée ci-dessous, anonymement.
+
+**Pistes non publiées (anonymes).** Commune du Var (83), catégorie producteur, demande #13 : libellé pouvant désigner une personne, en attente, rien publié.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, population et fiches comptées comme aux passes précédentes. Réserve 41.c : la passe précédente visait la Haute-Corse, département exclu de cette passe. Classement non recalculé en détail ici ; Borgo (2B) est la commune la plus peuplée de la Haute-Corse sans fiche, conformément à la règle 41.d et au point d'arrêt de la passe précédente.
+
+**Sources consultées.** Registre de l'Agence Bio pour 2B, première page (cent opérateurs). Trois opérateurs sont déclarés à Borgo, dont un vendant aux particuliers avec un site de production ; aucun n'a été éprouvé de bout en bout (existence sur source indépendante, activité au registre, adresse BAN, photo). Une passe sans vérification complète ne publie rien.
+
+**Fiches publiées.** Aucune. Aucune fiche n'a été vérifiée jusqu'au bout, et la sondage n'a pas atteint le seuil de cinq fiches entières dans une même commune.
+
+**Point d'arrêt.** Passe suivante en Haute-Corse : éprouver Borgo, en commençant par le producteur déclaré en vente aux particuliers, puis les fiches désignées de Bastia et de Calvi selon les règles 258 et 424. La demande #13 reste à traiter sur son libellé, sans que son nom soit publié.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
