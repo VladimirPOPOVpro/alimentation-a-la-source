@@ -58478,3 +58478,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante l'a encore retenu. Relire le site de la Ville de Muret et la page des marchés dès qu'ils répondent ; sinon descendre à Plaisance-du-Touch, puis à Balma, en gardant la règle de groupement (cinq fiches voisines, même office).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, dix-septième passe du jour (Seine-Saint-Denis (93), Aulnay-sous-Bois sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : Nord (59) et Oise (60) écartés par la règle 247 (descente épuisée) ; Haute-Garonne (31) exclue par la garde 41.c, la passe précédente ayant visé l'Occitanie ; la Seine-Saint-Denis (93) est retenue, l'Île-de-France n'ayant pas été visée la passe précédente. Commune la plus peuplée du département sans fiche : Aulnay-sous-Bois (87 599 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Seine-Saint-Denis, cinq pages de cent opérateurs filtrées sur la ville : une vingtaine d'entrées, dont l'essentiel relève de la grande distribution, de boulangeries ou d'établissements sans vente aux particuliers. Plusieurs entrées sont à nom de personne : écartées, règle de personnes. Aucune exploitation ni magasin de producteurs identifié.
+- Recherche web généraliste sur les marchés et les circuits courts d'Aulnay : les marchés sont recensés par un annuaire participatif, sans horaires ni vendeurs vérifiables ; aucune AMAP ni boutique bio de la commune n'apparaît dans les résultats.
+
+**Vérifié.** Rien ne franchit le seuil. Aucune fiche ne remplit les conditions de source indépendante, d'activité au registre et d'horaires vérifiés. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Aulnay-sous-Bois, marchés de la commune : trois marchés recensés par un annuaire participatif, non identifiés sur des sources officielles (site de la Ville, à relire quand il répond).
+- Aulnay-sous-Bois, épicerie de produits régionaux : une seule source, pas d'horaires.
+- Aulnay-sous-Bois, entrées du registre à nom de personne : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Point d'arrêt.** Passe suivante : la Seine-Saint-Denis est visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante le retient à nouveau. Reprendre à Noisy-le-Grand, puis Drancy, en gardant la règle de groupement (cinq fiches voisines, même commune).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
