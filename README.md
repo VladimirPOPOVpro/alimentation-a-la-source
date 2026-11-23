@@ -58393,3 +58393,19 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : la Loire reste ouverte, mais pas en seconde passe de suite (la prochaine devra prendre une autre région si la garde 41.c le demande). Montbrison : relire `montbrison.fr` quand le certificat répond, la page des marchés de la Ville, et la page de l'office de tourisme pour le marché du samedi. Si rien ne se confirme, la descente passe à Rive-de-Gier (15 242 habitants) ou à Riorges selon la règle 41.d.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, treizième passe du jour (Haute-Corse (2B) sondée : aucune publication)
+
+**Backlog.** Vide : aucune demande au statut « nouvelle », aucune à relancer. Rien à traiter au titre du point 1 de `AGENT.md`.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule (règle 93), 1 309 fiches comptées sur le code postal (Corse découpée en 2A et 2B, règle de la passe du 6 octobre), populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait la Loire (Auvergne-Rhône-Alpes), région exclue pour cette passe. Nord (59), Haute-Garonne (31) et Oise (60) restent closes par les passes précédentes. Classement après exclusions : Haute-Corse (2B) déficit ≈ 3,55, premier département ouvert ; Corse entière (2A + 2B) ≈ 3,75. Haute-Corse retenue.
+
+**Sources consultées.** Registre de l'Agence Bio pour 2A et 2B, cent opérateurs chacun (première page, pagination non poursuivie). Il y a des opérateurs à Ajaccio, Porto-Vecchio, Propriano, Sartène, Bonifacio, Calvi, Bastia, Biguglia, Ghisonaccia, Aléria, Borgo, Oletta, Patrimonio, Saint-Florent et autres communes ; aucun n'a été éprouvé à cette passe.
+
+**Fiches publiées.** Aucune. Aucune fiche n'a été vérifiée de bout en bout (existence, activité au registre, adresse BAN, photo) : une passe sans vérification complète ne publie rien.
+
+**Pistes à éprouver à la prochaine passe en Haute-Corse.** Borgo (10 311 habitants, aucune fiche à ce jour) est la commune la plus peuplée de 2B sans fiche, à laquelle la règle 41.d renvoie. Les fiches désignées de Bastia (règles 258 et 418) et de Calvi (règle 424) restent en attente, leur déblocage n'ayant pas été relu aujourd'hui.
+
+**Point d'arrêt.** Passe suivante : ni la Loire (Auvergne-Rhône-Alpes, passe de ce jour) ni la Corse ne sont à reprendre en seconde passe de suite si la garde 41.c le demande. Haute-Corse : commencer par les fiches désignées de Bastia et de Calvi, puis Borgo selon la règle 41.d.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
