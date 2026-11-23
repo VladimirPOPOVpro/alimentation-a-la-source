@@ -58180,3 +58180,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente était la Loire, pas le Nord ; mais le Nord a été visé à deux passes de suite aujourd'hui, donc la passe suivante devra choisir une autre région si la garde 41.c le demande). Marcq-en-Barœul : relire le site de la Ville quand il répond, et l'adresse de l'enseigne sur sa propre page. Ne pas contourner le blocage (436) du site de Cambrai.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, quatrième passe du jour (Haute-Garonne (31), Muret sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches, outre-mer et Polynésie / Nouvelle-Calédonie (codes 98x et 987/988) écartés par la règle 93 : le Nord (59) est en tête, mais la passe précédente l'ayant visé, la garde 41.c l'écarte. Le département retenu est la Haute-Garonne (31), déficit ≈ 5,1, région non visée les passes précédentes. Commune : Muret (26 079 habitants), la plus peuplée du département sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs : pour Muret, des entrées à nom de personne (non reprises, règle de personnes) et une entrée de vente en gros. Un hypermarché de la commune voisine de Pinsaguel écarté (supermarché, MODERATION.md).
+- Recherches web : une seule source (annuaire participatif de marchés) donne un marché de producteurs à Muret, le mardi de 17 h à 19 h ; une fiche de l'office de tourisme du Muretain (Cirkwi, janvier 2026) donne un marché le mardi de 8 h à 13 h. Les deux horaires diffèrent : contradiction consignée (règle 5), rien n'est publié sur ces horaires.
+- Le site de la Ville (mairie-muret.fr) ne répond pas aux recherches ; aucune page officielle de marché trouvée.
+- Un magasin bio à Muret (enseigne coopérative) : horaires lus sur un site participatif uniquement. Non publié faute de page officielle.
+- Plaisance-du-Touch (descente de la liste) : aucun jour de marché confirmé ; une fromagerie locale trouvée sur un annuaire postal, sans confirmation de vente au marché.
+- Balma (descente) : un guide des commerçants de la Ville daté de 2021 cite un marché de plein vent le mercredi et le samedi ; rien de vérifié sur les producteurs. Castanet-Tolosan (descente) : un marché de producteurs le vendredi et le samedi selon des sources hétérogènes (2015 à 2026) ; aucune page officielle lue.
+
+**Vérifié.** Rien. Aucun commerce de producteurs n'a une source officielle et une source indépendante concordantes à Muret, Plaisance-du-Touch, Balma ou Castanet-Tolosan ; le seuil de cinq fiches entières n'est pas atteint. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Muret, marché de producteurs du mardi après-midi (source participative) : horaires contradictoires avec la fiche de l'office de tourisme (mardi matin). À trancher sur la page officielle de la Ville ou de l'office.
+- Muret, magasin bio coopératif : horaires à lire sur la page de l'enseigne.
+- Muret, point de vente à la ferme ou cagette : une entrée participative, écartée pour doute sur une personne (le nom de l'exploitant y figure). Ne se rouvre pas.
+- Plaisance-du-Touch, fromagerie locale : adresse sur annuaire, vente au marché non confirmée.
+- Balma, marché de plein vent du mercredi et samedi : guide de 2021, à relire sur le site de la Ville.
+- Castanet-Tolosan, marchés du vendredi (halle) et du samedi (place) : à confirmer sur le site de la Ville.
+
+**Contradictions consignées (règle 5).** Horaires du marché de Muret : mardi 17 h-19 h (participatif) contre mardi 8 h-13 h (office de tourisme). Non tranché.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours ouverte (non visée la passe précédente, donc la garde 41.c ne la bloque pas, mais elle a été visée aujourd'hui : la passe suivante devra choisir une autre région si la garde le demande). Muret : relire le site de la Ville et la page de l'office de tourisme du Muretain ; si rien ne se confirme, descendre à Plaisance-du-Touch selon la règle de descente.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
