@@ -58136,3 +58136,26 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord toujours ouvert (la passe précédente ne le visait pas). Wattrelos : relire la page des marchés du site de la Ville, puis la mairie ; si rien ne se confirme, descendre à Marcq-en-Barœul ou Cambrai selon la règle de descente.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, seconde passe du jour (Loire (42), Roanne sondée, Firminy en piste : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : les sept premiers rangs sont des territoires d'outre-mer (règle 93, écartés) ; le Nord (59) est écarté par la garde 41.c, la passe précédente l'ayant visé. Le département retenu est la Loire (42), Auvergne-Rhône-Alpes, région non visée depuis le 2 novembre. Commune : Roanne (35 409 habitants), toujours la plus peuplée de la Loire sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Loire : un opérateur vendant aux particuliers à Roanne (un magasin bio d'une enseigne nationale, à l'adresse de la rue de Bapaume), et des opérateurs de distribution en gros sans vente directe. Aucun magasin de producteurs à Roanne dans la première page de cent opérateurs.
+- Registre des entreprises : l'établissement roannais de l'enseigne est ouvert. Aucune page officielle de l'enseigne ni horaires trouvés.
+- Recherche web sur le marché de la place du Marché : Loiretourisme donne mardi et vendredi, 8 h à 12 h 30, toute l'année ; la brochure de l'office de tourisme (2024) ne cite que le vendredi matin. Contradiction consignée (règle 5) : rien n'est publié sur ces jours, faute de confirmation 2026.
+- Firminy : une annonce de marché du 2 octobre au 31 décembre 2026 (source d'agenda, non officielle) ; un magasin bio d'un réseau coopératif, rue Dorian, mentionné par un guide 2025 sans horaires lus sur sa page officielle.
+
+**Vérifié.** Rien. Aucun commerce de producteurs n'est confirmé à Roanne ni à Firminy par une source officielle, et le seuil de cinq fiches entières n'est pas atteint. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Roanne, marché de la place du Marché : deux jours (mardi et vendredi, ou vendredi seul) selon les sources, à trancher sur la page en cours de l'office de tourisme.
+- Roanne, magasin bio de l'enseigne nationale : ouvert au registre, horaires et page officielle à lire.
+- Roanne, éleveur vendant de la viande au marché, source de 2020 seulement. Non publié.
+- Firminy, magasin bio du réseau coopératif : enseigne d'un réseau, pas un magasin indépendant ; à traiter seulement si une fiche de producteurs le justifie.
+- Renaison (hors Roanne, environ 20 km), marché de producteurs le samedi matin selon une brochure 2024 : à reprendre dans une passe où elle devient la commune de la descente.
+
+**Point d'arrêt.** Passe suivante : Loire toujours ouverte, sans être visée deux passes de suite (la prochaine devra choisir une autre région). Si la Loire revient, Roanne : relire la page de l'office de tourisme (marchés, 2026) puis la page officielle de l'enseigne roannaise ; si rien ne se confirme, descendre à Firminy (17 060 habitants) selon la règle de descente.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
