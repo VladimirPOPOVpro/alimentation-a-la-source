@@ -58258,3 +58258,26 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours ouverte mais visée aujourd'hui, la garde 41.c l'écartera si la passe suivante est encore sur 31. Le Muretain dispose maintenant d'une liste d'exploitations sérieuse (page « Producteurs locaux » de l'office) : relire les fiches de la liste une à une, vérifier chacune au registre et sur son site, et ne publier que si cinq fiches tiennent ensemble.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, septième passe du jour (Nord (59), Armentières et Lambersart sondées sur le web : aucune publication)
+
+**Secteur.** Métropole seule (règle 93, outre-mer et collectivités 97x et 98x exclues). Backlog vide. Déficit recalculé sur 1 309 fiches : Nord (59) en tête des départements métropolitains ; la passe précédente visait la Haute-Garonne (31), donc la garde 41.c ne bloque pas le Nord. Commune : Armentières (26 998 habitants), la plus peuplée du Nord qui a encore une fiche à zéro après Maubeuge et Lambersart (voir passes précédentes pour Wattrelos et Marcq-en-Barœul, sans suite).
+
+**Ce qui a été lu.**
+- Site officiel de la Ville d'Armentières : répond (200) ; la rubrique « marchés publics » est une page administrative, aucune page de marché de producteurs.
+- Recherche web sur Armentières, Lambersart et Maubeuge : annuaires participatifs (jours de marché) et Que Choisir (carte des circuits courts) seulement ; aucune source officielle de commune ne liste de producteurs.
+- Maubeuge : la Halle gourmande a ouvert fin août 2025 selon un avis d'appel à manifestation d'intérêt de la Ville, mais aucune adresse, aucun horaire et aucune liste de producteurs n'ont pu être lus.
+
+**Vérifié.** Rien ne franchit le seuil de cinq fiches entières dans un même groupe. Une seule enseigne de magasin de producteurs à Armentières-Chapelle voisine (La Chapelle-d'Armentières) a une adresse concordante, mais ses horaires ne sont lus que sur un annuaire participatif : non publiée.
+
+**Pistes non publiées (anonymes).**
+- La Chapelle-d'Armentières, magasin de producteurs : adresse concordante, horaires absents des sources lues. À relire sur le site de l'enseigne.
+- La Chapelle-d'Armentières, primeur avec fruits bio et produits fermiers : horaires partiels (mardi seul, lu sur un annuaire). Écartée pour l'instant.
+- Lambersart : trois marchés recensés par un annuaire participatif, jours et heures non confirmés par la Ville. Non publiés.
+- Maubeuge, Halle gourmande : existence confirmée par un avis municipal, adresse et horaires manquants. À reprendre sur la page de la Ville ou de la Halle.
+
+**Contradictions consignées (règle 5).** Aucune contradiction tranchée cette passe ; les sources lues sont incomplètes plutôt qu'opposées.
+
+**Point d'arrêt.** Passe suivante : le Nord reste ouvert mais visé aujourd'hui, la garde 41.c l'écartera si la passe suivante est encore sur 59. Pour que la commune tienne, il faut les pages de la Halle gourmande de Maubeuge et les sites des magasins de la Chapelle-d'Armentières, lisibles directement depuis la session.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
