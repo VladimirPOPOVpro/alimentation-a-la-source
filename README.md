@@ -58308,3 +58308,20 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : la Loire ne peut pas être visée (règle 41.c, deux passes de suite interdites dans une même région). Le classement recalculé donne ensuite la Hérault (34) ou les Yvelines (78) ; à recalculer au moment de la passe. Si la Loire revient plus tard : Roanne, relire la page 2026 de l'office de tourisme et la page officielle de l'enseigne roannaise avant Firminy.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, neuvième passe du jour (Nord (59) repris, registre bio relu sur les communes sans fiche : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches : le Nord (59) reste en tête de la métropole ; la passe précédente visait la Loire (42), la garde 41.c ne bloque donc pas le Nord. Commune : la plus peuplée du Nord sans aucune fiche reste Wattrelos (40 847 habitants), déjà sondée deux fois aujourd'hui sans confirmation ; la passe descend donc aux communes suivantes sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, 1 799 opérateurs parcourus, filtrés sur les communes sans fiche les plus peuplées (La Madeleine, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Croix, Grande-Synthe, Ronchin, Cambrai, Maubeuge, Lambersart, Armentières, Marcq-en-Barœul, Wattrelos) : aucun établissement de vente au détail confirmé. Les entrées retrouvées sont des préparateurs, des distributeurs en gros ou des entrepôts ; une entrée de vente aux particuliers à Marcq-en-Barœul / Avelin relève d'une activité de préparation et n'a pas de point de vente identifié.
+- Site officiel de Wattrelos : répond (200), toujours sans rubrique marchés ni producteurs repérable.
+- Site officiel de Marcq-en-Barœul : ne répond pas (000) à cette passe.
+
+**Vérifié.** Rien. Aucun commerce du secteur n'a une source officielle ou une source indépendante concordante. Le seuil de cinq fiches entières n'est pas atteint ; rien n'est publié.
+
+**Pistes non publiées (anonymes).** Rien de nouveau par rapport aux passes précédentes : Wattrelos (marchés relevés sur sources non officielles), Marcq-en-Barœul (deux maraîchers en vente directe repérés sur sources tierces, site de la Ville injoignable), magasin de producteurs de la métropole lilloise dont l'adresse reste contradictoire (règle 5). Une entrée de vente aux particuliers au registre, à Marcq-en-Barœul, est écartée pour doute sur une personne : ne se rouvre pas.
+
+**Point d'arrêt.** Passe suivante : Nord toujours éligible ; la commune à reprendre est Marcq-en-Barœul quand son site répond, puis Wattrelos si la page de la Ville porte enfin un lien vers les marchés. Sinon, sortir du Nord et laisser la formule choisir.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
