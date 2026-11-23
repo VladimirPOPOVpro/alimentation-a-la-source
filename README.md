@@ -58365,3 +58365,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : le département à viser est la Loire (42), déficit ≈ 3,7, région différente de la passe précédente (Île-de-France). La commune se choisit au moment de la passe, selon la règle 41.d et la règle 247 : Roanne et Firminy sont déjà éprouvées, donc elles ne se rouvrent pas sans déblocage nommé.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, douzième passe du jour (Loire (42), Montbrison sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande au statut « nouvelle », aucune à relancer. Déficit recalculé sur 1 309 fiches, populations `geo.api.gouv.fr` : les premiers rangs sont des territoires d'outre-mer (règle 93, écartés) ; le Nord (59) est écarté par la garde 41.c, la passe précédente l'ayant visé ; la Haute-Garonne (31) et l'Oise (60) sont closes ; la Loire (42), déficit ≈ 3,75, est le premier département ouvert hors Hauts-de-France, région non visée depuis le 2 novembre.
+
+**Commune.** La descente de la Loire ne peut pas reprendre à Saint-Étienne (cinq fiches déjà publiées), ni à Saint-Chamond (une fiche), ni à Saint-Just-Saint-Rambert (deux fiches) : la règle 41.d demande la commune la plus peuplée **sans aucune fiche**. Roanne et Firminy sont éprouvées (règle 247). Commune retenue : **Montbrison** (16 123 habitants), sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Loire, première page de cent opérateurs : aucun opérateur dont l'adresse est à Montbrison.
+- Site officiel de la Ville (`montbrison.fr`) : le certificat TLS ne correspond pas à l'adresse, la page n'a pas pu être lue. Ce n'est pas contourné ; la source reste à lire quand le site répond.
+- Office de tourisme Rendez-vous en Forez : fiche du marché de Moingt (mercredi, 6 h 30 à 13 h, place des Jouets-Gégé) ; liste des marchés du Forez (52 résultats, Montbrison y figure) ; liste des producteurs, où Montbrison compte au moins deux entrées ; page de la boutique Origine Forez, dont le point de retrait est le bureau d'information touristique de Montbrison.
+- Recherche web sur le marché de Montbrison : le samedi matin de 8 h à 13 h, rue Tupinerie, sur deux agrégateurs (`temps-de-cuisson.fr`, `le-guide-des-marches.com`), sans confirmation par la Ville.
+
+**Vérifié.** Trois points sur quatre requis au plus (règles 52 et 247), et aucun commerce de producteurs n'est confirmé par une source officielle à Montbrison : les deux marchés sont des fiches « marché », pas des commerces, et le seul producteur du registre de l'Agence Bio n'est pas à Montbrison même. Sous le seuil de cinq fiches entières, rien n'est publié à Montbrison.
+
+**Pistes non publiées (anonymes).**
+- Montbrison, marché du samedi matin : horaires consensuels (8 h à 13 h) mais une seule source agrégée sur la rue, la Ville injoignable. Non publié.
+- Montbrison, marché de Moingt (mercredi) : fiche de l'office de tourisme ; le téléphone publié (04 77 96 18 18) est celui du marché, selon la fiche de l'office. Non publié faute de source propre et de quatre points.
+- Montbrison, producteur maraîcher en vente à la ferme (nom de personne, écarté pour doute sur une personne ; ne se rouvre pas) ; un fromager et un chocolatier listés par l'office de tourisme, dont le nom est celui d'un individu ou d'une entreprise individuelle : écartés pour le même doute, non repris.
+- Montbrison, boutique Origine Forez : boutique de l'office de tourisme, pas un commerce de producteurs. Écartée.
+
+**Fiches écartées pour doute sur une personne.** Deux à Montbrison (producteur maraîcher, fromager-chocolatier), non nommées. Ne se rouvrent pas sans déblocage nommé.
+
+**Contradictions consignées (règle 5).** Jour et horaires du marché de Montbrison : samedi matin d'après les agrégateurs, marché de Moingt le mercredi d'après l'office. Non tranchées, faute de confirmation par la Ville.
+
+**Point d'arrêt.** Passe suivante : la Loire reste ouverte, mais pas en seconde passe de suite (la prochaine devra prendre une autre région si la garde 41.c le demande). Montbrison : relire `montbrison.fr` quand le certificat répond, la page des marchés de la Ville, et la page de l'office de tourisme pour le marché du samedi. Si rien ne se confirme, la descente passe à Rive-de-Gier (15 242 habitants) ou à Riorges selon la règle 41.d.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
