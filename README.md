@@ -58514,3 +58514,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord ouvert, mais visé aujourd'hui. Les communes sans fiche doivent être relues sur leur propre site de marchés avant toute nouvelle descente.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, première passe du jour (Haute-Garonne (31) reprise, aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches, outre-mer exclu : Nord (59) en tête mais écarté par la garde 41.c (région visée la passe précédente) ; Haute-Garonne (31, Occitanie, déficit 3,93) retenue. Commune la plus peuplée du département sans fiche : Muret (26 079 habitants), sondée pour la quatrième fois. Le point d'arrêt de la passe précédente demandait de relire le site de la Ville de Muret, sinon de descendre à Plaisance-du-Touch puis à Balma.
+
+**Ce qui a été lu.**
+- Site de la Ville de Muret : injoignable depuis cet environnement (échec de connexion, y compris via le navigateur). Pas de lecture possible.
+- Plaisance-du-Touch, site de la Ville, page « Le marché de plein vent » : marché les jeudis et samedis, place Bombail, 8h à 12h45, composé de commerçants titulaires, saisonniers et occasionnels. La page ne décrit pas de producteurs ; c'est un marché de plein vent généraliste, hors périmètre au sens de MODERATION.md. Rien n'est retenu.
+- Balma, site de la commune : aucune page de marché ni de producteurs accessible. Recherche secondaire : un marché de plein vent les mercredis et samedis matin (avenue des Mimosas) et un point de vente « Marché Occitan » d'une coopérative régionale, sources non vérifiées sur leur propre site.
+- Recherche web sur Muret : un magasin de producteurs à horaires publics (mardi 17h-19h) et un marché à la ferme (mercredi 16h-20h), sans nom de ferme ni lieu exact dans la source agrégée.
+
+**Vérifié.** Rien ne franchit le seuil. Aucune fiche n'est publiée : une commune ne rend ici aucune fiche vérifiée sur sa propre source, et le groupe de cinq fiches voisines n'est pas constitué.
+
+**Pistes non publiées (anonymes).**
+- Muret, magasin de producteurs à horaires publics : enseigne comportant un prénom, donc doute sur une personne : écartée, ne se rouvre pas.
+- Muret, marché à la ferme du mercredi : aucune source d'identité ni de lieu : non retenu.
+- Balma, point de vente d'une coopérative régionale : enseigne de réseau, à vérifier sur sa propre page ; à reprendre dans une passe qui réunira cinq fiches voisines.
+- Plaisance-du-Touch, marché de plein vent du jeudi et du samedi : généraliste, hors périmètre.
+
+**Fiches écartées pour doute sur une personne.** Une, à Muret (enseigne au prénom d'une personne). Elle ne se rouvre pas.
+
+**Contradictions consignées (règle 5).** Aucune contradiction tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante le retient à nouveau. Reprendre à Balma, sur les sources de la commune et de la coopérative, en gardant la règle de groupement (cinq fiches voisines, même office ou même secteur). Muret reste sondée sans résultat ; ne pas la revisiter sans nouvelle source.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
