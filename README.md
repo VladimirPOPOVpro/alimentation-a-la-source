@@ -57996,3 +57996,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Royan reste la commune en cours. Chercher quatre autres commerces vérifiables sur la ville (marché central : page officielle de la ville ; magasins de producteurs et AMAP du registre Agence Bio, code 17200). Si Royan ne rend pas cinq fiches, descendre à la commune suivante de la descente de Charente-Maritime (règle 247) et le dire.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 23 novembre 2026 (Oise (60) visée, Nogent-sur-Oise sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule (outre-mer exclu, règle 93). 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). La passe précédente visait la Charente-Maritime (Nouvelle-Aquitaine) : la garde 41.c écarte cette région. Classement de tête : Nord (59), épuisé (règle 247) ; Haute-Garonne (31), épuisée ; Oise (60), déficit d'environ 3,75 pour 12 fiches, premier département éligible hors Nouvelle-Aquitaine. Oise retenue.
+
+**Commune, règle 41.d.** Nogent-sur-Oise (21 907 habitants) est la commune la plus peuplée de l'Oise sans fiche (Beauvais, Compiègne et Creil en ont déjà une).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio pour le 60, six cents entrées (613 opérateurs) : six entrées mentionnent Nogent-sur-Oise. Cinq sont des opérations de préparation ou de distribution sans vente aux particuliers. La sixième, seule à déclarer une vente aux particuliers, est une entreprise individuelle au nom d'une personne physique : écartée pour doute sur une personne, non nommée, ne se rouvre pas.
+- Site de la Ville de Nogent-sur-Oise : aucune réponse à la connexion cette passe (pas de page lue). La règle 212 (défi anti-robot) reste donc la limite connue ; aucune page de marché ni de producteur n'a pu être confirmée.
+- Registre des entreprises : pas d'établissement de commerce de producteurs identifié à Nogent-sur-Oise à partir de cette lecture.
+
+**Pourquoi rien n'est publié.** Nogent-sur-Oise ne rend aucun commerce vérifiable avec deux sources indépendantes (règle 52) : le registre bio ne donne qu'une fiche, écartée pour doute sur une personne, et la Ville ne répond pas. Aucune fiche, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Nogent-sur-Oise (60), vente aux particuliers au registre bio : entreprise individuelle, écartée pour doute sur une personne. Ne se rouvre pas.
+- Nogent-sur-Oise (60), marchés : la Ville ne répond pas à cette passe. Déblocage : page de la Ville ou de l'office listant les jours, lieux et producteurs, et une deuxième source.
+
+**Fiches écartées pour doute sur une personne.** Une (Nogent-sur-Oise), non nommée.
+
+**Point d'arrêt.** Passe suivante : la garde 41.c écarte les Hauts-de-France (région de cette passe). Si la Ville de Nogent-sur-Oise répond, relire sa page marchés ; sinon, Senlis (15 157 habitants, sans fiche) selon la règle 41.d, si l'Oise reste visée.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
