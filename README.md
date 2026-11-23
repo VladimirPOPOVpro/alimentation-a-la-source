@@ -58281,3 +58281,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : le Nord reste ouvert mais visé aujourd'hui, la garde 41.c l'écartera si la passe suivante est encore sur 59. Pour que la commune tienne, il faut les pages de la Halle gourmande de Maubeuge et les sites des magasins de la Chapelle-d'Armentières, lisibles directement depuis la session.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, huitième passe du jour (Loire (42), Roanne et Firminy sondées : aucune publication)
+
+**Secteur.** Métropole seule (règles 93 et 177 : outre-mer et collectivités 97x et 98x exclues). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours (n° 13) concerne un particulier, elle reste en attente sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches : le Nord (59) est écarté par la garde 41.c, la passe précédente l'ayant visé ; la Haute-Garonne (31) et la Seine-Saint-Denis (93) sont au-delà de la borne de douze communes de la règle 247 (treize communes éprouvées dans le 93). Le département retenu est la **Loire (42)**, point d'arrêt de la passe précédente, région non visée à la passe précédente. Commune : Roanne (35 409 habitants), puis Firminy (17 060) selon la règle de descente.
+
+**Ce qui a été lu.**
+- Recherche web sur le marché de la place du Marché à Roanne : Loire Tourisme donne mardi et vendredi, 8 h à 12 h 30, toute l'année ; la brochure de l'office de tourisme (2024) ne cite que le vendredi matin. Contradiction consignée (règle 5) : rien n'est publié sur ces jours, faute de confirmation 2026 par la page officielle.
+- Roanne : la page de l'office (Roannais Tourisme) n'a pas donné d'horaires lisibles. Un magasin bio d'enseigne nationale est ouvert au registre, mais sa page officielle et ses horaires n'ont pas été lus.
+- Firminy : une annonce d'agenda donne un marché alimentaire place du Marché et place des Halles, d'octobre à décembre 2026 (source d'agenda non officielle, mise à jour 2023) ; la Ville n'a pas été lue. Aucun magasin de producteurs identifié à Firminy même.
+- Un annuaire de producteurs 2025 d'une communauté de communes voisine a été repéré. Il couvre seize communes au sud de la Loire, Firminy n'en fait pas partie : non lu, non téléchargé.
+- Une carte de consommateurs liste des magasins de producteurs dans des communes voisines (Saint-Priest-en-Jarez, Saint-Paul-en-Jarez, Unieux, Saint-Étienne) : source secondaire, non vérifiée sur les sites des commerces cette passe.
+
+**Vérifié.** Rien. Aucune commune ne rend cinq commerces vérifiables sur une source officielle ou un registre. Rien n'est publié.
+
+**Pistes non publiées (anonymes).**
+- Roanne, marché de la place du Marché : jours contradictoires selon les sources (mardi et vendredi, ou vendredi seul). À trancher sur la page 2026 de l'office.
+- Roanne, magasin bio d'enseigne nationale : ouvert au registre, horaires et page officielle à lire.
+- Roanne, éleveur vendant de la viande au marché : source de 2020 seulement. Non publié.
+- Firminy, marché alimentaire de la place du Marché et de la place des Halles : dates d'agenda non confirmées par la Ville. Non publié.
+- Firminy, magasin bio d'un réseau coopératif : enseigne de réseau, horaires non lus sur sa page officielle. Non publié.
+- Saint-Priest-en-Jarez, magasin de producteurs : listé par une carte de consommateurs seulement. À reprendre si une passe ouvre la commune.
+
+**Contradictions consignées (règle 5).** Jours du marché de Roanne (mardi et vendredi d'après Loire Tourisme ; vendredi seul d'après la brochure 2024) : non tranchés.
+
+**Point d'arrêt.** Passe suivante : la Loire ne peut pas être visée (règle 41.c, deux passes de suite interdites dans une même région). Le classement recalculé donne ensuite la Hérault (34) ou les Yvelines (78) ; à recalculer au moment de la passe. Si la Loire revient plus tard : Roanne, relire la page 2026 de l'office de tourisme et la page officielle de l'enseigne roannaise avant Firminy.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
