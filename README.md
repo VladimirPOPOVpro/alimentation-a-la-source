@@ -58351,3 +58351,17 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : les Yvelines restent éligibles (région différente de la passe précédente). Mantes-la-Jolie reprise si son site répond ; sinon Poissy (site en 503) puis Conflans-Sainte-Honorine, dont le site répond et reste à lire sur ses pages de marchés.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 23 novembre 2026, onzième passe du jour (Nord et Oise sortis par la règle 247 : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog vide : aucune demande à traiter. Déficit recalculé sur 1 309 fiches, outre-mer exclu : le Nord (59) reste en tête, mais il a déjà éprouvé plus de douze communes sans succès ; la règle 247 impose de changer de département. L'Oise (60), déjà éprouvée à onze communes, est dans le même cas. Les Yvelines (78), visées à la passe précédente, sont écartées par la règle 41.c. La Haute-Garonne (31) et la Seine-Saint-Denis (93) restent au-delà de la borne de douze communes.
+
+**Ce qui a été lu.** Rien de nouveau : la passe s'est arrêtée au calcul du secteur. Aucune source n'a été interrogée cette fois, parce que les deux départements en tête de la formule sont épuisés au sens de la règle 247.
+
+**Vérifié.** Rien. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle. Les pistes de la Loire (42) déjà consignées restent en attente, dont Roanne et Firminy.
+
+**Point d'arrêt.** Passe suivante : le département à viser est la Loire (42), déficit ≈ 3,7, région différente de la passe précédente (Île-de-France). La commune se choisit au moment de la passe, selon la règle 41.d et la règle 247 : Roanne et Firminy sont déjà éprouvées, donc elles ne se rouvrent pas sans déblocage nommé.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
