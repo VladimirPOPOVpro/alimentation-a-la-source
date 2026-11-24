@@ -58683,3 +58683,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, huitième passe du jour (Ille-et-Vilaine (35) visée, Rennes sondée au registre et sur les sites officiels : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : Nord (59) et Oise (60) écartés par la règle 247 ; Loire (42) épuisée ; Haute-Garonne, Savoie, Hérault, Calvados, Seine-Saint-Denis, Isère, Vienne, Haute-Marne et Alpes-de-Haute-Provence closes (règle 247 et passes précédentes). Réserve 41.c : la passe précédente visait la Loire, Auvergne-Rhône-Alpes, région exclue. Retenu : Ille-et-Vilaine (35, Bretagne, déficit ≈ 3,27), commune la plus peuplée sans fiche : Rennes.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Ille-et-Vilaine, première page de cent opérateurs, filtrée sur Rennes : quinze entrées. La plupart sont des entreprises de préparation, de distribution ou de stockage sans vente aux particuliers, une entrée de restauration, et une enseigne de grande surface. Deux entrées à nom de personne physique avec vente aux particuliers : écartées pour doute sur une personne, elles ne se rouvrent pas.
+- Pages « marchés » du site officiel de la Ville de Rennes : introuvables (réponse 404). Site de l'office de tourisme : réponse sans contenu exploitable depuis cet environnement.
+
+**Vérifié.** Rien ne franchit le seuil : aucun commerce de Rennes n'a deux sources indépendantes et des horaires vérifiés (règles 5 et 6). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Rennes, marché de la commune, un jour par semaine, horaires inconnus : **déblocage** = jour, horaires et emplacement publiés par la Ville ou par Rennes Métropole.
+- Deux entrées du registre à Rennes à nom de personne physique : écartées pour doute sur une personne (ne se rouvrent pas).
+
+**Descente.** Rennes éprouvée. La prochaine passe en Ille-et-Vilaine reprend à la commune suivante par population sans fiche, sans refaire ce criblage.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
