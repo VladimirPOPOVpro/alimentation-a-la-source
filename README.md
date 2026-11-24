@@ -58920,3 +58920,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, dix-neuvième passe du jour (Calvados (14), Lisieux sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste sans publication (doute sur une personne) ; rien n'est écrit de plus ici.
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule, outre-mer exclu. Classement relu : Nord (59), Haute-Garonne (31), Oise (60), Loire (42) et Haute-Corse (2B) épuisés ou clos ; Hérault (34) écarté par la réserve 41.c (passe précédente en Occitanie). Premier département ouvert hors Occitanie : **Calvados (14)**, descente en cours depuis la passe du 22 novembre.
+
+**Commune, règle 41.d.** Lisieux (19 645 habitants), commune suivante par population désignée au point d'arrêt de la passe du 23 novembre.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, 100 opérateurs lus. À Lisieux, aucun opérateur déclarant une vente directe aux particuliers ; l'entrée « Beuvillers » ne relève pas de la commune (hors cadre, règle 96).
+- Site de la Communauté d'agglomération Lisieux Normandie : la page « Marchés publics » concerne les marchés de commande publique, pas les marchés de plein air. Le site de la Ville (lisieux.fr) ne liste ni marché permanent ni producteur ; seuls des marchés de Noël et événements ponctuels y figurent.
+- Office de tourisme (tourisme.lisieux-normandie.fr) : mention d'un marché traditionnel le samedi matin, sans horaires, sans liste de producteurs.
+- Recherches web : jours-de-marche.fr recense deux marchés à Lisieux, sans producteur nommé ; une brochure annonce 8h-13h mais le texte est illisible. Aucune AMAP, aucun magasin de producteurs à Lisieux même. Les points cités (Sainte-Marguerite-de-Viette, Livarot, Coutances, Vire) sont hors commune.
+
+**Pourquoi rien n'est publié.** Lisieux ne rend aucun commerce de producteurs vérifiable à deux sources indépendantes (règle 52) : un marché sans horaires confirmés ni producteurs listés, et aucune fiche de producteur à l'adresse. Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Lisieux (14), marché du samedi matin : jour confirmé, horaires et liste des exposants absents. Déblocage : horaires et producteurs publiés par la Ville ou l'office de tourisme, ou deuxième source indépendante.
+- Lisieux (14), marché répertorié par un annuaire participatif : source unique, non datée. Déblocage : confirmation par l'office de tourisme.
+
+**Point d'arrêt.** Passe suivante : Calvados toujours ouvert (règle 41.c ne l'interdit pas). Calvados : Ifs, Ouistreham, Mézidon Vallée d'Auge, Hérouville-Saint-Clair et Lisieux éprouvées, cinq communes sur douze. Commune suivante par population sans fiche, à sonder avec la même exigence de sources.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
