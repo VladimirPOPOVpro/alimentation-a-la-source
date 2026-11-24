@@ -58668,8 +58668,8 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 
 **Ce qui a été lu.**
 - Feurs (11e de la descente) : le site officiel de la commune est injoignable depuis cet environnement. Recherche web : un marché hebdomadaire et un marché de producteurs annoncés dans l'agenda d'un site d'information régional, sans lieu ni horaires vérifiés ; aucun magasin de producteurs identifié dans la commune.
-- Sorbiers (12e) : un magasin de producteurs listé sur une carte de circuit court, sans horaires publiés dans les sources lues ; aucun marché de la commune selon un site de calendrier des marchés. Un magasin bio de la commune n'a pas de vente de produits de producteurs au sens de la fiche.
-- Registre des entreprises, Feurs : une seule entrée sans rapport avec la vente de produits (activité sportive).
+- Sorbiers (12e) : un magasin de producteurs listé sur une carte de circuit court, sans horaires publiés dans les sources lues ; aucun marché de la commune selon un site de calendrier des marchés.
+- Registre des entreprises, requête « Feurs producteurs » : seule entrée rendue, sans rapport avec la vente de produits (activité sportive).
 
 **Vérifié.** Rien ne franchit le seuil. Aucun commerce de Feurs ni de Sorbiers n'a deux sources indépendantes et des horaires vérifiés : règles 5 et 6. Aucune fiche n'est publiée.
 
@@ -58678,7 +58678,7 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 - Sorbiers, magasin de producteurs listé sur une carte de circuit court, sans horaires : **déblocage** = site ou page du magasin donnant horaires et produits, et une seconde source indépendante.
 - Une entrée du registre à Feurs dont l'enseigne est un nom de personne physique : écartée pour doute sur une personne (ne se rouvre pas).
 
-**Descente de la Loire.** Douze communes éprouvées (les dix précédentes, Feurs et Sorbiers), sans zone de cinq. **La borne de la règle 247 est atteinte** : la passe suivante change de département. Par le classement du déficit du jour, le département suivant hors garde 41.c est la Corse-du-Sud ou la Haute-Corse (2B, déficit ≈ 3,55, en tête après la Loire) ; à vérifier au moment de la passe, en tenant compte de la date de la dernière passe corse et de la garde 41.c.
+**Descente de la Loire.** Douze communes éprouvées (les dix précédentes, Feurs et Sorbiers), sans zone de cinq. **La borne de la règle 247 est atteinte** : la passe suivante change de département. Par le classement du déficit du jour, le département suivant est la Corse (2A/2B, déficit ≈ 3,55 pour la seule Haute-Corse, à recalculer). **Correction de cette passe** : le décompte du jour a lu les codes postaux corses comme « 20 » et les a comptés à zéro ; il est faux pour la Corse et doit être refait avec les codes 20xxx répartis entre 2A et 2B. La garde 41.c et la date de la dernière passe corse s'appliquent au moment de la passe suivante.
 
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
