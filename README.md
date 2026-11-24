@@ -58754,3 +58754,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, onzième passe du jour (Corse (2A/2B) reprise, Ajaccio relue, Poissy sondée : aucune publication)
+
+**Secteur.** Métropole et Corse (règle 93), outre-mer exclu. Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Décompte du jour sur 1 309 fiches et populations `geo.api.gouv.fr` : la Corse reste le secteur visé, Ajaccio étant la commune la plus peuplée sans fiche vérifiée. Poissy (Yvelines) est sondée en parallèle, le site de la Ville répondant à nouveau (200).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 2A et 2B, deuxième page de cent opérateurs chacune, filtrée sur Ajaccio, Porto-Vecchio et Bastia : une majorité d'entrées de vente aux particuliers à nom de personne physique (écartées pour doute sur une personne, ne se rouvrent pas) ; le reste est constitué de sièges, de grossistes ou de structures sans vente au public.
+- Site officiel de la Ville d'Ajaccio : hors ligne (000) à cette passe.
+- Recherche web sur les marchés et magasins d'Ajaccio : des annuaires participatifs et un article de presse de 2016 sur un espace de producteurs sur la place Foch. Ce dernier ne donne ni jours ni horaires actuels ; il n'est pas une source de fiche.
+- Un magasin de producteurs du quartier Saint-Joseph (Ajaccio) : une seule source indépendante (annuaire de circuit court) ; son téléphone et son site ne sont pas lisibles ailleurs. Non publié.
+- Site officiel de Poissy : accessible (200), page d'accueil seule, sans rubrique marchés repérable à la lecture automatisée.
+
+**Vérifié.** Rien. Aucune commune de Corse ne rend cinq fiches à deux sources indépendantes et actuelles (règles 5, 6 et 52). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Ajaccio, magasin de producteurs du quartier Saint-Joseph : une source, téléphone et site absents. **Déblocage** : seconde source indépendante, site du magasin.
+- Ajaccio, marché de producteurs de la place Foch et halle centrale : jours et horaires non confirmés par la Ville, site officiel hors ligne. **Déblocage** : rubrique marchés du site de la Ville, lisible à nouveau.
+- Ajaccio, boutique d'artisans et de produits corses : horaires issus d'un guide touristique seulement. **Déblocage** : site de la boutique.
+- Porto-Vecchio, magasin de producteurs : une source, horaires d'annuaire. **Déblocage** : site du magasin ou seconde source.
+- Entrées du registre bio en 2A et 2B à nom de personne physique, en vente aux particuliers : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Descente.** Corse toujours ouverte, mais aucune commune n'a fourni cinq fiches vérifiables. Les sites officiels (Ajaccio hors ligne) ne permettent pas de confirmer les jours de marché. Passe suivante : reprendre Ajaccio si le site de la Ville répond ; sinon appliquer la règle 247 (douze communes éprouvées au plus, puis changement de département). Poissy reste à lire au niveau de sa rubrique marchés.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
