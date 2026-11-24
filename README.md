@@ -58974,3 +58974,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, vingt et unième passe du jour (Calvados (14), Colombelles sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne) ; rien n'est écrit de plus ici.
+
+**Secteur.** Calvados (14) reste le département retenu, descente en cours. Commune suivante par population sans fiche : Colombelles (7 243 habitants), déjà sondée lors d'une passe précédente (marché du mercredi sans composition publiée).
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, première page de cent opérateurs seulement : une entrée à Colombelles déclare la vente aux particuliers, mais elle n'a pas été instruite faute de source indépendante. À Thue-et-Mue (Saint-Sylvain), Blainville-sur-Orne et Livarot, aucune vente aux particuliers n'est déclarée.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Calvados ne rend pas cinq commerces vérifiables dans une même commune (règle 52). Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Descente.** Passe suivante : Calvados toujours ouvert. Lire les pages suivantes du registre Agence Bio pour le département (la première page seule ne suffit pas), puis instruire l'entrée de Colombelles si elle a une enseigne propre et une source indépendante.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
