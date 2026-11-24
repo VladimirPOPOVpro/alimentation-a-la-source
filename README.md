@@ -58661,3 +58661,25 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Loire : dix communes éprouvées sans zone de cinq (les neuf citées plus Unieux). La borne de douze de la règle 247 n'est pas atteinte. Passe suivante : Feurs (11e), puis Sorbiers (12e) ; si rien, la borne est atteinte et la passe prend le département suivant du classement, en appliquant la garde 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, septième passe du jour (Loire (42) : Feurs et Sorbiers éprouvées, borne de douze atteinte : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : les départements d'outre-mer sont hors périmètre de la règle 93 ; Nord (59) et Oise (60) écartés par la règle 247 ; Haute-Garonne (31) exclue par la garde 41.c. Retenue : Loire (42, déficit ≈ 3,70), descente reprise à Feurs.
+
+**Ce qui a été lu.**
+- Feurs (11e de la descente) : le site officiel de la commune est injoignable depuis cet environnement. Recherche web : un marché hebdomadaire et un marché de producteurs annoncés dans l'agenda d'un site d'information régional, sans lieu ni horaires vérifiés ; aucun magasin de producteurs identifié dans la commune.
+- Sorbiers (12e) : un magasin de producteurs listé sur une carte de circuit court, sans horaires publiés dans les sources lues ; aucun marché de la commune selon un site de calendrier des marchés. Un magasin bio de la commune n'a pas de vente de produits de producteurs au sens de la fiche.
+- Registre des entreprises, Feurs : une seule entrée sans rapport avec la vente de produits (activité sportive).
+
+**Vérifié.** Rien ne franchit le seuil. Aucun commerce de Feurs ni de Sorbiers n'a deux sources indépendantes et des horaires vérifiés : règles 5 et 6. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Feurs, marché hebdomadaire et marché de producteurs annoncés : **déblocage** = page officielle de la Ville ou de l'office de tourisme donnant lieu et horaires.
+- Sorbiers, magasin de producteurs listé sur une carte de circuit court, sans horaires : **déblocage** = site ou page du magasin donnant horaires et produits, et une seconde source indépendante.
+- Une entrée du registre à Feurs dont l'enseigne est un nom de personne physique : écartée pour doute sur une personne (ne se rouvre pas).
+
+**Descente de la Loire.** Douze communes éprouvées (les dix précédentes, Feurs et Sorbiers), sans zone de cinq. **La borne de la règle 247 est atteinte** : la passe suivante change de département. Par le classement du déficit du jour, le département suivant hors garde 41.c est la Corse-du-Sud ou la Haute-Corse (2B, déficit ≈ 3,55, en tête après la Loire) ; à vérifier au moment de la passe, en tenant compte de la date de la dernière passe corse et de la garde 41.c.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
