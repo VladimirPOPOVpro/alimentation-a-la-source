@@ -58993,3 +58993,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, vingt-deuxième passe du jour (Nord (59) relu au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée.
+
+**Secteur, règle 41.** Recalcul métropole seule : le Nord (59) reste en tête du déficit. Il n'est pas visé deux passes de suite, la passe précédente portant sur le Calvados (Normandie) et la passe d'avant sur le Nord lui-même. Outre-mer exclu (le validateur ne rend que la métropole).
+
+**Commune, règle 41.d.** Les communes les plus peuplées du 59 sans fiche ont déjà été éprouvées aux passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin, Faches-Thumesnil). Croix et La Madeleine, les suivantes, n'ont pas encore de fiche.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord, pagination complète (1 802 opérateurs). Croix, La Madeleine, Ronchin, Grande-Synthe, Halluin et Wasquehal y figurent avec plusieurs entrées ; certaines déclarent la vente aux particuliers. Aucune n'a été instruite : pas de source indépendante ouverte, pas d'enseigne ni d'horaire vérifiés cette passe.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq commerces vérifiables dans cette passe (règles 52 et 247). Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Point d'arrêt.** Passe suivante : Croix ou La Madeleine, en instruisant d'abord les entrées du registre qui déclarent la vente aux particuliers, avec une source indépendante pour chacune. Ne pas revenir sur le Calvados avant une passe d'une autre région.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
