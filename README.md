@@ -58799,3 +58799,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, treizième passe du jour (Corse (2A/2B) reprise, Ajaccio hors ligne : aucune publication)
+
+**Secteur.** Métropole et Corse (règle 93), outre-mer exclu. Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Corse toujours ouverte : la borne de douze communes de la règle 247 n'est pas atteinte (trois communes éprouvées : Ajaccio, Porto-Vecchio, Borgo).
+
+**Ce qui a été lu.**
+- Site officiel de la Ville d'Ajaccio : hors ligne (code 000) à cette passe.
+- Registre bio (Agence Bio, Corse-du-Sud, 100 opérateurs) : Ajaccio compte une dizaine d'opérateurs, dont une part d'exploitations sans vente au détail ; aucune fiche tirée de ce seul registre (règles 40 et 151).
+- Office de tourisme d'Ajaccio : accessible (200). Sa page « le marché » ne donne ni jours, ni producteurs nommés, ni horaires exploitables à cette lecture : rien à publier.
+
+**Vérifié.** Rien. Aucune commune de Corse ne rend à cette passe cinq fiches à deux sources indépendantes et actuelles (règles 5, 6 et 52). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).** Les pistes d'Ajaccio et de Porto-Vecchio des passes précédentes restent en attente de leur déblocage, sans changement cette passe.
+
+**Descente.** Corse toujours ouverte. Passe suivante : relire le site officiel de la Ville d'Ajaccio s'il répond ; à défaut, compter les communes éprouvées (règle 247) avant tout changement de département.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
