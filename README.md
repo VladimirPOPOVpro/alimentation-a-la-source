@@ -58818,3 +58818,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026 (13 h 45, backlog vide, Corse (2A/2B) reprise, Bastia et Calvi sondées : aucune publication)
+
+**Secteur.** Backlog vide : aucune demande au statut « nouvelle ». Règle 41 relue : les départements d'outre-mer en tête du déficit (974, 971, 972, 973, 987, 988, 976) sont inéligibles (règle 93, cadre de `lib/validateMerchants.ts`). En métropole, le Nord (59) est sorti par la règle 247 et la Haute-Garonne (31) a été visée ce jour ; la Corse reste ouverte (règle 247 : bornes non atteintes). Total inchangé : 1 309 fiches.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Bastia (bastia.corsica, accessible) : ni marché ni rubrique de commerces ou de producteurs. Rien à retenir.
+- Office de tourisme de Bastia (bastia-tourisme.com, accessible) : agenda et restaurants seulement, aucun marché de producteurs nommé. Rien à retenir.
+- Le domaine calvi.fr ne sert pas la commune de Calvi : il présente une entreprise de légumes découpés. Il n'est donc pas une source pour cette commune, et il n'est pas inscrit comme site officiel. Le site de la commune de Calvi n'a pas été localisé à cette passe.
+- Base Adresse Nationale : la requête « Borgo » renvoie un lieu-dit de Corbara, non la commune de Borgo. À ne pas prendre pour un point de géocodage.
+
+**Vérifié.** Rien. Aucune fiche publiée : Bastia compte déjà deux fiches, et cette passe n'y ajoute aucun commerce vérifié à deux sources.
+
+**Pistes non publiées (anonymes).** Aucune nouvelle piste cette passe.
+
+**Descente.** Corse toujours ouverte. Communes sondées sans résultat : Ajaccio, Porto-Vecchio, Borgo (passes précédentes), Bastia et Calvi (cette passe), soit cinq communes éprouvées sur douze. Passe suivante : Corte (7 819 habitants) et Biguglia, en commençant par les marchés de la commune ; ne pas revenir sur calvi.fr.
+
+**Contradictions consignées (règle 5).** Le domaine calvi.fr est présenté comme un site de commune alors qu'il appartient à une entreprise sans rapport : écarté comme source.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
