@@ -58540,3 +58540,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne visée aujourd'hui, donc la garde 41.c écartera ce département si la passe suivante le retient à nouveau. Reprendre à Balma, sur les sources de la commune et de la coopérative, en gardant la règle de groupement (cinq fiches voisines, même office ou même secteur). Muret reste sondée sans résultat ; ne pas la revisiter sans nouvelle source.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, deuxième passe du jour (Nord (59), Lambersart sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93) ; outre-mer écarté, le validateur ne rend que la métropole. Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches : Nord (59) en tête (≈ 4,7), Haute-Garonne (31) exclue par la garde 41.c (passe précédente du jour). Le Nord n'a pas été visé la passe précédente : il est retenu.
+
+**Commune, règle 41.d.** Wattrelos et Marcq-en-Barœul restent sondées sans résultat (voir les passes précédentes). Lambersart (27 090 habitants) est la commune suivante par population.
+
+**Ce qui a été lu.**
+- Site de la Ville de Lambersart : page d'accueil accessible ; seule mention de marché, le marché de Noël du Colysée (artisans et commerçants, 5, 6, 12 et 13 décembre), hors périmètre. Aucune page de marché de producteurs trouvée.
+- Annuaire participatif des marchés : trois marchés généralistes listés, sans produits ni producteurs identifiables.
+- Recherche web : un bulletin municipal de 2021 évoque un marché du samedi matin, daté et non confirmé ; le Carnet des producteurs de la MEL (2024) reste la piste la plus utile, non relue pour Lambersart cette passe.
+- Armentières, même recherche : aucune liste de producteurs fiable ; les magasins de producteurs trouvés sont à La Chapelle-d'Armentières et à Bailleul, hors de la commune.
+
+**Vérifié.** Rien ne franchit le seuil : aucun producteur ni magasin de producteurs à Lambersart ou à Armentières avec des horaires et des produits vérifiés sur une source indépendante. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Lambersart, marché du samedi matin : daté (bulletin 2021), non confirmé : à reprendre sur le site de la Ville ou dans le Carnet MEL.
+- Armentières, magasin de producteurs de La Chapelle-d'Armentières : hors commune, non retenu.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante : Nord visé aujourd'hui, donc écarté par la garde 41.c si la passe suivante le retient. Relire le Carnet des producteurs de la MEL (calendrier des marchés, pages Lambersart et Armentières) avant toute nouvelle sonde. Lambersart et Armentières ne doivent pas être revisitées sans nouvelle source.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
