@@ -58703,3 +58703,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, neuvième passe du jour (Yvelines (78) visées, Mantes-la-Jolie sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93), outre-mer exclu. Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication. Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : Nord (59), Haute-Garonne (31), Seine-Saint-Denis (93) et Oise (60) écartés (règle 247 et passes précédentes), Hérault, Loire, Ille-et-Vilaine et Calvados sortis, Ille-et-Vilaine écartée par la règle 41.c (la passe précédente visait la Bretagne). Retenu : **Yvelines (78)**, Île-de-France, premier département ouvert du classement (déficit ≈ 4,38). Commune : Mantes-la-Jolie, reprise selon le point d'arrêt de la passe du 23 novembre.
+
+**Ce qui a été lu.**
+- Site officiel de Mantes-la-Jolie : hors ligne (000), comme aux passes précédentes.
+- Site officiel de Conflans-Sainte-Honorine : répond (200) ; aucune rubrique marchés repérable à la lecture automatisée.
+- Registre de l'Agence Bio, Yvelines, première page (cent opérateurs), filtré sur Mantes-la-Jolie : une entrée de magasin de réseau bio, sans vente aux particuliers au registre ; une entrée de vente aux particuliers à nom de personne physique, écartée pour doute sur une personne (ne se rouvre pas).
+- Page de recherche de magasins du réseau bio : rendue sans résultat lisible depuis cet environnement.
+- Registre des entreprises : une entreprise bio de Mantes-la-Jolie consultée, mais son siège est à Épône (hors commune) : non retenue.
+
+**Vérifié.** Rien. Aucune commune de la descente ne rend cinq commerces vérifiables à deux sources indépendantes (règles 5, 6 et 52). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Mantes-la-Jolie, magasin bio de réseau : horaires et adresse non lus à une source officielle. Déblocage : page du magasin lisible sur le site de l'enseigne.
+- Mantes-la-Jolie, marché du centre-ville et marché bio de l'hôtel de ville : jours signalés par des annuaires participatifs, non confirmés par la Ville. Déblocage : rubrique marchés du site de la commune en ligne.
+- Mantes-la-Jolie, une entrée de vente aux particuliers au registre dont la dénomination est celle d'une personne : écartée pour doute sur une personne, ne se rouvre pas.
+- Conflans-Sainte-Honorine, magasin bio de réseau et producteur de légumes bio en camion itinérant : non publiés (horaires non lus, site du producteur à lire).
+
+**Descente.** Mantes-la-Jolie éprouvée à cette passe, sans succès. La prochaine passe en Yvelines reprend à Poissy (site en 503 à cette passe), puis Conflans-Sainte-Honorine, sans refaire ce criblage. Si les trois sites restent muets, la règle 247 s'applique (douze communes au plus, puis changement de département).
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
