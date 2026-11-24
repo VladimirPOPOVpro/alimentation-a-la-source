@@ -58858,3 +58858,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Descente.** Corse toujours ouverte, six communes éprouvées sur douze (Ajaccio, Porto-Vecchio, Borgo, Bastia, Calvi, Corte). Passe suivante : Biguglia, en commençant par la commune, puis relire la régie des marchés de Corte si elle répond. Ne pas revenir sur calvi.fr.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés.
+
+## Passe autonome du 24 novembre 2026, seizième passe du jour (Haute-Garonne (31) visée, Muret sondée hors ligne : aucune publication)
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule (règle 93), outre-mer exclu. Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : Nord (59) écarté par la règle 247 ; Corse (2A/2B) non visée, la passe précédente étant corse (règle 41.c) ; Haute-Garonne (31) retenue, déficit ≈ 3,9. Commune, règle 41.d : Muret (26 079 habitants) est la plus peuplée de la Haute-Garonne sans aucune fiche (Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Saint-Jean et Pibrac en ont déjà).
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Muret (muret.fr) : hors ligne (code 000) à cette passe. Rien d'autre à retenir pour Muret cette passe.
+- Site officiel de la Ville de Cornebarrieu (cornebarrieu.fr, accessible), rubrique « Le marché de plein vent » : marché le dimanche matin, place du Boiret, de 9 h à 13 h, avec « producteurs et revendeurs » parmi d'autres étals (boucherie, charcuterie, fromage, poissonnerie, plants). La page ne nomme aucun producteur ni aucun point de vente en circuit court : la commune ne rend pas cinq fiches vérifiables.
+- Site de la Ville de Balma (balma.fr, accessible) : la page d'accueil ne mentionne ni marché ni producteur ; les sous-pages n'ont pas été ouvertes à cette passe.
+
+**Vérifié.** Rien. Aucune fiche publiée ; total inchangé : 1 309 fiches.
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne (31), Cornebarrieu (8 978 habitants) : marché dominical de plein vent sur le site de la Ville, producteurs non nommés ; aucune fiche possible sans les producteurs eux-mêmes (règles 5 et 52). Déblocage : nom d'au moins deux producteurs ou points de vente relevés sur une source indépendante.
+
+**Descente et point d'arrêt.** Passe suivante : Haute-Garonne toujours ouverte, en gardant la règle 41.c. Reprendre Muret à partir de son office de tourisme ou du registre de l'Agence Bio (Haute-Garonne), le site de la Ville étant hors ligne ; ne pas revenir sur le détail de la page d'accueil de Balma sans ouvrir ses rubriques marchés et commerces.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
