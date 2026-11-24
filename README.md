@@ -58878,3 +58878,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, dix-septième passe du jour (Nord (59) repris, Faches-Thumesnil sondée : aucune publication)
+
+**Secteur, règles 41, 41.c, 93 et 260.** Métropole seule (règle 93), outre-mer exclu. Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : Nord (59) en tête de la métropole (≈ 4,7). La passe précédente visait la Haute-Garonne (31), donc la garde 41.c ne bloque pas le Nord. La borne de douze communes est par passe (règle 260) : la descente reprend à la commune suivante non éprouvée, sans rouvrir Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin, Haubourdin, Wattignies, Maubeuge ni Hautmont. Commune retenue, règle 41.d : Faches-Thumesnil (18 619 habitants), la plus peuplée du Nord restée sans fiche et non éprouvée à ce jour.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, 800 opérateurs parcourus (huit pages de cent), filtrés sur Faches-Thumesnil : une grande surface franchisée (généraliste, hors sujet) ; une entreprise individuelle de vente aux consommateurs (horticulture, production) dont la raison sociale porte un nom de personne physique.
+- Site officiel de la Commune : hors ligne (code 000) à cette passe.
+- Recherche web : un annuaire participatif de marchés recense deux marchés sans jours ni adresses ; un producteur de Sainghin-en-Weppes, hors commune ; le carnet des producteurs de la Métropole européenne de Lille ne cite pas Faches-Thumesnil dans les extraits lus.
+
+**Vérifié.** Rien de publiable en cinq fiches. Faches-Thumesnil n'en rend aucune avec deux sources indépendantes et actuelles (règles 5, 6 et 52).
+
+**Pistes non publiées (anonymes).**
+- Nord (59), Faches-Thumesnil, entreprise individuelle de vente aux consommateurs (registre Agence Bio) : le nom de la raison sociale est celui d'une personne physique, et aucune seconde source ne confirme le lieu de vente ; écartée pour doute sur une personne. Ne se rouvre pas.
+- Nord (59), Faches-Thumesnil, marchés : deux marchés sur un annuaire participatif, sans jours ni adresses. Déblocage : site de la Commune en ligne, rubrique marchés.
+
+**Descente.** Nord toujours ouvert pour la passe suivante, en gardant la règle 260. Passe suivante : Sin-le-Noble (16 076 habitants), commune non encore éprouvée dans les notes lues ; relire le site de Faches-Thumesnil avant de l'abandonner.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
