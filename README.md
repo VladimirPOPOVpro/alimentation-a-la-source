@@ -58637,3 +58637,27 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Haute-Garonne reste visée ; le groupe du Muretain a été sondé à plusieurs reprises sans atteindre cinq fiches vérifiables. Passe suivante : relire le site de la Ville de Cornebarrieu et l'office de tourisme de Toulouse Métropole pour les marchés de producteurs ; si rien, descendre au département suivant par déficit (Oise, 60) en appliquant la garde 41.c.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, sixième passe du jour (Loire (42) reprise, Unieux sondée : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches, populations `geo.api.gouv.fr` : Nord (59) et Oise (60) écartés par la règle 247 ; Haute-Garonne (31) exclue par la garde 41.c, la passe précédente y ayant été. Retenue : Loire (42, déficit ≈ 3,7), descente en cours.
+
+**Commune, règle 41.d.** Sans aucune fiche et par population : Unieux (8 514 habitants) après Veauche et Roche-la-Molière, déjà éprouvées. Saint-Étienne, Saint-Chamond et Saint-Just-Saint-Rambert ne peuvent pas reprendre la descente (fiches déjà publiées).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Loire, deux pages de cent opérateurs : à Unieux, seule une enseigne de grande distribution apparaît (hors périmètre) ; aucun opérateur de vente aux particuliers identifiable.
+- Recherche web sur les marchés et les points de vente d'Unieux, et de Feurs pour la commune suivante de la descente.
+
+**Vérifié.** Rien ne franchit le seuil. Un magasin de producteurs à Unieux (au Moulin de Nos Fermes) n'a qu'une seule source, sans enregistrement au registre ni site ni téléphone vérifiés : règles 6 et 5. Le marché de Côte-Quart a des horaires datés de 2025 seulement. Un second marché d'Unieux n'a pas d'horaires publiés. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Unieux, magasin de producteurs à un seul point de source, sans registre ni horaires confirmés : **déblocage** = seconde source indépendante (site du magasin ou de la commune) et enregistrement au registre des entreprises.
+- Unieux, marché de Côte-Quart, mercredi matin : horaires 2026 non publiés : **déblocage** = calendrier de la mairie pour 2026.
+- Feurs, marché hebdomadaire du mardi matin (fiche d'agenda mise à jour en novembre 2025), producteurs locaux annoncés sans nom de commerce vérifié : **déblocage** = page officielle de la Ville, à lire à la passe suivante.
+- Une entrée du registre à Villars (La Chapelle-Villars) dont l'enseigne est un nom de personne physique, et une entrée à Veauche de même nature : écartées pour doute sur une personne (ne se rouvrent pas).
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Point d'arrêt.** Loire : dix communes éprouvées sans zone de cinq (les neuf citées plus Unieux). La borne de douze de la règle 247 n'est pas atteinte. Passe suivante : Feurs (11e), puis Sorbiers (12e) ; si rien, la borne est atteinte et la passe prend le département suivant du classement, en appliquant la garde 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
