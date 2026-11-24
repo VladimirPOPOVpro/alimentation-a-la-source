@@ -58838,3 +58838,23 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Le domaine calvi.fr est présenté comme un site de commune alors qu'il appartient à une entreprise sans rapport : écarté comme source.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026 (14 h 44, backlog vide, Corse (2B) reprise, Corte sondée : aucune publication)
+
+**Secteur.** Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Règle 41 relue : départements d'outre-mer inéligibles (règle 93). La Corse reste ouverte (règle 247 : six communes éprouvées sur douze, borne non atteinte). Total inchangé : 1 309 fiches.
+
+**Ce qui a été lu.**
+- Marché de Corte, trois sources qui se contredisent sur le lieu et la fréquence (règle 5) : le site de la Ville (marché hebdomadaire, place Padoue, pas de jour de marché dans la page), l'office de tourisme du Centre Corse (place Porette, premier vendredi du mois), et un annuaire de produits locaux (tous les vendredis, 7 h 30 à 13 h). Les horaires publiés par la Ville concernent le service de la régie, non le marché.
+- Registre de l'Agence Bio, 2B, première page de cent opérateurs : aucun opérateur de vente déclaré à Corte qui soit exploitable seul ; les entrées à nom de personne physique sont écartées pour doute sur une personne.
+- Registre des entreprises : un magasin de fruits et légumes du centre de Corte est actif (établissement ouvert). Sa page publique ne donne pas d'horaires vérifiables (mention « ouvre bientôt », dernière publication en novembre) : une source d'annuaire et une page sociale seulement.
+- Annuaire de produits locaux autour de Corte : la plupart des producteurs listés sont à plus de 13 km, dans d'autres communes.
+
+**Vérifié.** Rien de publiable en cinq fiches. Corte n'en rend pas cinq à deux sources indépendantes et actuelles (règles 5, 6 et 52). Aucune fiche publiée, aucune donnée ajoutée.
+
+**Pistes non publiées (anonymes).**
+- Haute-Corse (2B), Corte, magasin de fruits et légumes du centre : une source d'annuaire et une page sociale, horaires absents. Déblocage : horaires lus sur le site ou la page du commerce, seconde source indépendante.
+- Haute-Corse (2B), Corte, marché hebdomadaire : lieu et jour contradictoires entre la Ville, l'office de tourisme et l'annuaire. Déblocage : confirmation de la régie des marchés de la Ville.
+
+**Descente.** Corse toujours ouverte, six communes éprouvées sur douze (Ajaccio, Porto-Vecchio, Borgo, Bastia, Calvi, Corte). Passe suivante : Biguglia, en commençant par la commune, puis relire la régie des marchés de Corte si elle répond. Ne pas revenir sur calvi.fr.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés.
