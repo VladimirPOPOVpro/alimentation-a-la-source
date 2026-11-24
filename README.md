@@ -59035,3 +59035,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Fiches écartées pour doute sur une personne** : aucune cette passe.
 
 **Point d'arrêt.** Haute-Garonne : passe suivante sur Castanet-Tolosan, en cherchant d'abord le site de la mairie et l'annuaire DirectFermiers31. Si rien ne se vérifie, descendre à Saint-Orens-de-Gameville, puis à Balma. Le département suivant du calcul pourrait être la Loire (42) ou l'Oise (60) si la réserve de région le permet.
+
+### Passe autonome du 24 novembre 2026, vingt-quatrième passe : Savoie (73) reprise, Bourg-Saint-Maurice sondée : aucune publication
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2).
+
+**Secteur, règle 41.** Le Calvados, le Nord et la Haute-Garonne ont déjà été visés dans la journée ; la passe précédente portait sur l'Occitanie (31), la réserve de région écarte donc l'Occitanie. Le registre Agence Bio de la Savoie (73) est relu (842 opérateurs, première page complète lue). La Savoie reste ouverte : Aix-les-Bains, Albertville, La Motte-Servolex, La Ravoire et Saint-Jean-de-Maurienne ont été éprouvées aux passes précédentes, sans publication.
+
+**Commune, règle 41.d.** Commune suivante par population sans fiche : **Bourg-Saint-Maurice** (7 270 habitants), indiquée par le point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Recherche web : une boutique collective de producteurs (« Une montagne de producteurs », avenue du Maréchal Leclerc, plus de quarante producteurs annoncés, site de la station Les Arcs) ; un marché des producteurs et artisans le mercredi en été (rue du Capitaine Desserteaux, 16 h à 20 h, fiche Les Arcs) ; un marché hebdomadaire du samedi selon un guide Belambra, qui renvoie à la mairie pour le jour exact ; une Biocoop avenue Antoine Borrel, horaires du mardi au samedi selon un annuaire tiers.
+- Registre Agence Bio, Savoie : aucun opérateur déclaré à Bourg-Saint-Maurice dans la première page lue.
+
+**Vérifié.** Rien de publiable. Aucune fiche n'atteint deux sources indépendantes et actuelles : les horaires du marché d'été et de la boutique collective ne concordent pas d'une source à l'autre, et la Biocoop ne repose que sur un annuaire tiers.
+
+**Pourquoi rien n'est publié.** Bourg-Saint-Maurice ne rend pas cinq commerces vérifiables sur une source officielle (règle 52 et règle 247 : borne de douze communes atteinte sur la Savoie). Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Bourg-Saint-Maurice, boutique collective de producteurs, avenue du Maréchal Leclerc, horaires et adhésion des producteurs à confirmer sur une source de la station ; Bourg-Saint-Maurice, marché d'été du mercredi et marché du samedi, jour contradictoire entre sources, à confirmer auprès de la mairie ou de l'office de tourisme ; Bourg-Saint-Maurice, Biocoop avenue Antoine Borrel, horaires à confirmer sur le site de l'enseigne.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Jour du marché : mercredi (fiche Les Arcs) contre samedi (guide Belambra). Aucune tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur la Savoie tant que la mairie ou l'office de tourisme de Bourg-Saint-Maurice n'ont pas confirmé le jour du marché et l'adresse de la boutique collective. Commune suivante par population sans fiche en Savoie : **Ugine** (7 154 habitants), à éprouver si la règle 247 le permet.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
