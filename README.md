@@ -59013,3 +59013,25 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 24 novembre 2026, vingt-troisième passe : Haute-Garonne, Castanet-Tolosan et Saint-Orens-de-Gameville sondées ; aucune publication
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2).
+
+**Département, règle 41.** Calcul refait sur `geo.api.gouv.fr` (34 969 communes, métropole seule, 97x et 98x écartés) et sur `data/marchands.json` (1 309 fiches). Déficit le plus élevé après le Nord, exclu par la réserve de région (passe précédente, Nord, région 32) : **Haute-Garonne (31)**, région 76, déficit 3,9.
+
+**Contradiction consignée (règle 5).** Le paragraphe Toulouse et les passes précédentes annoncent 288 fiches en Haute-Garonne et 1 280 fiches au total ; le fichier compte aujourd'hui **24 fiches** dans le 31 et **1 309** au total (comptage sur le code postal du champ `adresse`). Le compte du fichier est retenu pour le calcul ; les chiffres de ce README sont à réviser. Rien n'est tranché sur le fond.
+
+**Commune, règle 41.d.** Toulouse, Colomiers, Tournefeuille, Cugnaux, Blagnac (une fiche), Cazères, Pibrac, Labège et Auzeville-Tolosane portent déjà des fiches. Plus peuplées sans fiche, déjà éprouvées à zéro lors de passes antérieures : Muret, Plaisance-du-Touch, Balma. Reprise à **Castanet-Tolosan** (15 317 habitants), puis **Saint-Orens-de-Gameville**.
+
+**Castanet-Tolosan, recherche web.** Marchés annoncés (vendredi sous la Halle lauragaise, samedi place Argyroupoli) d'après un agenda d'animations 2026 et un site de marchés participatif, sans horaires confirmés par la mairie. Producteurs : une source ancienne (environ 2015) et des annuaires généralistes ; aucune adresse de producteur ou de point de vente vérifiée sur une source officielle. Rien n'est publié.
+
+**Saint-Orens-de-Gameville, recherche web.** Marché de plein vent place de la Fraternité, d'après l'agenda de la Métropole, sans horaires vérifiés. Un guide de magasins mentionne une boutique de producteurs rue du Centre, sans confirmation d'activité ni d'horaires. Rien n'est publié.
+
+**Pourquoi rien n'est publié.** Aucune des deux communes ne rend cinq commerces vérifiables sur une source officielle lue cette passe ; les pistes reposent sur des annuaires participatifs ou anciens. Une fiche isolée ne remplit pas l'objectif de cinq fiches groupées (AGENT.md, mode 2).
+
+**Pistes non publiées** (anonymes) : Castanet-Tolosan, marché du vendredi et du samedi, horaires à confirmer auprès de la mairie ; Saint-Orens-de-Gameville, marché de plein vent place de la Fraternité, horaires à confirmer ; Saint-Orens-de-Gameville, boutique de producteurs rue du Centre, activité et horaires à vérifier.
+
+**Fiches écartées pour doute sur une personne** : aucune cette passe.
+
+**Point d'arrêt.** Haute-Garonne : passe suivante sur Castanet-Tolosan, en cherchant d'abord le site de la mairie et l'annuaire DirectFermiers31. Si rien ne se vérifie, descendre à Saint-Orens-de-Gameville, puis à Balma. Le département suivant du calcul pourrait être la Loire (42) ou l'Oise (60) si la réserve de région le permet.
