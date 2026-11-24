@@ -58616,3 +58616,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne (Occitanie, non visée la dernière passe) reprend à Balma, sur les sources de la commune et de la coopérative, en gardant la règle de groupement. Nord reste épuisé au sens de la règle 247.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, cinquième passe du jour (Haute-Garonne (31) reprise, registre bio relu : aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches : Nord (59) en tête (≈ 4,7) mais écarté par la règle 247 ; Haute-Garonne (31, ≈ 3,9) retenue, la passe précédente visant le Nord (garde 41.c).
+
+**Ce qui a été lu.** Registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs. Dans les communes du groupe du Muretain (Muret, Balma, Plaisance-du-Touch, Cornebarrieu, Le Fousseret) : une entrée de négoce en vins à Balma (vente aux professionnels, hors périmètre), une entrée à nom de personne (écartée, pas de nom publié), une entrée à Cornebarrieu sans identité de commerce vérifiée sur une seconde source, et une entrée à Toulouse en vente particuliers sans horaires ni site vérifiés.
+
+**Vérifié.** Rien ne franchit le seuil : aucune fiche n'a l'existence, l'activité, l'adresse et une photo confirmées par deux sources indépendantes. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Balma, négoce en vins, vente aux professionnels : hors périmètre.
+- Cornebarrieu, établissement du registre à identité non vérifiée : à reprendre sur la source de la commune ou sur le site de l'établissement.
+- Toulouse, vente aux particuliers du registre sans horaires ni site vérifiés : trop large pour une passe de cinq fiches groupées.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre à nom de personne, à Le Fousseret (commune hors agglomération visée, non reprise).
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Point d'arrêt.** Haute-Garonne reste visée ; le groupe du Muretain a été sondé à plusieurs reprises sans atteindre cinq fiches vérifiables. Passe suivante : relire le site de la Ville de Cornebarrieu et l'office de tourisme de Toulouse Métropole pour les marchés de producteurs ; si rien, descendre au département suivant par déficit (Oise, 60) en appliquant la garde 41.c.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
