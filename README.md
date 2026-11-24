@@ -58946,3 +58946,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, vingtième passe du jour (Calvados (14), Honfleur sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne, règle 377) ; rien n'est écrit de plus ici.
+
+**Secteur.** Calvados (14) reste le département retenu, descente en cours depuis la passe du 22 novembre. Commune suivante par population sans fiche : **Honfleur** (14600), après Lisieux, Bayeux, Falaise, Ifs, Ouistreham, Mondeville, Hérouville-Saint-Clair et Mézidon.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Calvados, pages de cent opérateurs : huit entrées à Honfleur. Une chaîne de grande distribution (écartée), une chocolaterie-biscuiterie à enseigne patronymique (écartée, règle 36), une société à sigle sans vente claire au public (activité non identifiée, écartée), une société d'importation, et deux entrées de production ou préparation à Gonneville-sur-Honfleur et Pont-l'Évêque, hors commune.
+- Annuaire jours-de-marche : cinq marchés enregistrés pour Honfleur (samedi 8h-13h au centre-ville ; mercredi 8h-13h « bio » ; marché nocturne l'été ; marchés de la cour des Fossés et place Sainte-Catherine). Site de la Ville (page « marché alimentaire ») : aucune réponse exploitable en lecture, donc pas de deuxième source municipale vérifiée.
+- Recherche web : une association d'insertion basée à Honfleur (activité sociale, pas de producteur identifié, produits et horaires absents) ; une épicerie fine de la place Hamelin dont le registre et la liste de produits ne sont pas vérifiés ; une ferme cidricole à Pennedepie et une ferme à boutique à Pennedepie, hors commune Honfleur. Les pages de référence sont anciennes (guide 2020, profil de 2014).
+- Registre des entreprises : une EARL à Pennedepie (ferme à boutique) est active ; la vérification d'un établissement ne suffit pas à elle seule pour une fiche de commune Honfleur.
+
+**Pourquoi rien n'est publié.** Honfleur ne rend pas cinq commerces vérifiables dans la commune (règle 52). Au mieux deux marchés municipaux sur un seul annuaire, et des producteurs situés hors commune. Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images inchangés.
+
+**Pistes non publiées (anonymes).**
+- Honfleur (14), marchés du samedi et du mercredi : jours et horaires vérifiés par un seul annuaire ; la deuxième source (site de la Ville) n'a pas été lue. Déblocage : confirmation par la Ville ou l'office de tourisme, et cinq points vérifiés dans la commune.
+- Honfleur (14), épicerie fine de la place Hamelin : produits et type de vente non confirmés. Déblocage : site ou registre du commerce.
+- Honfleur (14), association d'insertion : activité de vente non confirmée, hors catégorie. Écartée en l'état.
+- Pennedepie (14), deux fermes à boutique : hors commune Honfleur, à reprendre quand le secteur sera ouvert à l'agglomération. Horaires à confirmer (sources de 2014 et 2020).
+
+**Fiches écartées pour doute sur une personne :** deux (une chocolaterie-biscuiterie et une cidrerie, enseigne patronymique), écartées par la règle 36.
+
+**Point d'arrêt.** Passe suivante : Calvados toujours ouvert. Honfleur est éprouvée ; la commune suivante par population sans fiche doit être recalculée sur `data/marchands.json`. Honfleur reste en pistes ; les deux fermes de Pennedepie sont à reprendre si la règle 247 ouvre l'agglomération.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
