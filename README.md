@@ -58600,3 +58600,19 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Cantal reste ouvert et Aurillac reste la commune ; lire la page de la Ville d'Aurillac et la fiche de l'office de tourisme pour le marché et pour les horaires des Fermiers du Cantal. Si Aurillac n'atteint toujours pas cinq points vérifiables, descendre à Saint-Flour puis Murat (règle 41.d).
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, quatrième passe du jour (Nord (59) écarté par la règle 247, aucune publication)
+
+**Secteur.** Métropole seule (règle 93). Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches, populations `geo.api.gouv.fr` : Nord (59) en tête de la métropole (≈ 4,7), suivi de Haute-Garonne (31, ≈ 3,9), Oise (60, ≈ 3,8), Loire (42, ≈ 3,7) et Haute-Corse (2B, ≈ 3,6). Réserve 41.c : la passe précédente visait Auvergne-Rhône-Alpes (Cantal), région exclue. Nord est écarté par la règle 247 : plus de douze communes y sont déjà éprouvées sans fiche entière (Maubeuge, Cambrai, Wattrelos, Marcq-en-Barœul, Lambersart, Armentières, Tourcoing, Roubaix, Douai, Valenciennes…), la borne est dépassée.
+
+**Ce qui a été lu.** Rien de nouveau cette passe : le calcul du déficit et l'état des départements (règles 247 et 41.c) ont été relus dans le README. Registre de l'Agence Bio, Haute-Corse : première page de cent opérateurs lue, entrées majoritairement à nom de personne ou sans vente aux particuliers ; Haute-Corse déjà éprouvée (Calvi, passes d'octobre).
+
+**Vérifié.** Rien ne franchit le seuil. Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Haute-Corse, exploitations du registre à nom de personne : écartées, ne se rouvrent pas.
+- Nord, communes déjà éprouvées : aucune reprise tant qu'un déblocage nommé n'existe pas (règle 247).
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne (Occitanie, non visée la dernière passe) reprend à Balma, sur les sources de la commune et de la coopérative, en gardant la règle de groupement. Nord reste épuisé au sens de la règle 247.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
