@@ -58728,3 +58728,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, dixième passe du jour (Corse (2A/2B) visée, Ajaccio sondée : aucune publication)
+
+**Secteur.** Métropole et Corse (règle 93). Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). La borne de douze communes de la Loire (règle 247) étant atteinte à la passe précédente, la Corse est le département suivant du classement. Populations `geo.api.gouv.fr` : Corse-du-Sud (2A) 168 306 habitants, Haute-Corse (2B) 187 180 habitants. Le décompte des fiches corses est à refaire proprement avec les codes postaux 20xxx répartis entre 2A et 2B ; aucune fiche n'est ajoutée à cette passe. Commune : Ajaccio, la plus peuplée de Corse sans fiche vérifiée.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, 2A et 2B, première page de cent opérateurs chacune. Les entrées de vente aux particuliers sont en grande majorité à nom de personne physique : écartées pour doute sur une personne. Les autres sont des exploitations ou des magasins sans horaires lus.
+- Recherche web sur Ajaccio : marché couvert et halle centrale signalés, mais aucun jour ni horaire confirmé par la Ville (site officiel non repéré).
+- Magasin de producteurs du quartier Saint-Joseph : une seule source, un annuaire de circuit court, sans horaires.
+- Boutique d'artisans et de produits corses, Ajaccio : horaires et produits tirés d'un guide touristique seulement ; aucune source officielle ou récente.
+- Porto-Vecchio : un magasin de producteurs avec horaires, mais une seule source (annuaire de circuit court).
+
+**Vérifié.** Rien. Aucune commune de Corse ne rend cinq fiches à deux sources indépendantes (règles 5, 6 et 52). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).**
+- Ajaccio, magasin de producteurs du quartier Saint-Joseph : une source, horaires absents. **Déblocage** : horaires et produits lus sur le site du magasin, plus une seconde source indépendante.
+- Ajaccio, halle et marché de producteurs : jours et horaires non confirmés par la Ville. **Déblocage** : rubrique marchés du site officiel de la commune.
+- Ajaccio, boutique d'artisans et de produits corses : horaires d'un guide seulement. **Déblocage** : site de la boutique.
+- Porto-Vecchio, magasin de producteurs : une source, horaires issus de l'annuaire. **Déblocage** : site du magasin ou seconde source.
+- Entrées du registre bio en 2A et 2B à nom de personne physique, en vente aux particuliers : écartées pour doute sur une personne, ne se rouvrent pas.
+
+**Descente.** Corse ouverte. Passe suivante : reprendre Ajaccio (site de la Ville, site des magasins), puis Porto-Vecchio ; refaire le décompte corse avant tout autre calcul de secteur.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
