@@ -58566,3 +58566,37 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord visé aujourd'hui, donc écarté par la garde 41.c si la passe suivante le retient. Relire le Carnet des producteurs de la MEL (calendrier des marchés, pages Lambersart et Armentières) avant toute nouvelle sonde. Lambersart et Armentières ne doivent pas être revisitées sans nouvelle source.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, troisième passe du jour (Cantal (15), Aurillac reprise : aucune publication)
+
+**Backlog.** Vide : aucune demande au statut « nouvelle », aucune à relancer. Demande en_cours n° 13 inchangée (doute sur une personne, non publiée).
+
+**Secteur, règles 41, 41.c, 93 et 247.** Métropole seule (règle 93), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait Nord (Hauts-de-France), région exclue. Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Seine-Saint-Denis, Calvados, Vienne, Haute-Marne et Alpes-de-Haute-Provence sont closes, épuisées ou éprouvées (règle 247 et passes précédentes). Retenu : **Cantal (15, Auvergne-Rhône-Alpes)**, déficit ≈ 2,74, zéro fiche publiée, point d'arrêt de la passe du 11 novembre (Aurillac).
+
+**Commune, règle 41.d.** Aurillac, la plus peuplée du Cantal sans fiche. Reprise des trois magasins de producteurs signalés le 11 novembre.
+
+**Ce qui a été lu.**
+- Que Choisir (carte circuit court) : « Les Fermiers du Cantal », magasin de producteurs à Aurillac. Horaires publiés par l'annuaire : mardi après-midi seulement, mercredi au vendredi en journée continue puis après-midi, samedi matin, fermé lundi et dimanche. Un autre affichage donne le mardi de 15 h à 19 h, et la même enseigne est ailleurs signalée sous un autre horaire : le mardi reste contradictoire.
+- Auvergne-Rhône-Alpes Tourisme, fiche « Les Fermiers du Cantal » : fiche de l'office de tourisme lue ; elle confirme l'existence de la boutique.
+- Presse régionale (article non daté) : la boutique s'installe au rez-de-chaussée de la Chambre d'agriculture du Cantal. Date non vérifiée, donc non retenue comme adresse.
+- Registre et annuaires : « La Ferme de Chez Nous » (Que Choisir seul, sans adresse ni horaires lisibles) et « L'Écho Paysan » (produits locaux, horaires absents) : aucune deuxième source sur leur propre page.
+- Marché traditionnel d'Aurillac : une source régionale annonce plus de quatre-vingts producteurs, sans jour ni horaire ; l'agenda régional confirme seulement une édition 2026. Jour non confirmé par la Ville : non retenu.
+- Site officiel de la Ville : non lu cette passe (page des marchés toujours introuvable dans les résultats).
+
+**Vérifié.** Un seul commerce (Les Fermiers du Cantal) a l'existence confirmée par deux sources indépendantes, mais son horaire du mardi diverge entre sources : fait incertain, il ne suffit pas. Aucun autre point n'atteint le seuil de quatre points vérifiables (règle 52). Une fiche isolée ne forme pas le groupe de cinq (règle 248).
+
+**Fiches publiées.** Aucune. Aucune fiche n'est entièrement vérifiée (existence, activité, adresse BAN, photo).
+
+**Pistes non publiées (anonymes).**
+- Aurillac, Les Fermiers du Cantal (magasin de producteurs, existence confirmée) : **déblocage** = horaires du mardi et adresse publiés par la boutique ou l'office de tourisme ; photo du site propre ou de l'office.
+- Aurillac, « La Ferme de Chez Nous » : **déblocage** = seconde source indépendante avec adresse et horaires.
+- Aurillac, « L'Écho Paysan » : produits locaux, pas un producteur : hors périmètre tant qu'un producteur n'y est pas identifié.
+- Aurillac, marché traditionnel : **déblocage** = jour et horaires publiés par la Ville.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe ; les entrées du registre à Aurillac déjà écartées le 11 novembre ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Horaires du mardi des Fermiers du Cantal : deux sources divergentes, consignées, non tranchées.
+
+**Point d'arrêt.** Passe suivante : Cantal reste ouvert et Aurillac reste la commune ; lire la page de la Ville d'Aurillac et la fiche de l'office de tourisme pour le marché et pour les horaires des Fermiers du Cantal. Si Aurillac n'atteint toujours pas cinq points vérifiables, descendre à Saint-Flour puis Murat (règle 41.d).
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
