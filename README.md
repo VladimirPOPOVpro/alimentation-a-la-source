@@ -58780,3 +58780,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, douzième passe du jour (Corse (2A/2B) reprise, sites officiels hors ligne : aucune publication)
+
+**Secteur.** Métropole et Corse (règle 93), outre-mer exclu. Backlog vide : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Corse reprise : la borne de douze communes de la règle 247 n'est pas encore atteinte pour la Corse, Ajaccio restant la commune la plus peuplée sans fiche vérifiée.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville d'Ajaccio : hors ligne (code 000) à cette passe, à la page d'accueil comme à la rubrique marchés.
+- Site officiel de Poissy : réponse 503, service indisponible ; aucune lecture possible.
+- Registre des entreprises (recherche-entreprises) : accessible (200) ; pas de fiche tirée de ce seul registre, qui ne donne ni horaires ni produits.
+
+**Vérifié.** Rien. Les sources officielles de la commune ne répondent pas et aucune commune de Corse ne rend cinq fiches à deux sources indépendantes et actuelles (règles 5, 6 et 52). Aucune fiche n'est publiée.
+
+**Pistes non publiées (anonymes).** Les pistes d'Ajaccio et de Porto-Vecchio des passes précédentes restent en attente de leur déblocage, sans changement cette passe.
+
+**Descente.** Corse toujours ouverte. Passe suivante : relire le site de la Ville d'Ajaccio si elle répond ; à défaut, appliquer la règle 247 (borne de douze communes) avant tout changement de département.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
