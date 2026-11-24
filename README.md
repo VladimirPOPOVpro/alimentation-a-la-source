@@ -59061,3 +59061,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : ne pas revenir sur la Savoie tant que la mairie ou l'office de tourisme de Bourg-Saint-Maurice n'ont pas confirmé le jour du marché et l'adresse de la boutique collective. Commune suivante par population sans fiche en Savoie : **Ugine** (7 154 habitants), à éprouver si la règle 247 le permet.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Nord (59) reprise, Croix et La Madeleine sondées : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » : passe de couverture (mode 2). La demande en_cours (doute sur une personne) reste inchangée.
+
+**Secteur, règle 41.** Recalcul métropole seule (97x et 98x écartés, validateur). Déficit le plus élevé après les départements non métropolitains : Nord (59), déficit 4,7, région 32. La passe précédente portait sur la Savoie (région 84) : la réserve de région ne l'écarte pas.
+
+**Commune, règle 41.d.** Reprise de Croix et de La Madeleine, communes dont le point d'arrêt de la passe du 24 novembre désignait l'instruction.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord, première page (100 opérateurs sur 1 802 ; la pagination complète n'est pas relue cette passe). Les trois entrées de Croix et de La Madeleine de cette page ne déclarent aucune vente aux particuliers.
+- Recherche web : deux annuaires participatifs pour Croix (un listant trois marchés, une Biocoop, une exploitation fruitière) et pour La Madeleine (deux marchés déclarés, jours et horaires absents). Aucun site de mairie, d'office de tourisme ou de producteur consulté avec succès cette passe.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles : les seules sources trouvées sont des annuaires participatifs.
+
+**Pourquoi rien n'est publié.** Croix et La Madeleine ne rendent pas cinq commerces vérifiables sur une source officielle. Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Croix, marché alimentaire déclaré sur un annuaire participatif, jours et lieu à confirmer auprès de la mairie ; Croix, Biocoop déclarée, adresse et statut à confirmer sur le site de l'enseigne ; Croix, exploitation fruitière de vente directe, activité et horaires à confirmer ; La Madeleine, deux marchés déclarés sur un annuaire participatif, jours et horaires à confirmer auprès de la mairie.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante : le Nord reste ouvert, mais la pagination complète du registre (1 802 opérateurs) reste à relire, en filtrant sur les opérateurs qui déclarent la vente aux particuliers et en vérifiant chacun sur une source indépendante. Commune suivante par population sans fiche : à déterminer par la règle 41.d. Ne pas revenir sur la Savoie tant que son marché n'est pas confirmé.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
