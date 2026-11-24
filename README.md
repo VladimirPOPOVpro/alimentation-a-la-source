@@ -58899,3 +58899,24 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Contradictions consignées (règle 5).** Aucune tranchée cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 24 novembre 2026, dix-huitième passe du jour (Haute-Garonne (31), Muret sondée à nouveau : aucune publication)
+
+**Secteur, règles 41, 41.c, 93 et 260.** Métropole seule (règle 93), outre-mer exclu. Backlog : aucune demande au statut « nouvelle » ; la demande en_cours n° 13 reste sans publication (doute sur une personne). Déficit recalculé sur 1 309 fiches et populations `geo.api.gouv.fr` : Nord (59) écarté par la règle 41.c, la passe précédente étant nordiste ; Haute-Garonne (31) retenue, déficit ≈ 3,9. Commune, règle 41.d : Muret, la plus peuplée sans fiche, reprise à la descente de la passe précédente, sans nouveau criblage.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, 400 opérateurs parcourus (quatre pages de cent), filtrés sur Muret et ses voisines : la plupart sont des entreprises individuelles identifiées par un patronyme (écartées, règle 6 et doute sur une personne) ; les autres sont des établissements de distribution ou de préparation sans vente au public.
+- Recherche web : un annuaire de marchés recense un point de vente en gestion collective à Muret, avec un jour et des horaires, mais une seule source et sans produits ; aucune AMAP trouvée à Muret même ; les producteurs mentionnés par les annuaires régionaux (magasins de la ferme, drives fermiers) sont à Portet-sur-Garonne, Bérat, Mauran et Tournefeuille, hors commune.
+- Site officiel de la Ville de Muret : toujours hors ligne à cette passe.
+
+**Vérifié.** Rien. Aucune fiche n'a deux sources indépendantes et actuelles pour Muret (règles 5, 6 et 52).
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne (31), Muret, point de vente collectif en gestion permanente : une seule source (annuaire de marchés) ; déblocage : site de la Ville en ligne, ou seconde source indépendante sur ses produits et ses horaires.
+- Haute-Garonne (31), Muret, producteurs de l'agglomération : aucune source ne les nomme à l'adresse de Muret. Déblocage : rubrique marchés du site de la Ville, ou liste de l'office de tourisme de l'agglomération muretaine.
+
+**Descente.** Passe suivante : Haute-Garonne toujours ouverte, sauf si la règle 41.c l'interdit (elle ne l'interdit pas, la passe précédente étant nordiste). Reprendre Muret au site de la Ville si la page revient, sinon à l'office de tourisme de l'agglomération muretaine.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
