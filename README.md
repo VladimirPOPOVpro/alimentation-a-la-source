@@ -59377,3 +59377,16 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : recalculer le classement (règle 41) en retirant le Calvados, l'Hérault, la Haute-Garonne et les départements déjà clos (Nord, Oise, Loire, Haute-Corse, Savoie). Le prochain département éligible du classement est à recalculer ; la passe ne doit pas viser la région 76 ni la région 28 si celles-ci sont épuisées dans le même rang.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 25 novembre (passe finale du jour) : Oise, aucune fiche publiée
+
+Backlog vide. Département retenu par la règle 41 : l'Oise (60), déficit positif
+restant sur la base actuelle. Candidats examinés : le Biocoop de Creil (le
+registre SIRENE signale un établissement fermé depuis le 31/10/2020 à la même
+adresse, et aucun horaire n'a pu être recoupé) ; le point de vente Bio'Margny
+(Margny-lès-Compiègne), dont l'identité commerciale et les horaires n'ont pas pu
+être confirmés par une source indépendante. Aucun des deux n'est publié : doute
+de fait, rien ne part. Les candidats issus du registre de l'Agence Bio ont été
+écartés (particuliers exploitants, supermarchés). Reprise à faire : vérifier le
+statut SIRENE du Biocoop de Creil auprès du magasin ou de biocoop.fr avant tout
+ajout.
