@@ -59442,3 +59442,28 @@ ajout.
 **Point d'arrêt.** Passe suivante : Maubeuge reprise avec la mairie et l'office de tourisme de l'Avesnois pour trouver les marchés et les points de vente à la ferme ; si rien ne se vérifie, descente à la commune suivante sans fiche dans le Nord (Maubeuge n'est pas une exception à la règle 41.d).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026, 15 h 45 (Haute-Garonne (31) reprise, Muret sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 177 et 93.** Métropole seule (outre-mer exclu, règle 177). Le calcul de déficit donne Nord (59) et Oise (60) en tête, mais la passe précédente (septième du jour, puis Nord en dernier lieu) relevait des Hauts-de-France : la réserve de la règle 41.c écarte la région 32 pour cette passe. Le déficit suivant éligible est Haute-Garonne (31, région 76), à 3,93 ; le 31 reste donc visé.
+
+**Commune, règles 41.d et 248.** Muret (26 079 habitants) reste la plus peuplée sans fiche dans le 31. Ce qui a été lu :
+- site de la Ville de Muret : réponse HTTP 000 (injoignable), à nouveau cette passe ;
+- registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs filtrée sur Muret : une entrée, un opérateur à nom de personne (doute sur une personne, écartée, ne se rouvre pas) et un négoce de gros ;
+- annuaire DirectFermiers31 : redirection (HTTP 301), non exploité faute de liste lisible.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles avec des produits ni une adresse dans Muret.
+
+**Pourquoi rien n'est publié.** Muret ne rend pas cinq commerces vérifiables, et la Ville reste injoignable. Une seule piste, à L'Union, déclarée à vente aux particuliers au registre bio, n'a pas de seconde source vérifiée et son activité n'est pas établie : elle ne forme pas un groupe de cinq et n'est pas publiée.
+
+**Pistes non publiées** (anonymes) : Haute-Garonne (31), Muret, opérateur de registre à nom de personne (doute sur une personne, écartée) ; Haute-Garonne (31), Muret, négoce de gros (règle 3, exclu) ; Haute-Garonne (31), L'Union, entreprise déclarée à vente aux particuliers au registre, une seule source (à reprendre si une seconde source existe).
+
+**Fiches écartées pour doute sur une personne.** Une, à Muret (voir ci-dessus).
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (région 76, la passe précédente étant nordiste, la réserve ne l'écarte pas). Muret ne se reprend que si la Ville redevient joignable ou si une liste lisible de producteurs apparaît ; Plaisance-du-Touch ayant déjà été éprouvée, la commune suivante par population est Ramonville-Saint-Agne, à éprouver.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
