@@ -59272,3 +59272,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne, Balma, consulter DirectFermiers31 avant tout site de commune ; si rien ne se vérifie, descente à Castanet-Tolosan.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (huitième du jour, Seine-Saint-Denis (93) reprise, Bobigny sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, outre-mer exclu. La passe précédente portait sur la Haute-Garonne (région 76), qui est donc écartée par la réserve de région. Le Nord (59), l'Oise (60), la Loire (42), la Haute-Corse (2B) et la Savoie (73) sont clos ou épuisés selon la règle 247. Le Calvados reste à vérifier, mais une passe précédente l'a visé à la veille. Le déficit le plus élevé restant : **Seine-Saint-Denis (93)**, région 11, réouvert puisque la passe précédente ne portait pas sur l'Île-de-France. Dénominateur national (règle 224).
+
+**Commune, règles 41.d et 127.** Aulnay-sous-Bois (87 599 habitants) est déjà sondée sans résultat. Descente à **Bobigny** (56 927 habitants), commune suivante par population sans fiche selon le point d'arrêt du 25 novembre.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Bobigny (`bobigny.fr`, joignable) : page d'accueil et rubrique « L'économie ». Aucun marché, aucune AMAP ni liste de producteurs n'y figure ; seule une rubrique « marchés publics », qui est la commande publique et non le commerce.
+- Registre Agence Bio, Seine-Saint-Denis, deuxième page de cent opérateurs : les entrées à Bobigny sont des transformateurs ou des distributeurs de grande échelle, et une entrée est au nom d'une personne physique (écartée, ne se rouvre pas).
+- Recherche web : rien de vérifiable sur les points de vente en circuit court de Bobigny.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles, et aucun commerce de Bobigny n'est confirmé par une source officielle.
+
+**Pourquoi rien n'est publié.** Pas de marché ni de producteur vérifiable à Bobigny. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Seine-Saint-Denis (93), Bobigny, aucune source officielle de marché ; Seine-Saint-Denis (93), une entrée du registre à nom de personne physique, écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre (Seine-Saint-Denis, 93). Non publiée, ne se rouvre pas.
+
+**Contradictions consignées (règle 5, et règle 41.c).** Le point d'arrêt de la passe du 25 novembre (septième du jour) désignait Balma, en Haute-Garonne, alors que cette passe-là visait déjà la région 76. La règle 41.c interdit de viser deux passes de suite la même région : Balma ne pouvait donc pas être la passe suivante. Cette passe n'a pas repris Balma et n'a pas tranché la contradiction ; elle la consigne ici pour le responsable du site.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Bobigny avant une source officielle lisible (liste d'exposants ou jours de marché de la Ville, ou office de tourisme de Plaine Commune). Commune suivante par population sans fiche dans le 93 : Drancy (72 390 habitants), à éprouver. Le département suivant du classement, hors région 11 si la passe précède un passage en Île-de-France, reprendra selon la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
