@@ -59467,3 +59467,27 @@ ajout.
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (région 76, la passe précédente étant nordiste, la réserve ne l'écarte pas). Muret ne se reprend que si la Ville redevient joignable ou si une liste lisible de producteurs apparaît ; Plaisance-du-Touch ayant déjà été éprouvée, la commune suivante par population est Ramonville-Saint-Agne, à éprouver.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Nord (59) épuisé, Haute-Garonne écartée par la réserve de région : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, outre-mer exclu (règles 93 et 177). Classement sur 1 309 fiches et les populations `geo.api.gouv.fr`. Le Nord (59) reste en tête (déficit 6,75), mais toutes les communes les plus peuplées du département sans fiche ont déjà été éprouvées aux passes précédentes (liste de la passe du matin) : la descente y est close au sens de la règle 247. La Haute-Garonne (31, région 76) est écartée par la réserve de région, la passe précédente visant l'Occitanie. Seine-Saint-Denis (93) a été sondée plus tôt dans la journée sans commune restante vérifiable.
+
+**Commune, règle 41.d.** Examen de l'historique seulement, sans nouvelle recherche : dans les Yvelines (78), Mantes-la-Jolie, Poissy, Conflans-Sainte-Honorine et Trappes, sans fiche et plus peuplées que la suivante, ont déjà été éprouvées ; Houilles, Montigny-le-Bretonneux et Le Chesnay-Rocquencourt restent à reprendre.
+
+**Ce qui a été lu.** Populations de la métropole (`geo.api.gouv.fr`), comptage des fiches par département et par commune à partir de `data/marchands.json`, historique des passes dans ce README. Aucune source externe nouvelle n'a été ouverte cette passe.
+
+**Vérifié.** Rien de nouveau : aucune fiche ne rassemble cinq commerces vérifiables sur source indépendante et actuelle dans la commune visée.
+
+**Pourquoi rien n'est publié.** La passe n'a trouvé aucune zone éprouvable de cinq commerces dans le département retenu ; ne pas meubler avec des fiches isolées (règle 41.d).
+
+**Pistes non publiées** (anonymes) : aucune nouvelle cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Yvelines (78) à éprouver en recherche web réelle (Houilles, puis Montigny-le-Bretonneux) ; le Nord ne se reprend que si une commune nouvelle apparaît dans la liste de la passe du matin.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
