@@ -59247,3 +59247,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : la descente du Nord reprend à Cambrai si le site officiel répond ; sinon, la règle 247 borne la descente et le département suivant du classement (Seine-Saint-Denis, 93, puis Oise, 60) prend le relais.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026, 07 h 46 (septième du jour, Haute-Garonne (31) reprise, Muret et Balma sondées : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne : rien n'est publié ni répondu).
+
+**Secteur, règles 41 et 41.c.** Métropole seule, outre-mer exclu (le contrôle de `lib/validateMerchants.ts` refuse les coordonnées hors métropole). Région 32 écartée, la passe précédente étant nordiste. Déficit le plus élevé restant hors région 32 : Haute-Garonne (31), région 76. Calcul refait sur 1 309 fiches et les populations `geo.api.gouv.fr`.
+
+**Commune, règles 41.d et 248.** Muret (26 079 habitants) reste la plus peuplée sans fiche. Le site de la Ville (muret.fr) ne répond pas depuis cet environnement. Descente à Balma (17 772 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, première page de cent opérateurs : majorité de particuliers ou de grossistes, aucun point de vente vérifiable identifié à Muret ou Balma.
+- Recherche web sur Muret : seuls des agrégateurs de marchés (Jours de Marché, Alentoor). Une cagette de producteurs y est annoncée le mardi ; son nom comporte un prénom, donc doute sur une personne : écartée, ne se rouvre pas.
+- Recherche web sur Balma : aucun marché de producteurs régulier trouvé ; une liste ancienne (2015) cite des AMAP, non vérifiées à ce jour.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles, ni une adresse confirmée dans la commune.
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne (31), Muret : cagette de producteurs, mardi (doute sur une personne, écartée).
+- Haute-Garonne (31), Balma : AMAP citées par un annuaire de 2015, non vérifiées ; déblocage : confirmation par l'annuaire DirectFermiers31 ou la mairie.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne, Balma, consulter DirectFermiers31 avant tout site de commune ; si rien ne se vérifie, descente à Castanet-Tolosan.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
