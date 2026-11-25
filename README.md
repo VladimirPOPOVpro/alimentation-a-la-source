@@ -59617,3 +59617,34 @@ Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors ou
 **Registre de l'Agence Bio, Haute-Garonne** : la plupart des vendeurs particuliers de Toulouse sont des exploitants en nom personnel ou des structures sans adresse de vente vérifiée. Aucun nom n'est repris ici, et aucune fiche n'est tirée de cette liste sans source indépendante.
 
 **Conclusion** : aucune fiche n'a pu être vérifiée jusqu'au seuil de cinq commerces sur une même commune. Rien n'est publié, la base reste à 1 309 fiches. La passe suivante reprend la même formule sur le département de plus grand déficit une fois les pistes instruites.
+
+## Passe autonome du 25 novembre 2026 (nuit) : Haute-Garonne (31) reprise, Muret et Plaisance-du-Touch sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle » ; aucun email. La demande en_cours (#13, Var, producteur) reste inchangée.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr` (68,95 M d'habitants). Déficits les plus forts : Nord (59, 4,66), Haute-Garonne (31, 3,93), Oise (60, 3,75). Le Nord est écarté par la réserve de région : la passe précédente visait les Hauts-de-France. Retenu : Haute-Garonne (31), Occitanie, déficit 3,93, aucune passe de la région immédiatement avant.
+
+**Commune, règle 41.d.** Commune la plus peuplée de la Haute-Garonne sans aucune fiche : **Muret** (26 079 hab.). Suivante par population : **Plaisance-du-Touch** (21 079 hab.), Balma et Castanet-Tolosan viennent ensuite, à descendre si Plaisance-du-Touch ne rend pas cinq commerces.
+
+**Muret, ce qui tient.**
+- Un magasin bio de réseau, boulevard de Joffrery, adresse géocodée par la BAN (point cohérent, lon 1,336 / lat 43,479). Ses horaires diffèrent d'un annuaire participatif à l'autre (lundi 10 h – 19 h 30 contre lundi 14 h – 18 h) ; le site officiel du réseau est joignable (HTTP 200) mais sa fiche de magasin n'a pas été trouvée. Pas de fiche : horaires non établis.
+- Un marché de producteurs chaque mardi de 17 h à 19 h, en retrait : une seule source, non datée, enseigne au prénom. Doute sur une personne : rien publié.
+- Deux autres enseignes bio de Muret (une franchise bio et une enseigne de vrac) : aucune adresse ni horaire vérifiés.
+
+**Plaisance-du-Touch, ce qui tient.**
+- Un magasin bio d'un réseau de magasins de proximité, au centre commercial de Bernadet : adresse vue dans un seul annuaire, horaires variables selon le point de vente, statut actuel non confirmé. Pas de fiche.
+- Un fromager à domicile qui déclare ne pas vendre sur place : ce n'est pas un point de vente, et son nom est celui d'une personne. Doute sur une personne : rien publié, rien n'est nommé ici.
+
+**Vérifié.** Ni Muret ni Plaisance-du-Touch n'atteint cinq commerces vérifiables sur source indépendante et actuelle. Une fiche isolée ne forme pas la zone (règle 41.d), et aucune fiche n'a été ajoutée.
+
+**Registre des entreprises.** La recherche « biocoop muret » ne rend qu'une entité bio, située en commune 31303 et hors du secteur : écartée, rien n'est lié à Muret.
+
+**Pistes non publiées** (anonymes) : Muret (31), magasin bio de réseau, horaires contradictoires et site de magasin à retrouver ; Muret (31), marché de producteurs du mardi, enseigne au prénom, une seule source non datée, écartée pour doute sur une personne ; Muret (31), deux enseignes bio sans adresse vérifiée ; Plaisance-du-Touch (31), magasin bio de réseau au centre commercial, statut et horaires à confirmer ; Plaisance-du-Touch (31), fromager à domicile sans vente sur place, nom de personne, écarté.
+
+**Contradictions consignées (règle 5).** Horaires du magasin bio de Muret : un annuaire participatif (lundi 10 h – 19 h 30, mardi 9 h 30 – 14 h 30 puis 14 h 30 – 19 h 30) contre une autre source (lundi 14 h – 18 h, mardi 12 h – 18 h, mercredi et jeudi 9 h 30 – 18 h, vendredi 10 h – 18 h 30, samedi 11 h – 13 h). Non tranchée : sans fiche, rien à publier pour l'instant.
+
+**Fiches écartées pour doute sur une personne.** Deux, en Haute-Garonne (un marché au nom d'une enseigne contenant un prénom à Muret, un fromager à nom patronymique à Plaisance-du-Touch), comptées sans nom.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne à reprendre sur Muret (site officiel du magasin bio de réseau, pour trancher les horaires ; site de la mairie pour le marché), puis Plaisance-du-Touch (statut du magasin bio du centre commercial). Ne pas revenir en Occitanie avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
