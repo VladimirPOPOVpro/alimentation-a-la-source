@@ -59326,3 +59326,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne. Castanet-Tolosan a déjà été sondée sans résultat ; reprendre par la commune suivante par population sans fiche dans le 31, en consultant d'abord l'annuaire DirectFermiers31 et le registre bio, et éviter la région 11.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (dixième du jour, Yvelines (78) : Poissy et Conflans sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, outre-mer exclu. La passe précédente portait sur la Haute-Garonne (région 76, Occitanie), qui est donc écartée par la réserve de région. Classement recalculé sur 1 309 fiches et populations `geo.api.gouv.fr`, après exclusion de l'Occitanie et des départements clos par la règle 247 : Yvelines (78) en tête, devant Val-de-Marne (94) et Hérault (34). Yvelines retenu ; la descente reprend au point d'arrêt écrit (Mantes-la-Jolie éprouvée, puis Poissy, puis Conflans-Sainte-Honorine).
+
+**Communes éprouvées.**
+- **Poissy** (40 983 habitants) : registre de l'Agence Bio, Yvelines, cent cinq opérateurs filtrés sur Poissy : aucun magasin bio ni producteur en vente directe identifié ; une entrée de vente aux particuliers à nom de personne physique, écartée pour doute sur une personne (ne se rouvre pas). Recherche web : le guide Yvelines cite une AMAP sans horaires ; les marchés ne sont documentés que par un agenda d'événements (non officiel) ; une épicerie de produits locaux figure sur une carte de circuit court, sans horaires ni statut vérifiés. Rien ne passe le seuil de deux fiches entières.
+- **Conflans-Sainte-Honorine** (36 958 habitants) : les marchés sont documentés par l'agenda de la Ville et par un guide, sans horaires précis pour l'AMAP locale. Le magasin bio de la carte de circuit court n'a aucune source d'enseigne lisible ; le registre bio le rattache à une adresse de zone industrielle, et la recherche n'a rien donné sur son activité de vente au public. Rien ne passe le seuil.
+
+**Ce qui a été lu.** Registre de l'Agence Bio (Yvelines, neuf pages de cent) ; recherche web sur Poissy et Conflans (marchés, AMAP, épiceries locales) ; carte de circuit court pour les deux villes.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles, et aucun horaire n'est confirmé par une source officielle.
+
+**Pourquoi rien n'est publié.** Les marchés documentés le sont par des agendas et des annuaires participatifs, les AMAP sans horaires, et les commerces repérés sans statut ni horaires vérifiés. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Yvelines (78), Poissy, épicerie de produits locaux, horaires et statut non vérifiés ; Yvelines (78), Poissy, AMAP sans horaires ; Yvelines (78), Poissy, entrée du registre à nom de personne physique, écartée pour doute sur une personne ; Yvelines (78), Conflans-Sainte-Honorine, magasin bio de la carte circuit court, source de vente au public non lue ; Yvelines (78), Conflans-Sainte-Honorine, AMAP sans horaires.
+
+**Fiches écartées pour doute sur une personne.** Une entrée du registre (Yvelines, Poissy). Non publiée, ne se rouvre pas.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Yvelines, reprendre à Conflans-Sainte-Honorine en cherchant d'abord la source de vente de son magasin bio et les horaires de l'AMAP auprès de la Ville ; si rien ne se vérifie, descente à Trappes (34 689 habitants), commune suivante par population sans fiche dans le 78.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
