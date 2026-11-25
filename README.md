@@ -59567,3 +59567,22 @@ ajout.
 **Point d'arrêt.** Passe suivante : Le Chesnay-Rocquencourt à reprendre si une source neuve donne trois commerces vérifiables (la Ville, l'AMAP du secteur ou une enseigne indépendante) ; sinon Montigny-le-Bretonneux, à éprouver sur le site de la Ville une fois joignable. Ne pas rouvrir l'Oise avant une passe d'une autre région.
 
 **Publication.** Seule cette note est ajoutée au README (avec la note de la passe Oise restée non commitée) ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (fin de journée) : Haute-Garonne (31) visée, Muret et Auterive sondées : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var) reste inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur (règle 41).** Population métropolitaine recalculée sur 34 969 communes, outre-mer exclu (les fiches ultramarines ne passent pas le contrôle de France métropolitaine). Déficits les plus forts : Nord (59), Haute-Garonne (31), Seine-Saint-Denis (93), Oise (60), Yvelines (78). Écartés par la règle des deux passes : Yvelines et Oise, visées par les passes précédentes. Retenu : Haute-Garonne (31), région Occitanie, déficit ≈ 5,1. Commune la plus peuplée sans fiche : Muret (26 079 hab.), puis Plaisance-du-Touch.
+
+**Vérifications.**
+- Registre Agence Bio, département 31 (500 opérateurs lus) : les producteurs des communes visées sont en très grande majorité des particuliers désignés par leur nom patronymique. Rien de publiable en l'état (règle nominative).
+- Muret : la recherche ne donne aucun marché de producteurs dont les horaires soient confirmés par une source officielle. Un agrégateur mentionne une « cagette » de producteurs le mardi de 17 h à 19 h, avec commande en ligne : une seule source, format de retrait, non retenu.
+- Auterive (commune à 10 456 hab., sans fiche) : un magasin bio à la même adresse apparaît sous deux enseignes dans deux annuaires (Bioterive et Biocoop), horaires différents. Contradiction non tranchée, une seule source par enseigne : rien publié (règle 5 : les deux versions ne sont pas toutes deux vérifiées).
+
+**Pistes non publiées** (anonymes) : Muret (31), marché de producteurs en retrait le mardi, une seule source, horaires à confirmer ; Auterive (31), magasin bio, deux enseignes contradictoires à la même adresse ; Haute-Garonne (31), une dizaine de producteurs au registre écartés pour doute sur une personne (nom patronymique), ne se rouvrent pas.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, toutes en Haute-Garonne, toutes dans le registre bio (exploitations à nom de particulier). Aucune n'est publiée.
+
+**Point d'arrêt.** Haute-Garonne à reprendre une passe sur Plaisance-du-Touch ou Balma, en cherchant d'abord des enseignes et des marchés municipaux, puis les producteurs qui vendent au public sous un nom d'exploitation. Le calcul de la règle 41 est à refaire à la passe suivante : Haute-Garonne n'est plus visée deux passes de suite.
+
+**Publication.** Seule cette note est ajoutée au README. Aucune fiche ajoutée, data/, images et code non touchés. Total inchangé : 1 309 fiches.
