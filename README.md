@@ -59416,3 +59416,29 @@ ajout.
 **Point d'arrêt.** Passe suivante : Vienne (38) reprise en interrogeant la mairie ou l'office de tourisme Vienne Condrieu Agglomération pour les jours du marché, puis l'annuaire du magasin de producteurs ; si rien ne se vérifie, descente à la commune suivante sans fiche dans le 38.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Nord (59) sondé, Maubeuge : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règle 41.** Métropole seule, outre-mer exclu (règle 177). Classement sur 1 309 fiches et les populations `geo.api.gouv.fr`, départements déjà clos retirés : le Nord (59) arrive en tête, déficit de 4,7. Il est retenu malgré les passes du jour consacrées au Nord, la dette de la règle 11 y restant ouverte.
+
+**Contradiction de garde, consignée (règle 5).** Le point d'arrêt de la passe précédente demande de reprendre Vienne (38), dans l'Auvergne-Rhône-Alpes, alors que cette passe-là visait déjà l'Isère (38) dans la même région. La règle « deux passes de suite ne peuvent pas viser la même région » l'emporte : Vienne n'est pas reprise ici.
+
+**Commune, règle 41.d.** Wattrelos, Marcq-en-Barœul et Cambrai, plus peuplées et sans fiche, ont déjà été sondées aujourd'hui sans résultat. La commune suivante par population sans fiche est Maubeuge (28 767 habitants).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Nord, dix pages de cent opérateurs : à Maubeuge, neuf opérateurs, dont des grandes surfaces, un ESAT, une boulangerie-pâtisserie sans vente au détail et un opérateur inscrit au nom d'une personne physique.
+- Recherche web sur le magasin bio de Maubeuge : le magasin est une franchise Biocoop, adresse et téléphone recoupés sur le site de l'enseigne, sur les annuaires et sur le site de la marque (eltoutbio.fr). Horaires concordants, sauf une différence mineure entre annuaires sur le lundi.
+
+**Vérifié.** Un seul commerce : le magasin bio de Maubeuge (enseigne Biocoop, franchise indépendante). Il est présent dans le registre et sur des sources indépendantes. Il n'est pas publié seul : une passe vise cinq fiches groupées sur une même commune, et Maubeuge n'en rend qu'une.
+
+**Pourquoi rien n'est publié.** Maubeuge ne rend pas cinq commerces vérifiables. Les autres opérateurs du registre sont des grandes surfaces, des ateliers ou des particuliers, qui sont écartés par la modération ou par la règle sur les personnes. Aucune photo n'a été recherchée, faute de fiche à publier.
+
+**Pistes non publiées** (anonymes) : Nord (59), Maubeuge, magasin bio franchisé, une seule fiche vérifiable, en attente de quatre autres commerces ; Nord (59), Maubeuge, un point de vente à la ferme inscrit au nom d'une personne physique, écarté pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Une, à Maubeuge (point de vente à la ferme, exploitant personne physique).
+
+**Point d'arrêt.** Passe suivante : Maubeuge reprise avec la mairie et l'office de tourisme de l'Avesnois pour trouver les marchés et les points de vente à la ferme ; si rien ne se vérifie, descente à la commune suivante sans fiche dans le Nord (Maubeuge n'est pas une exception à la règle 41.d).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
