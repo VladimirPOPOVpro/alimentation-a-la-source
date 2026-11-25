@@ -59221,3 +59221,29 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (région 76, la passe précédente étant nordiste, la réserve ne l'écarte pas). Muret ne se reprend que si l'annuaire DirectFermiers31 donne une liste lisible ou si la Ville de Muret redevient joignable. Sinon, la règle 247 descend à la commune suivante éprouvée, sans refaire le criblage.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (sixième du jour, Nord (59) repris, Cambrai sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne : rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule, outre-mer exclu. Région 76 écartée par la réserve de région, la passe précédente portant sur la Haute-Garonne. Déficit le plus élevé restant : Nord (59), 6,75, région 32, éligible.
+
+**Commune, règles 41.d et 247.** Cambrai (31 134 habitants) reprise au point d'arrêt de la passe précédente.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Cambrai : injoignable cette passe (réponse HTTP 000).
+- Registre des entreprises : un seul établissement « marché » à Cambrai, de gestion de marché couvert, sans liste de producteurs.
+
+**Vérifié.** Rien. Aucune source officielle joignable pour les marchés de Cambrai, aucune fiche ne réunit deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Pas de source officielle lisible à cette passe, et le seul registre disponible ne décrit pas de point de vente. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Nord (59), Cambrai, marchés de la Ville à relever sur le site officiel une fois joignable.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : la descente du Nord reprend à Cambrai si le site officiel répond ; sinon, la règle 247 borne la descente et le département suivant du classement (Seine-Saint-Denis, 93, puis Oise, 60) prend le relais.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
