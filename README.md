@@ -59586,3 +59586,26 @@ ajout.
 **Point d'arrêt.** Haute-Garonne à reprendre une passe sur Plaisance-du-Touch ou Balma, en cherchant d'abord des enseignes et des marchés municipaux, puis les producteurs qui vendent au public sous un nom d'exploitation. Le calcul de la règle 41 est à refaire à la passe suivante : Haute-Garonne n'est plus visée deux passes de suite.
 
 **Publication.** Seule cette note est ajoutée au README. Aucune fiche ajoutée, data/, images et code non touchés. Total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (soir) : Yvelines (78) reprises, Le Chesnay-Rocquencourt à trois sources : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande #13 (Var, producteur) reste en_cours, inchangée : doute sur une personne, rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches. La passe précédente visait la Haute-Garonne (Occitanie) : la région est exclue par la réserve de région. Retenu : Yvelines (78, Île-de-France), déficit positif, point d'arrêt de la passe du matin.
+
+**Le Chesnay-Rocquencourt, reprise.**
+- La Vie Claire, 2-6 avenue de Rocquencourt : adresse, horaires et téléphone confirmés par le magasin de réseau et par le site du réseau. Le magasin est une franchise de réseau national : indépendance du point de vente non tranchée (règle de commerce de réseau), non publié.
+- Les deux fiches solides de la passe du matin (marché forain, Le Chaudron Coop) restent les seules publiables. Avec La Vie Claire en attente, on compte trois commerces, soit deux fiches à compléter pour atteindre la zone de cinq.
+- Bio C' Bon : aucune adresse vérifiée à cette passe.
+
+**Pourquoi rien n'est publié.** Trois commerces vérifiables ne forment pas la zone de cinq (règle 41.d) : aucune fiche isolée n'est ajoutée.
+
+**Pistes non publiées** (anonymes) : Le Chesnay-Rocquencourt (78), magasin de réseau, indépendance non tranchée ; Le Chesnay-Rocquencourt (78), enseigne bio de réseau, adresse non vérifiée.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Point d'arrêt.** Passe suivante : Oise, par Creil (Biocoop, statut à vérifier) ou Crépy-en-Valois (producteur à localiser), ou Le Chesnay-Rocquencourt si une source neuve donne deux commerces de plus. Ne pas revenir en Île-de-France à la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
