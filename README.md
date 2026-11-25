@@ -59087,3 +59087,31 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : le Nord reste ouvert, mais la pagination complète du registre (1 802 opérateurs) reste à relire, en filtrant sur les opérateurs qui déclarent la vente aux particuliers et en vérifiant chacun sur une source indépendante. Commune suivante par population sans fiche : à déterminer par la règle 41.d. Ne pas revenir sur la Savoie tant que son marché n'est pas confirmé.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Seine-Saint-Denis (93) sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en_cours (Var, catégorie producteur) : doute sur une personne (nom commercial qui pourrait être un prénom, téléphone mobile, contact privé). Rien n'est publié, la demande reste en_cours, aucun message n'est envoyé.
+
+**Secteur, règle 41.** Recalcul sur la métropole seule (97x et 98x écartés, ils sortent du validateur). Déficit le plus élevé : Seine-Saint-Denis (93), déficit 4,8. La passe précédente portait sur le Nord (59) : la réserve de région est respectée.
+
+**Commune, règle 41.d.** La plus peuplée de 93 sans fiche : Aulnay-sous-Bois (87 599 habitants). Les communes plus peuplées (Saint-Denis, Montreuil, Aubervilliers, Pantin, Saint-Ouen-sur-Seine, Bagnolet, Livry-Gargan…) ont déjà des fiches.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, 93, première page (100 opérateurs). Les entrées d'Aulnay-sous-Bois sont des distributeurs, préparateurs ou boulangeries ; aucune exploitation ni marché identifiable comme point de vente en circuit court.
+- Site officiel de la ville d'Aulnay-sous-Bois : domaine non résolu depuis cet environnement.
+- Recherche web : annuaires participatifs et un guide de la grande distribution bio ; aucun marché, AMAP ni producteur d'Aulnay-sous-Bois confirmé par une source officielle.
+- Pour élargir à la commune suivante par population : Noisy-le-Grand et Drancy, recherches web sans résultat vérifiable (annuaires participatifs, un marché de Drancy sans jours ni horaires, aucune AMAP identifiée).
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Aulnay-sous-Bois ne rend pas cinq commerces vérifiables ; la commune suivante (Noisy-le-Grand) ne rend rien non plus sur les sources consultées. Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Aulnay-sous-Bois, boucherie « ferme » hors catégories du site, à écarter ; Aulnay-sous-Bois, magasin bio franchisé de grande surface, hors sujet ; Drancy, marché municipal récent sans horaires publiés ; Noisy-le-Grand, marché d'avenue sans horaires ni année vérifiés.
+
+**Fiches écartées pour doute sur une personne.** Aucune fiche publiée ni proposée cette passe ; la demande en_cours signalée ci-dessus reste en attente.
+
+**Contradictions consignées (règle 5).** Aucune tranchée cette passe.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur le 93 avant qu'une source officielle (mairie d'Aulnay-sous-Bois, office de tourisme) soit consultable. Commune suivante par population sans fiche dans le 93 : Bobigny, Drancy, Le Blanc-Mesnil, Noisy-le-Grand, à éprouver ; ou basculer sur le département suivant par déficit si la règle 41 le permet.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
