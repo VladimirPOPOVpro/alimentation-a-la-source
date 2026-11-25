@@ -59115,3 +59115,22 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : ne pas revenir sur le 93 avant qu'une source officielle (mairie d'Aulnay-sous-Bois, office de tourisme) soit consultable. Commune suivante par population sans fiche dans le 93 : Bobigny, Drancy, Le Blanc-Mesnil, Noisy-le-Grand, à éprouver ; ou basculer sur le département suivant par déficit si la règle 41 le permet.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (troisième du jour, Nord (59) reprise, Wattrelos sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande en_cours (doute sur une personne) reste inchangée.
+
+**Secteur, règle 41.** Recalcul métropole seule (outre-mer écarté, Corse scindée en 2A et 2B). Déficit le plus élevé : Nord (59), 6,75, région 32. La passe précédente portait sur la Seine-Saint-Denis (région 11) : la réserve de région ne l'écarte pas.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste la plus peuplée du Nord sans fiche.
+
+**Ce qui a été lu.**
+- Site de la Ville de Wattrelos, page d'accueil : aucune mention de marché, aucune rubrique « marchés » (les adresses testées renvoient 404).
+- Recherche web : des agrégateurs de marchés et de producteurs (jours-de-marché type annuaire) donnent des créneaux pour trois marchés, sans liste d'exposants ni horaires attribuables à une source officielle.
+- Carnet des producteurs de la Métropole européenne de Lille : le PDF visé renvoie 404 ; aucune entrée Wattrelos n'a pu être lue.
+
+**Vérifié.** Rien de publiable. Les marchés restent sans produits relevés et sans heures publiées par la Ville : le validateur exige au moins un produit, et inventer une liste « type marché » serait un fait non vérifié.
+
+**Pourquoi rien n'est publié.** Aucune fiche n'atteint deux sources indépendantes et actuelles avec des produits. Aucune photo honnête du lieu. `data/` et les images sont inchangés ; total inchangé : 1 309 fiches.
+
+**Point d'arrêt.** Passe suivante : ne pas reprendre Wattrelos sans une source officielle nouvelle (liste d'exposants de la Ville ou pages des commerçants eux-mêmes). Si Wattrelos reste à zéro, la règle 41.d descend à Marcq-en-Barœul (40 184 habitants), dont le site de la Ville était injoignable au dernier passage.
