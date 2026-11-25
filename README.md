@@ -59648,3 +59648,28 @@ Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors ou
 **Point d'arrêt.** Passe suivante : Haute-Garonne à reprendre sur Muret (site officiel du magasin bio de réseau, pour trancher les horaires ; site de la mairie pour le marché), puis Plaisance-du-Touch (statut du magasin bio du centre commercial). Ne pas revenir en Occitanie avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (nuit) : Oise (60) visée, Crépy-en-Valois sondée : rien publié
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var, producteur) reste inchangée.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr`. Déficits les plus forts : Nord (59, 4,66), Haute-Garonne (31, 3,93), Oise (60, 3,75). Le Nord et la Haute-Garonne sont écartés (épuisés aux passes précédentes ; Occitanie visée la veille). Retenu : Oise (60), Hauts-de-France, aucune passe de la région immédiatement avant.
+
+**Commune, règle 41.d.** Communes de l'Oise sans fiche, par population : Nogent-sur-Oise (déjà sondée, rien de vérifiable), puis **Crépy-en-Valois** (14 351 hab.). Beauvais, Compiègne et Creil ont déjà des fiches.
+
+**Crépy-en-Valois, ce qui tient.**
+- Registre Agence Bio, Oise (613 opérateurs lus) : aucun point de vente de producteur vérifiable. Les entrées « vente aux consommateurs » sont une structure de produits apéritifs et une enseigne au nom de personne (écartées pour doute sur une personne, non nommées) ; le reste relève de la grande distribution et du grossiste.
+- Recherche web (une requête, deux formulations) : un seul marché répertorié mais sans horaires ni organisateur vérifiés ; aucune AMAP ni magasin bio spécialisé recensé dans la commune ; une épicerie fine de produits locaux signalée par un magazine municipal de 2019, statut actuel non confirmé ; les producteurs proches sont à une vingtaine de kilomètres et ne sont pas dans la commune.
+- Aucune fiche n'atteint cinq commerces vérifiables sur source indépendante et actuelle.
+
+**Pourquoi rien n'est publié.** Une ou deux pistes ne forment pas la zone de cinq (règle 41.d) ; aucune fiche isolée n'est ajoutée.
+
+**Pistes non publiées** (anonymes) : Crépy-en-Valois (60), épicerie fine de produits locaux, statut non confirmé ; Crépy-en-Valois (60), marché hebdomadaire sans organisateur ni horaires vérifiés ; Crépy-en-Valois (60), une entrée registre écartée pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Une, à Crépy-en-Valois (nom patronymique au registre), non nommée.
+
+**Contradictions consignées (règle 5).** Aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Oise à reprendre par Crépy-en-Valois (site de la Ville et magazine municipal récent pour le marché et l'épicerie fine), puis Montataire (14 257 hab.) si Crépy ne rend pas cinq commerces. Ne pas revenir en Hauts-de-France avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
