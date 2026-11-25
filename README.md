@@ -59520,3 +59520,50 @@ ajout.
 **Point d'arrêt.** Passe suivante : Houilles (78) à reprendre si la mairie confirme les horaires du marché couvert et le statut du marché ovillois ; sinon Montigny-le-Bretonneux (78) et Le Chesnay-Rocquencourt (78).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Oise (60) sondée, Nord épuisé : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; aucun email.
+
+**Secteur, règles 41 et 177.** Métropole seule. Nord (59) en tête par déficit, mais épuisé aux passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières déjà sondées sans cinq commerces). Haute-Garonne (31) écartée à nouveau pour lassitude de sources. Oise (60) retenue : déficit positif, et pas la région de la passe précédente (Yvelines, Île-de-France).
+
+**Commune, règle 41.d.** Nogent-sur-Oise (21 907 hab.) est la plus peuplée sans fiche. Le registre Agence Bio ne lui donne aucun commerce vérifiable : une entrée de vente aux particuliers est au nom d'une personne physique (écartée pour doute sur une personne, non nommée), le reste relève de la grande distribution ou du grossiste.
+
+**Descente.** Noyon (12 971 hab.) : une entrée « vente aux consommateurs » (maraîchage, non nommée ici faute de source) ; la recherche web ne retrouve ni horaires ni contact vérifiables. Chambly (9 959 hab.) : un magasin bio de réseau dont la recherche web ne trouve pas d'implantation à Chambly, et une enseigne nationale sans fiche propre à Chambly. Aucun marché de producteurs ni AMAP identifié à Noyon, Chambly ou Crépy-en-Valois sur une source officielle.
+
+**Pourquoi rien n'est publié.** Aucune commune de l'Oise visitée ne rend cinq commerces vérifiables sur une source indépendante et une activité confirmée. Une ou deux fiches isolées ne forment pas la zone de cinq.
+
+**Pistes non publiées** (anonymes) : Nogent-sur-Oise (60), vente directe au nom d'une personne physique, écartée ; Noyon (60), maraîchage avec vente au public, horaires et contact à établir ; Chambly (60), magasin bio de réseau, implantation à confirmer ; Chambly (60), magasin spécialisé à 10 produits, source à trouver.
+
+**Contradictions consignées (règle 5).** Aucune retenue.
+
+**Fiches écartées pour doute sur une personne.** Une, dans Nogent-sur-Oise (60), comptée sans nom.
+
+**Point d'arrêt.** Passe suivante : Oise à reprendre par Creil (Biocoop, statut SIRENE à vérifier auprès du magasin) et par Crépy-en-Valois (producteur en vente directe à Rully, à localiser). Nord à reconsidérer seulement si une commune de plus de 20 000 habitants reste sans fiche après une source neuve (Roubaix, Tourcoing et Dunkerque ont déjà des fiches).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (Yvelines (78) sondées, Le Chesnay-Rocquencourt à deux sources : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; aucun email.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule, outre-mer exclu. 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Oise (Hauts-de-France) : cette région est exclue par la réserve de région. Classement hors départements clos : Seine-Saint-Denis (93, déficit 4,7) sondée à plusieurs reprises et sans commune restante vérifiable ; Yvelines (78, déficit 4,4) ouverte, avec son point d'arrêt d'une passe antérieure (Houilles, puis Montigny-le-Bretonneux, puis Le Chesnay-Rocquencourt).
+
+**Commune, règle 41.d.** Dans les Yvelines, Mantes-la-Jolie, Poissy, Conflans-Sainte-Honorine et Trappes ont déjà été éprouvées ; Houilles a été reprise (trois fiches, non publiées). Montigny-le-Bretonneux (32 465 hab.) est la suivante sans fiche : la recherche web ne donne qu'un point de vente bio (un réseau coopératif) et deux marchés sans horaires vérifiables ; la page de la Ville ne répond pas à cette passe, et le registre Agence Bio ne donne aucun producteur vendant au public. Le Chesnay-Rocquencourt (30 689 hab.) a été sondée ensuite.
+
+**Le Chesnay-Rocquencourt, deux fiches solides, trois manquantes.**
+- Marché forain de la rue des Deux-Frères, mercredi et samedi matin, une trentaine de commerçants : source officielle (page « Le marché du Chesnay-Rocquencourt » du site de la Ville) et article d'info.fr. Les commerçants sont des personnes physiques, nommés sur la page de la Ville : aucun nom, aucun téléphone personnel ne sort de cette passe.
+- Le Chaudron Coop, magasin coopératif, 3 rue de Louveciennes : site officiel (horaires, téléphone du magasin, produits) et carte Que Choisir.
+- Manquent : deux enseignes bio de réseau (La Vie Claire, avenue de Rocquencourt ; Bio C' Bon) dont l'indépendance et l'adresse ne sont pas vérifiées, et une boucherie de Parly II écartée (catégorie hors liste).
+
+**Pourquoi rien n'est publié.** Deux fiches vérifiées ne forment pas la zone de cinq (règle 41.d) : on ne publie pas de fiches isolées. Le Chesnay-Rocquencourt reste donc en attente de trois commerces vérifiables.
+
+**Pistes non publiées** (anonymes) : Le Chesnay-Rocquencourt (78), marché forain, fiche solide mais zone incomplète ; Le Chesnay-Rocquencourt (78), magasin coopératif, fiche solide mais zone incomplète ; Le Chesnay-Rocquencourt (78), deux enseignes bio de réseau, indépendance et adresse à vérifier ; Le Chesnay-Rocquencourt (78), boucherie de Parly II, hors catégorie ; Montigny-le-Bretonneux (78), magasin bio coopératif Biocoop, page du réseau introuvable ; Montigny-le-Bretonneux (78), AMAP, distribution et adresse à confirmer.
+
+**Contradictions consignées (règle 5).** Aucune retenue, sauf une : la page de la Ville donne le marché de Le Chesnay-Rocquencourt à « une trentaine » de commerçants, l'article d'info.fr le même chiffre, mais la liste commerciale du site de la Ville n'est pas à jour pour 2026. Non tranché : à reprendre à la prochaine passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe : les commerçants du marché ne sont pas nommés dans la fiche.
+
+**Point d'arrêt.** Passe suivante : Le Chesnay-Rocquencourt à reprendre si une source neuve donne trois commerces vérifiables (la Ville, l'AMAP du secteur ou une enseigne indépendante) ; sinon Montigny-le-Bretonneux, à éprouver sur le site de la Ville une fois joignable. Ne pas rouvrir l'Oise avant une passe d'une autre région.
+
+**Publication.** Seule cette note est ajoutée au README (avec la note de la passe Oise restée non commitée) ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
