@@ -59299,3 +59299,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : ne pas revenir sur Bobigny avant une source officielle lisible (liste d'exposants ou jours de marché de la Ville, ou office de tourisme de Plaine Commune). Commune suivante par population sans fiche dans le 93 : Drancy (72 390 habitants), à éprouver. Le département suivant du classement, hors région 11 si la passe précède un passage en Île-de-France, reprendra selon la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (neuvième du jour, Haute-Garonne (31) sondée à Balma : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, outre-mer exclu (le contrôle de `lib/validateMerchants.ts` refuse les coordonnées hors métropole). La passe précédente portait sur la Seine-Saint-Denis (région 11), qui est donc écartée par la réserve de région. Haute-Garonne (région 76) est éligible. Le point d'arrêt de la passe précédente (septième du jour) désignait Balma ; cette passe le reprend.
+
+**Commune, règles 41.d et 248.** Balma (17 772 habitants), la commune la plus peuplée sans fiche dans le département retenu après Muret, écartée pour cette passe (voir ci-dessous).
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Haute-Garonne, quatre pages de cent opérateurs, filtrées sur Balma : trois entrées. Une est un distributeur de gros (négoce) ; une autre, l'ancien magasin bio de la rue Saint-Jean, est fermée (registre des entreprises : 0 établissement ouvert sur deux, liquidation judiciaire) ; la troisième est une entreprise de distribution sans vente au détail.
+- Registre des entreprises : l'établissement du 74 rue Saint-Jean n'est plus ouvert ; la société qui y exploitait le magasin bio est en liquidation judiciaire.
+- Recherche web : les pages d'annuaire de 2013 à 2023 présentent ce magasin comme fermé ou ancien ; aucun marché de producteurs régulier ni AMAP vérifiable à Balma.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Balma ne rend aucun commerce de circuit court vérifiable : le seul magasin bio identifié est fermé, et le négoce de gros est exclu. Descente à la commune suivante par population en Haute-Garonne non encore sondée.
+
+**Pistes non publiées** (anonymes) : Haute-Garonne (31), Balma, magasin bio du 74 rue Saint-Jean, fermé (liquidation) ; Haute-Garonne (31), Balma, négoce de vins à la place Jean-Sésquières, négoce de gros, exclu (règle 3).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne. Castanet-Tolosan a déjà été sondée sans résultat ; reprendre par la commune suivante par population sans fiche dans le 31, en consultant d'abord l'annuaire DirectFermiers31 et le registre bio, et éviter la région 11.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
