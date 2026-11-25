@@ -59390,3 +59390,29 @@ de fait, rien ne part. Les candidats issus du registre de l'Agence Bio ont été
 écartés (particuliers exploitants, supermarchés). Reprise à faire : vérifier le
 statut SIRENE du Biocoop de Creil auprès du magasin ou de biocoop.fr avant tout
 ajout.
+
+## Passe autonome du 25 novembre 2026 (Isère (38) reprise, Vienne sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41 et 41.c.** Métropole seule, outre-mer exclu. Classement sur 1 309 fiches et les populations `geo.api.gouv.fr`, départements déjà clos par les passes précédentes retirés : Seine-Saint-Denis (93) en tête, mais sondée à plusieurs reprises aujourd'hui et sans commune restante vérifiable ; Isère (38) retenue ensuite. La Seine-Saint-Denis reste en attente d'une source officielle.
+
+**Commune, règle 41.d.** Dans l'Isère, les communes à fiche (Grenoble, Échirolles, Voiron, Bourgoin-Jallieu, Saint-Martin-d'Hères, Claix, Sassenage, Varces-Allières-et-Risset) sont écartées. Vienne (30 000 habitants environ) est la commune suivante sans fiche.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Isère, première page de cent opérateurs : un seul point de vente à Voiron, déjà traité.
+- Recherche web sur les marchés et magasins de producteurs de Vienne : un magasin de producteurs à Vienne et un marché du samedi signalés par des annuaires ; les jours et horaires du marché se contredisent selon les fiches (samedi, jeudi et dimanche, lundi) et plusieurs sont anciennes. Aucune AMAP précise à Vienne n'a été trouvée : la seule AMAP citée est à Vizille, hors commune.
+
+**Vérifié.** Rien. Le magasin de producteurs n'est confirmé que par des annuaires participatifs, sans source officielle du commerce ni de l'office de tourisme. Le marché de Vienne ne peut pas être décrit sans contradiction.
+
+**Pourquoi rien n'est publié.** Vienne ne rend pas cinq commerces vérifiables sur deux sources indépendantes et actuelles, et les horaires de marché se contredisent. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Isère (38), Vienne, magasin de producteurs signalé par des annuaires, sans source officielle ni registre vérifié ; Isère (38), Vienne, marché du centre-ville, jours et horaires contradictoires ; Isère (38), Vizille, AMAP hors commune, à reprendre dans sa propre passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle cette passe.
+
+**Contradictions consignées (règle 5).** Jours de marché de Vienne : samedi, jeudi et dimanche, lundi selon les sources. Non tranché, rien publié.
+
+**Point d'arrêt.** Passe suivante : Vienne (38) reprise en interrogeant la mairie ou l'office de tourisme Vienne Condrieu Agglomération pour les jours du marché, puis l'annuaire du magasin de producteurs ; si rien ne se vérifie, descente à la commune suivante sans fiche dans le 38.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
