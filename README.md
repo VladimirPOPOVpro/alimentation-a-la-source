@@ -59159,3 +59159,38 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : reprendre Haute-Garonne, Muret, en consultant l'annuaire DirectFermiers31 avant tout site de commune. Si rien ne se vérifie, la descente passe à Plaisance-du-Touch, déjà éprouvée. La borne de la règle 247 (douze communes par passe) reste la limite de cette passe.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (quatrième du jour, Nord (59) visé, Marcq-en-Barœul sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne : rien n'est publié ni répondu).
+
+**Secteur, règle 41.** Métropole seule, outre-mer exclu, Corse scindée en 2A et 2B. Déficit le plus élevé : Nord (59), 6,75, région 32. La passe précédente portait sur la Haute-Garonne (région 76) : la réserve de région ne l'écarte pas.
+
+**Commune, règle 41.d.** Wattrelos (40 847 habitants) reste sans source officielle nouvelle : elle n'est pas reprise. Descente à Marcq-en-Barœul (40 184 habitants), sans fiche dans la base, comme prévu au point d'arrêt précédent.
+
+**Ce qui a été lu.**
+- Site officiel de la Ville de Marcq-en-Barœul, rubrique « Marchés » (joignable cette passe) : cinq marchés, lieux et horaires publiés.
+- Registre de l'Agence Bio, Nord, cinq cents opérateurs lus : trois entrées à Marcq-en-Barœul, toutes de préparation ou de distribution en gros, aucun point de vente de détail identifié.
+- Recherche web : une AMAP de la commune et deux agrégateurs de marchés.
+
+**Vérifié.** Les cinq marchés de la Ville sont vérifiés par une source officielle, et l'un d'eux concorde avec un agrégateur :
+- Marché du Bourg, vendredi de 8h à 13h, avenue Foch ;
+- Marché du Croisé, mardi de 9h à 12h, place du Général-Leclerc ;
+- Marché des Rouges Barres, samedi de 8h à 13h, rue Marcel-Dassault ;
+- Marché du Pont, samedi de 14h à 17h30, boulevard Clemenceau ;
+- Marché Doumer, dimanche de 8h à 13h, place Doumer, vingtaine de commerçants (agrégateur concordant).
+
+**Pourquoi rien n'est publié.** Les fiches des cinq marchés ne sont pas créées : la seule image officielle disponible (600 px de large) montre des clients et des commerçants au premier plan, et la règle impose une photo thématique sans personne reconnaissable. Aucune n'a été trouvée sans attribution impossible à tenir. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) :
+- Marcq-en-Barœul, cinq marchés de la Ville (marché du Bourg, du Croisé, des Rouges Barres, du Pont, Doumer) : données vérifiées, bloquées par la photo. Déblocage : une photo de marché sans personne reconnaissable, puis publication des cinq fiches en une seule passe.
+- Marcq-en-Barœul, AMAP du mardi soir : écartée pour doute sur une personne (contact nominatif et téléphone personnel sur la source de la Ville). Ne se rouvre pas.
+- Marcq-en-Barœul, trois entrées du registre Agence Bio (préparation et distribution en gros) : hors sujet, pas de point de vente.
+
+**Fiches écartées pour doute sur une personne.** Une, Marcq-en-Barœul (AMAP du mardi soir).
+
+**Contradictions consignées (règle 5).** Adresse de l'AMAP du mardi soir : trois adresses différentes selon les sources (annuaire de point de vente, page de l'association sur le site de la Ville, annuaire participatif). Consignée, non tranchée, et la fiche reste écartée.
+
+**Point d'arrêt.** Passe suivante : Nord (59) toujours visé, Marcq-en-Barœul à reprendre uniquement si une photo thématique sans personne est trouvée pour les cinq marchés ; sinon, la descente passe à Marcq-en-Barœul puis à Cambrai (31 134 habitants) après vérification de la source officielle de la commune.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
