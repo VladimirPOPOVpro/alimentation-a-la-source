@@ -59194,3 +59194,30 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Nord (59) toujours visé, Marcq-en-Barœul à reprendre uniquement si une photo thématique sans personne est trouvée pour les cinq marchés ; sinon, la descente passe à Marcq-en-Barœul puis à Cambrai (31 134 habitants) après vérification de la source officielle de la commune.
 
 **Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (cinquième du jour, Haute-Garonne (31) reprise, Muret sondée à nouveau : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours n° 13 reste inchangée (doute sur une personne : rien n'est publié ni répondu).
+
+**Secteur, règles 41, 41.c.** Métropole seule (97x et 98x écartés). Région 32 (Hauts-de-France) écartée par la réserve de région, la passe précédente étant nordiste. Déficit le plus élevé restant : Haute-Garonne (31), 5,11, région 76, éligible. Calcul refait sur 1 309 fiches et les populations `geo.api.gouv.fr`.
+
+**Commune, règles 41.d et 248.** Muret (26 079 habitants) reprise au point d'arrêt : c'est la commune la plus peuplée de 31 sans fiche déjà éprouvée à zéro.
+
+**Ce qui a été lu.**
+- Annuaire DirectFermiers31, page du Conseil départemental : la carte est un widget à chargement dynamique ; une recherche « Muret » dans son champ n'a restitué aucun producteur lisible depuis cet environnement. Aucun export en liste n'est proposé.
+- Site de la Ville de Muret : réponse HTTP 000 (injoignable) à cette passe.
+- Recherche web : aucune nouvelle source officielle pour Muret ; les annuaires de marchés déjà consignés restent les seuls.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles avec des produits ni une adresse dans Muret.
+
+**Pourquoi rien n'est publié.** Muret ne rend pas cinq commerces vérifiables. La descente de la règle 247 (Plaisance-du-Touch, déjà éprouvée) ne donne pas non plus de zone à cette passe. Aucune fiche, aucun géocodage, aucune photo ; `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : Haute-Garonne (31), Muret, producteurs de l'annuaire départemental accessibles seulement par la carte interactive (à relever à la main sur une source lisible) ; Haute-Garonne (31), ferme en vente directe déjà citée (commune d'implantation non vérifiée).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne toujours visée (région 76, la passe précédente étant nordiste, la réserve ne l'écarte pas). Muret ne se reprend que si l'annuaire DirectFermiers31 donne une liste lisible ou si la Ville de Muret redevient joignable. Sinon, la règle 247 descend à la commune suivante éprouvée, sans refaire le criblage.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
