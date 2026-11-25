@@ -59134,3 +59134,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Pourquoi rien n'est publié.** Aucune fiche n'atteint deux sources indépendantes et actuelles avec des produits. Aucune photo honnête du lieu. `data/` et les images sont inchangés ; total inchangé : 1 309 fiches.
 
 **Point d'arrêt.** Passe suivante : ne pas reprendre Wattrelos sans une source officielle nouvelle (liste d'exposants de la Ville ou pages des commerçants eux-mêmes). Si Wattrelos reste à zéro, la règle 41.d descend à Marcq-en-Barœul (40 184 habitants), dont le site de la Ville était injoignable au dernier passage.
+
+## Passe autonome du 25 novembre 2026 (Haute-Garonne (31), Muret sondée à nouveau : aucune publication)
+
+**Backlog.** Aucune demande au statut « nouvelle ». La demande en_cours n° 13 reste sans publication (doute sur une personne, inchangée).
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, outre-mer exclu. Région 32 (Hauts-de-France) écartée par la règle 41.c, la passe précédente étant nordiste. Déficit le plus élevé restant : Haute-Garonne (31), région 76, éligible. Le calcul a été refait sur 1 309 fiches et les populations `geo.api.gouv.fr`.
+
+**Commune, règles 41.d et 248.** Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux, Saint-Jean et Pibrac portent déjà des fiches. Muret (26 079 habitants) reste la plus peuplée sans fiche, déjà éprouvée à zéro aux passes précédentes. Descente reprise au point d'arrêt.
+
+**Ce qui a été lu.**
+- Site de la Ville de Muret et sites de l'agglomération muretaine : injoignables depuis cet environnement à cette passe (aucune réponse HTTP).
+- Recherche web : deux annuaires de marchés recensent des marchés à Muret et dans les environs ; un guide de l'agglomération cite une ferme en vente directe de produits bio et locaux (La ferme des Nauzes), sans adresse vérifiée dans la commune.
+- Registre de l'Agence Bio (page de cent opérateurs déjà relue lors des passes précédentes) : rien de nouveau.
+
+**Vérifié.** Rien de publiable. Aucune fiche n'atteint deux sources indépendantes et actuelles avec des produits, ni une adresse dans Muret.
+
+**Pistes non publiées (anonymes).**
+- Haute-Garonne (31), Muret, cagette de producteurs annoncée le mardi après-midi : son nom comporte un prénom, donc doute sur une personne. Écartée, ne se rouvre pas.
+- Haute-Garonne (31), ferme en vente directe citée par le guide de l'agglomération (La ferme des Nauzes) : commune d'implantation non vérifiée. Déblocage : adresse confirmée par une source officielle ou l'annuaire DirectFermiers31 du Département, puis descente à la règle 248.
+
+**Contradictions consignées (règle 5).** Horaires des marchés de Muret divergents selon les annuaires : consignés, non tranchés.
+
+**Point d'arrêt.** Passe suivante : reprendre Haute-Garonne, Muret, en consultant l'annuaire DirectFermiers31 avant tout site de commune. Si rien ne se vérifie, la descente passe à Plaisance-du-Touch, déjà éprouvée. La borne de la règle 247 (douze communes par passe) reste la limite de cette passe.
+
+**Publication.** Seule cette note est ajoutée au README. `data/`, images et code non touchés ; aucune fiche ajoutée ; total inchangé : 1 309 fiches.
