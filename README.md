@@ -59352,3 +59352,28 @@ Aucun site de commerce de producteurs ni marché de producteurs vérifié à Sch
 **Point d'arrêt.** Passe suivante : Yvelines, reprendre à Conflans-Sainte-Honorine en cherchant d'abord la source de vente de son magasin bio et les horaires de l'AMAP auprès de la Ville ; si rien ne se vérifie, descente à Trappes (34 689 habitants), commune suivante par population sans fiche dans le 78.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026 (onzième du jour, Calvados (14) et Hérault (34) épuisés : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne) reste inchangée : rien n'est publié ni répondu.
+
+**Secteur, règles 41, 41.c, 247 et 248.** Métropole seule, outre-mer exclu (dénominateur de la règle 224). Région 11 écartée, la passe précédente ayant visé les Yvelines. Classement recalculé sur 1 309 fiches et les populations `geo.api.gouv.fr` : Calvados (14) en tête, déficit ≈ 3,47 ; Hérault (34) ensuite, ≈ 3,36. La Haute-Garonne (31) est écartée : sa descente a dépassé la borne de douze communes (règle 247). Le Calvados l'est aussi : ses communes de plus de 10 000 habitants sans fiche ont toutes été sondées aux passes des 18 au 24 novembre (Caen, Bayeux, Falaise, Lisieux, Hérouville-Saint-Clair, Mondeville, Ifs, Ouistreham, Honfleur, Colombelles, Mézidon Vallée d'Auge), sans cinq commerces vérifiables.
+
+**Commune, règles 41.d et 248.** Dans l'Hérault, Montpellier, Béziers, Sète, Frontignan, Juvignac, Saint-Jean-de-Védas, Balaruc-le-Vieux et Saint-Georges-d'Orques ont déjà une fiche. Agde, Lunel, Mauguio, Mèze, Lattes et Castelnau-le-Lez ont été sondées aux passes précédentes. La descente est donc épuisée dans ce département ; la règle 248 interdit d'en ouvrir un troisième dans la même passe.
+
+**Ce qui a été lu.**
+- Registre de l'Agence Bio, Hérault, six pages de cent opérateurs, filtrées sur Lunel, Castelnau-le-Lez et Lattes : grossistes, et entrées de vente aux consommateurs au nom de personnes physiques (écartées pour doute sur une personne, non nommées, ne se rouvrent pas). Aucun point de vente vérifiable.
+
+**Vérifié.** Rien. Aucune fiche n'atteint deux sources indépendantes et actuelles.
+
+**Pourquoi rien n'est publié.** Aucune commune des deux départements éprouvés ne rend cinq commerces vérifiables sur source indépendante, et les descentes sont closes par la règle 247. `data/` et les images sont inchangés.
+
+**Pistes non publiées** (anonymes) : aucune nouvelle ; les pistes restent dans les sections des communes concernées.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre dans l'Hérault, à Lunel et Castelnau-le-Lez, au nom de personnes physiques. Non publiées, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Aucune nouvelle.
+
+**Point d'arrêt.** Passe suivante : recalculer le classement (règle 41) en retirant le Calvados, l'Hérault, la Haute-Garonne et les départements déjà clos (Nord, Oise, Loire, Haute-Corse, Savoie). Le prochain département éligible du classement est à recalculer ; la passe ne doit pas viser la région 76 ni la région 28 si celles-ci sont épuisées dans le même rang.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
