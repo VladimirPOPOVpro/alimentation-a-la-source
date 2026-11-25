@@ -59609,3 +59609,11 @@ ajout.
 **Point d'arrêt.** Passe suivante : Oise, par Creil (Biocoop, statut à vérifier) ou Crépy-en-Valois (producteur à localiser), ou Le Chesnay-Rocquencourt si une source neuve donne deux commerces de plus. Ne pas revenir en Île-de-France à la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 25 novembre 2026 (soir) : aucune publication
+
+Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors outre-mer est le Nord (59), déjà épuisé la veille ; la Haute-Garonne (31) vient ensuite, mais Toulouse, la commune la plus peuplée sans fiche, en compte déjà ; les communes suivantes de ce département sont instruites dans « Pistes non publiées ». Les départements 14, 34 et 42 sont épuisés ou déjà servis. La Réunion et les autres DOM restent hors périmètre (règle 177, `lib/validateMerchants.ts`).
+
+**Registre de l'Agence Bio, Haute-Garonne** : la plupart des vendeurs particuliers de Toulouse sont des exploitants en nom personnel ou des structures sans adresse de vente vérifiée. Aucun nom n'est repris ici, et aucune fiche n'est tirée de cette liste sans source indépendante.
+
+**Conclusion** : aucune fiche n'a pu être vérifiée jusqu'au seuil de cinq commerces sur une même commune. Rien n'est publié, la base reste à 1 309 fiches. La passe suivante reprend la même formule sur le département de plus grand déficit une fois les pistes instruites.
