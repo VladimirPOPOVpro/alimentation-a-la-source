@@ -59491,3 +59491,32 @@ ajout.
 **Point d'arrêt.** Passe suivante : Yvelines (78) à éprouver en recherche web réelle (Houilles, puis Montigny-le-Bretonneux) ; le Nord ne se reprend que si une commune nouvelle apparaît dans la liste de la passe du matin.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 25 novembre 2026, fin d'après-midi (Yvelines (78) reprises, Houilles sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande #13 reste en_cours (une donnée personnelle figure dans la demande : rien n'est publié ni répondu).
+
+**Secteur, règles 41 et 247.** Point d'arrêt de la passe précédente suivi : Yvelines (78), commune à éprouver en recherche réelle, Houilles d'abord. Le département reste à 25 fiches publiées.
+
+**Commune, Houilles (78800), trois commerces solides sur cinq.**
+- Amap de Houilles (distribution le mercredi de 18 h 30 à 20 h, rue de Crimée) : vérifiée sur le site de l'association, lieu géocodé par la BAN.
+- Marché couvert, avenue Carnot : vérifié par la page du marché (PanierPrêt, annuaire de marchés) et la fiche de la ville ; horaires contradictoires entre sources (mercredi 7 h à 13 h ou 8 h à 12 h 30), à confirmer.
+- Magasin bio, place Michelet : inscrit au registre Agence Bio, activité non fermée ; enseigne de réseau, téléphone et site non vérifiés.
+
+**Écartés ou non retenus dans cette commune.**
+- Un marché du même halle, dit « marché ovillois » : même lieu que le marché couvert, jours contradictoires (mercredi et samedi, ou jeudi selon la ville) : à rattacher à la fiche du marché couvert, pas à publier seul.
+- Une SAS de thés et épices enregistrée en 2026 : vente aux particuliers, mais point de vente à Houilles non établi et hors circuit court : non retenue.
+- Une entrée du registre au nom d'une personne physique : écartée pour doute sur une personne.
+- Une AMAP dont l'enseigne reprend un prénom : écartée pour doute sur une personne.
+
+**Vérifié.** Houilles n'atteint pas cinq commerces vérifiables sur source indépendante et actuelle ; trois fiches seulement, dont une sans téléphone ni site. Ne pas publier de fiches isolées (règle 41.d).
+
+**Pistes non publiées** (anonymes) : Houilles (78), marché ovillois, à fusionner avec le marché couvert si la ville confirme qu'il s'agit du même marché ; Houilles (78), SAS de thés et épices, hors sujet ; Houilles (78), deux entrées à nom de personne physique, écartées ; Houilles (78), magasin bio de réseau, téléphone et site à relever.
+
+**Contradictions consignées (règle 5).** Horaires du marché couvert et jour du marché ovillois, entre la ville, les annuaires de marchés et les réseaux sociaux du marché. Non tranchées : à reprendre à la prochaine passe sur Houilles.
+
+**Fiches écartées pour doute sur une personne.** Deux dans Houilles (78), comptées sans nom.
+
+**Point d'arrêt.** Passe suivante : Houilles (78) à reprendre si la mairie confirme les horaires du marché couvert et le statut du marché ovillois ; sinon Montigny-le-Bretonneux (78) et Le Chesnay-Rocquencourt (78).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
