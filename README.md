@@ -60182,3 +60182,29 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Le Nord n'a pas livré de zone de cinq. La descente reprend à la commune suivante de la règle 247, avec les trois communes restantes avant la borne (règle 247), en privilégiant les pages officielles des villes. Passe suivante : recalculer le classement (règle 41) et exclure la région de cette passe (règle 41.c), ou reprendre le Nord au titre de la règle 247 si une commune rend deux fiches entières.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Ariège (09) : Foix sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (doute sur une personne, non publiée, non rouverte) reste telle quelle. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177, 224 et 247.** Métropole seule, outre-mer exclu (règle 93). 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour (34 969 communes). Réserve 41.c : la passe précédente visait le Nord (Hauts-de-France), région exclue. Clos ou en veille, écartés du classement : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Calvados, Seine-Saint-Denis, Val-de-Marne, Vienne, Haute-Marne, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine, Seine-Maritime, Corse, Loiret, Bas-Rhin, Yvelines, Seine-et-Marne, Dordogne. Retenu : Ariège (09, Occitanie, déficit ≈ 2,96), descente ouverte par la passe précédente.
+
+**Commune, règle 41.d et 247.** Pamiers, la plus peuplée sans fiche, a été sondée le 10 novembre et reste sans fiche ; la descente passe à **Foix** (9 934 habitants), que la note précédente désignait pour la reprise.
+
+**Sources.**
+- Office de tourisme Foix Ariège Pyrénées, rubrique marchés : deux marchés à Foix. Le mardi, de 7h30 à 13h30, sous la Halle aux Grains, marché alimentaire où les producteurs locaux sont prioritaires. Le vendredi, de 8h à 13h, marché mixte (Halle aux Grains, Halle Saint-Volusien, Allées de Villote), à dominante artisanale.
+- Ville de Foix : la page « Les Marchés du Mardi » donne le même jour et le même lieu que l'office (extrait de recherche lu, page du site non ouverte).
+- Office, rubrique producteurs : quatre fiches à Foix. Une brasserie (bière bio brassée à Foix, vente en bouteilles et en fûts, site web publié), une chocolaterie, une biscuiterie et la fiche d'une fromagerie ou d'un vignoble hors Foix, non retenue.
+- Registre des entreprises : la brasserie et la chocolaterie sont actives. La biscuiterie n'a pas été retrouvée au registre sous son enseigne (règle 6).
+
+**Vérifié.** Aucune fiche ajoutée : Foix n'atteint pas cinq commerces vérifiables sur la commune (règle 52). Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Foix (09), marché du mardi, deux sources concordantes sur le jour et le lieu, solide ; déblocage : rien pour ce marché seul, il attend les autres points de la zone. Foix (09), marché du vendredi, à dominante artisanale, producteurs à préciser ; déblocage : liste des producteurs publiée par la Ville. Foix (09), brasserie artisanale, registre actif, vente directe à confirmer sur son propre site ; déblocage : horaires et point de vente publiés par la brasserie. Foix (09), chocolaterie artisanale, registre actif, vente directe à confirmer ; déblocage : point de vente publié par l'artisan. Foix (09), biscuiterie : sources contradictoires sur le lieu de fabrication (fiche de l'office : Prayols ; adresse publiée : Foix) et absence au registre ; déblocage : adresse confirmée par le registre et par l'artisan.
+
+**Fiches écartées pour doute sur une personne.** Trois, en Ariège hors Foix (Pamiers et Mirepoix), registre des vendeurs en nom de personne ; nombre seulement, aucun nom reporté.
+
+**Contradictions consignées (règle 5).** Biscuiterie : lieu de fabrication contradictoire entre la fiche de l'office (Prayols) et son adresse publiée (Foix). Consignée, rien publié.
+
+**Point d'arrêt.** Foix ouverte, zone de cinq non atteinte. Passe suivante : reprendre Foix avec les pages des deux marchés sur le site de la Ville, la vérification de vente directe de la brasserie et de la chocolaterie, puis descendre à la commune suivante par population en Ariège dans la borne de douze communes (règle 247). Le registre Agence Bio de l'Ariège n'a été relu que sur la première page (100 opérateurs) ; trois vendeurs de Pamiers et de Mirepoix relèvent de la règle sur les personnes, les autres sont des grossistes ou des structures sans vente au public.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
