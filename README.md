@@ -59904,3 +59904,30 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : Seysses par le site de la mairie (rubrique marchés) puis l'office de tourisme Pyrénées-Garonne ; si rien ne se confirme, descendre à Léguevin (9 945 habitants) par les pages de la commune. Haute-Garonne à reprendre seulement après une passe hors Occitanie (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Nord (59) repris, Wattrelos sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en_cours, inchangée ; aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, outre-mer exclu. Base : 1 309 fiches, populations `geo.api.gouv.fr`. La Haute-Garonne, visée à la passe précédente, est écartée par la réserve de région. Retenu : Nord (59, ≈ 4,7), premier département métropolitain du classement hors Occitanie.
+
+**Commune, règle 41.d.** Commune la plus peuplée du Nord sans aucune fiche : **Wattrelos** (40 847 habitants).
+- Registre de l'Agence Bio, Nord : les 1 800 opérateurs sont lus, dont 453 en vente aux consommateurs. Wattrelos n'y apparaît que deux fois, dont une entrée partagée avec une commune voisine. Ce n'est pas assez pour cinq commerces.
+- Annuaire participatif (jours-de-marche.fr) : trois marchés déclarés pour la commune. Source participative seule, jours et lieux non confirmés.
+- Guide de voyage en ligne : trois marchés hebdomadaires cités (Beaulieu, centre, Mousserie). Source tierce et possiblement ancienne, non confirmée par la mairie.
+- Site officiel de la ville (ville-wattrelos.fr) : page d'accueil lue, aucune rubrique marchés repérée dans les liens de l'accueil ; l'adresse de rubrique testée répond 404.
+- Un magasin de produits locaux « en vente directe » près d'une zone commerciale est signalé par un annuaire, sans adresse confirmée.
+
+**Vérifié.** Wattrelos ne rend pas cinq commerces vérifiables (horaires, produits, téléphone, photo). Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Descente, règle 41.d.** Les communes suivantes du Nord sont déjà sondées dans les passes précédentes (Marcq-en-Barœul, Cambrai, Maubeuge, Lambersart, Armentières, La Madeleine, Mons-en-Barœul et les autres de la liste) ou ne rendent pas le volume requis au registre (Lambersart, Armentières, Mons-en-Barœul : aucune entrée de vente aux consommateurs). Pas de descente nouvelle cette passe.
+
+**Pistes non publiées** (anonymes) : Wattrelos (59), trois marchés déclarés par des sources non officielles, jours et lieux non confirmés ; Wattrelos (59), magasin de produits locaux sans adresse confirmée.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle dans cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : demander la rubrique marchés du site de la ville par une autre voie (page « Démarches et services », puis lien direct depuis l'annuaire des marchés) ; sinon poursuivre la descente du registre Nord sur les communes de 13 000 à 20 000 habitants sans fiche, en commençant par celles qui ont au moins trois entrées de vente aux consommateurs.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
