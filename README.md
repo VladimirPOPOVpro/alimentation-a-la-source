@@ -60034,3 +60034,28 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Île-de-France (règle 41.c). Si les Yvelines doivent revenir : Mantes-la-Jolie se relit par le site de la Ville (rubrique marchés) et par le site de la biocoop, pour atteindre cinq commerces ; sinon Poissy, déjà éprouvée, ne se reprend qu'avec une source neuve.
 
 **Vérifié.** Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Loiret (45) : Montargis sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; une demande reste en `en_cours` (doute sur une personne, non publiée, non rouverte). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 247.** Métropole seule. 1 309 fiches, populations `geo.api.gouv.fr`. En tête du déficit : La Réunion (974) et les autres territoires d'outre-mer, écartés par la règle 93 (le contrôle de construction refuse leurs coordonnées) ; puis Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Calvados, Seine-Saint-Denis, Val-de-Marne, Vienne, Haute-Marne, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine, Seine-Maritime et Corse, closes par la règle 247 ou les passes précédentes. La passe précédente portait sur les Yvelines (Île-de-France), région écartée pour cette passe (41.c). Retenu : Loiret (45, Centre-Val de Loire, déficit ≈ 3,1), descente déjà ouverte.
+
+**Commune, règle 41.d.** Olivet est épuisée (passe précédente). Commune suivante sans fiche par population : **Montargis** (14 825 habitants), prévue au point d'arrêt du 10 novembre.
+
+**Montargis.**
+- Registre de l'Agence Bio (Loiret, cinq pages de cent opérateurs) : un magasin bio d'une enseigne nationale, aucun producteur ni magasin de producteurs enregistré à Montargis ; une coopérative de collecte et un grossiste sans vente directe.
+- Recherche web : un marché alimentaire le samedi sur la place de la République, relevé sur un agenda local non officiel ; un marché du mercredi cité sans horaire officiel ; aucune page officielle de la Ville ni de l'office de tourisme lue pour cette passe.
+- Une vente à la ferme près de Montargis (fruits et confitures, horaires de détail) relevée dans un annuaire, sans site propre ni confirmation par le producteur.
+
+**Vérifié.** Rien. Montargis ne rend pas cinq commerces vérifiables (règle 96) : aucun producteur confirmé par une source indépendante, aucun horaire de marché confirmé par la Ville. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Montargis (45), marché de la place de la République, samedi, source non officielle, à confirmer sur la page de la Ville ; Montargis (45), marché du mercredi, horaires non confirmés ; Montargis et environs (45), vente à la ferme de fruits et confitures, annuaire seul, pas de site propre ; Montargis (45), magasin bio d'enseigne nationale, sans producteurs locaux à rattacher, non retenu.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe. Une entrée de registre à nom de personne physique rencontrée en Loiret lors d'une passe précédente reste écartée, non nommée, non rouverte.
+
+**Contradictions consignées (règle 5).** Aucune sur une fiche ; les jours du marché de Montargis diffèrent selon les sources et restent à confirmer.
+
+**Point d'arrêt.** Passe suivante : Loiret toujours ouvert (la passe actuelle l'a visé, donc la suivante ne le prend pas, règle 41.c). Si le Loiret revient : Montargis se relit sur le site de la Ville (rubrique marchés) et sur celui de l'office de tourisme ; sinon descendre à Saint-Jean-de-la-Ruelle (sondée le 10 novembre) ou Montargis reste en pistes.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
