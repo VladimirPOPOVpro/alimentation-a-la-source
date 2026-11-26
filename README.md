@@ -59983,3 +59983,35 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : poursuivre la descente de l'Oise à Senlis (règle 41.d, en priorisant les sources de la mairie de Senlis et de l'office de tourisme Chantilly-Senlis) ; si la descente atteint douze communes sans succès, la règle 247 fait changer de département au classement suivant.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (planifiée, mode 2, Ille-et-Vilaine (35) : Fougères et Vitré sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule. 1 309 fiches, populations `geo.api.gouv.fr`. Déficits en tête : Nord (59, 4,66), Haute-Garonne (31, 3,93), Oise (60, 3,75) ; le Nord, la Haute-Garonne, la Loire, l'Isère, la Savoie, l'Hérault, la Seine-Saint-Denis, le Calvados, la Vienne, la Haute-Marne et les Alpes-de-Haute-Provence sont déjà closes (règle 247 et passes précédentes), l'Oise était la passe d'hier (réserve 41.c). Retenu : Ille-et-Vilaine (35, Bretagne, déficit ≈ 3,27), point d'arrêt de la passe du 24 novembre.
+
+**Commune, règle 41.d.** Rennes déjà sondée et pourvue de fiches ; commune la plus peuplée de l'Ille-et-Vilaine sans fiche : **Fougères** (20 307 habitants).
+
+**Fougères.**
+- Un magasin bio du réseau coopératif, boulevard de Groslay : fiche solide (site du magasin, horaires du lundi au samedi, téléphone publié par le magasin). Une seule fiche : insuffisant pour la commune (règle 96).
+- Marché du centre-ville : le samedi matin en ville haute selon une source, le jeudi matin selon deux annuaires ; aucune source officielle ne tranche. Contradiction consignée (règle 5), rien publié.
+- Registre de l'Agence Bio : deux entrées à nom patronymique d'entreprise individuelle, écartées pour doute sur une personne, non nommées.
+
+**Vitré (descente, règle 41.d, 19 365 habitants).**
+- Marché de la place de la République : le site intercommunal (Naturellement Vitré) donne le lundi et le samedi, de 8 h à 12 h ; le même marché est donné le samedi de 8 h 30 à 13 h par une autre source qui se réclame de la mairie. Le site de la mairie n'a pas répondu depuis cet environnement : deux sources officielles ne sont pas réunies, et la photo manque. Rien publié (règles 9 et 5).
+- Magasin bio du réseau coopératif, rue des Artisans : fiche solide (site du magasin, horaires du lundi au samedi, téléphone publié par le magasin, photo du site officiel). Une seule fiche : le seuil de deux fiches solides dans la commune n'est pas atteint (règle 96). Piste à rattacher au marché lorsqu'il sera confirmé.
+- Vente à la ferme de volailles (une EARL, enseigne publique de la ferme) : jeudi et vendredi à la ferme, marché du samedi selon le producteur, horaires contradictoires selon les annuaires ; aucun site propre, aucune photo sans personne reconnaissable. Rien publié.
+- Une entreprise de transformation qui livre des restaurants et des magasins, sans point de vente public : hors périmètre, écartée.
+- Deux entrées à nom patronymique ou à nom de personne physique, écartées pour doute sur une personne, non nommées.
+
+**Vérifié.** Aucune commune de la passe ne rend cinq commerces vérifiables ; Fougères en rend un, Vitré deux à trois sans photo ni horaires concordants. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Fougères (35), magasin bio du réseau coopératif, fiche solide à rattacher à une seconde fiche de la commune ; Fougères (35), marché du centre-ville, jour contradictoire ; Vitré (35), magasin bio du réseau coopératif, fiche solide, à rattacher au marché de la place de la République une fois les horaires confirmés par la mairie ; Vitré (35), marché de la place de la République, deux sources officielles non réunies ; Vitré (35), vente à la ferme de volailles, horaires contradictoires, pas de photo ; Fougères et Vitré (35), trois entrées d'agence bio à nom de personne ou à nom patronymique, écartées et non rouvertes.
+
+**Fiches écartées pour doute sur une personne.** Cinq (Fougères, deux ; Vitré, trois), non nommées, non publiées.
+
+**Contradictions consignées (règle 5).** Horaires du marché de Vitré (site intercommunal : lundi et samedi, 8 h à 12 h ; autre source : samedi, 8 h 30 à 13 h) ; jour du marché de Fougères (samedi ou jeudi selon les sources) ; horaires de la ferme de volailles de Vitré (selon les producteurs et les annuaires).
+
+**Point d'arrêt.** Passe suivante hors Bretagne (règle 41.c). Si Vitré doit revenir, relire le marché sur le site de la mairie dès qu'il répond, et rattacher les deux fiches solides du magasin bio, de Vitré et de Fougères, seulement si la règle 124 le permet (distance au plus de dix kilomètres : ce n'est pas le cas).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
