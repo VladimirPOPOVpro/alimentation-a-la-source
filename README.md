@@ -60109,3 +60109,28 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Île-de-France et hors Dordogne : Ariège (09) reprise à Foix (9 934 habitants), ou Ain (01) par la descente de la passe. Périgueux seulement avec une photographie publiable et une source officielle de marché joignable.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Nord (59) : Grande-Synthe sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours touchée. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente portait sur la Dordogne (Nouvelle-Aquitaine), donc écartée par la réserve de région. Le Nord (59) est en tête du déficit métropolitain et sa région est éligible. La descente du Nord compte déjà neuf communes éprouvées (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Croix, La Madeleine, et les pistes de Douai et Hazebrouck déjà publiées) : la borne de la règle 247 (douze) n'est pas atteinte.
+
+**Commune, règles 41.d et 247.** Grande-Synthe, commune la plus peuplée du Nord sans fiche et non encore sondée.
+
+- Marché : aucun marché hebdomadaire de producteurs relevé. Un annuaire participatif de marchés n'en mentionne aucun ; une fête paysanne communale (édition 2018, dépliant 2022 annonçant un marché de producteurs) ne suffit pas à dater un marché récurrent.
+- Circuit court : un magasin bio local est publié dans la presse régionale, mais c'est un supermarché bio, écarté par `MODERATION.md`.
+- Registre de l'Agence Bio, Nord (première page de 100 opérateurs sur 1 802) : aucun opérateur de Grande-Synthe dans cette page ; la pagination complète n'a pas été relue cette passe.
+- Aucune photographie publiable recoupée.
+
+**Vérifié.** Grande-Synthe ne rend pas cinq commerces vérifiables. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Grande-Synthe (59), marché de producteurs annoncé par une fête paysanne, jour et lieu non datés ; déblocage : une page officielle de la Ville datée. Grande-Synthe (59), supermarché bio, écarté (commerce généraliste).
+
+**Fiches écartées pour doute sur une personne.** Aucune dans cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : recalculer le classement (règle 41) avec la réserve de région (Hauts-de-France exclus si cette passe est reprise) ; dans le Nord, la descente peut encore compter trois communes avant la borne de la règle 247 (Denain, Halluin, Saint-Amand-les-Eaux, Gravelines), à faire sur la page officielle de chaque ville et le registre complet.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
