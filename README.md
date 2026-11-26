@@ -59931,3 +59931,27 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : demander la rubrique marchés du site de la ville par une autre voie (page « Démarches et services », puis lien direct depuis l'annuaire des marchés) ; sinon poursuivre la descente du registre Nord sur les communes de 13 000 à 20 000 habitants sans fiche, en commençant par celles qui ont au moins trois entrées de vente aux consommateurs.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31), Seysses reprise par la mairie, Léguevin sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. Base : 1 309 fiches, populations `geo.api.gouv.fr`. La passe précédente était dans le Nord (Hauts-de-France), écarté par la réserve de région. Retenu : Haute-Garonne (31), reprise comme le prévoyait le point d'arrêt de la passe de Seysses.
+
+**Seysses, reprise par le site de la mairie.** La rubrique « Marché de plein vent » du site communal donne le marché du vendredi matin, de 8 h à 12 h 30, place de la Libération devant l'église. Le texte décrit des commerçants ambulants (charcuterie de porc, primeur, canard, fromages, cafés torréfiés, traiteurs asiatique et portugais). Leurs noms ne sont pas repris : ils sont ceux de personnes ou des noms patronymiques, et la règle absolue s'applique.
+- Une seule source officielle : l'office de tourisme n'a pas été retrouvé. La recherche ne donne qu'un arrêté municipal de 2025 pour une animation unique sur la même place.
+- La règle 9 demande deux sources officielles pour un marché ; la règle 124 demande au moins deux fiches solides dans la commune. Aucune des deux n'est remplie : rien n'est publié.
+
+**Descente, règle 41.d : Léguevin (9 945 habitants).** Le site de la commune (leguevin.fr) est ancien : la page d'accueil ne donne ni rubrique marchés, ni rubrique commerces, et un seul renvoi à un marché sans date ni lieu. L'adresse mairie-leguevin.fr ne répond pas. Aucun commerce vérifiable.
+
+**Vérifié.** Ni Seysses ni Léguevin ne rendent cinq commerces vérifiables. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Seysses (31), marché de plein vent du vendredi, source communale unique, office de tourisme non trouvé ; Léguevin (31), site communal sans rubrique commerces ni marchés.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle dans cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante hors Occitanie (règle 41.c). Si Seysses doit revenir, chercher l'office de tourisme qui couvre la commune pour atteindre la deuxième source officielle du marché.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
