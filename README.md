@@ -59856,3 +59856,25 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
   - Castanet-Tolosan, point de producteurs le jeudi soir : un seul annuaire tiers, la commune ne le confirme pas (règle 16 : rien en dessous de deux annuaires concordants).
   - Ramonville-Saint-Agne, marché de producteurs : un seul annuaire participatif, jour et lieu non confirmés.
 - Aucune fiche publiée : aucune piste n'atteint deux sources indépendantes concordantes avec un registre d'activité vérifié.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Nord (59) sondé au registre : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var, producteur) reste inchangée ; aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule. 1 309 fiches, populations `geo.api.gouv.fr` relues ce jour. La Réunion (974) est écartée par la règle 93. Déficit le plus fort ensuite : Nord (59, ≈ 4,8). La passe précédente portait sur la Haute-Garonne (Occitanie), donc le Nord, autre région, est éligible.
+
+**Commune, règle 41.d.** Les communes les plus peuplées du Nord ont déjà une fiche ou ont été éprouvées à zéro lors des passes précédentes (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, La Madeleine, Croix, Mons-en-Barœul, Coudekerque-Branche, Wasquehal, Halluin, Denain, Grande-Synthe, Ronchin, Faches-Thumesnil, Hem, Sin-le-Noble, Saint-Amand-les-Eaux, Haubourdin, Hautmont, Lys-lez-Lannoy, Caudry, Mouvaux, Comines). Les descentes déjà closes ne sont pas rouvertes.
+
+**Registre de l'Agence Bio, Nord.** Lecture de la première page du registre (100 opérateurs sur 1 802). Sur ces cent entrées, les seules à vente aux particuliers ou à adresse dans les communes sondées sont soit des exploitants personnes physiques (écartés pour doute sur une personne, rien n'est publié), soit des entreprises de production, de distribution ou de vente aux professionnels. Aucune fiche n'atteint une source indépendante de commerce de détail vérifiée.
+
+**Vérifié.** Aucune commune sondée ne rend cinq commerces vérifiables avec horaires, produits et photo. Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Nord (59), exploitations inscrites sous des noms de personnes physiques, vente aux particuliers, écartées pour doute sur une personne et non rouvertes ; Nord (59), registre complet (1 802 opérateurs) non épuisé : pages suivantes à lire pour les communes encore vides.
+
+**Fiches écartées pour doute sur une personne.** Au moins une (Nord, exploitant individuel au registre), non nommée, non publiée.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : lire les pages suivantes du registre Nord (debut=100 et suivants) pour les communes de moins de 13 000 habitants encore sans fiche (Caudry, Lys-lez-Lannoy, Hautmont, Comines), ou recalculer la descente si le département est épuisé par la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés.
