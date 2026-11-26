@@ -60059,3 +60059,28 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : Loiret toujours ouvert (la passe actuelle l'a visé, donc la suivante ne le prend pas, règle 41.c). Si le Loiret revient : Montargis se relit sur le site de la Ville (rubrique marchés) et sur celui de l'office de tourisme ; sinon descendre à Saint-Jean-de-la-Ruelle (sondée le 10 novembre) ou Montargis reste en pistes.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Seine-et-Marne (77) reprise, Dammarie-les-Lys sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en `en_cours` (doute sur une personne, non publiée, non rouverte). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). Réserve 41.c : la passe précédente visait le Loiret (Centre-Val de Loire), région exclue. Clos, épuisés ou en veille : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Rhône, Seine-Saint-Denis, Val-de-Marne, Yvelines, Calvados, Vienne, Haute-Corse et Corse, Haute-Marne, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine, Seine-Maritime, Bas-Rhin, Pas-de-Calais, Charente-Maritime, Loiret. Retenu : Seine-et-Marne (77, Île-de-France, déficit ≈ 4,0, 25 fiches), la région n'ayant pas été visée à la passe précédente. Le Bas-Rhin (67, déficit ≈ 4,0) reste clos par sa descente.
+
+**Commune, règle 41.d et 247.** La descente de la Seine-et-Marne a éprouvé douze communes sans succès (Meaux, Chelles, Melun, Fontainebleau, Nemours et autres). Le point d'arrêt de la passe du 21 novembre désignait Dammarie-les-Lys, puis Pontault-Combault (39 096 habitants).
+
+**Dammarie-les-Lys.**
+- Office de tourisme Melun Val de Seine : marché le jeudi et le dimanche, de 7 h 30 à 13 h. Une seconde source (jours-de-marche.fr) n'en cite qu'un seul jour : contradiction de détail, à consigner.
+- Registre de l'Agence Bio (77, 929 opérateurs lus sur dix pages) : aucun producteur ni magasin de producteurs enregistré à Dammarie-les-Lys en vente directe. Une boulangerie, une biocoop d'enseigne nationale et une enseigne de distribution, sans producteurs locaux à rattacher.
+- Une entrée de registre à nom de personne physique en vente directe, écartée pour doute sur une personne, non nommée, non publiée.
+
+**Pontault-Combault (sondée au point d'arrêt, non reprise).** La ville annonce des marchés de producteurs ponctuels (printemps 2026, automne 2025) sans jours réguliers ; une enquête sur le futur marché est en cours. Rien de daté et répétable à relever.
+
+**Vérifié.** Rien ne réunit cinq commerces vérifiables à Dammarie-les-Lys (règle 96) : un marché bien documenté, mais aucun producteur confirmé par une source indépendante. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Dammarie-les-Lys (77), marché du jeudi et du dimanche, source de l'office de tourisme, producteurs exposants non identifiés ; Dammarie-les-Lys (77), vente directe au registre à nom de personne physique, écartée pour doute sur une personne ; Pontault-Combault (77), marchés de producteurs ponctuels, à reprendre sur l'agenda de la ville si une édition datée est publiée.
+
+**Contradictions consignées (règle 5).** Jours du marché de Dammarie-les-Lys : deux jours (office de tourisme) contre un jour non précisé (jours-de-marche.fr). Non tranché faute de fiche à publier.
+
+**Point d'arrêt.** Passe suivante hors Île-de-France (règle 41.c). Si la Seine-et-Marne revient : reprendre Dammarie-les-Lys par le site de la Ville (rubrique marchés) et chercher les producteurs exposants sur le marché du jeudi ; Pontault-Combault seulement avec une édition datée.
+
+**Publication.** Seule cette note est ajoutée au README ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
