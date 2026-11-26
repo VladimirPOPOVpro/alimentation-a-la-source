@@ -54855,7 +54855,7 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 **Ce qui a été lu cette passe.**
 - Registre de l'Agence Bio, Nord, pagination complète (1 796 opérateurs). À Cambrai : 29 entrées, dont cinq déclarent une vente aux particuliers. Plusieurs portent un nom de personne en enseigne : non retenues (règle 6 et règle des personnes).
 - Recherche web : Biocambrésis, magasin bio indépendant, rue de Bohain. Une seule source indépendante (certificat Ecocert) confirme l'adresse et l'activité ; aucun horaire trouvé. Une fiche à une source : non publiée.
-- Gosselet Maraîcher, magasin de la ferme, allée François-Fénélon. Référencé par un annuaire de circuit court, sans horaires ni liste de produits lisibles. Non publié.
+- Un maraîcher (nom patronymique, écarté), magasin de la ferme, allée François-Fénélon. Référencé par un annuaire de circuit court, sans horaires ni liste de produits lisibles. Non publié.
 - Un annuaire de marchés participatif indique un seul jour de marché à Cambrai, sans source officielle lue. Non publié.
 - Biocoop et Bio C'Bon : contradictions d'horaires déjà consignées aux passes d'octobre ; non reprises cette passe.
 
@@ -54863,7 +54863,7 @@ Total inchangé : 1 304 fiches. Aucune fiche publiée, aucune retirée.
 
 **Fiches écartées pour doute sur une personne** : plusieurs entrées du registre à Cambrai (noms de personnes en enseigne), non reprises, ne se rouvrent pas.
 
-**Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c) ; le classement se recalcule. La reprise de Cambrai attend une seconde source indépendante pour les horaires de Biocambrésis (site du commerce, Chambre d'agriculture ou office de tourisme du Cambrésis) et les horaires de Gosselet Maraîcher auprès du producteur.
+**Points d'arrêt.** Passe suivante : ne pas viser le Nord (règle 41.c) ; le classement se recalcule. La reprise de Cambrai attend une seconde source indépendante pour les horaires de Biocambrésis (site du commerce, Chambre d'agriculture ou office de tourisme du Cambrésis) et les horaires de Un maraîcher (nom patronymique, écarté) auprès du producteur.
 
 ## Passe autonome du 17 novembre 2026 (Charente-Maritime (17) visée, Rochefort (17300) sondée : aucune publication)
 
@@ -59743,7 +59743,7 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 
 **Conclusion** : aucune commune du Nord ne rend cinq commerces vérifiables avec horaires, produits et photo. Les horaires manquants n'ont pas été inventés, et aucune photo n'a été trouvée sans risque de reproduction. Rien n'est publié ; la base reste à 1 309 fiches.
 
-**Passe suivante** : reprendre Cambrai (Gosselet maraîcher, Biocambrésis) par le site de la ferme et le registre de l'Agence Bio paginé pour le Cambrésis ; reprendre Wattrelos seulement si la Ville publie un calendrier daté.
+**Passe suivante** : reprendre Cambrai par les pistes de la passe du Nord et par le registre de l'Agence Bio paginé pour le Cambrésis ; reprendre Wattrelos seulement si la Ville publie un calendrier daté.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés.
 
@@ -59812,7 +59812,7 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 **Commune, règle 41.d.** Les communes de plus de dix mille habitants de la Haute-Garonne portent déjà une fiche ou ont été sondées à zéro lors des passes précédentes. La descente retenue est celle indiquée au point d'arrêt : **Villeneuve-Tolosane** (11 044 habitants), puis **Saint-Jean** (11 261 habitants).
 
 **Villeneuve-Tolosane, ce qui tient.**
-- Registre de l'Agence Bio, Haute-Garonne (1 200 opérateurs lus, douze pages de cent) : un seul opérateur rattaché à la commune, grossiste en carburant ou en produits non alimentaires, écarté.
+- Registre de l'Agence Bio, Haute-Garonne (1 200 opérateurs lus, douze pages de cent) : un seul opérateur rattaché à la commune, vente en gros, hors commerce de détail alimentaire, écarté.
 - Recherche web : deux marchés enregistrés par un annuaire participatif, sans nom ni jour ; une Biocoop et une enseigne bio de réseau, horaires non vérifiés sur une source officielle ; des producteurs signalés à six ou douze kilomètres, hors commune.
 
 **Saint-Jean, ce qui tient.**
@@ -59827,6 +59827,6 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 
 **Contradictions consignées (règle 5).** Les passes antérieures indiquent que Saint-Jean porte déjà des fiches : le fichier ne compte aucune fiche à 31240. La mention antérieure est donc fausse ; la commune reste sans fiche. Aucune conséquence sur les fiches publiées.
 
-**Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus visée (la passe du jour l'a prise). Le Nord (59) redevient éligible à la règle 41.c, puisque la passe du jour n'était pas en Hauts-de-France ; reprendre Cambrai (Gosselet maraîcher, Biocambrésis) par le site de la ferme et le registre de l'Agence Bio paginé pour le Cambrésis. Tenir compte aussi de la note de Wattrelos : ne la reprendre que si la Ville publie un calendrier daté.
+**Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus visée (la passe du jour l'a prise). Le Nord (59) redevient éligible à la règle 41.c, puisque la passe du jour n'était pas en Hauts-de-France ; reprendre Cambrai par les pistes de la passe du Nord et par le registre de l'Agence Bio paginé pour le Cambrésis. Tenir compte aussi de la note de Wattrelos : ne la reprendre que si la Ville publie un calendrier daté.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
