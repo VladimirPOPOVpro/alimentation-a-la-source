@@ -60015,3 +60015,22 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Bretagne (règle 41.c). Si Vitré doit revenir, relire le marché sur le site de la mairie dès qu'il répond, et rattacher les deux fiches solides du magasin bio, de Vitré et de Fougères, seulement si la règle 124 le permet (distance au plus de dix kilomètres : ce n'est pas le cas).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Yvelines (78) : Mantes-la-Jolie reprise, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` (34 969 communes). Réserve 41.c : la passe précédente portait sur l'Oise (Hauts-de-France), région écartée. Clos par la règle 247 ou par les passes précédentes : Nord, Haute-Garonne, Oise, Loire, Haute-Corse, Corse (2A et 2B, descente de douze communes), Savoie, Isère, Hérault, Seine-Saint-Denis, Val-de-Marne, Calvados, Vienne, Haute-Marne, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine (passe précédente). Retenu : Yvelines (78, déficit ≈ 3,19, 25 fiches), descente déjà ouverte.
+
+**Commune, règle 41.d.** La commune la plus peuplée des Yvelines sans fiche est Mantes-la-Jolie (43 526 habitants), déjà éprouvée sans succès (passe antérieure). Reprise par les sources du jour :
+- Registre de l'Agence Bio (78, quatre pages) : une biocoop indépendante (2, rue d'Alsace, 78200), un magasin de la ferme à Arnouville-lès-Mantes et une pépinière à Chambourcy. Une seule fiche solide au registre, dont le site du magasin n'a pas été ouvert faute de réponse.
+- Recherche web : marché du centre-ville (mercredi et samedi) et marché bio du parvis de l'hôtel de ville, décrits par des guides anciens sans horaires officiels ; l'Atelier du Primeur (circuit court, centre-ville) sans site propre ; Ferme d'Heurteloup (Arnouville-lès-Mantes) annoncée comme magasin fermier bio, sans source officielle.
+- Rien ne réunit cinq commerces vérifiables sur la commune (règle 96) ; la biocoop seule ne suffit pas.
+
+**Pistes non publiées** (anonymes) : Mantes-la-Jolie (78), biocoop indépendante, fiche solide à rattacher à une seconde fiche de la commune ; Mantes-la-Jolie (78), marché du centre-ville, jours et lieu à confirmer par la Ville ; Mantes-la-Jolie (78), Atelier du Primeur, source non officielle ; Arnouville-lès-Mantes (78), ferme de vente directe, dénomination au registre à nom de personne physique, écartée pour doute sur une personne et non rouverte.
+
+**Fiches écartées pour doute sur une personne.** Une (Arnouville-lès-Mantes), non nommée, non publiée.
+
+**Point d'arrêt.** Passe suivante hors Île-de-France (règle 41.c). Si les Yvelines doivent revenir : Mantes-la-Jolie se relit par le site de la Ville (rubrique marchés) et par le site de la biocoop, pour atteindre cinq commerces ; sinon Poissy, déjà éprouvée, ne se reprend qu'avec une source neuve.
+
+**Vérifié.** Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
