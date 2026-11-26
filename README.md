@@ -60134,3 +60134,25 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : recalculer le classement (règle 41) avec la réserve de région (Hauts-de-France exclus si cette passe est reprise) ; dans le Nord, la descente peut encore compter trois communes avant la borne de la règle 247 (Denain, Halluin, Saint-Amand-les-Eaux, Gravelines), à faire sur la page officielle de chaque ville et le registre complet.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31) : Revel sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Demande n° 13 inchangée, toujours en cours (doute sur une personne). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu, dénominateur métropolitain de 1 309 fiches, populations `geo.api.gouv.fr`. La passe précédente était dans le Nord (Hauts-de-France) : Hauts-de-France écartés par la réserve de région. Retenu : Haute-Garonne (31), déficit métropolitain le plus élevé hors Hauts-de-France. Commune : Revel (9 762 habitants), commune la plus peuplée de la Haute-Garonne sans fiche et jamais sondée (Toulouse, Colomiers, Tournefeuille, Blagnac, Cugnaux et Saint-Jean ont déjà des fiches ; Muret, Plaisance-du-Touch, Balma et les communes voisines ont été sondées sans résultat).
+
+**Registre de l'Agence Bio, Haute-Garonne (1 100 opérateurs relus).** Quinze opérateurs ont une adresse à Revel. Quatre seulement déclarent de la vente aux particuliers sous un nom de personne ou un patronyme : ils sont écartés pour doute sur une personne, sans nom dans ce README. Un opérateur à enseigne de société est actif au registre de l'INSEE : un magasin de fruits et légumes Place de la Patte d'Oie, fonctionnant en détail sur étal (code 47.81Z). Ses produits, son horaire et son site ne sont sourcés nulle part : il ne rend pas une fiche vérifiée.
+
+**Marché de Revel.** Le règlement du marché de plein vent de la mairie (version 2019) indique le samedi, de 8 h à 12 h 30. Les versions 2024 et 2025 existent mais leur contenu n'a pas pu être lu. Le marché de producteurs est organisé par l'association locale de développement touristique (ARDT) ; aucune date récurrente n'est publiée. La règle 9 exige deux sources officielles concordantes pour un marché : une seule est lisible, et elle est ancienne.
+
+**Vérifié.** Revel ne rend pas cinq commerces vérifiables. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Revel (31), quatre fiches écartées pour doute sur une personne (vente aux particuliers sous nom de personne ou patronyme) ; Revel (31), magasin de fruits et légumes actif au registre, produits et horaires non sourcés ; Revel (31), marché de plein vent du samedi, règlement 2019 seul lisible, à reconfirmer auprès de la mairie ; Revel (31), marché de producteurs de l'ARDT sans date récurrente publiée.
+
+**Fiches écartées pour doute sur une personne.** Quatre, à Revel (31). Aucun nom reporté.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante hors Occitanie (règle 41.c). Pour Revel, déblocage possible : une deuxième source officielle sur le marché du samedi (office de tourisme ou règlement 2025 lisible) et une enseigne vérifiée sur le site du magasin de fruits.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
