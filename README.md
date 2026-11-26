@@ -59878,3 +59878,29 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante : lire les pages suivantes du registre Nord (debut=100 et suivants) pour les communes de moins de 13 000 habitants encore sans fiche (Caudry, Lys-lez-Lannoy, Hautmont, Comines), ou recalculer la descente si le département est épuisé par la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31), Seysses sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr`. Classement hors Hauts-de-France (passe précédente dans le Nord) : Haute-Garonne (31, ≈ 5,2) en tête, devant Seine-Saint-Denis (93, ≈ 4,9) et Yvelines (78, ≈ 4,5), déjà sondées les jours précédents.
+
+**Commune, règle 41.d.** Les communes de plus de sept mille habitants de la Haute-Garonne ont déjà été sondées ou portent des fiches. Commune retenue : **Seysses** (10 539 habitants), la plus peuplée restant sans fiche après la descente précédente.
+
+**Seysses, ce qui tient.**
+- Registre de l'Agence Bio, Haute-Garonne (100 opérateurs lus) : les entrées de la commune sont des exploitations à nom de personne physique, écartées pour doute sur une personne. Rien n'est repris.
+- Annuaire participatif (jours-de-marche.fr) : un marché de producteurs au parc de la Bourdette, le vendredi après-midi, et huit marchés déclarés pour la commune. Source participative seule, horaires non confirmés par la mairie : non publiable.
+
+**Pistes voisines, hors commune** : Frouzins (point de retrait d'une association de producteurs, en commande à l'avance : pas un commerce de détail au sens du site, non retenu) ; Cugnaux (magasin de producteurs, déjà référencé à Cugnaux, hors Seysses).
+
+**Vérifié.** Seysses ne rend ni cinq commerces vérifiables, ni même un marché confirmé par une source officielle. Léguevin n'apparaît dans aucune source trouvée. Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Seysses (31), marché de producteurs du vendredi, annuaire participatif seul, non confirmé par la mairie ; Seysses (31), exploitations au registre à nom de personne physique, écartées pour doute sur une personne et non rouvertes ; Frouzins (31), point de retrait associatif, hors catégories du site.
+
+**Fiches écartées pour doute sur une personne.** Au moins une (Seysses, exploitants individuels au registre), non nommées, non publiées.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Seysses par le site de la mairie (rubrique marchés) puis l'office de tourisme Pyrénées-Garonne ; si rien ne se confirme, descendre à Léguevin (9 945 habitants) par les pages de la commune. Haute-Garonne à reprendre seulement après une passe hors Occitanie (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
