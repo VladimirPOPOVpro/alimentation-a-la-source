@@ -59802,3 +59802,31 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 **Point d'arrêt.** Passe suivante : reprendre Nogent-sur-Oise par la page marchés de la mairie dès qu'elle est lisible ; sinon Senlis par le site de la ville. Ne pas revenir en Occitanie (règle 41.c) ; Nord, Haute-Garonne et Oise restent sondés, la formule relancée sur le département de plus grand déficit hors outre-mer.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31), Villeneuve-Tolosane sondée : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93 et 177.** Métropole seule, outre-mer exclu (le validateur refuse les coordonnées hors métropole). 1 309 fiches, populations `geo.api.gouv.fr`. Le déficit le plus fort est à La Réunion (974), écarté par la règle 93. En métropole : Nord (59, ≈ 4,7), Haute-Garonne (31, ≈ 3,9), Oise (60, ≈ 3,8). La passe précédente visait l'Oise (Hauts-de-France) : le Nord, même région, est donc écarté par la règle 41.c. Reste la Haute-Garonne (Occitanie), point d'arrêt de la passe du jour.
+
+**Commune, règle 41.d.** Les communes de plus de dix mille habitants de la Haute-Garonne portent déjà une fiche ou ont été sondées à zéro lors des passes précédentes. La descente retenue est celle indiquée au point d'arrêt : **Villeneuve-Tolosane** (11 044 habitants), puis **Saint-Jean** (11 261 habitants).
+
+**Villeneuve-Tolosane, ce qui tient.**
+- Registre de l'Agence Bio, Haute-Garonne (1 200 opérateurs lus, douze pages de cent) : un seul opérateur rattaché à la commune, grossiste en carburant ou en produits non alimentaires, écarté.
+- Recherche web : deux marchés enregistrés par un annuaire participatif, sans nom ni jour ; une Biocoop et une enseigne bio de réseau, horaires non vérifiés sur une source officielle ; des producteurs signalés à six ou douze kilomètres, hors commune.
+
+**Saint-Jean, ce qui tient.**
+- Un seul marché repéré, sur la place François-Mitterrand, le samedi matin : source un agenda événementiel de la Métropole, qui ne confirme pas un marché hebdomadaire régulier. Un annuaire de marchés ne donne pas le jour.
+- Registre de l'Agence Bio : aucun producteur de vente directe à Saint-Jean ; les entrées sont des grossistes ou des restaurants.
+
+**Vérifié.** Ni Villeneuve-Tolosane ni Saint-Jean ne rendent cinq commerces vérifiables, ni même un marché confirmé par une source officielle. Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Villeneuve-Tolosane (31), magasin bio de réseau, horaires non vérifiés sur une source officielle ; Villeneuve-Tolosane (31), deux marchés signalés par un annuaire participatif, sans nom ni jour ; Saint-Jean (31), marché du samedi, source événementielle seule.
+
+**Fiches écartées pour doute sur une personne.** Une (Haute-Garonne, exploitant individuel au registre de l'Agence Bio, vente aux particuliers), non nommée, non publiée.
+
+**Contradictions consignées (règle 5).** Les passes antérieures indiquent que Saint-Jean porte déjà des fiches : le fichier ne compte aucune fiche à 31240. La mention antérieure est donc fausse ; la commune reste sans fiche. Aucune conséquence sur les fiches publiées.
+
+**Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus visée (la passe du jour l'a prise). Le Nord (59) redevient éligible à la règle 41.c, puisque la passe du jour n'était pas en Hauts-de-France ; reprendre Cambrai (Gosselet maraîcher, Biocambrésis) par le site de la ferme et le registre de l'Agence Bio paginé pour le Cambrésis. Tenir compte aussi de la note de Wattrelos : ne la reprendre que si la Ville publie un calendrier daté.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
