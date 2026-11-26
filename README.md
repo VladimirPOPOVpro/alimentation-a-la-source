@@ -60156,3 +60156,29 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Occitanie (règle 41.c). Pour Revel, déblocage possible : une deuxième source officielle sur le marché du samedi (office de tourisme ou règlement 2025 lisible) et une enseigne vérifiée sur le site du magasin de fruits.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Nord (59) : Denain, Halluin, Saint-Amand-les-Eaux, Gravelines sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en `en_cours` (doute sur une personne, non publiée, non rouverte). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Dénominateur national (règle 224), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. Outre-mer exclu du classement (règle 177). La passe précédente portait sur la Haute-Garonne (Occitanie) : seule cette région est exclue (règle 41.c). Le Nord (59) est en tête du déficit métropolitain et n'a pas été visé à la passe immédiatement précédente, donc éligible. La descente du Nord reste sous la borne de douze communes de la règle 247.
+
+**Communes éprouvées, règle 41.d et 247.** Denain, Halluin, Saint-Amand-les-Eaux et Gravelines, reprises dans l'ordre de la note précédente.
+
+- Registre de l'Agence Bio, Nord (1 802 opérateurs relus sur 19 pages) : quelques entrées par commune. Plusieurs déclarent de la vente aux particuliers sous un nom de personne ou un patronyme : écartées pour doute sur une personne, sans nom dans ce README. Les autres sont des grossistes, des sites de transformation ou des enseignes de grande distribution (écartés, `MODERATION.md`).
+- Saint-Amand-les-Eaux : le guide 2025 de l'Office du commerce cite un marché hebdomadaire du vendredi matin et un marché de producteurs le premier dimanche du mois. Jours et lieux sont datés, mais un seul producteur ou commerce vérifiable s'y ajoute. Deux fiches isolées ne forment pas une zone (règle 52).
+- Gravelines : aucun marché de producteurs publié par la ville (sa page des rendez-vous ne donne ni jours ni producteurs) ; un seul annuaire participatif donne un jour de marché. Aucune source croisée.
+- Halluin : un annuaire participatif recense deux marchés, sans jours ni producteurs identifiés. Aucune fiche vérifiable.
+- Denain : un annuaire participatif indique un jour de marché, sans détail ; l'annuaire des marchés du Nord le cite pour les légumes de producteurs locaux, sans lecture de la source. Aucune fiche vérifiable.
+
+**Vérifié.** Aucune des quatre communes ne rend cinq commerces vérifiables sur une seule commune ou agglomération (règle 52). Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Saint-Amand-les-Eaux (59), marché hebdomadaire du vendredi et marché de producteurs mensuel datés par le guide 2025 de l'Office du commerce, mais peu de commerces vérifiables ; déblocage : deux producteurs ou commerces sourcés au registre et sur leur propre site. Saint-Amand-les-Eaux (59), trois vendeurs au registre avec vente aux particuliers sous nom de personne ou patronyme, écartés pour doute sur une personne. Halluin (59), deux marchés au registre participatif sans jours ni producteurs identifiés. Halluin (59), vendeurs au registre sous nom de personne, écartés pour doute sur une personne. Gravelines (59), un seul jour de marché sur un annuaire participatif, rien de daté par la ville ; déblocage : une page de la Ville datée. Denain (59), marché sans jours publiés, décrit par l'annuaire des marchés seulement ; déblocage : la page officielle de la Ville.
+
+**Fiches écartées pour doute sur une personne.** Trois à Saint-Amand-les-Eaux, deux à Halluin, une à Denain (nombre seulement, aucun nom reporté).
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Le Nord n'a pas livré de zone de cinq. La descente reprend à la commune suivante de la règle 247, avec les trois communes restantes avant la borne (règle 247), en privilégiant les pages officielles des villes. Passe suivante : recalculer le classement (règle 41) et exclure la région de cette passe (règle 41.c), ou reprendre le Nord au titre de la règle 247 si une commune rend deux fiches entières.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
