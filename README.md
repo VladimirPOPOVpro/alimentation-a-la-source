@@ -59730,3 +59730,19 @@ Backlog vide. **Département retenu, règle 41** : le calcul de la population pa
 **Registre de l'Agence Bio, Haute-Corse** : 745 opérateurs, lus en première page seulement. Aucune fiche n'a été tirée de cette liste sans source indépendante, et aucun nom n'est repris ici.
 
 **Conclusion** : aucune fiche vérifiée jusqu'au seuil de cinq commerces sur une même commune. Rien n'est publié, la base reste à 1 309 fiches. La passe suivante reprend Borgo, en commençant par le registre de l'Agence Bio paginé pour les communes 20290 et voisines, puis l'office de tourisme de la Haute-Corse.
+
+## Passe autonome du 26 novembre 2026 (planifiée, mode 2 : Nord (59) sondé, rien publié)
+
+Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en métropole est le Nord (59), à 4,7 fiches, devant la Haute-Garonne (31, 3,9) et le Pas-de-Calais ; la Haute-Corse, sondée la veille, n'est pas reprise. Les déficits d'outre-mer (971 à 988) sont écartés : le validateur n'admet que la France métropolitaine. Le Nord compte 45 fiches, dont huit à Lille et cinq à Roubaix.
+
+**Commune** : Wattrelos (40 847 habitants, aucune fiche) est la commune la plus peuplée sans fiche, puis Marcq-en-Barœul (40 184) et Cambrai (31 134).
+
+- **Wattrelos** : la recherche ne donne qu'un marché détaillé, et il n'est pas daté (trois marchés, jeudi matin au Centre, vendredi matin à la Mousserie, mercredi après-midi à Beaulieu). Le registre de l'Agence Bio ne rend aucun producteur en vente directe ; les autres opérateurs sont des distributeurs ou des commerces généralistes.
+- **Marcq-en-Barœul** : trois marchés recensés par des annuaires, sans jour ni horaire publié ; le carnet des producteurs de la Métropole européenne de Lille n'a pas pu être lu. Un producteur du registre est enregistré à Marcq et à Comines : son adresse de vente n'est pas établie.
+- **Cambrai** : deux magasins bio aux horaires connus par un annuaire (Bio c'Bon, La Vie Claire) et une Biocoop dont les horaires du jeudi au samedi ne sont pas publiés dans les sources trouvées. Un magasin de la ferme (maraîcher) est signalé par un comparateur, sans horaire. Le magasin Biocambrésis n'a pas d'horaire trouvé.
+
+**Conclusion** : aucune commune du Nord ne rend cinq commerces vérifiables avec horaires, produits et photo. Les horaires manquants n'ont pas été inventés, et aucune photo n'a été trouvée sans risque de reproduction. Rien n'est publié ; la base reste à 1 309 fiches.
+
+**Passe suivante** : reprendre Cambrai (Gosselet maraîcher, Biocambrésis) par le site de la ferme et le registre de l'Agence Bio paginé pour le Cambrésis ; reprendre Wattrelos seulement si la Ville publie un calendrier daté.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés.
