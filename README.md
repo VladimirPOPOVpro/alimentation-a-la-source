@@ -59830,3 +59830,17 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 **Point d'arrêt.** Passe suivante : la Haute-Garonne n'est plus visée (la passe du jour l'a prise). Le Nord (59) redevient éligible à la règle 41.c, puisque la passe du jour n'était pas en Hauts-de-France ; reprendre Cambrai par les pistes de la passe du Nord et par le registre de l'Agence Bio paginé pour le Cambrésis. Tenir compte aussi de la note de Wattrelos : ne la reprendre que si la Ville publie un calendrier daté.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Nord (59) reprise, Cambrai sondée au registre : rien publié)
+
+Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. La passe précédente portait sur la Haute-Garonne (région 76), qui est donc écartée par la réserve de région. Le Nord (59), région 32, est redevenu éligible ; il reste en tête du déficit métropolitain, les Bouches-du-Rhône et la Moselle suivent. Les descentes déjà closes (Oise, Loire, Savoie, Vienne, Hérault, Calvados, Haute-Corse, Isère, Seine-Saint-Denis) ne sont pas rouvertes.
+
+**Commune, règles 41.d et 247.** Cambrai (32 000 habitants environ) est la commune la plus peuplée du Nord sans fiche encore éprouvée en entier. Le registre de l'Agence Bio, paginé sur le département (1 100 opérateurs lus), donne dix-huit opérateurs inscrits à Cambrai. Un seul déclare la vente aux particuliers avec un profil de magasin : un magasin bio local, sans site ni horaires publiés que l'on ait pu recouper. Les autres sont des entreprises de production, de gros, de restauration, une boulangerie et une confiserie, ou n'annoncent aucune vente au public. Une seule piste ne fait pas une zone (règle 52) : aucune fiche n'est publiée.
+
+**Pistes non publiées** (anonymes) : Cambrai (59), magasin bio inscrit au registre avec vente aux particuliers, aucun site ni horaires vérifiés ; Cambrai (59), magasin de douceurs inscrit au registre avec vente aux particuliers, activité de détail à confirmer, hors catégories ; Cambrai (59), épicerie et confiserie de l'annuaire, sans vente au public déclarée, écartée.
+
+**Fiches écartées pour doute sur une personne.** Une (Cambrai, exploitant individuel au registre à nom patronymique, vente de gros), non nommée, non publiée.
+
+**Point d'arrêt.** Cambrai n'atteint pas cinq fiches vérifiables ; la descente du Nord, déjà longue (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Croix, La Madeleine), approche la borne de la règle 247. Passe suivante : recalculer le classement (règle 41) sans reprendre la région 32 si le Nord est clos par la borne ; sinon poursuivre la descente à la commune suivante par population, dans le même département.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
