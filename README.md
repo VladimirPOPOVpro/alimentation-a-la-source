@@ -60208,3 +60208,21 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Foix ouverte, zone de cinq non atteinte. Passe suivante : reprendre Foix avec les pages des deux marchés sur le site de la Ville, la vérification de vente directe de la brasserie et de la chocolaterie, puis descendre à la commune suivante par population en Ariège dans la borne de douze communes (règle 247). Le registre Agence Bio de l'Ariège n'a été relu que sur la première page (100 opérateurs) ; trois vendeurs de Pamiers et de Mirepoix relèvent de la règle sur les personnes, les autres sont des grossistes ou des structures sans vente au public.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Gironde (33) : La Teste-de-Buch sondée, rien publié)
+
+Backlog : aucune demande « nouvelle ». Une demande reste « en_cours » (producteur du Var, doute sur une personne, en attente) : elle ne se publie pas en l'état.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr`. La passe précédente portait sur l'Ariège (Occitanie), donc l'Occitanie est écartée (règle 41.c). En tête du déficit métropolitain hors Occitanie : Gironde (33, Nouvelle-Aquitaine, ≈ 7,7), devant Bouches-du-Rhône (13, ≈ 7,6). La Gironde est la descente déjà ouverte au point d'arrêt du 15 novembre : La Teste-de-Buch (27 566 habitants) est la commune suivante sans fiche.
+
+**Sources.** Registre Agence Bio (Gironde, pages 1 à 9) : parmi les opérateurs du bassin d'Arcachon, plusieurs ne vendent pas au public (grossistes, transformateurs). Retenus pour lecture : la société BIOMEN GUJAN (Gujan-Mestras, centre commercial Grand Large, registre actif, vente aux particuliers déclarée) ; une brasserie et un torréfacteur de La Teste (vente aux particuliers non sourcée sur leur propre site). Recherche web sur les marchés de La Teste-de-Buch : les sources ne concordent pas (halles couvertes du mardi au dimanche selon un camping, marché bio du vendredi selon un guide, marché de plein air du mardi selon un office de tourisme, horaires de fin différents). Contradiction consignée (règle 5) : aucun horaire de marché n'est publié.
+
+**Vérifié.** Aucune commune de la passe ne rend cinq commerces vérifiables à une source indépendante. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : La Teste-de-Buch (33), halles et marché de plein air, jours contradictoires entre sources, à confirmer sur la page de la Ville ; La Teste-de-Buch (33), marché bio du vendredi, source de guide seule ; La Teste-de-Buch (33), brasserie artisanale au registre, vente directe non sourcée ; Gujan-Mestras (33), magasin bio du centre commercial Grand Large, registre actif, horaires et téléphone non trouvés ; Gujan-Mestras (33), deux magasins de ferme signalés par un annuaire participatif, à sourcer sur leur propre site.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Point d'arrêt.** Passe suivante : Gironde toujours ouverte (La Teste-de-Buch reprise sur les pages officielles de la Ville et de l'office de tourisme du bassin d'Arcachon) ; si rien ne se confirme, descendre à Gujan-Mestras (22 153 habitants) à partir des pistes ci-dessus. Ne pas revenir en Nouvelle-Aquitaine avant une autre région (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
