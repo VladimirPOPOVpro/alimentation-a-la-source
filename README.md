@@ -59844,3 +59844,15 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Cambrai n'atteint pas cinq fiches vérifiables ; la descente du Nord, déjà longue (Wattrelos, Marcq-en-Barœul, Cambrai, Lambersart, Armentières, Maubeuge, Croix, La Madeleine), approche la borne de la règle 247. Passe suivante : recalculer le classement (règle 41) sans reprendre la région 32 si le Nord est clos par la borne ; sinon poursuivre la descente à la commune suivante par population, dans le même département.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31), Saint-Orens, Castanet et Ramonville sondées : rien publié)
+
+- Secteur : formule des parts de population (règle 41). La Réunion et les autres DOM sont écartés du calcul : le validateur refuse les coordonnées hors France métropolitaine (voir `lib/validateMerchants.ts`). Nord et Oise écartés par la réserve de région (passe précédente dans le Nord). Retenu : Haute-Garonne, dont la commune la plus peuplée sans fiche, Muret, a déjà été sondée à plusieurs reprises.
+- Registre Agence Bio (31, 1 100 opérateurs lus) : presque aucun point de vente aux particuliers hors personnes physiques, qui ne sont pas nommées ici. Les quelques entrées commerciales relevées ont été mises de côté.
+- Pistes non publiées (anonymes) :
+  - Saint-Orens-de-Gameville, boulangerie bio au registre (vente aux particuliers) : site et activité non vérifiés, pas de téléphone confirmé.
+  - Saint-Orens-de-Gameville, magasin de producteurs d'une chaîne (Ferme Attitude) : source unique (annuaire grand public), inscription au registre à vérifier (règle 6).
+  - Castanet-Tolosan, magasin bio d'une enseigne nationale : seul article de 2023 trouvé, horaires non vérifiés.
+  - Castanet-Tolosan, point de producteurs le jeudi soir : un seul annuaire tiers, la commune ne le confirme pas (règle 16 : rien en dessous de deux annuaires concordants).
+  - Ramonville-Saint-Agne, marché de producteurs : un seul annuaire participatif, jour et lieu non confirmés.
+- Aucune fiche publiée : aucune piste n'atteint deux sources indépendantes concordantes avec un registre d'activité vérifié.
