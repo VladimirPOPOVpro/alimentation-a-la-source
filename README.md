@@ -59770,3 +59770,35 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 **Point d'arrêt.** Passe suivante : Haute-Garonne, descente à Saint-Jean (11 261 habitants) ou Villeneuve-Tolosane (11 044), en commençant par le site de la commune (rubrique marchés) puis l'office de tourisme. Ne pas revenir en Occitanie avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Oise (60), Nogent-sur-Oise sondée puis Senlis : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr`. Déficits les plus forts : Nord (59, 4,66), déjà épuisé par les passes des 23 à 25 novembre et la passe d'hier ; Haute-Garonne (31, 3,93), dernière passe du jour, donc écartée par la règle 41.c ; Oise (60, 3,8) retenue, sans fiche de commune encore sondée depuis la passe du 25 novembre.
+
+**Commune, règle 41.d.** Dans l'Oise, Beauvais, Compiègne, Creil, Clermont, Noyon, Chantilly et Pont-Sainte-Maxence portent déjà des fiches ou sont écartées. La commune la plus peuplée sans fiche est **Nogent-sur-Oise** (21 907 habitants).
+
+**Nogent-sur-Oise, ce qui tient.**
+- Registre de l'Agence Bio, Oise (400 opérateurs lus) : un seul opérateur de vente directe identifié à Nogent-sur-Oise. C'est une personne physique exploitante, à son nom patronymique : **écarté pour doute sur une personne**, rien n'est publié et il ne se rouvre pas. Les autres entrées de la commune sont des enseignes de grande distribution, hors périmètre.
+- Site de la commune (nogentsuroise.fr) : la page d'accueil renvoie une vérification anti-robot ; elle n'a pas été contournée. Aucune rubrique marchés n'a donc pu être lue.
+- Annuaires de mairie : horaires d'accueil concordants, mais adresse de la mairie divergente selon les sources (74 ou 82 rue du Général-de-Gaulle) ; contradiction consignée (règle 5), non publiée.
+- jours-de-marche.fr indique deux marchés enregistrés à Nogent-sur-Oise, sans nom ni horaires : non publiable.
+- Aucun magasin bio ni point de vente à la ferme vérifié dans la commune. Les magasins cités par les annuaires sont à Ribécourt-Dreslincourt et à Lamorlaye, hors commune.
+
+**Descente : Senlis (15 157 habitants), commune suivante sans fiche.**
+- Registre de l'Agence Bio : aucun opérateur de vente directe identifiable. Les établissements de la commune sont des grandes surfaces, des grossistes ou une coopérative, écartés.
+- Une brochure du Parc naturel régional Oise–Pays de France (2021) mentionne un marché le mardi et le vendredi matin : source ancienne, jour non confirmé par la mairie. Non publiable.
+- Le Marché de Noël de Senlis (4 au 6 décembre 2026, Espace Saint-Pierre) est un événement ponctuel, non retenu comme commerce.
+
+**Vérifié.** Ni Nogent-sur-Oise ni Senlis ne rendent cinq commerces vérifiables, ni même un marché à jour confirmé par une source officielle. Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Nogent-sur-Oise (60), vente directe par une exploitante individuelle, doute sur une personne, écartée et ne se rouvre pas ; Nogent-sur-Oise (60), deux marchés enregistrés sans nom ni horaires, à confirmer auprès de la mairie ; Senlis (60), marché du mardi et du vendredi matin, source 2021 non confirmée.
+
+**Fiches écartées pour doute sur une personne.** Une (Nogent-sur-Oise, 60).
+
+**Contradictions consignées (règle 5).** Adresse de la mairie de Nogent-sur-Oise : 74 ou 82 rue du Général-de-Gaulle selon les annuaires. Non tranchée, aucune fiche liée.
+
+**Point d'arrêt.** Passe suivante : reprendre Nogent-sur-Oise par la page marchés de la mairie dès qu'elle est lisible ; sinon Senlis par le site de la ville. Ne pas revenir en Occitanie (règle 41.c) ; Nord, Haute-Garonne et Oise restent sondés, la formule relancée sur le département de plus grand déficit hors outre-mer.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
