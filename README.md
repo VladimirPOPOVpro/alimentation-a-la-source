@@ -59673,3 +59673,26 @@ Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors ou
 **Point d'arrêt.** Passe suivante : Oise à reprendre par Crépy-en-Valois (site de la Ville et magazine municipal récent pour le marché et l'épicerie fine), puis Montataire (14 257 hab.) si Crépy ne rend pas cinq commerces. Ne pas revenir en Hauts-de-France avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (automatique) : Haute-Garonne (31) reprise, Muret sondée : rien publié
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr`. Déficits les plus forts hors outre-mer : Nord (59, 4,7), Haute-Garonne (31, 3,9), Oise (60, 3,8). Le Nord est écarté par la réserve de région : la passe précédente visait l'Oise, Hauts-de-France comme lui. La Haute-Garonne (Occitanie) est donc retenue, la passe du 25 novembre (nuit) ne la visant plus.
+
+**Commune, règle 41.d.** Commune la plus peuplée de la Haute-Garonne sans aucune fiche : **Muret** (26 079 hab.), déjà sondée deux fois. Suivantes : Plaisance-du-Touch (21 079 hab.), déjà sondée.
+
+**Muret, ce qui tient.**
+- Site de la mairie : introuvable par la recherche ; aucune page officielle de marché n'est accessible. Déblocage inchangé : jour, lieu et exposants confirmés par la Ville.
+- Marché de producteurs du mardi après-midi : une seule source tierce, et l'enseigne porte un prénom. Écartée pour doute sur une personne, non publiée, non nommée.
+- Magasin bio de réseau : les sources ne s'accordent pas sur les horaires (un agrégateur, un annuaire participatif, une page de réseau). Contradiction consignée (règle 5), aucune fiche.
+
+**Vérifié.** Muret ne rend pas cinq commerces vérifiables sur source indépendante et actuelle. Aucune fiche n'est ajoutée.
+
+**Pistes non publiées** (anonymes) : Muret (31), magasin bio de réseau, horaires contradictoires entre trois sources ; Muret (31), marché de producteurs du mardi, une seule source tierce, écarté pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Une, à Muret (enseigne au prénom), non nommée.
+
+**Contradictions consignées (règle 5).** Horaires du magasin bio de réseau de Muret : trois sources, trois versions. Aucune retenue.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne à reprendre sur Plaisance-du-Touch ou sur Balma (17 772 hab.) si Muret reste sans cinq commerces. Ne pas revenir en Occitanie avant la passe suivante (règle 41.c). Déblocage de Muret : une réponse publique de la mairie ou une page officielle du magasin bio.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
