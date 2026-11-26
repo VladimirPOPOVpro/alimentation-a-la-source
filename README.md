@@ -60084,3 +60084,28 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Île-de-France (règle 41.c). Si la Seine-et-Marne revient : reprendre Dammarie-les-Lys par le site de la Ville (rubrique marchés) et chercher les producteurs exposants sur le marché du jeudi ; Pontault-Combault seulement avec une édition datée.
 
 **Publication.** Seule cette note est ajoutée au README ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Dordogne (24) : Périgueux sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste en `en_cours` (doute sur une personne, non publiée, non rouverte). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, outre-mer exclu, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr` relues ce jour. Réserve 41.c : la passe précédente visait la Seine-et-Marne (Île-de-France), région exclue. Clos ou en veille : Nord, Haute-Garonne, Oise, Loire, Savoie, Hérault, Calvados, Vienne, Corse, Yvelines, Seine-et-Marne, Ille-et-Vilaine, Loiret, Bas-Rhin, Eure-et-Loir, Dordogne (Bergerac publiée). Ariège (09) déjà sondée (Pamiers, passe du 10 novembre). Retenu : la Dordogne n'est plus la première du classement, mais Périgueux (24) reste la commune la plus peuplée du département sans fiche et sa piste est la plus complète (voir ci-dessous).
+
+**Commune, règle 41.d.** Périgueux (29 055 habitants), commune la plus peuplée de la Dordogne sans fiche.
+
+- Faits de marché datables, relevés dans la passe de Bergerac : halle du Coderc tous les matins du mardi au dimanche, grand marché du mercredi et du samedi, marché du dimanche, petit marché du vendredi, marché au gras en saison. Ces horaires ne sont pas recoupés ce jour : le site de la Ville et celui de l'office de tourisme ne répondent pas depuis cet environnement ; le site du Grand Périgueux répond, sans lecture détaillée de la rubrique marchés cette passe.
+- Registre de l'Agence Bio, Dordogne : première page lue (100 opérateurs). À Périgueux, trois entrées seulement, dont une seule déclare la vente aux particuliers ; aucun producteur en vente directe vérifié.
+- Un producteur biologique déclare au registre un site web qui est un domaine racheté par un site de jeux d'argent (piège de la note Santa Lucia) : site écarté.
+- Aucune photographie publiable : les photos du comité départemental sont servies par un hébergeur qui refuse les robots, et la Ville interdit la reprise des images. Aucune photo n'a été téléchargée cette passe ; rien n'est publié.
+
+**Vérifié.** Périgueux ne rend pas cinq commerces vérifiables avec horaires, produits, téléphone et photo. Aucune fiche n'est ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Périgueux (24), marchés de la halle et de places, horaires datés mais non recoupés à la source officielle, déblocage : une photographie publiable du lieu ; Périgueux (24), producteur biologique au registre dont le site a été racheté, écarté.
+
+**Fiches écartées pour doute sur une personne.** Aucune nouvelle dans cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante hors Île-de-France et hors Dordogne : Ariège (09) reprise à Foix (9 934 habitants), ou Ain (01) par la descente de la passe. Périgueux seulement avec une photographie publiable et une source officielle de marché joignable.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
