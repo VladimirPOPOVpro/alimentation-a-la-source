@@ -59720,3 +59720,13 @@ Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors ou
 **Point d'arrêt.** Passe suivante : Loire (42) à reprendre sur Roanne si une source officielle de la Ville (marchés, horaires) ou une photo sous licence libre est disponible ; sinon descente à Firminy (17 060 hab., aucune fiche), à traiter hors région Auvergne-Rhône-Alpes si la réserve de région le demande. Ne pas revenir en Auvergne-Rhône-Alpes avant la passe suivante (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (planifiée, mode 2 : Haute-Corse (2B) sondée, rien publié)
+
+Backlog vide. **Département retenu, règle 41** : le calcul de la population par département (geo.api.gouv.fr) donne en tête le Nord (59), déjà épuisé ; viennent ensuite la Haute-Garonne (31), dont Toulouse est déjà couverte et dont les communes suivantes sont instruites dans « Pistes non publiées », puis l'Oise (60), visée cette nuit. Les départements d'outre-mer (974, 971, 972, 973, 976, 987, 988) sont écartés par la règle 177 (`lib/validateMerchants.ts`). Le département de plus grand déficit métropolitain restant hors réserve est donc la Haute-Corse (2B), déficit d'environ 3,6.
+
+**Commune** : Bastia (20200) porte déjà deux fiches, elle n'est donc pas la commune la plus peuplée sans fiche ; la suivante est Borgo (10 311 habitants), non instruite à ce jour.
+
+**Registre de l'Agence Bio, Haute-Corse** : 745 opérateurs, lus en première page seulement. Aucune fiche n'a été tirée de cette liste sans source indépendante, et aucun nom n'est repris ici.
+
+**Conclusion** : aucune fiche vérifiée jusqu'au seuil de cinq commerces sur une même commune. Rien n'est publié, la base reste à 1 309 fiches. La passe suivante reprend Borgo, en commençant par le registre de l'Agence Bio paginé pour les communes 20290 et voisines, puis l'office de tourisme de la Haute-Corse.
