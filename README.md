@@ -59746,3 +59746,27 @@ Backlog vide. **Département retenu, règle 41** : le déficit le plus fort en m
 **Passe suivante** : reprendre Cambrai (Gosselet maraîcher, Biocambrésis) par le site de la ferme et le registre de l'Agence Bio paginé pour le Cambrésis ; reprendre Wattrelos seulement si la Ville publie un calendrier daté.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Haute-Garonne (31), descente à Castelginest : aucune publication)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (#13, Var, producteur) reste inchangée, aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 248.** Métropole seule, outre-mer exclu (règle 177). 1 309 fiches, populations `geo.api.gouv.fr`. Déficits les plus forts hors outre-mer : Nord (59, 4,66) et Haute-Corse (2B) écartés, visés aux deux passes précédentes ; Haute-Garonne (31, 3,93) retenue, la descente reprend à son point d'arrêt.
+
+**Commune, règle 248.** Blagnac, Muret, Plaisance-du-Touch, Balma, Castanet-Tolosan, Ramonville-Saint-Agne, L'Union, Saint-Gaudens, Saint-Orens-de-Gameville et Fonsorbes sont déjà éprouvées à zéro. Descente retenue : **Castelginest** (11 271 habitants).
+
+**Castelginest, ce qui tient.**
+- Registre de l'Agence Bio, Haute-Garonne (1 200 opérateurs lus sur les pages disponibles) : aucun opérateur situé à Castelginest n'apparaît.
+- Recherche web : une mention ancienne (guide de circuits courts de 2015) d'un marché de producteurs le samedi matin ; un site de calendrier de marchés indique un jour de marché sans le nommer ; aucun magasin bio ni point de vente à la ferme dans la commune. Les producteurs signalés sont des exploitations voisines, hors commune.
+
+**Vérifié.** Castelginest ne rend ni cinq commerces vérifiables, ni même un marché à horaires confirmés par une source officielle. Aucune fiche n'est ajoutée.
+
+**Pistes non publiées** (anonymes) : Castelginest (31), marché de producteurs du samedi, source ancienne (2015) et jour non confirmé ; Castelginest (31), aucun point de vente identifié à ce jour.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Haute-Garonne, descente à Saint-Jean (11 261 habitants) ou Villeneuve-Tolosane (11 044), en commençant par le site de la commune (rubrique marchés) puis l'office de tourisme. Ne pas revenir en Occitanie avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
