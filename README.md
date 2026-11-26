@@ -59955,3 +59955,31 @@ Backlog vide. **Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, 
 **Point d'arrêt.** Passe suivante hors Occitanie (règle 41.c). Si Seysses doit revenir, chercher l'office de tourisme qui couvre la commune pour atteindre la deuxième source officielle du marché.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (mode 2, Oise (60) : Nogent-sur-Oise sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ni en cours à traiter. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177 et 247.** Métropole seule, outre-mer exclu. Base : 1 309 fiches, populations `geo.api.gouv.fr`. Le Nord (59, déficit en tête) est écarté : la descente y a déjà éprouvé plus de douze communes sans succès, ce qui atteint la borne de la règle 247 ; la passe change de département. La Haute-Garonne, passe précédente, est écartée par la réserve de région (règle 41.c). Retenu : Oise (60, déficit ≈ 4,4), premier département du classement qui ne soit ni le Nord ni l'Occitanie.
+
+**Commune, règle 41.d.** Commune la plus peuplée de l'Oise sans aucune fiche : **Nogent-sur-Oise** (21 907 habitants).
+- Registre de l'Agence Bio, Oise (300 opérateurs lus) : une seule entrée à Nogent-sur-Oise, à nom de personne physique, écartée pour doute sur une personne. Rien n'est repris.
+- Site de la ville (nogentsuroise.fr) : les pages indexées ne donnent que des avis de marchés publics. Aucune page officielle à jour sur les commerçants des halles ni sur les horaires.
+- Le marché des halles est une délégation de service public (affermage, entrée en vigueur annoncée au 1er janvier 2026). Une présentation municipale ancienne parle de trois ouvertures par semaine (mardi, jeudi, samedi), sans date de mise à jour : source unique et ancienne, non publiable.
+- Annuaire participatif (jours-de-marche.fr) : deux marchés déclarés, sans jours ni horaires confirmés.
+- Plusieurs entrées d'annuaires de « halles et marchés » sont à nom de personnes physiques : écartées pour doute sur une personne, non nommées, non publiées.
+- Aucun magasin de producteurs ni magasin bio vérifiable à Nogent-sur-Oise dans les sources lues.
+
+**Descente, règle 41.d.** Une commune éprouvée : Nogent-sur-Oise. Suivantes par population dans l'Oise : Senlis (15 157 habitants), Crépy-en-Valois (14 351), Montataire (14 257), Méru (13 897). Senlis a été sondée à la marge : marché des mercredi et samedi matin, place Omer Vallon, source de l'office de tourisme datée d'environ 2021, non confirmée par la mairie ; une ferme productrice est listée à Rousseloy, hors commune. Pas assez pour cinq fiches.
+
+**Vérifié.** Aucune commune sondée ne rend cinq commerces vérifiables (horaires, produits, téléphone, photo). Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Nogent-sur-Oise (60), halles et marché municipal (délégation en cours, jours anciens, source unique) ; Nogent-sur-Oise (60), deux entrées d'annuaire à nom de personnes physiques, écartées pour doute sur une personne et non rouvertes ; Nogent-sur-Oise (60), magasin bio ou de producteurs non trouvé ; Senlis (60), marché du mercredi et du samedi, source de tourisme ancienne, non confirmée ; Rousseloy (60), ferme productrice hors commune, à rattacher à une autre passe si elle est confirmée.
+
+**Fiches écartées pour doute sur une personne.** Trois (Nogent-sur-Oise, entrées à nom de personnes physiques), non nommées, non publiées.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : poursuivre la descente de l'Oise à Senlis (règle 41.d, en priorisant les sources de la mairie de Senlis et de l'office de tourisme Chantilly-Senlis) ; si la descente atteint douze communes sans succès, la règle 247 fait changer de département au classement suivant.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
