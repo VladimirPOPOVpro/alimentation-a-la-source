@@ -59696,3 +59696,27 @@ Backlog vide. **Département retenu, règle 41** : le plus fort déficit hors ou
 **Point d'arrêt.** Passe suivante : Haute-Garonne à reprendre sur Plaisance-du-Touch ou sur Balma (17 772 hab.) si Muret reste sans cinq commerces. Ne pas revenir en Occitanie avant la passe suivante (règle 41.c). Déblocage de Muret : une réponse publique de la mairie ou une page officielle du magasin bio.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 26 novembre 2026 (planifiée, Loire (42) visée, Roanne sondée : rien publié)
+
+**Secteur, règles 41, 41.c et 177.** Métropole seule, outre-mer exclu (le validateur refuse les coordonnées hors métropole). 1 309 fiches, populations `geo.api.gouv.fr`. Déficits les plus forts hors outre-mer : Nord (59, 4,7), Haute-Garonne (31, 3,9), Oise (60, 3,8), Loire (42, 3,7). Le Nord et l'Oise (Hauts-de-France) sont écartés par la réserve de région, la passe précédente ayant visé l'Oise ; la Haute-Garonne est écartée de la même façon (passe de la nuit du 26 novembre). La Loire (Auvergne-Rhône-Alpes) est donc retenue.
+
+**Commune, règle 41.d.** Commune la plus peuplée de la Loire sans aucune fiche : **Roanne** (35 409 hab.). Saint-Étienne (7 fiches) et Saint-Chamond (1) ont déjà des fiches ; Roanne est visée.
+
+**Roanne, ce qui tient.**
+- **Marché de la place du Marché** : mardi et vendredi matin, attesté par l'office de tourisme du Roannais et par deux agrégateurs. Horaires contradictoires : 8 h-12 h 30 (Loire Tourisme) contre 8 h-13 h (agrégateur). Lieu identifié à la Base Adresse Nationale (0,966).
+- **Marché de la place Gabriel-Péri** : samedi et dimanche de 8 h à 12 h 30 (Loire Tourisme) ; un agrégateur ajoute le vendredi. Contradiction consignée (règle 5), jours non tranchés.
+- **Halles Diderot** (halle couverte, marché permanent) : existence attestée par l'office de tourisme du Roannais. Horaires (mardi à dimanche, 8 h-19 h) donnés par un seul agrégateur. Adresse contradictoire entre deux annuaires (rue Roger-Salengro d'un côté, rue Diderot de l'autre) ; point BAN place Diderot (0,958), à confirmer sur place.
+- **Enseignes de producteurs et de commerces** trouvées dans les sources : plusieurs portent un nom de fondateur ou de particulier ; écartées pour doute sur une personne, non publiées, non nommées.
+
+**Vérifié.** Roanne ne rend pas cinq fiches publiables : les marchés existent et sont attestés, mais aucune photographie ne peut être reprise sans droit. Les images que publie l'office de tourisme sont créditées à des photographes nommés, sans licence libre affichée ; Unsplash et Pexels sont bloqués depuis cet environnement, Wikimedia Commons exclu (attribution non gérée par le site), et aucune photo thématique de la commune sous licence libre n'a été trouvée. Sans photo, aucune fiche n'est publiée (une photo thématique reste le recours, règle 26).
+
+**Pistes non publiées** (anonymes) : Roanne (42), marché de la place du Marché, horaires contradictoires et photo sous droits ; Roanne (42), marché de la place Gabriel-Péri, jours contradictoires ; Roanne (42), halles couvertes, adresse contradictoire et horaires d'un seul agrégateur ; Roanne (42), deux boutiques d'enseigne portant un nom de fondateur, écartées pour doute sur une personne.
+
+**Fiches écartées pour doute sur une personne.** Deux (Roanne, enseignes au nom de fondateurs ou de particuliers), non nommées. Une troisième, au nom d'un établissement individuel de production, relève du même doute.
+
+**Contradictions consignées (règle 5).** Horaires du marché de la place du Marché (8 h-12 h 30 contre 8 h-13 h) ; jours du marché de la place Gabriel-Péri (samedi et dimanche contre vendredi, samedi et dimanche) ; adresse des Halles Diderot (deux rues). Aucune tranchée sans source supplémentaire.
+
+**Point d'arrêt.** Passe suivante : Loire (42) à reprendre sur Roanne si une source officielle de la Ville (marchés, horaires) ou une photo sous licence libre est disponible ; sinon descente à Firminy (17 060 hab., aucune fiche), à traiter hors région Auvergne-Rhône-Alpes si la réserve de région le demande. Ne pas revenir en Auvergne-Rhône-Alpes avant la passe suivante (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche ajoutée ; `data/`, images et code non touchés ; total inchangé : 1 309 fiches.
