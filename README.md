@@ -60356,3 +60356,25 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Lens reprise seulement si son site répond ou si une source de commerce concorde ; sinon descente vers Béthune, Lillers ou Harnes selon les règles 247 et 41.d.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Seine-et-Marne (77) : Meaux reprise au registre, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » à traiter ; la demande en_cours reste inchangée (doute sur une personne, voir les notes précédentes). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Région de la passe précédente, Hauts-de-France (Pas-de-Calais), écartée par la règle 41.c. Les départements en tête du classement (Nord, Haute-Garonne, Oise, Loire, Savoie, Hérault, Calvados, Corse, Seine-Saint-Denis, Calvados, Ille-et-Vilaine, Seine-Maritime) sont clos ; Haute-Marne et Loiret sont en veille. La Seine-et-Marne (77, Île-de-France, déficit ≈ 3,35) est retenue.
+
+**Commune, règle 41.d.** Meaux (56 905 habitants), la plus peuplée du 77 sans aucune fiche, déjà éprouvée aux passes précédentes.
+
+**Contrôles de cette passe.** `www.meaux.fr` ne répond toujours pas depuis cet environnement (code 000) : aucune page de la Ville n'est lue. Registre de l'Agence Bio, Seine-et-Marne, première page de cent opérateurs relue : à Meaux, un seul opérateur déclare la vente aux particuliers, une association d'insertion (restauration commerciale, pas un point de vente) ; les autres sont des grossistes ou des sièges. Une entrée déclarant la vente aux particuliers porte un nom de personne physique : écartée pour doute sur une personne, non nommée, non publiée.
+
+**Vérifié.** Aucune commune ne rend cinq commerces vérifiables dans cette passe. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Meaux (77), registre seul, aucun point de vente direct vérifiable ; déblocage : site de la Ville accessible, ou quatre commerces vérifiés sur une source propre.
+
+**Fiches écartées pour doute sur une personne.** Une, à Meaux (77) : entrée de vente aux particuliers à nom de personne physique. Non nommée, non publiée, ne se rouvre pas.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Meaux reste ouverte tant que la Ville ne répond pas, mais le registre ne fournit pas de quatre commerces. Descendre à Melun (45 995 habitants, sans fiche) en interrogeant d'abord le registre et la source de la commune, puis, si rien ne se confirme, Pontault-Combault (39 096) ; la règle 247 s'applique au-delà de douze communes éprouvées en 77.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
