@@ -60508,3 +60508,27 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Nord (59) reste le déficit le plus fort mais les communes les plus peuplées du 59 sont déjà fiches ou sondées sans résultat, et le registre ne livre pas de nouvelle piste solide ; la formule ne sort pas de cette boucle sans une relecture de la règle 41 par le responsable du site, déjà signalée aux passes des 26 et 27 novembre. Lambersart ne se reprend que si la Ville ou un producteur publie une adresse de vente directe vérifiable.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, 16 h (mode 1 puis mode 2, Haute-Garonne (31) : Muret sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (ajout, Var) reste inchangée.
+
+**Secteur.** Calcul de la règle 41 sur geo.api.gouv.fr (68,95 M d'habitants, 1 309 fiches comptées sur le code postal). Déficit le plus fort : Nord (59, ≈ 4,7), exclu car visé par la passe précédente (règle 41.c, même région 32). Haute-Garonne (31, ≈ 3,9, région 76) retenue. Commune la plus peuplée du 31 sans fiche : **Muret** (26 079 habitants).
+
+**Contradiction consignée (règle 5).** La section « Pistes non publiées à Toulouse » annonce 288 fiches en Haute-Garonne et un déficit de 6,15. Le décompte actuel de `data/marchands.json` sur le code postal donne 24 fiches pour le 31. Rien n'a été modifié pour cela ; le décompte est à reprendre avant la prochaine application de la règle 41.
+
+**Ce qui a été lu à Muret.**
+- Biocoop de Muret, boulevard de Joffrery : les annuaires (au-magasin, HappyCow) donnent des horaires contradictoires, saisis par les utilisateurs. Le registre des établissements indique l'établissement de ce boulevard **fermé** (état administratif F), l'autre établissement de l'enseigne étant à Longages. Non publié : un commerce fermé ne se liste pas.
+- Une entreprise de fruits et légumes à Muret (route d'Eaunes) : son siège est à Toulouse (marché d'intérêt national) et son activité déclarée est la restauration collective. Aucune source indépendante ne confirme un point de vente au public à Muret. Écartée.
+- Une supérette généraliste proposant quelques produits bio : hors sujet (commerce généraliste non certifié).
+- Une cagette de commande en ligne, boulevard Aristide-Briand, avec retrait le mardi : le nom de l'enseigne pourrait être celui d'une personne. Doute sur une personne, donc rien publié ; piste notée anonymement.
+- Marchés de plein air : l'annuaire participatif en recense trois sans les nommer ; une fiche touristique ne donne qu'un créneau (8 h à 13 h) sans jour ni lieu. Le site de la mairie n'a pas répondu (délai dépassé) et l'office de tourisme de l'agglomération a refusé l'accès. Rien publié faute de source officielle.
+- Les producteurs trouvés autour de Muret sont à 25 km et plus : hors de la commune. Le registre Agence Bio n'a pas été relu à Muret cette passe.
+
+**Fiches écartées pour doute sur une personne.** Aucune fiche publiable à Muret ; une piste anonyme (cagette en ligne) est notée ci-dessus.
+
+**Vérifié.** Aucune fiche ajoutée à Muret : moins de cinq commerces vérifiables. Base inchangée : 1 309 fiches.
+
+**Point d'arrêt.** Passe suivante : la formule désignera le département de plus grand déficit hors région 76 (Nord, 59, redevient possible : la passe précédente visait la région 32, celle-ci la région 76). Les communes du 31 sans fiche restent à sonder : Plaisance-du-Touch (21 079 habitants), Balma, Castanet-Tolosan. La mairie de Muret reste à consulter directement.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
