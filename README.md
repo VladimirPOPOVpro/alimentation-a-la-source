@@ -60400,3 +60400,25 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Béthune reprise seulement si une source municipale actuelle ou la fiche de l'office de tourisme confirme un marché récurrent ; sinon descente vers Lillers ou Harnes (règle 247, douze communes éprouvées dans le 62 avant borne).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Seine-Saint-Denis (93) : Drancy et Le Blanc-Mesnil sondées, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; aucune demande en cours touchée. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente portait sur le Pas-de-Calais (Hauts-de-France), région écartée par la règle 41.c. Clos ou épuisés : Nord (59), Haute-Garonne (31), Oise (60), Loire (42), Savoie (73), Haute-Corse (2B) et Calvados (14). Retenu : Seine-Saint-Denis (93, Île-de-France, région non visée la veille), déficit de tête une fois ces départements retirés.
+
+**Commune.** Les communes les plus peuplées du 93 sans fiche et non encore éprouvées : Drancy, puis Le Blanc-Mesnil. Noisy-le-Grand, Bobigny et Aulnay-sous-Bois l'avaient été aux passes précédentes.
+
+**Contrôles de cette passe.** Registre des entreprises, recherche « marché producteurs » à Le Blanc-Mesnil : aucun résultat. Recherche web sur Drancy : un annuaire participatif liste deux marchés sans jours ni horaires, et le journal municipal annonce un marché aux comestibles trois jours par semaine sans préciser lesquels ; aucun étal de producteurs identifié. Recherche web sur Le Blanc-Mesnil : la ville liste trois marchés alimentaires généralistes (étals non producteurs), dont les jours ne sont sourcés que par une publication de 2024 ; le salon des producteurs locaux, tenu une fois par an à la Ferme Notre-Dame, n'a de date connue que pour 2025, aucune pour 2026.
+
+**Vérifié.** Aucune commune ne rend cinq commerces vérifiables sur source indépendante et actuelle. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Le Blanc-Mesnil (93), salon annuel des producteurs locaux, dates 2025 seulement ; déblocage : date 2026 publiée par la ville, avec la liste des exposants. Le Blanc-Mesnil (93), trois marchés municipaux généralistes, jours sourcés en 2024 ; hors sujet tant que les étals producteurs ne sont pas nommés. Drancy (93), marché municipal récent sans jours publiés ; déblocage : jours et horaires publiés par la régie municipale.
+
+**Fiches écartées pour doute sur une personne.** Aucune identifiée cette passe.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Drancy ni Le Blanc-Mesnil avant une source municipale datée qui nomme des producteurs. Si la descente du 93 compte douze communes éprouvées (règle 247), le département est clos et la passe prend le suivant du classement, avec la réserve de la règle 41.c.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
