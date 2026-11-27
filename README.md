@@ -60336,3 +60336,23 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : ne pas reprendre le Loiret (Montargis et Saint-Jean-de-la-Ruelle closes) ni le Grand Est (règle 41.c). Le Seine-et-Marne reste ouvert au titre du déficit ; Chelles est reprise uniquement si une des pistes ci-dessus se débloque. Sinon, descendre à la commune suivante de 77 par population sans fiche, en interrogeant le registre d'abord.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026, 07 h (mode 2, Pas-de-Calais (62) : registre relu, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en_cours reste inchangée. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 247.** Le Pas-de-Calais reste le département ouvert de la descente, après les passes précédentes. Région de la passe précédente (Île-de-France et Centre) écartée par la règle 41.c.
+
+**Registre de l'Agence Bio, 62 (700 opérateurs lus sur sept pages de cent).** Carvin, Bruay-la-Buissière, Liévin, Billy-Montigny, Loison-sous-Lens et Courcelles-lès-Lens : aucun commerce de détail vérifiable. Lens : deux entrées déclarent la vente aux particuliers, sans source de commerce lisible ; elles ne sont pas publiées. Plusieurs entrées déclarant la vente aux particuliers sont à nom de personnes physiques : écartées pour doute sur une personne, non nommées.
+
+**Vérifié.** Aucune commune ne rend cinq commerces vérifiables dans cette passe. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Lens (62), deux entrées de vente aux particuliers sans source de commerce ; déblocage : une page officielle ou un site de commerce concordant. Carvin (62), entrée de vente aux particuliers à nom de personne physique, écartée.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, dans le Pas-de-Calais (entrées à nom de personnes physiques), non nommées, non publiées, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Lens reprise seulement si son site répond ou si une source de commerce concorde ; sinon descente vers Béthune, Lillers ou Harnes selon les règles 247 et 41.d.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
