@@ -60314,3 +60314,25 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : la Haute-Marne reste ouverte, Langres est reprise pour chercher les quatre autres commerces sur leur propre site et sur la page de la Ville. Si rien ne se confirme, la descente de Langres est close et la passe suivante change de département (règle 247) ; les Hauts-de-France restent écartés.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026, 05 h 45 (mode 2, Loiret (45) : Montargis et Saint-Jean-de-la-Ruelle épuisées au registre, Seine-et-Marne (77) sondée : rien publié)
+
+**Backlog.** Aucune demande « nouvelle » à traiter ; la demande en_cours reste inchangée (doute sur une personne, voir les notes précédentes). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Région de la passe précédente, Grand Est (Haute-Marne), écartée par la règle 41.c. Départements clos ou en veille repris de la passe du 27 novembre : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Calvados, Seine-Saint-Denis, Val-de-Marne, Yvelines, Vienne, Corse, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine, Seine-Maritime, Charente-Maritime. Le Pas-de-Calais (62) et la Seine-et-Marne (77) sont les plus forts déficits restants ; le Loiret (45, déficit ≈ 3,7) a été repris ici faute de réussir ailleurs.
+
+**Loiret (45), registre de l'Agence Bio relu en entier** (734 opérateurs, pages de cent). Montargis : quinze entrées, dont aucune ne vend au public un produit d'un producteur local identifiable ; une enseigne de grande surface, une grossiste, un artisan boulanger sans vente en direct recensée, un magasin spécialisé sans producteurs rattachés. Saint-Jean-de-la-Ruelle : aucune entrée qui vende au public un produit local ; les autres sont des grossistes, des professionnels ou des grandes surfaces. Ces deux communes restent sans fiche. Le Loiret est clos pour cette passe ; aucune autre commune du département n'a été relue faute de déblocage nommé (règle 247).
+
+**Seine-et-Marne (77), registre relu.** 359 entrées de vente aux consommateurs hors grandes surfaces dans le département. Chelles (77500) : une fiche déjà publiée (marché couvert) ; restent, en point de vente, un magasin bio d'un réseau coopératif (`magasin-bio` au même titre que les fiches déjà publiées), un magasin de vrac, et une entreprise viticole. Les autres entrées de Chelles sont des grandes surfaces, des grossistes, ou des entreprises individuelles sous patronyme, écartées pour doute sur une personne (non nommées). Chelles ne rend pas cinq commerces vérifiables : rien n'est publié.
+
+**Vérifié.** Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Chelles (77), magasin bio d'un réseau coopératif, boutique, registre concordant ; déblocage : quatre autres commerces vérifiés à Chelles. Chelles (77), magasin de vrac, registre et site propre concordants ; même déblocage. Chelles (77), entreprise viticole en vente directe, sous une enseigne à vérifier ; déblocage : confirmation de l'enseigne sur le site propre, sans doute sur une personne. Chelles (77), deux entreprises individuelles vendant au public, sous patronyme : écartées pour doute sur une personne, ne se rouvrent pas. Montargis (45), deux marchés hebdomadaires officiels, à publier dès que l'office de tourisme confirme les jours et que le groupe atteint cinq fiches (règles 9 et 96).
+
+**Fiches écartées pour doute sur une personne.** Deux, à Chelles (77) : entreprises individuelles vendant au public sous patronyme. Non nommées, non publiées, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : ne pas reprendre le Loiret (Montargis et Saint-Jean-de-la-Ruelle closes) ni le Grand Est (règle 41.c). Le Seine-et-Marne reste ouvert au titre du déficit ; Chelles est reprise uniquement si une des pistes ci-dessus se débloque. Sinon, descendre à la commune suivante de 77 par population sans fiche, en interrogeant le registre d'abord.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
