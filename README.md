@@ -60422,3 +60422,23 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : ne pas revenir sur Drancy ni Le Blanc-Mesnil avant une source municipale datée qui nomme des producteurs. Si la descente du 93 compte douze communes éprouvées (règle 247), le département est clos et la passe prend le suivant du classement, avec la réserve de la règle 41.c.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026, 10 h 45 (mode 2, Corse-du-Sud (2A) : Ajaccio reprise au registre, rien publié)
+
+**Backlog.** Une demande en_cours (n° 13, commune du Var, producteur) : elle reste en_cours, sans réponse envoyée. Le nom de l'enseigne peut désigner une personne et les coordonnées de contact sont privées ; rien n'est publié (règle de doute sur une personne, MODERATION.md). Aucune demande « nouvelle ». Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente portait sur la Seine-Saint-Denis (Île-de-France), région écartée par la règle 41.c. Outre-mer écarté (règle 177 : le validateur ne rend que la métropole). Clos ou en cours : Nord (59), Haute-Garonne (31), Oise (60), Loire (42), Savoie (73), Haute-Corse (2B), Calvados (14), Pas-de-Calais (62), Seine-Saint-Denis (93). Hérault (34), Vienne (86) et Ille-et-Vilaine (35) ont été éprouvés à de nombreuses passes. Retenu : Corse-du-Sud (2A, déficit ≈ 3,2, aucune fiche publiée, région non visée la veille).
+
+**Commune.** Ajaccio (76 320 habitants), commune la plus peuplée du 2A, déjà sondée en octobre ; reprise au registre de l'Agence Bio, Corse-du-Sud, 437 opérateurs parcourus. Les seules entrées d'Ajaccio sont des grossistes, une boulangerie, une grande surface, une torréfaction avec salon de dégustation, et une association de découverte de la nature (CPIE) : aucun producteur ou point de vente en circuit court exploitable. Les autres entrées du 2A en vente aux particuliers sont à Sartène, Propriano, Bonifacio et Porto-Vecchio, hors commune retenue ; les entrées au nom de personnes physiques sont écartées pour doute sur une personne, non nommées.
+
+**Vérifié.** Aucune commune ne rend cinq commerces vérifiables sur source indépendante et actuelle. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Villecroze (83), producteur de vente directe, demande n° 13 en_cours, nom d'enseigne pouvant désigner une personne, contact privé ; déblocage : une source publique qui atteste l'enseigne sans ambiguïté, ou une réponse de l'exploitant qui fournit une dénomination de société. Ajaccio (2A), aucune piste retenue hors registre.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, dans le 2A (entrées de vente aux particuliers au nom de personnes physiques), non nommées, non publiées, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Ajaccio avant une source municipale ou un office de tourisme qui nomme des producteurs. Le classement brut renvoie aux mêmes départements éprouvés : la règle 41 mérite une relecture par le responsable du site.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
