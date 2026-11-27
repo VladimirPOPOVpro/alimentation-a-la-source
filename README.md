@@ -60280,3 +60280,17 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Loiret toujours ouvert au titre de la descente, mais la passe ne le reprend pas (règle 41.c). Si le Loiret revient : confirmer les deux marchés par l'office de tourisme, puis chercher trois commerces ou producteurs vérifiables dans Montargis (registre Agence Bio, pages propres des fermes). Sinon descendre à Saint-Jean-de-la-Ruelle, sondée le 10 novembre.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Oise (60) : Crépy-en-Valois reprise, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ni « en_cours » à traiter. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 177, 224 et 247.** Métropole seule, dénominateur national, 1 309 fiches. Le Nord (59) est épuisé : treize communes éprouvées, au-delà de la borne de douze (règle 247). Région de la passe précédente : Centre-Val de Loire (Loiret), écartée ; le classement suivant est l'Oise (60, déficit 3,75).
+
+**Commune, règles 41.d et 247.** Crépy-en-Valois (14 351 habitants), déjà éprouvée aux passes d'octobre. Registre de l'Agence Bio relu pour l'Oise (614 opérateurs) : une seule entrée de Crépy vend au public, une enseigne de grande surface, écartée. La Ville publie deux marchés hebdomadaires, sans producteurs identifiés ; aucune photo libre.
+
+**Conclusion.** Aucune commune de l'Oise ne rend cinq commerces vérifiables. Rien n'est publié ; la base reste à 1 309 fiches.
+
+**Point d'arrêt.** L'Oise a déjà éprouvé cinq communes de plus de 10 000 habitants sans succès ; la descente approche la borne de la règle 247. Passe suivante : recalculer le classement (règle 41) sans reprendre le Nord ni l'Oise, et ne reprendre une commune éprouvée qu'avec un déblocage nommé.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
