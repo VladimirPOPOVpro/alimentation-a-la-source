@@ -60476,3 +60476,17 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Ain (01) reste ouvert. Valserhône est reprise seulement si la Ville ou l'office de tourisme confirme un marché de producteurs récurrent, ou si quatre autres commerces vérifiables sont trouvés ; sinon descente à Ambérieu-en-Bugey (15 934 habitants), après les règles 247 et 41.d. Ne pas reprendre Le Tram Paysan seul.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, 14 h (mode 2, Hérault (34) : Agde sondée, rien publié)
+
+**Secteur.** Backlog vide. Calcul de la règle 41 sur la population geo.api.gouv.fr (68,95 M d'habitants, 34 969 communes), métropole seule, 1 309 fiches comptées sur le code postal. Déficit le plus fort : Nord (59, ≈ 4,7), puis Haute-Garonne, Oise, Loire, Savoie, Haute-Corse, Calvados, Hérault (≈ 3,4). Écartés par la règle 41.c : Auvergne-Rhône-Alpes (Ain, passe précédente). Écartés comme épuisés ou déjà sondés aux passes précédentes : Nord, Haute-Garonne, Oise, Haute-Corse, Calvados, Vienne (Châtellerault sondée le 25 octobre et le 3 novembre). Retenu : **Hérault (34, Occitanie)**, commune la plus peuplée sans aucune fiche : **Agde** (29 939 habitants).
+
+**Ce qui a été lu cette passe.** Registre Agence Bio, Hérault : première page seulement (100 opérateurs sur 3 307 ; la pagination complète n'a pas été faite dans cette passe). Aucune entrée d'Agde à vendre aux particuliers dans cette page. Les notes précédentes sur Agde (passes de l'automne) relèvent les trois marchés de plein vent de la Ville et une criée du Grau d'Agde, sans fiche vérifiable de producteur. Aucune nouvelle source web n'a été ouverte cette passe.
+
+**Vérifié.** Rien de nouveau par rapport aux passes précédentes. Le groupement de cinq fiches sur une même commune n'est pas atteint. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Auvergne-Rhône-Alpes n'est pas permise (règle 41.c). Le classement brut renvoie toujours aux mêmes départements déjà sondés (Nord, Haute-Garonne, Oise) : la formule ne sort pas de cette boucle sans une relecture de la règle 41 par le responsable du site, déjà signalée aux passes du 26 et du 27 novembre. Pour Agde : pagination complète du registre Agence Bio avant toute autre source.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
