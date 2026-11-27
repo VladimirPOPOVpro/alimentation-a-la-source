@@ -60561,3 +60561,25 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Vérifié.** Aucune source indépendante ne rend cinq commerces vérifiables dans l'une ou l'autre commune. Le registre Agence Bio ne donne à Marcq-en-Barœul qu'un opérateur de particuliers à adresse non confirmée et des enseignes généralistes, à exclure. Les recherches ouvertes ne livrent que des annuaires non datés et des AMAP situées dans les communes voisines. Aucune fiche ajoutée ; base inchangée à 1 309 fiches.
 
 **Pistes non publiées** (anonymes) : Mons-en-Barœul (59), marchés recensés sur un annuaire non daté, aucun commerce confirmé ; déblocage : liste officielle des marchés de la commune. Marcq-en-Barœul (59), épicerie bio à enseigne de chaîne, hors cadre.
+
+### Passe du 27 novembre 2026, 18 h 45 (mode 2, Haute-Garonne (31) : Plaisance-du-Touch sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (ajout, Var) reste inchangée.
+
+**Secteur.** Règle 41 relue sur geo.api.gouv.fr (métropole, 68,95 M d'habitants, 1 309 fiches comptées sur le code postal). Déficit le plus fort : Nord (59, ≈ 4,7), exclu car visé par la passe précédente (région 32). Haute-Garonne (31, ≈ 3,9, région 76) retenue : elle n'a pas été visée à la passe qui précède immédiatement celle-ci. Commune la plus peuplée du 31 sans fiche : **Plaisance-du-Touch (21 079 habitants)**. Toulouse, Colomiers, Tournefeuille, Blagnac et Cugnaux ont déjà des fiches ; Muret a été sondée à la passe de 16 h.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Haute-Garonne : 300 opérateurs relus sur 2 854. À Plaisance-du-Touch, la plupart des entrées sont sans vente directe ou portent des noms de personnes physiques : écartées, non nommées, non publiées.
+- Registre des entreprises : une enseigne de magasin bio (activité 47.29Z, active) est au registre sous le nom d'une enseigne, mais aucune adresse de vente ni horaire vérifiable n'a pu être rattachée à un point de vente ouvert. Une autre entrée (47.11C) est une alimentation générale : hors cadre.
+- Recherche web : les annuaires donnent des horaires et des adresses contradictoires pour les magasins bio de la commune ; un des points de vente est signalé fermé en 2025 ; une enseigne figure au registre comme chaîne de magasins ; un restaurant bio n'est pas un commerce de la liste. Une fromagerie de la commune vend sur des marchés extérieurs et ne tient pas de point de vente sur place : écartée. Aucune AMAP identifiée.
+- Marché : l'annuaire participatif ne donne qu'un jour de marché, sans horaire, et recommande de contacter la mairie. Le site de la mairie n'a pas été consulté avec succès cette passe.
+
+**Pourquoi rien n'est publié.** Aucun commerce ne réunit une source indépendante récente, une activité confirmée et des horaires vérifiés. Une fiche sans horaires enverrait un visiteur devant une porte fermée.
+
+**Fiches écartées pour doute sur une personne.** Plaisance-du-Touch (31) : plusieurs entrées du registre Agence Bio et une fromagerie au nom de famille, non nommées, non publiées.
+
+**Contradictions consignées (règle 5).** Horaires et adresses des magasins bio de Plaisance-du-Touch contradictoires entre annuaires : non publiés.
+
+**Point d'arrêt.** Passe suivante : la règle 41 désignera le 59 (Hauts-de-France) ou le 31 selon la garde des régions. Communes du 31 à sonder : Balma (17 772 habitants), puis Castanet-Tolosan (15 317). La mairie de Plaisance-du-Touch reste à consulter directement.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
