@@ -60604,3 +60604,11 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Cette passe vise le Nord (59, Hauts-de-France). La passe suivante ne peut donc pas viser les Hauts-de-France (règle 41.c) : le classement passera au département suivant hors Nord. Si Wasquehal reste sous cinq fiches à la prochaine visite du Nord, la descente reprend à Halluin (20 715) puis Denain (20 665). Les pistes du Nord déjà sondées ne se rouvrent pas sans source nouvelle.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 27 novembre 2026 (20 h 45) : Haute-Garonne, Balma sondée, aucune fiche publiée
+
+Département retenu par le calcul du prorata de population (règle 41 de `AGENT.md`), après exclusion des départements ultramarins que `lib/validateMerchants.ts` ne accepte pas (hors France métropolitaine). Le Nord, sondé à la passe précédente, n'a pas été repris. Commune retenue : Balma, la plus peuplée de la Haute-Garonne encore sans fiche.
+
+- Registre Agence Bio (31) : trois opérateurs relevés à Balma, dont un négociant de gros en vin (écarté, règle de `MODERATION.md` sur le négoce) et une enseigne coopérative de vente au détail, non retenue faute de source indépendante vérifiée à ce jour.
+- Sources trouvées : un annuaire papier des circuits courts toulousains datant de 2015 (plusieurs AMAP domiciliées à Balma), des sites participatifs de type jours-de-marché et justacoté (informations non datées), un guide des commerçants de la mairie daté de 2021. Aucune de ces sources n'a suffi à établir qu'un point de vente est encore en activité à Balma.
+- Décision : aucune fiche publiée. Les AMAP de l'annuaire 2015 ne sont pas inscrites sans confirmation actuelle du réseau régional ou de la commune. La commune reste à reprendre avec la page « Marchés » du site de la mairie et le réseau des AMAP Midi-Pyrénées.
