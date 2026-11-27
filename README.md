@@ -60442,3 +60442,19 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : ne pas revenir sur Ajaccio avant une source municipale ou un office de tourisme qui nomme des producteurs. Le classement brut renvoie aux mêmes départements éprouvés : la règle 41 mérite une relecture par le responsable du site.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026 : Nord, Wattrelos sondée, aucune fiche publiée
+
+**Secteur.** Backlog vide. Calcul de la règle 41 sur la population INSEE/geo.api (68,95 M d'habitants, 34 969 communes), hors outre-mer. Le déficit le plus fort en métropole est le Nord (59) : 45 fiches publiées pour une part de population de 3,8 %. Le Var, la Corse-du-Sud (passe précédente) et les départements déjà éprouvés ne sont pas retenus. Commune la plus peuplée du 59 sans aucune fiche : Wattrelos (≈ 40 800 habitants).
+
+**Sources lues.** Registre Agence Bio, Nord : 800 opérateurs relus, aucun situé à Wattrelos. Jours-de-marche.fr : trois marchés listés, mais la page est antérieure à la fin des restrictions COVID et porte un avertissement de non-mise à jour. Un site de voyage (France-Voyage) donne trois marchés (Beaulieu, Centre, Mousserie) sans source municipale. Le site « wattrelos.fr » est un site commercial privé, non la mairie. Aucune Biocoop ni AMAP localisée à Wattrelos. Une exploitation maraîchère de Wattrelos apparaît sur un annuaire de producteurs, mais sans coordonnées ni dénomination vérifiées : piste non publiée.
+
+**Vérifié.** Aucun commerce de Wattrelos ne réunit une source indépendante et actuelle, ni les horaires vérifiés. Le repli sur Marcq-en-Barœul (sondé dans le même passage) ne rend pas davantage de fiches vérifiables : trois marchés sur un annuaire dont la date est incertaine, une AMAP de paniers bio sans adresse de point de distribution vérifiée. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Wattrelos (59), exploitation maraîchère en vente directe, nom d'exploitant pouvant désigner une personne physique, déblocage : une source de la commune ou de l'exploitant qui donne une dénomination sociale sans ambiguïté. Marcq-en-Barœul (59), AMAP de paniers bio, adresse de distribution non vérifiée.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : ne pas revenir sur Wattrelos avant un horaire municipal officiel ; le registre Agence Bio ne suffit pas pour cette commune. Le classement par déficit renvoie au Nord, qui reste à travailler sur une commune avec des sources publiques plus riches (Lille, Roubaix, Tourcoing, Dunkerque ont déjà des fiches).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
