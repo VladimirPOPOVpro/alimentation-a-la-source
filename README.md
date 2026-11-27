@@ -60553,3 +60553,11 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : le 31 reste écarté par la garde ; le 59 redevient le département de plus grand déficit. Commune à sonder dans le 93 si le 93 est repris : Bobigny (56 927 habitants), à lire dans le registre Agence Bio puis sur le site de la Ville. Les communes du 59 restent épuisées.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, 21 h (mode 2, Nord (59) : Mons-en-Barœul et Marcq-en-Barœul sondées, rien publié)
+
+**Secteur.** Règle 41 relue sur geo.api.gouv.fr : Nord (59) en tête du déficit métropolitain, région non visée à la passe précédente (Seine-Saint-Denis). Commune la plus peuplée sans fiche retenue : Mons-en-Barœul, puis Marcq-en-Barœul.
+
+**Vérifié.** Aucune source indépendante ne rend cinq commerces vérifiables dans l'une ou l'autre commune. Le registre Agence Bio ne donne à Marcq-en-Barœul qu'un opérateur de particuliers à adresse non confirmée et des enseignes généralistes, à exclure. Les recherches ouvertes ne livrent que des annuaires non datés et des AMAP situées dans les communes voisines. Aucune fiche ajoutée ; base inchangée à 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Mons-en-Barœul (59), marchés recensés sur un annuaire non daté, aucun commerce confirmé ; déblocage : liste officielle des marchés de la commune. Marcq-en-Barœul (59), épicerie bio à enseigne de chaîne, hors cadre.
