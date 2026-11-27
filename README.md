@@ -60458,3 +60458,21 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : ne pas revenir sur Wattrelos avant un horaire municipal officiel ; le registre Agence Bio ne suffit pas pour cette commune. Le classement par déficit renvoie au Nord, qui reste à travailler sur une commune avec des sources publiques plus riches (Lille, Roubaix, Tourcoing, Dunkerque ont déjà des fiches).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, ~11 h (mode 2, Ain (01) : Valserhône sondée, rien publié)
+
+**Secteur.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Région de la passe précédente, Hauts-de-France (Nord), écartée par la règle 41.c. Départements clos ou épuisés écartés (Nord, Haute-Garonne, Oise, Loire, Savoie, Haute-Corse, Calvados, Pas-de-Calais, Seine-Saint-Denis, Seine-et-Marne, Corse-du-Sud, Loiret, Haute-Marne, Gironde et autres). Retenu : **Ain (01, Auvergne-Rhône-Alpes, déficit ≈ 3,4)**, point d'arrêt de la passe du 27 novembre au titre de la descente.
+
+**Commune, règle 41.d.** Commune la plus peuplée de l'Ain sans aucune fiche : **Valserhône** (16 712 habitants).
+
+**Contrôles de cette passe.** Registre Agence Bio, Ain, trois pages de cent opérateurs relues : à Valserhône, la seule entrée qui vend aux particuliers et qui n'est pas une personne physique est un magasin de producteurs. Les autres entrées vendant aux particuliers portent des noms de personnes physiques : écartées pour doute sur une personne, non nommées, non publiées. Recherche web : le magasin de producteurs Le Tram Paysan (Valserhône) est confirmé par une source de réseau de consommation, et son registre des entreprises est actif (établissement ouvert). Adresse géocodée par la BAN (avenue du Maréchal de Lattre de Tassigny, 01200). Aucun marché de producteurs confirmé à Valserhône ni à Ambérieu-en-Bugey par une source municipale ou d'office de tourisme. Pour le Bugey, les points de vente vérifiables (Bugey Côté Fermes à Belley, Le Bocal à Saint-Sorlin-en-Bugey, la Ferme de Crépiat, la Ferme du Champ du Puits, la Chevrerie du Bugey, la Bergerie de Morgelas, GAEC La Grange des Plans) sont hors de la commune retenue : leur présence ne suffit pas à ouvrir un groupement sur Valserhône.
+
+**Vérifié.** Une fiche possible (Le Tram Paysan) ; le groupement de cinq fiches sur une même commune (règles 9 et 96) n'est pas atteint. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs entrées du registre à Valserhône et dans le voisinage, au nom de personnes physiques : écartées, non nommées, non publiées (commune : Valserhône, Divonne-les-Bains, Viriat, Meximieux).
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Ain (01) reste ouvert. Valserhône est reprise seulement si la Ville ou l'office de tourisme confirme un marché de producteurs récurrent, ou si quatre autres commerces vérifiables sont trouvés ; sinon descente à Ambérieu-en-Bugey (15 934 habitants), après les règles 247 et 41.d. Ne pas reprendre Le Tram Paysan seul.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
