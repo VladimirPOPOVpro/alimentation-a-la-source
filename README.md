@@ -60226,3 +60226,32 @@ Backlog : aucune demande « nouvelle ». Une demande reste « en_cours » (produ
 **Point d'arrêt.** Passe suivante : Gironde toujours ouverte (La Teste-de-Buch reprise sur les pages officielles de la Ville et de l'office de tourisme du bassin d'Arcachon) ; si rien ne se confirme, descendre à Gujan-Mestras (22 153 habitants) à partir des pistes ci-dessus. Ne pas revenir en Nouvelle-Aquitaine avant une autre région (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Haute-Marne (52) : Saint-Dizier et Chaumont sondées, rien publié)
+
+Backlog : aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne) : elle ne se publie pas en l'état. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c et 93.** Métropole seule, outre-mer exclu. 1 309 fiches, populations `geo.api.gouv.fr` relues ce jour. La passe précédente portait sur la Gironde (Nouvelle-Aquitaine), donc écartée (règle 41.c). Le Nord (59), en tête du déficit, est épuisé aux passes précédentes (règle 247) ; Haute-Garonne (31), Seine-Saint-Denis (93), Oise (60) et Yvelines (78) sont déjà sondées à plusieurs reprises. La Haute-Marne (52) n'a encore aucune fiche et n'a fait l'objet d'aucune passe : elle est retenue pour ce passage, sa commune la plus peuplée est Saint-Dizier (22 858 habitants), puis Chaumont (20 827).
+
+**Saint-Dizier (52), règles 41.d et 247.** Sources : site officiel de la Ville (page des Halles, marché couvert), site d'une maison de producteurs du centre-ville, annuaires et réseau AMAP.
+- Marché couvert : la page officielle de la Ville donne quatre jours (mercredi, jeudi, vendredi, samedi), mais elle est marquée comme archive, et un agenda de produits locaux donne mercredi et samedi seulement. Contradiction consignée (règle 5) : aucun horaire publié.
+- Maison de producteurs du centre-ville : site propre, adresse et téléphone publiés ; les horaires du mardi au vendredi sont illisibles sur la page (ligne non renseignée), à confirmer. Aucune photo utilisable : le logo du site est un fichier vectoriel, pas une photo du lieu. Une fiche à seul doute de fait et sans photo n'est pas publiée.
+- AMAP locale : fiche d'annuaire de 2021 seulement, jour de distribution non confirmé par le site de l'AMAP.
+- Magasin de producteurs bio : situé hors de la commune, dans un village voisin ; non retenu.
+
+**Chaumont (52), règles 41.d et 247.** Sources : site officiel des Halles, page de l'office régional Haute-Marne Attractivité, annuaires et réseau de vente directe.
+- Marché des Halles : le site officiel annonce un marché alimentaire le samedi matin ; l'office régional donne mercredi et samedi, avec des horaires qui diffèrent des agendas tiers. Contradiction consignée (règle 5) : aucun horaire publié.
+- Deux magasins bio et un magasin de producteurs de la commune : registre et vente aux particuliers à confirmer sur leur propre site ; un réseau de magasins bio de chaîne, écarté (commerce généraliste).
+- Exploitation maraîchère bio avec AMAP sur place : source unique, pas de confirmation de la ferme ; à sourcer.
+
+**Vérifié.** Aucune des deux communes ne rend cinq commerces vérifiables à une source indépendante. Aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Saint-Dizier (52), marché couvert, quatre jours annoncés par une page d'archive, contredits par un agenda ; déblocage : horaires publiés par la Ville hors archive. Saint-Dizier (52), maison de producteurs du centre-ville, horaires à confirmer, pas de photo du lieu ; déblocage : horaires lisibles et photo du magasin publiée par le commerce. Saint-Dizier (52), AMAP, fiche d'annuaire datée de 2021 ; déblocage : jour de distribution confirmé par l'AMAP. Chaumont (52), marché des Halles, horaires contradictoires entre site officiel et office régional ; déblocage : confirmation par la Ville. Chaumont (52), deux magasins bio et un magasin de producteurs, registre et vente directe à sourcer ; déblocage : pages propres des commerces. Chaumont (52), exploitation maraîchère avec AMAP, source unique ; déblocage : page propre de la ferme.
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Horaires du marché couvert de Saint-Dizier (archive de la Ville contre agenda tiers) ; horaires du marché des Halles de Chaumont (site officiel contre office régional et agendas tiers).
+
+**Point d'arrêt.** Passe suivante : Haute-Marne (52) reste ouverte, puisqu'elle n'a pas encore de fiche et que sa commune la plus peuplée n'a pas rendu cinq commerces. Reprendre Chaumont sur les pages propres des commerces et la page de la Ville pour les horaires des Halles. Ne pas revenir en Nouvelle-Aquitaine avant une autre région (règle 41.c).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
