@@ -60378,3 +60378,25 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Meaux reste ouverte tant que la Ville ne répond pas, mais le registre ne fournit pas de quatre commerces. Descendre à Melun (45 995 habitants, sans fiche) en interrogeant d'abord le registre et la source de la commune, puis, si rien ne se confirme, Pontault-Combault (39 096) ; la règle 247 s'applique au-delà de douze communes éprouvées en 77.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026, 08 h 45 (mode 2, Pas-de-Calais (62) : Béthune sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en_cours reste inchangée. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 247.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. La passe précédente visait l'Île-de-France (Seine-et-Marne), région écartée par la règle 41.c. Le Nord (59), en tête du déficit métropolitain, reste épuisé (règle 247). Retenu : Pas-de-Calais (62, Hauts-de-France, déficit ≈ 3,4), à reprendre à la commune suivante de la descente, Béthune (les communes de Carvin, Lens et Liévin ayant déjà été éprouvées).
+
+**Commune.** Béthune, commune la plus peuplée du 62 hors des communes éprouvées.
+
+**Contrôles de cette passe.** Site de la Ville (`bethune.fr`) lu : la rubrique « marchés » renvoie aux marchés publics (appels d'offres), pas aux marchés alimentaires ; aucun marché de producteurs n'y figure. Recherche web : un marché de produits locaux ponctuel (événement de Pentecôte d'une agenda 2019, non récurrent), un annuaire participatif de producteurs sans date de mise à jour, un service de drive en ligne. Registre des entreprises (recherche « marché » dans le 62) : aucun point de vente en circuit court exploitable à Béthune ; les entrées au nom de personnes physiques sont écartées pour doute sur une personne, non nommées.
+
+**Vérifié.** Aucune commune ne rend cinq commerces vérifiables sur source indépendante et actuelle. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Béthune (62), une ferme-accueil de vente directe signalée par un annuaire participatif, horaires non datés, site propre non confirmé ; déblocage : site de l'exploitation ou fiche de l'office de tourisme qui la confirme. Béthune (62), marché de produits locaux, événement ponctuel de 2019, non récurrent ; déblocage : une source municipale actuelle qui annonce un marché récurrent.
+
+**Fiches écartées pour doute sur une personne.** Plusieurs, dans le 62 (entrées de vente aux particuliers au nom de personnes physiques), non nommées, non publiées, ne se rouvrent pas.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Béthune reprise seulement si une source municipale actuelle ou la fiche de l'office de tourisme confirme un marché récurrent ; sinon descente vers Lillers ou Harnes (règle 247, douze communes éprouvées dans le 62 avant borne).
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
