@@ -60583,3 +60583,24 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : la règle 41 désignera le 59 (Hauts-de-France) ou le 31 selon la garde des régions. Communes du 31 à sonder : Balma (17 772 habitants), puis Castanet-Tolosan (15 317). La mairie de Plaisance-du-Touch reste à consulter directement.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe autonome du 27 novembre 2026, 19 h 45 (mode 2, Nord (59) : Wasquehal sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » ; la demande en_cours (ajout, Var) reste inchangée. Aucun email à envoyer.
+
+**Secteur, règle 41.** Métropole seule (outre-mer écarté, comme pour les passes précédentes : la validation refuse les coordonnées hors métropole), 1 309 fiches comptées sur le code postal. Déficit le plus fort : Nord (59, ≈ 4,7). La passe précédente visait la Haute-Garonne (31), donc le Nord est permis par la garde des régions. Commune la plus peuplée du 59 sans fiche : Wattrelos (40 847), sondée à de nombreuses passes sans horaires sourcés ; descente selon la règle : Marcq-en-Barœul (site de la Ville toujours injoignable), Cambrai (Biocoop et Bio C'Bon, horaires contestés, pas de cinquième source), Lambersart, Armentières, Mons-en-Barœul (aucune entrée au registre), Coudekerque-Branche, puis **Wasquehal (20 726)**, retenue pour cette passe.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Nord : 1 800 opérateurs relus, filtrés sur les adresses des communes de la descente. Wasquehal : deux enseignes bio de réseau (47.29Z, sans producteur ni source locale : règle 3, écartées ici faute de cinq fiches) et plusieurs entrées sans vente directe ou portant des noms de personnes physiques : écartées, non nommées, non publiées.
+- Recherche web (Wasquehal, marché et producteurs) : aucun horaire de marché sourcé ; un drive de circuit court avec points de retrait, sans horaires trouvés ; l'office de tourisme et la Ville n'ont pas donné de page exploitable cette passe.
+- Commune voisine relevée pour mémoire, non publiée : Haubourdin et Faches-Thumesnil ont des entrées de maraîchage en vente directe (01.13Z) sans horaires de vente trouvés ; une seule source (le Carnet des producteurs de la Métropole, non relu en détail).
+
+**Pourquoi rien n'est publié.** Aucune commune du Nord ne rend cinq fiches entières et vérifiées cette passe. Un horaire non sourcé ne se publie pas, et une fiche seule ne rend pas le groupe de cinq.
+
+**Fiches écartées pour doute sur une personne.** Wasquehal (59) : plusieurs entrées du registre Agence Bio au nom de personnes physiques, non nommées, non publiées.
+
+**Contradictions consignées (règle 5).** Aucune contradiction nouvelle à consigner. Horaires du marché de Wasquehal : à retrouver à la source officielle de la Ville, non consultée avec succès.
+
+**Point d'arrêt.** Cette passe vise le Nord (59, Hauts-de-France). La passe suivante ne peut donc pas viser les Hauts-de-France (règle 41.c) : le classement passera au département suivant hors Nord. Si Wasquehal reste sous cinq fiches à la prochaine visite du Nord, la descente reprend à Halluin (20 715) puis Denain (20 665). Les pistes du Nord déjà sondées ne se rouvrent pas sans source nouvelle.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
