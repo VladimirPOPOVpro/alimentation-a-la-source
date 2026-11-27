@@ -60532,3 +60532,24 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : la formule désignera le département de plus grand déficit hors région 76 (Nord, 59, redevient possible : la passe précédente visait la région 32, celle-ci la région 76). Les communes du 31 sans fiche restent à sonder : Plaisance-du-Touch (21 079 habitants), Balma, Castanet-Tolosan. La mairie de Muret reste à consulter directement.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, 20 h (mode 2, Seine-Saint-Denis (93) : Aulnay-sous-Bois sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». La demande en_cours (ajout, Var) reste inchangée.
+
+**Secteur.** Calcul de la règle 41 sur geo.api.gouv.fr (métropole seule, 66,72 M d'habitants, 1 309 fiches comptées sur le code postal). Outre-mer écarté (le validateur ne rend que la métropole). Le 59 reste en tête mais il est épuisé (voir les passes précédentes) ; la passe précédente visait le 31, qui est donc écarté par la garde des deux passes. Le suivant au classement, hors région 31, est le 93 (déficit ≈ 4,4). Commune : la plus peuplée sans fiche, **Aulnay-sous-Bois (87 599 habitants)** ; Saint-Denis, Montreuil, Aubervilliers, Saint-Ouen-sur-Seine et Pantin ont déjà des fiches.
+
+**Ce qui a été lu.**
+- Registre Agence Bio, Seine-Saint-Denis : 451 opérateurs relus sur les cinq pages de cent. À Aulnay-sous-Bois, une vingtaine d'entrées, dont la majorité sont de la distribution, des boulangeries, des grossistes ou de la grande distribution. Les entrées déclarant une vente aux particuliers sont des distributeurs ou des enseignes de magasins, sans producteur ni exploitation identifiable. Une enseigne de magasin bio fait partie d'un réseau de franchise : hors du cadre « magasin bio indépendant ». Plusieurs entrées portent des noms de personnes physiques : non nommées, non retenues.
+- Site officiel de la Ville : rubrique commerce et artisanat, sans liste de marchés ni de producteurs.
+- Recherche web : un annuaire participatif recense trois marchés à Aulnay-sous-Bois, sans jours ni horaires ; un calendrier d'événements mentionne des marchés sans jour ni horaire ; aucune AMAP, ferme ou producteur local n'est identifié dans la commune.
+
+**Pourquoi rien n'est publié.** Aucune source indépendante et récente ne donne un marché, une AMAP ou un producteur à Aulnay-sous-Bois avec des jours et horaires vérifiés. Publier les trois marchés de l'annuaire participatif reviendrait à inscrire des fiches sans horaires ni produits : une fiche qui enverrait un visiteur devant une porte fermée. La commune est sondée, sans fiche.
+
+**Fiches écartées pour doute sur une personne.** Aulnay-sous-Bois (93) : une entreprise individuelle du registre au nom d'une personne physique, non nommée, non retenue.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : le 31 reste écarté par la garde ; le 59 redevient le département de plus grand déficit. Commune à sonder dans le 93 si le 93 est repris : Bobigny (56 927 habitants), à lire dans le registre Agence Bio puis sur le site de la Ville. Les communes du 59 restent épuisées.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
