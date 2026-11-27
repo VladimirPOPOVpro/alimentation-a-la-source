@@ -60490,3 +60490,21 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** Passe suivante : Auvergne-Rhône-Alpes n'est pas permise (règle 41.c). Le classement brut renvoie toujours aux mêmes départements déjà sondés (Nord, Haute-Garonne, Oise) : la formule ne sort pas de cette boucle sans une relecture de la règle 41 par le responsable du site, déjà signalée aux passes du 26 et du 27 novembre. Pour Agde : pagination complète du registre Agence Bio avant toute autre source.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+### Passe du 27 novembre 2026, 15 h (mode 1 puis mode 2, Nord (59) : Lambersart sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle ». Une demande reste « en_cours » (ajout, Var (83), producteur, commune de Villecroze) : doute sur une personne dans le nom de l'enseigne, donc rien n'est publié et la demande n'a reçu aucun message. Ligne anonyme : Villecroze (83), producteur, demande en_cours, doute sur une personne. Déblocage : une source publique indépendante qui donne une dénomination d'entreprise sans ambiguïté.
+
+**Secteur.** Calcul de la règle 41 sur geo.api.gouv.fr (66,72 M d'habitants, 1 309 fiches comptées sur le code postal). Déficit le plus fort : Nord (59, ≈ 6,3), puis deux codes à 987 et 988 (Polynésie française et Nouvelle-Calédonie, hors métropole et hors périmètre de la carte, à corriger dans le calcul), puis Haute-Garonne. Nord retenu, et non Haute-Garonne, car la passe précédente visait l'Hérault. Commune la plus peuplée du 59 sans fiche : Wattrelos (sondée, bloquée), puis Marcq-en-Barœul (sondée, bloquée), puis **Lambersart** (27 090 habitants), reprise cette passe.
+
+**Ce qui a été lu.** Registre Agence Bio, Nord : 900 opérateurs relus sur les neuf pages de cent. À Lambersart, une seule entrée vend aux particuliers sous une dénomination d'entreprise (6H50) ; la recherche au registre des entreprises n'a rien rendu pour ce nom, donc elle n'est pas vérifiée. Les autres entrées de Lambersart sont des grossistes, des biscuiteries ou des entrées sans vente directe, ou portent des noms de personnes physiques : écartées pour doute sur une personne, non nommées, non publiées. Site de la Ville de Lambersart : seul un marché de Noël 2026 et un registre de marchés publics apparaissent, aucun marché de producteurs.
+
+**Vérifié.** Aucun commerce de Lambersart ne réunit une source indépendante, une activité confirmée et des horaires vérifiés. Aucune fiche ajoutée ; base inchangée : 1 309 fiches.
+
+**Fiches écartées pour doute sur une personne.** Lambersart (59) : plusieurs entrées du registre Agence Bio au nom de personnes physiques, non nommées.
+
+**Contradictions consignées (règle 5).** Aucune.
+
+**Point d'arrêt.** Passe suivante : Nord (59) reste le déficit le plus fort mais les communes les plus peuplées du 59 sont déjà fiches ou sondées sans résultat, et le registre ne livre pas de nouvelle piste solide ; la formule ne sort pas de cette boucle sans une relecture de la règle 41 par le responsable du site, déjà signalée aux passes des 26 et 27 novembre. Lambersart ne se reprend que si la Ville ou un producteur publie une adresse de vente directe vérifiable.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
