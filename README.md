@@ -60294,3 +60294,23 @@ La page du service Économie, Foires et Marchés confirme que la Ville gère ces
 **Point d'arrêt.** L'Oise a déjà éprouvé cinq communes de plus de 10 000 habitants sans succès ; la descente approche la borne de la règle 247. Passe suivante : recalculer le classement (règle 41) sans reprendre le Nord ni l'Oise, et ne reprendre une commune éprouvée qu'avec un déblocage nommé.
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026, 04 h 45 (mode 2, Haute-Marne (52) : Langres sondée, rien publié)
+
+**Backlog.** Aucune demande « nouvelle » à traiter ; la demande en_cours reste inchangée (doute sur une personne, voir les notes précédentes). Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 224.** Métropole seule, dénominateur national, 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Région de la passe précédente, Hauts-de-France (Oise), écartée par la règle 41.c ; le Nord et l'Oise sont épuisés (règle 247). La Loire, la Haute-Garonne et la Haute-Corse ont atteint leur borne ou sont closes. La Haute-Marne (52), Grand Est, déficit ≈ 3,20, n'a aucune fiche : elle est retenue. Sa commune la plus peuplée sans fiche est **Langres** (7 421 habitants), après Saint-Dizier et Chaumont, déjà éprouvées.
+
+**Registre Agence Bio, Haute-Marne relue.** Sur les opérateurs de Langres, un seul vend au public sans être une personne physique ; les autres entrées vendent aux professionnels, ne vendent pas au public, ou sont au nom de personnes physiques (non nommées, non publiées).
+
+**Sources retenues pour la boutique de produits locaux de la marque territoriale, place Diderot.** Site officiel de la marque : adresse 13 place Diderot, 52200 Langres, ouverte du mardi au samedi de 10 h à 19 h, téléphone publié par la boutique. Ces horaires sont recoupés par l'annuaire Que Choisir (magasin de produits locaux) et un article de décembre 2024. Registre des entreprises : l'association qui gère la boutique est active (code 94.99Z) ; le code ne qualifie pas la boutique elle-même, ce qui est consigné ici. Géocodage BAN : `[5.334065, 47.862482]`.
+
+**Ce qui bloque.** Une seule fiche est vérifiable à Langres. Une fiche isolée ne se publie pas : le groupement de cinq fiches sur une même commune est la règle (règles 9 et 96). Les marchés de Langres (marchés solidaires du premier mercredi, marché de Noël des 12 et 13 décembre, foire Sainte-Catherine) sont des événements : leurs horaires de vente et la liste des producteurs ne sont pas confirmés par une source propre. Le DEFIS de Langres, déjà écarté lors d'une passe antérieure, reste exclu.
+
+**Conclusion.** Langres ne rend pas cinq commerces vérifiables. Rien n'est publié ; la base reste à 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Langres (52), boutique de produits locaux, place Diderot, site officiel, registre et annuaire concordants ; déblocage : quatre autres commerces vérifiés à Langres. Langres (52), marchés solidaires du premier mercredi, source d'agenda seule ; déblocage : page de la Ville ou de l'organisateur. Chaumont (52), magasin de producteurs, horaires non trouvés dans les sources ; déblocage : page propre du magasin.
+
+**Point d'arrêt.** Passe suivante : la Haute-Marne reste ouverte, Langres est reprise pour chercher les quatre autres commerces sur leur propre site et sur la page de la Ville. Si rien ne se confirme, la descente de Langres est close et la passe suivante change de département (règle 247) ; les Hauts-de-France restent écartés.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
