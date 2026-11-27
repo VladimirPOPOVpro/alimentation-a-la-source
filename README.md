@@ -60255,3 +60255,28 @@ Backlog : aucune demande « nouvelle ». Une demande reste « en_cours » (doute
 **Point d'arrêt.** Passe suivante : Haute-Marne (52) reste ouverte, puisqu'elle n'a pas encore de fiche et que sa commune la plus peuplée n'a pas rendu cinq commerces. Reprendre Chaumont sur les pages propres des commerces et la page de la Ville pour les horaires des Halles. Ne pas revenir en Nouvelle-Aquitaine avant une autre région (règle 41.c).
 
 **Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
+
+## Passe autonome du 27 novembre 2026 (mode 2, Loiret (45) : Montargis reprise sur la source de la Ville, deux marchés confirmés, rien publié)
+
+Backlog : aucune demande « nouvelle ». Une demande reste « en_cours » (doute sur une personne) : elle ne se publie pas en l'état. Aucun email envoyé.
+
+**Secteur, règles 41, 41.c, 93, 177 et 224.** Métropole seule, dénominateur national (outre-mer compris, règle 224), 1 309 fiches comptées sur le code postal, populations `geo.api.gouv.fr`. Réserve 41.c : la passe précédente visait la Haute-Marne (Grand Est), région exclue. Clos ou en veille : Nord, Haute-Garonne, Oise, Loire, Isère, Savoie, Hérault, Calvados, Seine-Saint-Denis, Val-de-Marne, Yvelines, Vienne, Corse, Alpes-de-Haute-Provence, Eure-et-Loir, Landes, Ille-et-Vilaine, Seine-Maritime, Charente-Maritime. Retenu : Loiret (45, Centre-Val de Loire, déficit ≈ 3,1), premier département ouvert hors Grand Est ; descente déjà ouverte.
+
+**Commune, règle 41.d.** Olivet épuisée (passe précédente). Montargis (14 825 habitants) reste la commune suivante sans fiche ; elle est reprise ici sur les pages officielles de la Ville, que la passe du 26 novembre n'avait pas lues.
+
+**Montargis, source officielle de la Ville (page « 2 marchés par semaine », rubrique Liens utiles).** Deux marchés hebdomadaires confirmés :
+- marché de la Place Girodet, chaque mercredi matin, environ soixante-dix exposants, tous produits (alimentaire, produits locaux, artisanat, vêtements) ;
+- marché du Boulevard des Belles Manières, chaque samedi matin, environ quarante exposants, tous produits dont alimentaire et produits locaux.
+La page du service Économie, Foires et Marchés confirme que la Ville gère ces deux marchés hebdomadaires ; elle ne donne pas d'horaires de fin. Le registre de l'Agence Bio n'a pas été relu pour cette passe.
+
+**Vérifié.** Deux marchés, par une source officielle de la commune, avec jour et lieu. La règle 9 demande une seconde source (office de tourisme) pour publier un marché seul, et la règle 96 demande cinq commerces vérifiables pour une commune : aucune fiche ajoutée. Base inchangée : 1 309 fiches.
+
+**Pistes non publiées** (anonymes) : Montargis (45), deux marchés hebdomadaires officiels (mercredi place Girodet, samedi boulevard des Belles Manières), à publier dès que l'office de tourisme confirme les jours et que le groupe atteint cinq fiches (règles 9 et 96) ; Montargis (45), marché du samedi relevé sur un agenda non officiel, désormais recouvert par la source de la Ville ; Montargis et environs (45), vente à la ferme de fruits et confitures, annuaire seul, sans site propre ; Montargis (45), magasin bio d'enseigne nationale, non retenu (commerce généraliste sans producteurs locaux à rattacher).
+
+**Fiches écartées pour doute sur une personne.** Aucune cette passe.
+
+**Contradictions consignées (règle 5).** Aucune : la page de la Ville et sa page de service concordent sur les deux marchés.
+
+**Point d'arrêt.** Passe suivante : Loiret toujours ouvert au titre de la descente, mais la passe ne le reprend pas (règle 41.c). Si le Loiret revient : confirmer les deux marchés par l'office de tourisme, puis chercher trois commerces ou producteurs vérifiables dans Montargis (registre Agence Bio, pages propres des fermes). Sinon descendre à Saint-Jean-de-la-Ruelle, sondée le 10 novembre.
+
+**Publication.** Seule cette note est ajoutée au README ; aucune fiche, image, donnée ni code touchés ; total inchangé : 1 309 fiches.
